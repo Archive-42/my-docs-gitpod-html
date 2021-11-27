@@ -294,7 +294,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -324,7 +324,7 @@ Netlify
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc4LTQ0MDVfIiBjbGFzcz0ici1oN2dkb2Igci0xMHB0dW43IHItMXZ6aTh4aSIgc3R5bGU9IndpZHRoOjE2cHgiPjxwYXRoIGQ9Ik05IDE4bDYtNi02LTYiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -366,7 +366,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -424,7 +424,7 @@ Powered By <span class="css-901oao css-16my406 r-b88u0q">GitBook</span>
 
 Postman
 
-# 
+#
 
 <span key="90ef8702890344109c40a842817c4c0f"><span offset-key="90ef8702890344109c40a842817c4c0f:0">Introduction</span></span>
 
@@ -438,185 +438,185 @@ Postman
 
 <span key="ec42f0efd0fc4a508f40e870b6758f62"><span offset-key="ec42f0efd0fc4a508f40e870b6758f62:0">If you're just starting to learn about APIs and Postman, you can use a variety of channels both in and outside Postman:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="0f7fb55cdf0f4549bc34fb188c851b90"><span offset-key="0f7fb55cdf0f4549bc34fb188c851b90:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/getting-started/sending-the-first-request/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4493aa83abb045fab7ac9ee57ecd2991" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="0e215df690a24ae0a48c3f47fbc2f2d9"><strong>Send your first request!</strong></span></span></a><span key="b5c92eebac8147e49506c21f5ac7598d"><span offset-key="b5c92eebac8147e49506c21f5ac7598d:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="0f7fb55cdf0f4549bc34fb188c851b90"><span offset-key="0f7fb55cdf0f4549bc34fb188c851b90:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/getting-started/sending-the-first-request/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4493aa83abb045fab7ac9ee57ecd2991" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="0e215df690a24ae0a48c3f47fbc2f2d9"><strong>Send your first request!</strong></span></span></a><span key="b5c92eebac8147e49506c21f5ac7598d"><span offset-key="b5c92eebac8147e49506c21f5ac7598d:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="abec9f8dd4214ce6aa2ccf8190375d7a"><span offset-key="abec9f8dd4214ce6aa2ccf8190375d7a:0">Use the </span>**Bootcamp**<span offset-key="abec9f8dd4214ce6aa2ccf8190375d7a:2"> to work through lessons inside Postman—open it at the bottom right of the app.</span></span>
+  <span key="abec9f8dd4214ce6aa2ccf8190375d7a"><span offset-key="abec9f8dd4214ce6aa2ccf8190375d7a:0">Use the </span>**Bootcamp**<span offset-key="abec9f8dd4214ce6aa2ccf8190375d7a:2"> to work through lessons inside Postman—open it at the bottom right of the app.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="a429fdc4fad648f5a0db8b82fd70ae66"><span offset-key="a429fdc4fad648f5a0db8b82fd70ae66:0">Explore </span></span><a href="https://www.postman.com/explore" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="52459893d5aa432b81bc1cc442b5cace" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="ba8d010f69ff4631b630a4de9956db51"><span data-offset-key="ba8d010f69ff4631b630a4de9956db51:0">workspaces, collections, and more</span></span></span></a><span key="2b233de511714165ab5f08aa7738a66b"><span offset-key="2b233de511714165ab5f08aa7738a66b:0"> that you can try out inside Postman, like the following:</span></span>
+  <span key="a429fdc4fad648f5a0db8b82fd70ae66"><span offset-key="a429fdc4fad648f5a0db8b82fd70ae66:0">Explore </span></span><a href="https://www.postman.com/explore" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="52459893d5aa432b81bc1cc442b5cace" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="ba8d010f69ff4631b630a4de9956db51"><span data-offset-key="ba8d010f69ff4631b630a4de9956db51:0">workspaces, collections, and more</span></span></span></a><span key="2b233de511714165ab5f08aa7738a66b"><span offset-key="2b233de511714165ab5f08aa7738a66b:0"> that you can try out inside Postman, like the following:</span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="f56ac2270b7d4a65bdc83c872798c2dd"><span offset-key="f56ac2270b7d4a65bdc83c872798c2dd:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.postman.com/postman/workspace/published-postman-templates/collection/9065401-ff29b3be-af69-4442-91e0-c1158b620fc2?ctx=documentation" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a996f8d7ce344fe190d5df27d716e9d8" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="c835dd509129423d9336506aae655272"><strong>Learn by API</strong></span></span></a><span key="011c0d5c8ced4e50bd424494aa50821e"><span offset-key="011c0d5c8ced4e50bd424494aa50821e:0">–walk through beginner API concepts.</span></span>
+    <span key="f56ac2270b7d4a65bdc83c872798c2dd"><span offset-key="f56ac2270b7d4a65bdc83c872798c2dd:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.postman.com/postman/workspace/published-postman-templates/collection/9065401-ff29b3be-af69-4442-91e0-c1158b620fc2?ctx=documentation" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a996f8d7ce344fe190d5df27d716e9d8" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="c835dd509129423d9336506aae655272"><strong>Learn by API</strong></span></span></a><span key="011c0d5c8ced4e50bd424494aa50821e"><span offset-key="011c0d5c8ced4e50bd424494aa50821e:0">–walk through beginner API concepts.</span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="3df20f1025e24629a2cc2a4ee4f825d7"><span offset-key="3df20f1025e24629a2cc2a4ee4f825d7:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.postman.com/postman/workspace/postman-galaxy-training/overview" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="69e9a8bb09c24bd98774584949fe65ba" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="f8ad33d8ef884ebc965ae81e3cc16058"><strong>Postman Training</strong></span></span></a><span key="dcbaf103aefc4152a988433d391a705c"><span offset-key="dcbaf103aefc4152a988433d391a705c:0">–Learn APIs 101, Testing and Automation, API Adoption, and API First, earning </span></span><a href="https://badgr.com/public/issuers/BC0x4AQaQPC7lFilsBP_tQ/badges" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="27eec3ad785b4ba998039206968d3fe5" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="360ddfeb90724513befccbe34dd9d6fc"><span data-offset-key="360ddfeb90724513befccbe34dd9d6fc:0">Postman badges</span></span></span></a><span key="b58472d704cd4eab908a455808df348d"><span offset-key="b58472d704cd4eab908a455808df348d:0">.</span></span>
+    <span key="3df20f1025e24629a2cc2a4ee4f825d7"><span offset-key="3df20f1025e24629a2cc2a4ee4f825d7:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.postman.com/postman/workspace/postman-galaxy-training/overview" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="69e9a8bb09c24bd98774584949fe65ba" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="f8ad33d8ef884ebc965ae81e3cc16058"><strong>Postman Training</strong></span></span></a><span key="dcbaf103aefc4152a988433d391a705c"><span offset-key="dcbaf103aefc4152a988433d391a705c:0">–Learn APIs 101, Testing and Automation, API Adoption, and API First, earning </span></span><a href="https://badgr.com/public/issuers/BC0x4AQaQPC7lFilsBP_tQ/badges" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="27eec3ad785b4ba998039206968d3fe5" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="360ddfeb90724513befccbe34dd9d6fc"><span data-offset-key="360ddfeb90724513befccbe34dd9d6fc:0">Postman badges</span></span></span></a><span key="b58472d704cd4eab908a455808df348d"><span offset-key="b58472d704cd4eab908a455808df348d:0">.</span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="ba9f8d81cb90410c99dd10e67d1cf97e"><span offset-key="ba9f8d81cb90410c99dd10e67d1cf97e:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.postman.com/postman/workspace/postman-student-program/overview" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fe43ebe4d9f54532aea5602202e19a49" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="8053210160484b9681ee4c4ebf155ca6"><strong>Student Program</strong></span></span></a><span key="3a20fc6be2f94204bd644bcacd8b9d84"><span offset-key="3a20fc6be2f94204bd644bcacd8b9d84:0">–Take the Student Expert training, covering request configurations and test scripting.</span></span>
+    <span key="ba9f8d81cb90410c99dd10e67d1cf97e"><span offset-key="ba9f8d81cb90410c99dd10e67d1cf97e:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.postman.com/postman/workspace/postman-student-program/overview" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fe43ebe4d9f54532aea5602202e19a49" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="8053210160484b9681ee4c4ebf155ca6"><strong>Student Program</strong></span></span></a><span key="3a20fc6be2f94204bd644bcacd8b9d84"><span offset-key="3a20fc6be2f94204bd644bcacd8b9d84:0">–Take the Student Expert training, covering request configurations and test scripting.</span></span>
 
-## 
+##
 
 <span key="876e35dca0c543279e9bbd43d8c94fe6"><span offset-key="876e35dca0c543279e9bbd43d8c94fe6:0">What are you here to learn about?</span></span>
 
 <span key="456ef28796fe4fd3ad45972635a03408"><span offset-key="456ef28796fe4fd3ad45972635a03408:0">If you're learning to carry out a specific task or workflow in Postman, check out the following topics to find resources:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="07ddf378f7144526ad1b027f7c70e5cb"><span offset-key="07ddf378f7144526ad1b027f7c70e5cb:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/getting-started/introduction/#making-requests" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7f14d3e683774d148d36ffc6b3ad281f" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="ac9cd38454e44d42a4e3ba3741fe10a2"><strong>Making requests</strong></span></span></a><span key="47cd5144766b40db95d528d9763ed26a"><span offset-key="47cd5144766b40db95d528d9763ed26a:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="07ddf378f7144526ad1b027f7c70e5cb"><span offset-key="07ddf378f7144526ad1b027f7c70e5cb:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/getting-started/introduction/#making-requests" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7f14d3e683774d148d36ffc6b3ad281f" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="ac9cd38454e44d42a4e3ba3741fe10a2"><strong>Making requests</strong></span></span></a><span key="47cd5144766b40db95d528d9763ed26a"><span offset-key="47cd5144766b40db95d528d9763ed26a:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="6ed055e7d3404bc487eaf79257ec8ba9"><span offset-key="6ed055e7d3404bc487eaf79257ec8ba9:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/getting-started/introduction/#testing-apis" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b937adc24385450daff0a0a0b22d0f03" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="7254cc0c349c486abbcb0c45984f0093"><strong>Testing APIs</strong></span></span></a><span key="c8a36fe8f6204a41b81054c1eb896272"><span offset-key="c8a36fe8f6204a41b81054c1eb896272:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="6ed055e7d3404bc487eaf79257ec8ba9"><span offset-key="6ed055e7d3404bc487eaf79257ec8ba9:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/getting-started/introduction/#testing-apis" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b937adc24385450daff0a0a0b22d0f03" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="7254cc0c349c486abbcb0c45984f0093"><strong>Testing APIs</strong></span></span></a><span key="c8a36fe8f6204a41b81054c1eb896272"><span offset-key="c8a36fe8f6204a41b81054c1eb896272:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="dcf18a2ccd0941c0bcf60ec553cb15f5"><span offset-key="dcf18a2ccd0941c0bcf60ec553cb15f5:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/getting-started/introduction/#building-and-managing-apis" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b86fdd82bbb74e61a2b898484ae28b68" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="c54cbdcdc3f04799938717aa006eb501"><strong>Building and managing APIs</strong></span></span></a><span key="08023793a0a84a9ab1d05323b897d587"><span offset-key="08023793a0a84a9ab1d05323b897d587:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="dcf18a2ccd0941c0bcf60ec553cb15f5"><span offset-key="dcf18a2ccd0941c0bcf60ec553cb15f5:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/getting-started/introduction/#building-and-managing-apis" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b86fdd82bbb74e61a2b898484ae28b68" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="c54cbdcdc3f04799938717aa006eb501"><strong>Building and managing APIs</strong></span></span></a><span key="08023793a0a84a9ab1d05323b897d587"><span offset-key="08023793a0a84a9ab1d05323b897d587:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="42c4617736904a9f83866e99a7b61529"><span offset-key="42c4617736904a9f83866e99a7b61529:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/getting-started/introduction/#publishing-apis" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="09e97b6a64674bafbd41871ff08f5790" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="9190c28f305540588fd70d5625c6cb91"><strong>Publishing APIs</strong></span></span></a><span key="5a8e2b49a446471dbd04330c7f843084"><span offset-key="5a8e2b49a446471dbd04330c7f843084:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="42c4617736904a9f83866e99a7b61529"><span offset-key="42c4617736904a9f83866e99a7b61529:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/getting-started/introduction/#publishing-apis" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="09e97b6a64674bafbd41871ff08f5790" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="9190c28f305540588fd70d5625c6cb91"><strong>Publishing APIs</strong></span></span></a><span key="5a8e2b49a446471dbd04330c7f843084"><span offset-key="5a8e2b49a446471dbd04330c7f843084:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="83225b60c84949589c7750ff015de232"><span offset-key="83225b60c84949589c7750ff015de232:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/getting-started/introduction/#collaborating-with-your-team" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="21d06431e1fd4f09a66f2e7708f166f5" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="37aa164b458642708d7dad7344f7eb4d"><strong>Collaborating with your team</strong></span></span></a><span key="d91c33ae87924216a244bc89107bc8ca"><span offset-key="d91c33ae87924216a244bc89107bc8ca:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="83225b60c84949589c7750ff015de232"><span offset-key="83225b60c84949589c7750ff015de232:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/getting-started/introduction/#collaborating-with-your-team" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="21d06431e1fd4f09a66f2e7708f166f5" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="37aa164b458642708d7dad7344f7eb4d"><strong>Collaborating with your team</strong></span></span></a><span key="d91c33ae87924216a244bc89107bc8ca"><span offset-key="d91c33ae87924216a244bc89107bc8ca:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="bd1b83011fed409cacc9f50d7cb11c1b"><span offset-key="bd1b83011fed409cacc9f50d7cb11c1b:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/getting-started/introduction/#developing-with-postman" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="60267e1dc92f446ca663d8c3c936d569" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="aa342d5c33b64115bece20abc2718503"><strong>Developing with Postman</strong></span></span></a><span key="630ccb272f54447897c69cfa447a6c4d"><span offset-key="630ccb272f54447897c69cfa447a6c4d:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="bd1b83011fed409cacc9f50d7cb11c1b"><span offset-key="bd1b83011fed409cacc9f50d7cb11c1b:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/getting-started/introduction/#developing-with-postman" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="60267e1dc92f446ca663d8c3c936d569" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="aa342d5c33b64115bece20abc2718503"><strong>Developing with Postman</strong></span></span></a><span key="630ccb272f54447897c69cfa447a6c4d"><span offset-key="630ccb272f54447897c69cfa447a6c4d:0"><span slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span key="d7fa1b3ef6c64a1b97826f4270157f39"><span offset-key="d7fa1b3ef6c64a1b97826f4270157f39:0">Making requests</span></span>
 
 <span key="38a6ae56b70142b4b80b1255c9141a69"><span offset-key="38a6ae56b70142b4b80b1255c9141a69:0">If you're building a client app or just need to connect to an API, check out some Postman essentials:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="3edebca973cc44a0b1336428c497ee7a"><span offset-key="3edebca973cc44a0b1336428c497ee7a:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/sending-requests/requests/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b596a08f60e748cdaadd9503771dc21f" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="a730cb6b9a274a19b34928944604bba1"><span data-offset-key="a730cb6b9a274a19b34928944604bba1:0">Connecting to APIs</span></span></span></a><span key="7c3bb8aed72b44d18a0a91fc09982f26"><span offset-key="7c3bb8aed72b44d18a0a91fc09982f26:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="3edebca973cc44a0b1336428c497ee7a"><span offset-key="3edebca973cc44a0b1336428c497ee7a:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/sending-requests/requests/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b596a08f60e748cdaadd9503771dc21f" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="a730cb6b9a274a19b34928944604bba1"><span data-offset-key="a730cb6b9a274a19b34928944604bba1:0">Connecting to APIs</span></span></span></a><span key="7c3bb8aed72b44d18a0a91fc09982f26"><span offset-key="7c3bb8aed72b44d18a0a91fc09982f26:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="74c67872e3be408bb08f080e67c0390a"><span offset-key="74c67872e3be408bb08f080e67c0390a:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/sending-requests/authorization/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1fb9dd6c03144eafa1e4b4c9643e0467" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="12c6ef7462da48bd93fac92c707e5ee1"><span data-offset-key="12c6ef7462da48bd93fac92c707e5ee1:0">Authorizing requests</span></span></span></a><span key="6f9b4f9fd9d148469942d26cd6eb5567"><span offset-key="6f9b4f9fd9d148469942d26cd6eb5567:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="74c67872e3be408bb08f080e67c0390a"><span offset-key="74c67872e3be408bb08f080e67c0390a:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/sending-requests/authorization/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1fb9dd6c03144eafa1e4b4c9643e0467" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="12c6ef7462da48bd93fac92c707e5ee1"><span data-offset-key="12c6ef7462da48bd93fac92c707e5ee1:0">Authorizing requests</span></span></span></a><span key="6f9b4f9fd9d148469942d26cd6eb5567"><span offset-key="6f9b4f9fd9d148469942d26cd6eb5567:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="8d81d252c5384fa891d687e15cf03851"><span offset-key="8d81d252c5384fa891d687e15cf03851:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/sending-requests/intro-to-collections/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="99b4319f81e64cd69f911efbcbd72a47" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="530f926e08c042c48fe32fb409b4469d"><span data-offset-key="530f926e08c042c48fe32fb409b4469d:0">Grouping requests in collections</span></span></span></a><span key="ec5602a3f34f4208b3925940632f0bc3"><span offset-key="ec5602a3f34f4208b3925940632f0bc3:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="8d81d252c5384fa891d687e15cf03851"><span offset-key="8d81d252c5384fa891d687e15cf03851:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/sending-requests/intro-to-collections/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="99b4319f81e64cd69f911efbcbd72a47" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="530f926e08c042c48fe32fb409b4469d"><span data-offset-key="530f926e08c042c48fe32fb409b4469d:0">Grouping requests in collections</span></span></span></a><span key="ec5602a3f34f4208b3925940632f0bc3"><span offset-key="ec5602a3f34f4208b3925940632f0bc3:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="156360a251b847ee8355911f8deff975"><span offset-key="156360a251b847ee8355911f8deff975:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/sending-requests/variables/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8946c8901d2c43d9ae955dbe647d865b" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="f433e3fd563647a597fdac30a2b355e4"><span data-offset-key="f433e3fd563647a597fdac30a2b355e4:0">Using variables</span></span></span></a><span key="b2e37795387448f78eefd9a6602320c1"><span offset-key="b2e37795387448f78eefd9a6602320c1:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="156360a251b847ee8355911f8deff975"><span offset-key="156360a251b847ee8355911f8deff975:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/sending-requests/variables/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8946c8901d2c43d9ae955dbe647d865b" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="f433e3fd563647a597fdac30a2b355e4"><span data-offset-key="f433e3fd563647a597fdac30a2b355e4:0">Using variables</span></span></span></a><span key="b2e37795387448f78eefd9a6602320c1"><span offset-key="b2e37795387448f78eefd9a6602320c1:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="16c9e946db8a493e8864df72de13490c"><span offset-key="16c9e946db8a493e8864df72de13490c:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/sending-requests/visualizer/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6ebb9a25a53e43cc9a9c7ed73d11033c" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="11c03111e1f04a7f9c6d52a851cb28be"><span data-offset-key="11c03111e1f04a7f9c6d52a851cb28be:0">Visualizing data</span></span></span></a><span key="9157d3f41ac94e9888d723f0a17253cb"><span offset-key="9157d3f41ac94e9888d723f0a17253cb:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="16c9e946db8a493e8864df72de13490c"><span offset-key="16c9e946db8a493e8864df72de13490c:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/sending-requests/visualizer/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6ebb9a25a53e43cc9a9c7ed73d11033c" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="11c03111e1f04a7f9c6d52a851cb28be"><span data-offset-key="11c03111e1f04a7f9c6d52a851cb28be:0">Visualizing data</span></span></span></a><span key="9157d3f41ac94e9888d723f0a17253cb"><span offset-key="9157d3f41ac94e9888d723f0a17253cb:0"><span slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span key="62eefcefe634444f875a932a70811754"><span offset-key="62eefcefe634444f875a932a70811754:0">Testing APIs</span></span>
 
 <span key="864352ccb2d9424b8852c7071a681af1"><span offset-key="864352ccb2d9424b8852c7071a681af1:0">If you're testing an API, you can use Postman to automate various parts of the process:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="bcf268020c6f4a05993befd5a4361707"><span offset-key="bcf268020c6f4a05993befd5a4361707:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/test-scripts/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="abbe3858b51f4a43889c25e6e6c5614d" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="6bee63cb348e488ebde87cf4b3313257"><span data-offset-key="6bee63cb348e488ebde87cf4b3313257:0">Writing test scripts</span></span></span></a><span key="3293b8ef322342248d7e79d880bf93c7"><span offset-key="3293b8ef322342248d7e79d880bf93c7:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="bcf268020c6f4a05993befd5a4361707"><span offset-key="bcf268020c6f4a05993befd5a4361707:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/test-scripts/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="abbe3858b51f4a43889c25e6e6c5614d" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="6bee63cb348e488ebde87cf4b3313257"><span data-offset-key="6bee63cb348e488ebde87cf4b3313257:0">Writing test scripts</span></span></span></a><span key="3293b8ef322342248d7e79d880bf93c7"><span offset-key="3293b8ef322342248d7e79d880bf93c7:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="a92b756663af4974ac049dc6cfb96957"><span offset-key="a92b756663af4974ac049dc6cfb96957:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/running-collections/intro-to-collection-runs/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3991b143f84d4fd1b1625a4ae3517c85" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="33dc03a73f8940d982a75c4a35d6e9e3"><span data-offset-key="33dc03a73f8940d982a75c4a35d6e9e3:0">Automating workflows with the collection runner</span></span></span></a><span key="c8e2ce8d5e164da78943ce8c5131feca"><span offset-key="c8e2ce8d5e164da78943ce8c5131feca:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="a92b756663af4974ac049dc6cfb96957"><span offset-key="a92b756663af4974ac049dc6cfb96957:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/running-collections/intro-to-collection-runs/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3991b143f84d4fd1b1625a4ae3517c85" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="33dc03a73f8940d982a75c4a35d6e9e3"><span data-offset-key="33dc03a73f8940d982a75c4a35d6e9e3:0">Automating workflows with the collection runner</span></span></span></a><span key="c8e2ce8d5e164da78943ce8c5131feca"><span offset-key="c8e2ce8d5e164da78943ce8c5131feca:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="e4e8732f18cb48e6a23eaed630417293"><span offset-key="e4e8732f18cb48e6a23eaed630417293:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/sending-requests/capturing-request-data/capturing-http-requests/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d9f8500a0a0c4cdba09310d8c16cb288" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="cef465d069dd4d319c91361e9316a33e"><span data-offset-key="cef465d069dd4d319c91361e9316a33e:0">Capturing HTTP requests</span></span></span></a><span key="f5078df3e2c34dbf9eb4a76fddeab5cb"><span offset-key="f5078df3e2c34dbf9eb4a76fddeab5cb:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="e4e8732f18cb48e6a23eaed630417293"><span offset-key="e4e8732f18cb48e6a23eaed630417293:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/sending-requests/capturing-request-data/capturing-http-requests/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d9f8500a0a0c4cdba09310d8c16cb288" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="cef465d069dd4d319c91361e9316a33e"><span data-offset-key="cef465d069dd4d319c91361e9316a33e:0">Capturing HTTP requests</span></span></span></a><span key="f5078df3e2c34dbf9eb4a76fddeab5cb"><span offset-key="f5078df3e2c34dbf9eb4a76fddeab5cb:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="57de9cb7de7843f3b26a6084f671613d"><span offset-key="57de9cb7de7843f3b26a6084f671613d:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/test-examples/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b0645c248f554e8aa574d04562fe41f3" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="b41744dbb08048f4ac575d73ba398aef"><span data-offset-key="b41744dbb08048f4ac575d73ba398aef:0">Test script examples</span></span></span></a><span key="ab65438b4b2c4cf3ae62f09fd5ff6850"><span offset-key="ab65438b4b2c4cf3ae62f09fd5ff6850:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="57de9cb7de7843f3b26a6084f671613d"><span offset-key="57de9cb7de7843f3b26a6084f671613d:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/test-examples/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b0645c248f554e8aa574d04562fe41f3" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="b41744dbb08048f4ac575d73ba398aef"><span data-offset-key="b41744dbb08048f4ac575d73ba398aef:0">Test script examples</span></span></span></a><span key="ab65438b4b2c4cf3ae62f09fd5ff6850"><span offset-key="ab65438b4b2c4cf3ae62f09fd5ff6850:0"><span slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span key="ad4753660d4a4e0f8ed2b02caee4a2b4"><span offset-key="ad4753660d4a4e0f8ed2b02caee4a2b4:0">Building and managing APIs</span></span>
 
 <span key="7200b0201f764b6c9473d83551f34b94"><span offset-key="7200b0201f764b6c9473d83551f34b94:0">If you're developing a back-end, working API-first, or need to monitor API performance, Postman utilities can streamline your workflows:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="5c6df28221b4478a92eacfba6febf05a"><span offset-key="5c6df28221b4478a92eacfba6febf05a:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/designing-and-developing-your-api/the-api-workflow/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="da7f9671be2b4a35be119845aec209e9" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="45b2c17774474c89aa4a9e484ce5543c"><span data-offset-key="45b2c17774474c89aa4a9e484ce5543c:0">Defining an API from a schema</span></span></span></a><span key="445bb7dbc10b4c9c9e814652bb8760a9"><span offset-key="445bb7dbc10b4c9c9e814652bb8760a9:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="5c6df28221b4478a92eacfba6febf05a"><span offset-key="5c6df28221b4478a92eacfba6febf05a:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/designing-and-developing-your-api/the-api-workflow/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="da7f9671be2b4a35be119845aec209e9" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="45b2c17774474c89aa4a9e484ce5543c"><span data-offset-key="45b2c17774474c89aa4a9e484ce5543c:0">Defining an API from a schema</span></span></span></a><span key="445bb7dbc10b4c9c9e814652bb8760a9"><span offset-key="445bb7dbc10b4c9c9e814652bb8760a9:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="dcbf83dcf29a41ea8711733fc2a08fde"><span offset-key="dcbf83dcf29a41ea8711733fc2a08fde:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/designing-and-developing-your-api/monitoring-your-api/intro-monitors/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="561dafe0ae88471fa0cd856876f692ee" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="48d4308b04474681887f11f46c93af78"><span data-offset-key="48d4308b04474681887f11f46c93af78:0">Monitoring test runs</span></span></span></a><span key="a652456a3e784a73ae87afb01451455f"><span offset-key="a652456a3e784a73ae87afb01451455f:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="dcbf83dcf29a41ea8711733fc2a08fde"><span offset-key="dcbf83dcf29a41ea8711733fc2a08fde:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/designing-and-developing-your-api/monitoring-your-api/intro-monitors/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="561dafe0ae88471fa0cd856876f692ee" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="48d4308b04474681887f11f46c93af78"><span data-offset-key="48d4308b04474681887f11f46c93af78:0">Monitoring test runs</span></span></span></a><span key="a652456a3e784a73ae87afb01451455f"><span offset-key="a652456a3e784a73ae87afb01451455f:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="f967879ed9da46be81d58cf686277ef2"><span offset-key="f967879ed9da46be81d58cf686277ef2:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/designing-and-developing-your-api/view-and-analyze-api-reports/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a0cb164d4b054bdc810764b7c9cdf0ed" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="698b86031cc64d57ba09020670ee376c"><span data-offset-key="698b86031cc64d57ba09020670ee376c:0">Analyzing API performance</span></span></span></a><span key="7c86f2fb5abb4dcfafc02ecfce1fd5c6"><span offset-key="7c86f2fb5abb4dcfafc02ecfce1fd5c6:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="f967879ed9da46be81d58cf686277ef2"><span offset-key="f967879ed9da46be81d58cf686277ef2:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/designing-and-developing-your-api/view-and-analyze-api-reports/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a0cb164d4b054bdc810764b7c9cdf0ed" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="698b86031cc64d57ba09020670ee376c"><span data-offset-key="698b86031cc64d57ba09020670ee376c:0">Analyzing API performance</span></span></span></a><span key="7c86f2fb5abb4dcfafc02ecfce1fd5c6"><span offset-key="7c86f2fb5abb4dcfafc02ecfce1fd5c6:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="2ca6eaba38074a9693e213ed20c1e82c"><span offset-key="2ca6eaba38074a9693e213ed20c1e82c:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e6b601e7057942dba38ac25f24f36fd5" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="a623393a34af4476a4e6f17abfa1c335"><span data-offset-key="a623393a34af4476a4e6f17abfa1c335:0">Mocking responses</span></span></span></a><span key="2a470aa7a53f46ab9dad7783fd3c9f6c"><span offset-key="2a470aa7a53f46ab9dad7783fd3c9f6c:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="2ca6eaba38074a9693e213ed20c1e82c"><span offset-key="2ca6eaba38074a9693e213ed20c1e82c:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e6b601e7057942dba38ac25f24f36fd5" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="a623393a34af4476a4e6f17abfa1c335"><span data-offset-key="a623393a34af4476a4e6f17abfa1c335:0">Mocking responses</span></span></span></a><span key="2a470aa7a53f46ab9dad7783fd3c9f6c"><span offset-key="2a470aa7a53f46ab9dad7783fd3c9f6c:0"><span slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span key="5f0feed84bda4c69b7f3e1d4459b3c0a"><span offset-key="5f0feed84bda4c69b7f3e1d4459b3c0a:0">Publishing APIs</span></span>
 
 <span key="f2adf7805579432188bacf9d42149edd"><span offset-key="f2adf7805579432188bacf9d42149edd:0">If you're exposing an API for public use, Postman can support developer onboarding:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="02300c0b5a40425f906e2cacca3fb4e7"><span offset-key="02300c0b5a40425f906e2cacca3fb4e7:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/publishing-your-api/documenting-your-api/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4d79fd72dffe4b07bd5bb291c94719ea" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="633143057d844292b828ff49cd8a04e1"><span data-offset-key="633143057d844292b828ff49cd8a04e1:0">Publishing documentation</span></span></span></a><span key="1b49cc68eec349698a413fc32c306880"><span offset-key="1b49cc68eec349698a413fc32c306880:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="02300c0b5a40425f906e2cacca3fb4e7"><span offset-key="02300c0b5a40425f906e2cacca3fb4e7:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/publishing-your-api/documenting-your-api/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4d79fd72dffe4b07bd5bb291c94719ea" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="633143057d844292b828ff49cd8a04e1"><span data-offset-key="633143057d844292b828ff49cd8a04e1:0">Publishing documentation</span></span></span></a><span key="1b49cc68eec349698a413fc32c306880"><span offset-key="1b49cc68eec349698a413fc32c306880:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="edb2e5a7244145d68c03917441920c75"><span offset-key="edb2e5a7244145d68c03917441920c75:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/publishing-your-api/run-in-postman/introduction-run-button/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b16721944902499a934afea51f633e94" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="68b67029fdce4384ac8ed2fc9ee31da6"><span data-offset-key="68b67029fdce4384ac8ed2fc9ee31da6:0">Using Run in Postman</span></span></span></a><span key="217dfc3a084347faa963b457f5906bba"><span offset-key="217dfc3a084347faa963b457f5906bba:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="edb2e5a7244145d68c03917441920c75"><span offset-key="edb2e5a7244145d68c03917441920c75:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/publishing-your-api/run-in-postman/introduction-run-button/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b16721944902499a934afea51f633e94" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="68b67029fdce4384ac8ed2fc9ee31da6"><span data-offset-key="68b67029fdce4384ac8ed2fc9ee31da6:0">Using Run in Postman</span></span></span></a><span key="217dfc3a084347faa963b457f5906bba"><span offset-key="217dfc3a084347faa963b457f5906bba:0"><span slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span key="103e44f537354c5ca6efafd4c010cf72"><span offset-key="103e44f537354c5ca6efafd4c010cf72:0">Collaborating with your team</span></span>
 
 <span key="1156663ee4284022b0d6eae631c7f1cc"><span offset-key="1156663ee4284022b0d6eae631c7f1cc:0">If you're using Postman in your company or team, check out these guides to maximize your collaboration:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="fdf02e1120ec43abbeb6e001b69649b5"><span offset-key="fdf02e1120ec43abbeb6e001b69649b5:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/collaborating-in-postman/collaboration-intro/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="48f7b9b17cea44cfa72b88fcc2803f83" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="8c00a37b588d4e3886af7c84f2e5e38b"><span data-offset-key="8c00a37b588d4e3886af7c84f2e5e38b:0">Collaborating in Postman</span></span></span></a><span key="0d5cae42b41f4980b17f979fc072b9de"><span offset-key="0d5cae42b41f4980b17f979fc072b9de:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="fdf02e1120ec43abbeb6e001b69649b5"><span offset-key="fdf02e1120ec43abbeb6e001b69649b5:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/collaborating-in-postman/collaboration-intro/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="48f7b9b17cea44cfa72b88fcc2803f83" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="8c00a37b588d4e3886af7c84f2e5e38b"><span data-offset-key="8c00a37b588d4e3886af7c84f2e5e38b:0">Collaborating in Postman</span></span></span></a><span key="0d5cae42b41f4980b17f979fc072b9de"><span offset-key="0d5cae42b41f4980b17f979fc072b9de:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="58617a48b0594451ae51a3c4f7e7a43b"><span offset-key="58617a48b0594451ae51a3c4f7e7a43b:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/creating-workspaces/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7523f332490b4aafb110c31972cd8517" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="059e100d82bf43869f16c54ba213032e"><span data-offset-key="059e100d82bf43869f16c54ba213032e:0">Creating workspaces</span></span></span></a><span key="21acce93232f47e4a1262b320e88fc62"><span offset-key="21acce93232f47e4a1262b320e88fc62:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="58617a48b0594451ae51a3c4f7e7a43b"><span offset-key="58617a48b0594451ae51a3c4f7e7a43b:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/collaborating-in-postman/using-workspaces/creating-workspaces/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7523f332490b4aafb110c31972cd8517" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="059e100d82bf43869f16c54ba213032e"><span data-offset-key="059e100d82bf43869f16c54ba213032e:0">Creating workspaces</span></span></span></a><span key="21acce93232f47e4a1262b320e88fc62"><span offset-key="21acce93232f47e4a1262b320e88fc62:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="f5599ed930c64b8fada383e7f8ffd019"><span offset-key="f5599ed930c64b8fada383e7f8ffd019:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/administration/managing-your-team/managing-your-team/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1e36b69e779e412b9a6709c01794a517" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="f56394b70d2f4229bcc06729b79a1842"><span data-offset-key="f56394b70d2f4229bcc06729b79a1842:0">Managing Postman for an organization</span></span></span></a><span key="d52dc11685da4581ab905b2260e9a6d3"><span offset-key="d52dc11685da4581ab905b2260e9a6d3:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="f5599ed930c64b8fada383e7f8ffd019"><span offset-key="f5599ed930c64b8fada383e7f8ffd019:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/administration/managing-your-team/managing-your-team/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1e36b69e779e412b9a6709c01794a517" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="f56394b70d2f4229bcc06729b79a1842"><span data-offset-key="f56394b70d2f4229bcc06729b79a1842:0">Managing Postman for an organization</span></span></span></a><span key="d52dc11685da4581ab905b2260e9a6d3"><span offset-key="d52dc11685da4581ab905b2260e9a6d3:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="d4ad87454a8b48fbbd08ca25f194e759"><span offset-key="d4ad87454a8b48fbbd08ca25f194e759:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/administration/onboarding-checklist/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7b1edfb2010d4ad78f8d51061430cbfe" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="05d8140bf3ec4521a8dec582e6747a84"><span data-offset-key="05d8140bf3ec4521a8dec582e6747a84:0">Onboarding your team</span></span></span></a><span key="bb6bc60d839f442582ac7b5bbf988394"><span offset-key="bb6bc60d839f442582ac7b5bbf988394:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="d4ad87454a8b48fbbd08ca25f194e759"><span offset-key="d4ad87454a8b48fbbd08ca25f194e759:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/administration/onboarding-checklist/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7b1edfb2010d4ad78f8d51061430cbfe" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="05d8140bf3ec4521a8dec582e6747a84"><span data-offset-key="05d8140bf3ec4521a8dec582e6747a84:0">Onboarding your team</span></span></span></a><span key="bb6bc60d839f442582ac7b5bbf988394"><span offset-key="bb6bc60d839f442582ac7b5bbf988394:0"><span slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span key="7880b52ef5b742cea6116cf6b0d3b073"><span offset-key="7880b52ef5b742cea6116cf6b0d3b073:0">Developing with Postman</span></span>
 
 <span key="1469af37d22744ee866341620a4190c8"><span offset-key="1469af37d22744ee866341620a4190c8:0">If you're integrating Postman with your CI/CD workflow or are developing with Postman APIs or libraries, check out these resources:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="d4124a3da2ff47e0b85e808fd8acc573"><span offset-key="d4124a3da2ff47e0b85e808fd8acc573:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4e31aac9ff444571a7204c0e411b4f5a" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="a5d2db0f33bc484ea794fd6077eeb8ca"><span data-offset-key="a5d2db0f33bc484ea794fd6077eeb8ca:0">Integrating with a development pipeline</span></span></span></a><span key="f87f6441e9e14045a1c4fa918cb5c37d"><span offset-key="f87f6441e9e14045a1c4fa918cb5c37d:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="d4124a3da2ff47e0b85e808fd8acc573"><span offset-key="d4124a3da2ff47e0b85e808fd8acc573:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/running-collections/using-newman-cli/command-line-integration-with-newman/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4e31aac9ff444571a7204c0e411b4f5a" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="a5d2db0f33bc484ea794fd6077eeb8ca"><span data-offset-key="a5d2db0f33bc484ea794fd6077eeb8ca:0">Integrating with a development pipeline</span></span></span></a><span key="f87f6441e9e14045a1c4fa918cb5c37d"><span offset-key="f87f6441e9e14045a1c4fa918cb5c37d:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="a09f57a5cf814f699d575c67b5d6e7e8"><span offset-key="a09f57a5cf814f699d575c67b5d6e7e8:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/developer/resources-intro/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="74d59e5ef69247a7adcb6448cbd17c99" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="ffc104594dbe434e9d696d0421ba996a"><span data-offset-key="ffc104594dbe434e9d696d0421ba996a:0">Developing with Postman utilities</span></span></span></a><span key="45c4fe74cf6a45b0ba2aaed7df8e4371"><span offset-key="45c4fe74cf6a45b0ba2aaed7df8e4371:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="a09f57a5cf814f699d575c67b5d6e7e8"><span offset-key="a09f57a5cf814f699d575c67b5d6e7e8:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/developer/resources-intro/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="74d59e5ef69247a7adcb6448cbd17c99" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="ffc104594dbe434e9d696d0421ba996a"><span data-offset-key="ffc104594dbe434e9d696d0421ba996a:0">Developing with Postman utilities</span></span></span></a><span key="45c4fe74cf6a45b0ba2aaed7df8e4371"><span offset-key="45c4fe74cf6a45b0ba2aaed7df8e4371:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="1bd923874a034824af441897ead83025"><span offset-key="1bd923874a034824af441897ead83025:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/developer/intro-api/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f772188a1ceb4651bf03dc560b044b44" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="861302f8d1434c49b71de920ab389a5c"><span data-offset-key="861302f8d1434c49b71de920ab389a5c:0">Postman API</span></span></span></a><span key="00b51961b89749d98f1cdc22f2ffa760"><span offset-key="00b51961b89749d98f1cdc22f2ffa760:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="1bd923874a034824af441897ead83025"><span offset-key="1bd923874a034824af441897ead83025:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/developer/intro-api/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f772188a1ceb4651bf03dc560b044b44" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="861302f8d1434c49b71de920ab389a5c"><span data-offset-key="861302f8d1434c49b71de920ab389a5c:0">Postman API</span></span></span></a><span key="00b51961b89749d98f1cdc22f2ffa760"><span offset-key="00b51961b89749d98f1cdc22f2ffa760:0"><span slate-zero-width="z">​</span></span></span>
 
-## 
+##
 
 <span key="a54f25c051494c3682cee5d5477e44a5"><span offset-key="a54f25c051494c3682cee5d5477e44a5:0">Providing feedback</span></span>
 
@@ -626,79 +626,79 @@ Postman
 
 <span key="95fe0d1e5c5e4631a24cb701a9a0a1d2"><span offset-key="95fe0d1e5c5e4631a24cb701a9a0a1d2:0"> To get the latest version of the Postman desktop app, visit the </span></span><a href="https://www.postman.com/downloads/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2816ec2392d34fc6a345ee47ec959410" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="c46c30657a1d4e26884c42f36d50ecb0"><span data-offset-key="c46c30657a1d4e26884c42f36d50ecb0:0">download page</span></span></span></a><span key="007dda2c39a64af0b80b5559bef8827f"><span offset-key="007dda2c39a64af0b80b5559bef8827f:0"> and select </span>**Download**<span offset-key="007dda2c39a64af0b80b5559bef8827f:2"> for your platform.</span></span>
 
-## 
+##
 
 <span key="b1cb2d96441c46b087078b79874b0578"><span offset-key="b1cb2d96441c46b087078b79874b0578:0">Contents</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="3855b5d192824737b5cb867527d6eeae"><span offset-key="3855b5d192824737b5cb867527d6eeae:0">Installing Postman on the desktop</span></span>
+  <span key="3855b5d192824737b5cb867527d6eeae"><span offset-key="3855b5d192824737b5cb867527d6eeae:0">Installing Postman on the desktop</span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="51aa1687d570447f8533160e1729d850"><span offset-key="51aa1687d570447f8533160e1729d850:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#installing-postman-on-mac" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6b437bfb2d6b4e2da2982e88f5cf1022" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="3b41b4297d9c4fc4a99f14c15e435ff5"><span data-offset-key="3b41b4297d9c4fc4a99f14c15e435ff5:0">Mac</span></span></span></a><span key="f24587cee68c4401a7a69fc9b4e6a123"><span offset-key="f24587cee68c4401a7a69fc9b4e6a123:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="51aa1687d570447f8533160e1729d850"><span offset-key="51aa1687d570447f8533160e1729d850:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#installing-postman-on-mac" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6b437bfb2d6b4e2da2982e88f5cf1022" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="3b41b4297d9c4fc4a99f14c15e435ff5"><span data-offset-key="3b41b4297d9c4fc4a99f14c15e435ff5:0">Mac</span></span></span></a><span key="f24587cee68c4401a7a69fc9b4e6a123"><span offset-key="f24587cee68c4401a7a69fc9b4e6a123:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="1b2a0d3934664a67a5529dd032705c3f"><span offset-key="1b2a0d3934664a67a5529dd032705c3f:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#installing-postman-on-windows" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ff2487462f804a6c9e52d3b88c71a659" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="fa50fb4cf47e4fe5a977a825957e71f4"><span data-offset-key="fa50fb4cf47e4fe5a977a825957e71f4:0">Windows</span></span></span></a><span key="83c82440204248ff92ebfd4160bd4535"><span offset-key="83c82440204248ff92ebfd4160bd4535:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="1b2a0d3934664a67a5529dd032705c3f"><span offset-key="1b2a0d3934664a67a5529dd032705c3f:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#installing-postman-on-windows" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ff2487462f804a6c9e52d3b88c71a659" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="fa50fb4cf47e4fe5a977a825957e71f4"><span data-offset-key="fa50fb4cf47e4fe5a977a825957e71f4:0">Windows</span></span></span></a><span key="83c82440204248ff92ebfd4160bd4535"><span offset-key="83c82440204248ff92ebfd4160bd4535:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="2f0b84032c4f4d09bc17fd052c082c0b"><span offset-key="2f0b84032c4f4d09bc17fd052c082c0b:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#installing-postman-on-linux" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="95b39ba8478d4bcc85043e181fceb761" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="cc54614954e2434d9f97b993991c6e7b"><span data-offset-key="cc54614954e2434d9f97b993991c6e7b:0">Linux</span></span></span></a><span key="15b1dcac8a554d64927925aa9ec4dd16"><span offset-key="15b1dcac8a554d64927925aa9ec4dd16:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="2f0b84032c4f4d09bc17fd052c082c0b"><span offset-key="2f0b84032c4f4d09bc17fd052c082c0b:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#installing-postman-on-linux" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="95b39ba8478d4bcc85043e181fceb761" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="cc54614954e2434d9f97b993991c6e7b"><span data-offset-key="cc54614954e2434d9f97b993991c6e7b:0">Linux</span></span></span></a><span key="15b1dcac8a554d64927925aa9ec4dd16"><span offset-key="15b1dcac8a554d64927925aa9ec4dd16:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="2d7fcc2df1bf4b39afee3d9cdc194b11"><span offset-key="2d7fcc2df1bf4b39afee3d9cdc194b11:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#using-postman-on-the-web" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="24eaa117adac40138779f5d1284f2ed8" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="dae79ca4e735413ea1c9290ee1dc2c27"><span data-offset-key="dae79ca4e735413ea1c9290ee1dc2c27:0">Using Postman on the web</span></span></span></a><span key="26834275edcc40739cbd4c1ffd6f73b9"><span offset-key="26834275edcc40739cbd4c1ffd6f73b9:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="2d7fcc2df1bf4b39afee3d9cdc194b11"><span offset-key="2d7fcc2df1bf4b39afee3d9cdc194b11:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#using-postman-on-the-web" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="24eaa117adac40138779f5d1284f2ed8" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="dae79ca4e735413ea1c9290ee1dc2c27"><span data-offset-key="dae79ca4e735413ea1c9290ee1dc2c27:0">Using Postman on the web</span></span></span></a><span key="26834275edcc40739cbd4c1ffd6f73b9"><span offset-key="26834275edcc40739cbd4c1ffd6f73b9:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="2934f96c6a994a38a10b9ca5f742ee5b"><span offset-key="2934f96c6a994a38a10b9ca5f742ee5b:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#browser-requirements" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="caf5d16371a94b2a875f3a9a14079224" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="e3c1e506afbb40239bc4b33dc884a8a3"><span data-offset-key="e3c1e506afbb40239bc4b33dc884a8a3:0">Browser requirements</span></span></span></a><span key="21143d3d3b774f478b266208db399977"><span offset-key="21143d3d3b774f478b266208db399977:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="2934f96c6a994a38a10b9ca5f742ee5b"><span offset-key="2934f96c6a994a38a10b9ca5f742ee5b:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#browser-requirements" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="caf5d16371a94b2a875f3a9a14079224" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="e3c1e506afbb40239bc4b33dc884a8a3"><span data-offset-key="e3c1e506afbb40239bc4b33dc884a8a3:0">Browser requirements</span></span></span></a><span key="21143d3d3b774f478b266208db399977"><span offset-key="21143d3d3b774f478b266208db399977:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="bf8d2dcf1be8497c84f1921704b5a85a"><span offset-key="bf8d2dcf1be8497c84f1921704b5a85a:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#installing-the-postman-desktop-agent" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e90e88eb62214f498af9fa1bb46d8bc0" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="7e878a9e736a4fc980ae49cf8c5c9d5c"><span data-offset-key="7e878a9e736a4fc980ae49cf8c5c9d5c:0">Installing the Postman desktop agent</span></span></span></a><span key="69612227fd0e4a00b487d0437451a9c0"><span offset-key="69612227fd0e4a00b487d0437451a9c0:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="bf8d2dcf1be8497c84f1921704b5a85a"><span offset-key="bf8d2dcf1be8497c84f1921704b5a85a:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#installing-the-postman-desktop-agent" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e90e88eb62214f498af9fa1bb46d8bc0" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="7e878a9e736a4fc980ae49cf8c5c9d5c"><span data-offset-key="7e878a9e736a4fc980ae49cf8c5c9d5c:0">Installing the Postman desktop agent</span></span></span></a><span key="69612227fd0e4a00b487d0437451a9c0"><span offset-key="69612227fd0e4a00b487d0437451a9c0:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="cf822e2e033e46a6bedb2d8ba22f2c4f"><span offset-key="cf822e2e033e46a6bedb2d8ba22f2c4f:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#web-limitations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7cd091359def43eba473461bd859f38b" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="d76a899564394228a4248a790683f206"><span data-offset-key="d76a899564394228a4248a790683f206:0">Web limitations</span></span></span></a><span key="dd44f364cae44e68826ab76fc04355e0"><span offset-key="dd44f364cae44e68826ab76fc04355e0:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="cf822e2e033e46a6bedb2d8ba22f2c4f"><span offset-key="cf822e2e033e46a6bedb2d8ba22f2c4f:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#web-limitations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7cd091359def43eba473461bd859f38b" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="d76a899564394228a4248a790683f206"><span data-offset-key="d76a899564394228a4248a790683f206:0">Web limitations</span></span></span></a><span key="dd44f364cae44e68826ab76fc04355e0"><span offset-key="dd44f364cae44e68826ab76fc04355e0:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="755a457e67ac467281b127533bd901e2"><span offset-key="755a457e67ac467281b127533bd901e2:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#updating-postman" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="228c27c01d584df3b152f797e8986f50" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="d643a05a2f1b461eba41a20730b74fa7"><span data-offset-key="d643a05a2f1b461eba41a20730b74fa7:0">Updating Postman</span></span></span></a><span key="9f68412448824fe3b34aa2e4ce823c74"><span offset-key="9f68412448824fe3b34aa2e4ce823c74:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="755a457e67ac467281b127533bd901e2"><span offset-key="755a457e67ac467281b127533bd901e2:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#updating-postman" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="228c27c01d584df3b152f797e8986f50" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="d643a05a2f1b461eba41a20730b74fa7"><span data-offset-key="d643a05a2f1b461eba41a20730b74fa7:0">Updating Postman</span></span></span></a><span key="9f68412448824fe3b34aa2e4ce823c74"><span offset-key="9f68412448824fe3b34aa2e4ce823c74:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="b5fd7f278a1645cab43f32da4aa12d1c"><span offset-key="b5fd7f278a1645cab43f32da4aa12d1c:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#postman-chrome-app-deprecated" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="46b24c8ec80f47c0ac2f8e6e3f9a774f" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="923bdc84f6154da58d329e3daf2d8740"><span data-offset-key="923bdc84f6154da58d329e3daf2d8740:0">Chrome app (deprecated)</span></span></span></a><span key="5771eff4a2d048829ed3232983ed11ee"><span offset-key="5771eff4a2d048829ed3232983ed11ee:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="b5fd7f278a1645cab43f32da4aa12d1c"><span offset-key="b5fd7f278a1645cab43f32da4aa12d1c:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#postman-chrome-app-deprecated" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="46b24c8ec80f47c0ac2f8e6e3f9a774f" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="923bdc84f6154da58d329e3daf2d8740"><span data-offset-key="923bdc84f6154da58d329e3daf2d8740:0">Chrome app (deprecated)</span></span></span></a><span key="5771eff4a2d048829ed3232983ed11ee"><span offset-key="5771eff4a2d048829ed3232983ed11ee:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="14f7d33c780c4c93b0ca6312c28b9213"><span offset-key="14f7d33c780c4c93b0ca6312c28b9213:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#migrating-to-the-native-app" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="508de95dd08d471492e38e3f3ec701cf" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="0e2e959646da412983f13ca773b1e786"><span data-offset-key="0e2e959646da412983f13ca773b1e786:0">Migrating to the native app</span></span></span></a><span key="8d3f2dad6f34475193113229ca8050bb"><span offset-key="8d3f2dad6f34475193113229ca8050bb:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="14f7d33c780c4c93b0ca6312c28b9213"><span offset-key="14f7d33c780c4c93b0ca6312c28b9213:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#migrating-to-the-native-app" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="508de95dd08d471492e38e3f3ec701cf" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="0e2e959646da412983f13ca773b1e786"><span data-offset-key="0e2e959646da412983f13ca773b1e786:0">Migrating to the native app</span></span></span></a><span key="8d3f2dad6f34475193113229ca8050bb"><span offset-key="8d3f2dad6f34475193113229ca8050bb:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="709f0a2df7664b7d89c8c20062144ebc"><span offset-key="709f0a2df7664b7d89c8c20062144ebc:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#using-postman-behind-a-firewall" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d67590c2f4364b10a3ac8a2c89e642f3" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="e245f58d8dee443db382bef57da5a3fb"><span data-offset-key="e245f58d8dee443db382bef57da5a3fb:0">Using Postman behind a firewall</span></span></span></a><span key="05744bc7dc244fafa5907766f8967618"><span offset-key="05744bc7dc244fafa5907766f8967618:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="709f0a2df7664b7d89c8c20062144ebc"><span offset-key="709f0a2df7664b7d89c8c20062144ebc:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#using-postman-behind-a-firewall" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d67590c2f4364b10a3ac8a2c89e642f3" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="e245f58d8dee443db382bef57da5a3fb"><span data-offset-key="e245f58d8dee443db382bef57da5a3fb:0">Using Postman behind a firewall</span></span></span></a><span key="05744bc7dc244fafa5907766f8967618"><span offset-key="05744bc7dc244fafa5907766f8967618:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="e0aff8871c364826bd26007f9f24849b"><span offset-key="e0aff8871c364826bd26007f9f24849b:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#troubleshooting-your-postman-installation" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d421b24576274bb697da3f52a3937d6a" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="df77026d7fea42118436c2effd803c63"><span data-offset-key="df77026d7fea42118436c2effd803c63:0">Troubleshooting your Postman installation</span></span></span></a><span key="e6ebc32cb3c04b5badc4dc314fa86b05"><span offset-key="e6ebc32cb3c04b5badc4dc314fa86b05:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="e0aff8871c364826bd26007f9f24849b"><span offset-key="e0aff8871c364826bd26007f9f24849b:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#troubleshooting-your-postman-installation" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d421b24576274bb697da3f52a3937d6a" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="df77026d7fea42118436c2effd803c63"><span data-offset-key="df77026d7fea42118436c2effd803c63:0">Troubleshooting your Postman installation</span></span></span></a><span key="e6ebc32cb3c04b5badc4dc314fa86b05"><span offset-key="e6ebc32cb3c04b5badc4dc314fa86b05:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="65688cee08244afe92f288330167ffd6"><span offset-key="65688cee08244afe92f288330167ffd6:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#next-steps" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6883423af9b54c6d82a3ea2f6aee062a" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="1ea51e75888648e69bb2c4bc8b943673"><span data-offset-key="1ea51e75888648e69bb2c4bc8b943673:0">Next steps</span></span></span></a><span key="2ab4613eb4024406aa95c4cc996b35ad"><span offset-key="2ab4613eb4024406aa95c4cc996b35ad:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="65688cee08244afe92f288330167ffd6"><span offset-key="65688cee08244afe92f288330167ffd6:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/getting-started/installation-and-updates.md#next-steps" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6883423af9b54c6d82a3ea2f6aee062a" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="1ea51e75888648e69bb2c4bc8b943673"><span data-offset-key="1ea51e75888648e69bb2c4bc8b943673:0">Next steps</span></span></span></a><span key="2ab4613eb4024406aa95c4cc996b35ad"><span offset-key="2ab4613eb4024406aa95c4cc996b35ad:0"><span slate-zero-width="z">​</span></span></span>
 
 > <span key="427a1ca37fc644218e9b651c1b54de4b"><span offset-key="427a1ca37fc644218e9b651c1b54de4b:0">Note that the Postman team only tests, fixes bugs, and provides support for the app on Mac, Windows, Linux, and the web.</span></span>
 
-## 
+##
 
 <span key="a0b98d16f41547bebb75707521886f1c"><span offset-key="a0b98d16f41547bebb75707521886f1c:0">Installing Postman on Mac</span></span>
 
-<span key="2af6a6f9d7e74df7be3e2a7a6647a5f6"><span offset-key="2af6a6f9d7e74df7be3e2a7a6647a5f6:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.postman.com/downloads/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4fc69d1be53e43889c73bb8ab25ce894" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="0790879395d84f3685d075f8758bb767"><span data-offset-key="0790879395d84f3685d075f8758bb767:0">Download</span></span></span></a><span key="3b717356bb6d41fdb9628c9bc48af134"><span offset-key="3b717356bb6d41fdb9628c9bc48af134:0"> and unzip the app </span>*using the built-in Archive Utility app*<span offset-key="3b717356bb6d41fdb9628c9bc48af134:2">. Double-click </span>**Postman**<span offset-key="3b717356bb6d41fdb9628c9bc48af134:4">. When prompted, move the file to your </span>**Applications**<span offset-key="3b717356bb6d41fdb9628c9bc48af134:6"> folder—this will ensure that future updates can be installed correctly.</span></span>
+<span key="2af6a6f9d7e74df7be3e2a7a6647a5f6"><span offset-key="2af6a6f9d7e74df7be3e2a7a6647a5f6:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.postman.com/downloads/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4fc69d1be53e43889c73bb8ab25ce894" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="0790879395d84f3685d075f8758bb767"><span data-offset-key="0790879395d84f3685d075f8758bb767:0">Download</span></span></span></a><span key="3b717356bb6d41fdb9628c9bc48af134"><span offset-key="3b717356bb6d41fdb9628c9bc48af134:0"> and unzip the app </span>_using the built-in Archive Utility app_<span offset-key="3b717356bb6d41fdb9628c9bc48af134:2">. Double-click </span>**Postman**<span offset-key="3b717356bb6d41fdb9628c9bc48af134:4">. When prompted, move the file to your </span>**Applications**<span offset-key="3b717356bb6d41fdb9628c9bc48af134:6"> folder—this will ensure that future updates can be installed correctly.</span></span>
 
 > <span key="795f0ea3894c4036866bedd4c71a682e"><span offset-key="795f0ea3894c4036866bedd4c71a682e:0">The minimum OS version supported is macOS 10.11 (El Capitan).</span></span>
 >
 > <span key="26dbcf802d274037abb67880f33a3ef5"><span offset-key="26dbcf802d274037abb67880f33a3ef5:0">You may encounter a "Library not loaded" error if you attempt to unzip and install Postman using a third-party app—using the default Archive Utility for Mac should resolve this.</span></span>
 
-## 
+##
 
 <span key="da999bd14aed4f31a11b391e77eac11b"><span offset-key="da999bd14aed4f31a11b391e77eac11b:0">Installing Postman on Windows</span></span>
 
@@ -706,7 +706,7 @@ Postman
 
 > <span key="de422ea1b6e8479f8f084802e2054e68"><span offset-key="de422ea1b6e8479f8f084802e2054e68:0">Postman supports Windows 7 and above. Both </span>`ia32 (x86)`<span offset-key="de422ea1b6e8479f8f084802e2054e68:2"> and </span>`x64 (amd64)`<span offset-key="de422ea1b6e8479f8f084802e2054e68:4"> installers are available for Windows. Windows for ARM devices is possible by using the ia32 binary.</span></span>
 
-## 
+##
 
 <span key="1f73ed684c4044d18c62b4ae6b754e1d"><span offset-key="1f73ed684c4044d18c62b4ae6b754e1d:0">Installing Postman on Linux</span></span>
 
@@ -764,17 +764,17 @@ Copied!
 
 > <span key="77e711ee32a8488fabc5314c4f8c4c41"><span offset-key="77e711ee32a8488fabc5314c4f8c4c41:0">Postman supports the following distributions:</span></span>
 >
-> -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+> - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 >
->     <span key="3b753ee5cdfb40b3aedccd7b0d3e6461"><span offset-key="3b753ee5cdfb40b3aedccd7b0d3e6461:0">Ubuntu 14.04 and newer</span></span>
+>   <span key="3b753ee5cdfb40b3aedccd7b0d3e6461"><span offset-key="3b753ee5cdfb40b3aedccd7b0d3e6461:0">Ubuntu 14.04 and newer</span></span>
 >
-> -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+> - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 >
->     <span key="507d44a3873d4b40a4412d1378152cd8"><span offset-key="507d44a3873d4b40a4412d1378152cd8:0">Fedora 24</span></span>
+>   <span key="507d44a3873d4b40a4412d1378152cd8"><span offset-key="507d44a3873d4b40a4412d1378152cd8:0">Fedora 24</span></span>
 >
-> -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+> - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 >
->     <span key="3c765fe71c3e4df48563aab1cbe973f7"><span offset-key="3c765fe71c3e4df48563aab1cbe973f7:0">Debian 8 and newer</span></span>
+>   <span key="3c765fe71c3e4df48563aab1cbe973f7"><span offset-key="3c765fe71c3e4df48563aab1cbe973f7:0">Debian 8 and newer</span></span>
 >
 > <span key="f2cab441f01a4181acc339907e954c1a"><span offset-key="f2cab441f01a4181acc339907e954c1a:0">The support of certain Linux distributions depends on if they are supported by Electron. Refer to </span></span><a href="https://www.electronjs.org/docs/tutorial/support#linux" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b596756c13c04f4fa2e932225d43b2fb" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="baa74b7b30d54401a6216a4931acf1fb"><span data-offset-key="baa74b7b30d54401a6216a4931acf1fb:0">Electron's documentation</span></span></span></a><span key="37b7ad84628040a5a3430a6ae3df1078"><span offset-key="37b7ad84628040a5a3430a6ae3df1078:0">.</span></span>
 >
@@ -786,35 +786,35 @@ Copied!
 >
 > <span key="6044b36e87cf4b03acf64d9f9cc394a6"><span offset-key="6044b36e87cf4b03acf64d9f9cc394a6:0">If you are an Ubuntu 18 user, you will also need to install the </span>`libgconf-2-4`<span offset-key="6044b36e87cf4b03acf64d9f9cc394a6:2"> package with the command </span>`apt-get install libgconf-2-4`</span>
 
-## 
+##
 
 <span key="5f20df275f804e60ab3d1aa8fec6837c"><span offset-key="5f20df275f804e60ab3d1aa8fec6837c:0">Using Postman on the web</span></span>
 
 <span key="d6983389ef9d4ad293f24ad994451b47"><span offset-key="d6983389ef9d4ad293f24ad994451b47:0">You can use Postman in your web browser to carry out your API development and testing tasks in conjunction with the Postman Agent. To access Postman on the web, visit </span></span><a href="https://go.postman.co/home" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="79e48f3e8afa4b7f8ef9d54d46becc16" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="50ed635530b74e65a0cc6b4472e9c9a3"><span data-offset-key="50ed635530b74e65a0cc6b4472e9c9a3:0">go.postman.co/home</span></span></span></a><span key="caacbe5da56340f98f555ccfd5d627ab"><span offset-key="caacbe5da56340f98f555ccfd5d627ab:0">.</span></span>
 
-### 
+###
 
 <span key="e70d8df79630429abf100a533bd295c5"><span offset-key="e70d8df79630429abf100a533bd295c5:0">Browser requirements</span></span>
 
 <span key="cc067a0fb1a14d449d82666ff0666d7c"><span offset-key="cc067a0fb1a14d449d82666ff0666d7c:0">Postman’s web application is optimized for the following browsers:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="37596d5e5dd942079115f73d2259459d"><span offset-key="37596d5e5dd942079115f73d2259459d:0">Chrome (78 and higher)</span></span>
+  <span key="37596d5e5dd942079115f73d2259459d"><span offset-key="37596d5e5dd942079115f73d2259459d:0">Chrome (78 and higher)</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="65ccb1f63b8a4e398843a9c74a2be1d4"><span offset-key="65ccb1f63b8a4e398843a9c74a2be1d4:0">Firefox (76 and higher)</span></span>
+  <span key="65ccb1f63b8a4e398843a9c74a2be1d4"><span offset-key="65ccb1f63b8a4e398843a9c74a2be1d4:0">Firefox (76 and higher)</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="eedcba1ef22346a4bb0c91ec812421cf"><span offset-key="eedcba1ef22346a4bb0c91ec812421cf:0">Edge (79 and higher)</span></span>
+  <span key="eedcba1ef22346a4bb0c91ec812421cf"><span offset-key="eedcba1ef22346a4bb0c91ec812421cf:0">Edge (79 and higher)</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="9ee1aa34b4d34ae8b9a93b9d9cd05bb6"><span offset-key="9ee1aa34b4d34ae8b9a93b9d9cd05bb6:0">Safari (13.1.1 and higher)</span></span>
+  <span key="9ee1aa34b4d34ae8b9a93b9d9cd05bb6"><span offset-key="9ee1aa34b4d34ae8b9a93b9d9cd05bb6:0">Safari (13.1.1 and higher)</span></span>
 
-### 
+###
 
 <span key="71d4cd049af1402293438b8fb2e390c4"><span offset-key="71d4cd049af1402293438b8fb2e390c4:0">Installing the Postman desktop agent</span></span>
 
@@ -842,29 +842,29 @@ Copied!
 
 > <span key="378f9745ac2a4d97988d3f3cf245ca7f"><span offset-key="378f9745ac2a4d97988d3f3cf245ca7f:0">If you try to send a request and it isn't successful because the agent is not selected, you will see a link in the response area which you can select to switch to the agent and try your request again. Read </span></span><a href="https://blog.postman.com/introducing-the-postman-agent-send-api-requests-from-your-browser-without-limits/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d559e945711c4f198a70e13a18ba530c" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="eadec983587e4922a898fc40690ddf05"><span data-offset-key="eadec983587e4922a898fc40690ddf05:0">more about the agent</span></span></span></a><span key="cd3a8af2dc7c466d97a33a945d36c2df"><span offset-key="cd3a8af2dc7c466d97a33a945d36c2df:0">.</span></span>
 
-### 
+###
 
 <span key="9a7f85ba5b54480c9e23c12bc8a3d5aa"><span offset-key="9a7f85ba5b54480c9e23c12bc8a3d5aa:0">Web limitations</span></span>
 
 <span key="0b4e21a38be74343ac9a516cad2758b2"><span offset-key="0b4e21a38be74343ac9a516cad2758b2:0">Postman on the web is under active development, but there are a few features you can currently only access in the desktop app and not in your web browser:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="a4b95ba828194b51aeaaff9ee6938bb7">**Live preview**<span offset-key="a4b95ba828194b51aeaaff9ee6938bb7:1">: You will not see all of your request headers update live as you enter your request configurations as you do in the desktop Postman app—you will only see Authorization headers update as you edit.</span></span>
+  <span key="a4b95ba828194b51aeaaff9ee6938bb7">**Live preview**<span offset-key="a4b95ba828194b51aeaaff9ee6938bb7:1">: You will not see all of your request headers update live as you enter your request configurations as you do in the desktop Postman app—you will only see Authorization headers update as you edit.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="3722afb940bf4be182b9481d0ebbcfce">**Saving responses to file**</span>
+  <span key="3722afb940bf4be182b9481d0ebbcfce">**Saving responses to file**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="49d0073a19ff4407a193e57c27fa9e96">**Certificates and Proxy**<span offset-key="49d0073a19ff4407a193e57c27fa9e96:1">: These will take the browser defined value and cannot be overridden by Postman.</span></span>
+  <span key="49d0073a19ff4407a193e57c27fa9e96">**Certificates and Proxy**<span offset-key="49d0073a19ff4407a193e57c27fa9e96:1">: These will take the browser defined value and cannot be overridden by Postman.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="5815ec7aeb9e4e3199cbc9c828cf9827">**Postman Interceptor**</span>
+  <span key="5815ec7aeb9e4e3199cbc9c828cf9827">**Postman Interceptor**</span>
 
-## 
+##
 
 <span key="26e9d31961cb4425a1b8f93f16d585c6"><span offset-key="26e9d31961cb4425a1b8f93f16d585c6:0">Updating Postman</span></span>
 
@@ -886,7 +886,7 @@ Copied!
 
 <span key="e55c61a518d54faead3bdc0ad36753a8"><span offset-key="e55c61a518d54faead3bdc0ad36753a8:0"><span slate-zero-width="z">​</span></span></span><span key="aa81fe5791734143ba541a14e5b27b61"><span offset-key="aa81fe5791734143ba541a14e5b27b61:0"><span slate-zero-width="z">​</span></span></span>
 
-## 
+##
 
 <span key="9237a145d0294ef098e1c3092509a258"><span offset-key="9237a145d0294ef098e1c3092509a258:0">Postman Chrome app (deprecated)</span></span>
 
@@ -894,35 +894,35 @@ Copied!
 
 <span key="3bbc8c514f9c4e0f881f09284c764587"><span offset-key="3bbc8c514f9c4e0f881f09284c764587:0">The native app is built on </span></span><a href="https://www.electronjs.org" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2bfaa81d7bef4bfca784f54a1641c930" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="87cbcdf2e35545c7811fb5ff62ff2b66"><span data-offset-key="87cbcdf2e35545c7811fb5ff62ff2b66:0">Electron</span></span></span></a><span key="5eeef3543a80472f906a5589717c4766"><span offset-key="5eeef3543a80472f906a5589717c4766:0">, and </span></span><a href="https://blog.postman.com/going-native/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="37550d1935fa4247bd2fc1fc8be9333f" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="e5304482f2b94c8aac6f950b943cd3f3"><span data-offset-key="e5304482f2b94c8aac6f950b943cd3f3:0">overcomes a number of restrictions</span></span></span></a><span key="10fec5ca2493436fb16f6ad4312f7901"><span offset-key="10fec5ca2493436fb16f6ad4312f7901:0"> of the Chrome platform.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="e722bfc81d304744b316d2732ee23fb5"><span offset-key="e722bfc81d304744b316d2732ee23fb5:0">The native apps let you work with </span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/docs/sending-requests/cookies" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a480f7f7bed444708d445029bb9ba2ee" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="bbfbad4bad894402b442a04ee009e9da"><span data-offset-key="bbfbad4bad894402b442a04ee009e9da:0">cookies</span></span></span></a><span key="ca51cec724784b25911f973e614f74dc"><span offset-key="ca51cec724784b25911f973e614f74dc:0"> directly.</span></span>
+  <span key="e722bfc81d304744b316d2732ee23fb5"><span offset-key="e722bfc81d304744b316d2732ee23fb5:0">The native apps let you work with </span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/docs/sending-requests/cookies" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a480f7f7bed444708d445029bb9ba2ee" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="bbfbad4bad894402b442a04ee009e9da"><span data-offset-key="bbfbad4bad894402b442a04ee009e9da:0">cookies</span></span></span></a><span key="ca51cec724784b25911f973e614f74dc"><span offset-key="ca51cec724784b25911f973e614f74dc:0"> directly.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="3ba399a5947743b283fa17197197f0e9"><span offset-key="3ba399a5947743b283fa17197197f0e9:0">Unlike the Chrome app, no separate extension for the </span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/docs/sending-requests/capturing-request-data/interceptor" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="cdc27580cc5847378c56a874e5c7980f" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="b9f93eb5bd7f49c1a3e8e94d3ba694df"><span data-offset-key="b9f93eb5bd7f49c1a3e8e94d3ba694df:0">Interceptor</span></span></span></a><span key="d6315d426227439e9c310417ba1e9738"><span offset-key="d6315d426227439e9c310417ba1e9738:0"> is needed.</span></span>
+  <span key="3ba399a5947743b283fa17197197f0e9"><span offset-key="3ba399a5947743b283fa17197197f0e9:0">Unlike the Chrome app, no separate extension for the </span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/docs/sending-requests/capturing-request-data/interceptor" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="cdc27580cc5847378c56a874e5c7980f" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="b9f93eb5bd7f49c1a3e8e94d3ba694df"><span data-offset-key="b9f93eb5bd7f49c1a3e8e94d3ba694df:0">Interceptor</span></span></span></a><span key="d6315d426227439e9c310417ba1e9738"><span offset-key="d6315d426227439e9c310417ba1e9738:0"> is needed.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="5cd7234431a9417285d26b88fae7f2f6"><span offset-key="5cd7234431a9417285d26b88fae7f2f6:0">The native apps come with a built-in proxy that you can use to </span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/docs/sending-requests/capturing-request-data/capturing-http-requests" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9440755f7776468694296d755e6d3efe" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="427eb4c001a24a10beb9912e40fd1408"><span data-offset-key="427eb4c001a24a10beb9912e40fd1408:0">capture network traffic</span></span></span></a><span key="ecb61ed23f7c42459ce2ebfc1b88bbcc"><span offset-key="ecb61ed23f7c42459ce2ebfc1b88bbcc:0">.</span></span>
+  <span key="5cd7234431a9417285d26b88fae7f2f6"><span offset-key="5cd7234431a9417285d26b88fae7f2f6:0">The native apps come with a built-in proxy that you can use to </span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/docs/sending-requests/capturing-request-data/capturing-http-requests" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9440755f7776468694296d755e6d3efe" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="427eb4c001a24a10beb9912e40fd1408"><span data-offset-key="427eb4c001a24a10beb9912e40fd1408:0">capture network traffic</span></span></span></a><span key="ecb61ed23f7c42459ce2ebfc1b88bbcc"><span offset-key="ecb61ed23f7c42459ce2ebfc1b88bbcc:0">.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="e59f283c3b844d538f49eff6bb84799b"><span offset-key="e59f283c3b844d538f49eff6bb84799b:0">The native apps are not restricted by the Chrome standards for the menu bar. You can check for updates, create Postman Windows and tabs, and edit preferences.</span></span>
+  <span key="e59f283c3b844d538f49eff6bb84799b"><span offset-key="e59f283c3b844d538f49eff6bb84799b:0">The native apps are not restricted by the Chrome standards for the menu bar. You can check for updates, create Postman Windows and tabs, and edit preferences.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="226b3028317046a1819ac9303354c388"><span offset-key="226b3028317046a1819ac9303354c388:0">The native apps let you send headers like </span>`Origin`<span offset-key="226b3028317046a1819ac9303354c388:2"> and </span>`User-Agent`<span offset-key="226b3028317046a1819ac9303354c388:4">. These are restricted in the Chrome app.</span></span>
+  <span key="226b3028317046a1819ac9303354c388"><span offset-key="226b3028317046a1819ac9303354c388:0">The native apps let you send headers like </span>`Origin`<span offset-key="226b3028317046a1819ac9303354c388:2"> and </span>`User-Agent`<span offset-key="226b3028317046a1819ac9303354c388:4">. These are restricted in the Chrome app.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="f8ff98a22f834fc993ed8c3dd41c40aa"><span offset-key="f8ff98a22f834fc993ed8c3dd41c40aa:0">The "don't follow redirects" option exists in the native apps to prevent requests that return a 300-series response from being automatically redirected—doing this in the Chrome app requires the Interceptor extension.</span></span>
+  <span key="f8ff98a22f834fc993ed8c3dd41c40aa"><span offset-key="f8ff98a22f834fc993ed8c3dd41c40aa:0">The "don't follow redirects" option exists in the native apps to prevent requests that return a 300-series response from being automatically redirected—doing this in the Chrome app requires the Interceptor extension.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="31617c52fd6246d19b7e7f7f2dcd733a"><span offset-key="31617c52fd6246d19b7e7f7f2dcd733a:0">The native app has a built-in </span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/docs/sending-requests/troubleshooting-api-requests" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="78060a77501d4c84afe16157c971747a" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="62be2b6e5567437da954aa40f8282123"><span data-offset-key="62be2b6e5567437da954aa40f8282123:0">console</span></span></span></a><span key="6ad5164ae2034583a50b17d73d6ce049"><span offset-key="6ad5164ae2034583a50b17d73d6ce049:0">, which allows you to view the network request details for API calls.</span></span>
+  <span key="31617c52fd6246d19b7e7f7f2dcd733a"><span offset-key="31617c52fd6246d19b7e7f7f2dcd733a:0">The native app has a built-in </span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/docs/sending-requests/troubleshooting-api-requests" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="78060a77501d4c84afe16157c971747a" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="62be2b6e5567437da954aa40f8282123"><span data-offset-key="62be2b6e5567437da954aa40f8282123:0">console</span></span></span></a><span key="6ad5164ae2034583a50b17d73d6ce049"><span offset-key="6ad5164ae2034583a50b17d73d6ce049:0">, which allows you to view the network request details for API calls.</span></span>
 
-### 
+###
 
 <span key="165122f8f9f44ee4b6d8f7a1a85ca3d2"><span offset-key="165122f8f9f44ee4b6d8f7a1a85ca3d2:0">Migrating to the native app</span></span>
 
@@ -936,39 +936,39 @@ Copied!
 
 > <span key="5bf6e48510ae43bfadfe31c9e8958b9f"><span offset-key="5bf6e48510ae43bfadfe31c9e8958b9f:0">Note that importing will overwrite your existing data. For more on bulk import, see </span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/docs/getting-started/importing-and-exporting-data" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ff13143c944a47fdb72a89bcc2db8c14" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="8cf7098b05c9491c94f62df6f90e1ad6"><span data-offset-key="8cf7098b05c9491c94f62df6f90e1ad6:0">Importing Postman data</span></span></span></a><span key="226a0339da094138a6c82e2e8c6ba9a6"><span offset-key="226a0339da094138a6c82e2e8c6ba9a6:0">.</span></span>
 
-## 
+##
 
 <span key="4c79e8aaef3f493296e0ceef8040d1f9"><span offset-key="4c79e8aaef3f493296e0ceef8040d1f9:0">Using Postman behind a firewall</span></span>
 
 <span key="22dc1ead3a524b5888ce71714e7b17e9"><span offset-key="22dc1ead3a524b5888ce71714e7b17e9:0">Postman's infrastructure runs on Amazon's AWS platform. If you are operating behind a network firewall, you will need to allow the following domains to make WebSocket connections for Postman:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="9b50770b9af64afbbe6ffcc5f2629ff3">`\*.getpostman.com`</span>
+  <span key="9b50770b9af64afbbe6ffcc5f2629ff3">`\*.getpostman.com`</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="44b28c2f23144826bc19672de2f51e79">`\*.postman.co`</span>
+  <span key="44b28c2f23144826bc19672de2f51e79">`\*.postman.co`</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="345e4f2e421e460793981d50f7635478">`\*.pstmn.io`</span>
+  <span key="345e4f2e421e460793981d50f7635478">`\*.pstmn.io`</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="228da237c8a64d189a203445fecc4863">`\*postman.com`</span>
+  <span key="228da237c8a64d189a203445fecc4863">`\*postman.com`</span>
 
 <span key="f7f047d3237b4e2f8293c87ddd659920"><span offset-key="f7f047d3237b4e2f8293c87ddd659920:0">By default, WebSocket connections use the same ports as HTTP (80) and HTTPS (443).</span></span>
 
 <span key="fc7ba6ed2de04241a1a538ff84e93299"><span offset-key="fc7ba6ed2de04241a1a538ff84e93299:0">Postman does not have a fixed IP range that can be provided. If necessary, please refer to the </span></span><a href="https://docs.aws.amazon.com/general/latest/gr/aws-ip-ranges.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="58825ce574e546eabf18cc4ffc7d90a6" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="82cfaa7489d04e5ba2cc197f00c548e8"><span data-offset-key="82cfaa7489d04e5ba2cc197f00c548e8:0">current AWS IP ranges</span></span></span></a><span key="9d079ad968944b479b2633cce41fc611"><span offset-key="9d079ad968944b479b2633cce41fc611:0"> and allow the broad range provided.</span></span>
 
-## 
+##
 
 <span key="d3ea5367668647e1a3c5fec5d7476865"><span offset-key="d3ea5367668647e1a3c5fec5d7476865:0">Troubleshooting your Postman installation</span></span>
 
 <span key="963d6d31f42b48aa93c803a1e0a08de1"><span offset-key="963d6d31f42b48aa93c803a1e0a08de1:0">If you encounter any issues installing and running Postman, check out the following tips. If these do not help, please refer to the installation posts on the </span></span><a href="https://community.postman.com/tags/installation" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="608f984cd2eb46ca86999ee7e55bbf93" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="00767db327544f20a7db2f986e5eee73"><span data-offset-key="00767db327544f20a7db2f986e5eee73:0">community forum</span></span></span></a><span key="ff5406543f3c434fa5178082d55e3248"><span offset-key="ff5406543f3c434fa5178082d55e3248:0"> and create a new post if your issue is not already covered.</span></span>
 
-### 
+###
 
 <span key="509f7374ccd44caab76cd3b7af00a1a2"><span offset-key="509f7374ccd44caab76cd3b7af00a1a2:0">Update failed error</span></span>
 
@@ -980,25 +980,25 @@ Copied!
 
 <span key="686581db89d04b89885ab8c0362f9baa"><span offset-key="686581db89d04b89885ab8c0362f9baa:0">Open the DevTools using </span>**View**<span offset-key="686581db89d04b89885ab8c0362f9baa:2"> &gt; </span>**Developer**<span offset-key="686581db89d04b89885ab8c0362f9baa:4"> &gt; </span>**Show DevTools (Current View)**<span offset-key="686581db89d04b89885ab8c0362f9baa:6">. Some known errors are as follows:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="f489fabcde0a4ea29d2285b48a57fc72">**Error message:**<span offset-key="f489fabcde0a4ea29d2285b48a57fc72:1"> </span>`Cannot update while running on a read-only volume`</span>
+  <span key="f489fabcde0a4ea29d2285b48a57fc72">**Error message:**<span offset-key="f489fabcde0a4ea29d2285b48a57fc72:1"> </span>`Cannot update while running on a read-only volume`</span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-        <span key="d71d0ab98e1e4eb8b638cf8ebe8dd938"><span offset-key="d71d0ab98e1e4eb8b638cf8ebe8dd938:0">This error means that the app user does not have write permission in the directory where Postman is installed. To resolve the problem, move Postman to a directory where the user has write permissions, for example the </span>`/Application`<span offset-key="d71d0ab98e1e4eb8b638cf8ebe8dd938:2"> directory for Mac, and to the </span>`home`<span offset-key="d71d0ab98e1e4eb8b638cf8ebe8dd938:4"> directory for Linux.</span></span>
+    <span key="d71d0ab98e1e4eb8b638cf8ebe8dd938"><span offset-key="d71d0ab98e1e4eb8b638cf8ebe8dd938:0">This error means that the app user does not have write permission in the directory where Postman is installed. To resolve the problem, move Postman to a directory where the user has write permissions, for example the </span>`/Application`<span offset-key="d71d0ab98e1e4eb8b638cf8ebe8dd938:2"> directory for Mac, and to the </span>`home`<span offset-key="d71d0ab98e1e4eb8b638cf8ebe8dd938:4"> directory for Linux.</span></span>
 
 <img src="https://camo.githubusercontent.com/53e326ba72c130c779d1767c7fa200cb023cb22feae5724f8ac0cebadb8145f5/68747470733a2f2f6173736574732e706f73746d616e2e636f6d2f706f73746d616e2d646f63732f77726974652d7065726d697373696f6e2d69737375652e706e67" class="css-9pa8cd" draggable="false" />
 
 <span key="c5de0fdf7d4f4ce2b63ef09e6828a3f7"><span offset-key="c5de0fdf7d4f4ce2b63ef09e6828a3f7:0">Write Permission Issue in DevTools</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="c6e80fa71bbf479f9be2108bc7e63ae0">**Error message:**<span offset-key="c6e80fa71bbf479f9be2108bc7e63ae0:1"> </span>`Code signature at URL file:///... did not pass validation: code object is not signed at all`</span>
+  <span key="c6e80fa71bbf479f9be2108bc7e63ae0">**Error message:**<span offset-key="c6e80fa71bbf479f9be2108bc7e63ae0:1"> </span>`Code signature at URL file:///... did not pass validation: code object is not signed at all`</span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-        <span key="c71fe02f81bc49cd96d635e558118437"><span offset-key="c71fe02f81bc49cd96d635e558118437:0">This error means that there are multiple updates running at the same time. This can happen when the app is opened before the previous update could finish. To resolve the problem, quit and reopen the app.</span></span>
+    <span key="c71fe02f81bc49cd96d635e558118437"><span offset-key="c71fe02f81bc49cd96d635e558118437:0">This error means that there are multiple updates running at the same time. This can happen when the app is opened before the previous update could finish. To resolve the problem, quit and reopen the app.</span></span>
 
 <span key="45c2a596b7824a4db056734bac3bb6a6"><span offset-key="45c2a596b7824a4db056734bac3bb6a6:0"><span slate-zero-width="z">​</span></span></span><a href="https://camo.githubusercontent.com/c5e998ba8d4ab426b6beb383a06c11e362701b841e0ec649c1aec7b8c3092c51/68747470733a2f2f6173736574732e706f73746d616e2e636f6d2f706f73746d616e2d646f63732f6d756c7469706c652d757064617465732d72756e6e696e672e706e67" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="cc8550a07d75411e91d113b7dce7412d" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="a2b0951dcd77470d9decd5e16a08af55"><span data-offset-key="a2b0951dcd77470d9decd5e16a08af55:0"><span data-slate-zero-width="z">​</span></span></span><span data-slate-void="true" data-key="e85b094a2bed4bd19dfa5e4737c13fbb"><span></span></span></span></a>
 
@@ -1006,103 +1006,103 @@ Copied!
 
 <span key="778a410c603b4274953e737c231aa88a"><span offset-key="778a410c603b4274953e737c231aa88a:0"><span slate-zero-width="z">​</span></span></span><span key="14e814f9150b41719c4fd67e69047a1e"><span offset-key="14e814f9150b41719c4fd67e69047a1e:0"><span slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span key="edfb93fb10a44f40a12cd325503b34c3"><span offset-key="edfb93fb10a44f40a12cd325503b34c3:0">Update button not available</span></span>
 
 <span key="b8f5ab28ef044e4ca49d346c11e28195"><span offset-key="b8f5ab28ef044e4ca49d346c11e28195:0">If you are using Postman for Linux, and installed the app with the Ubuntu Software Center or Snap Store, you may not see a </span>**Check for updates**<span offset-key="b8f5ab28ef044e4ca49d346c11e28195:2"> button. This is because the updates are handled by the store, which should automatically update Postman on a regular cadence.</span></span>
 
-## 
+##
 
 <span key="e9d70d9415a34badb0c03b6393e5ccfd"><span offset-key="e9d70d9415a34badb0c03b6393e5ccfd:0">Next steps</span></span>
 
 <span key="aa5c93b23ac4473ab9334e6bd9e4ed8d"><span offset-key="aa5c93b23ac4473ab9334e6bd9e4ed8d:0">If you're having trouble with installation or updates, reach out for </span></span><a href="https://www.postman.com/support" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f4fd573ffe7748e7b3606e9d061924e1" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="dfedcd7b02044e5496043c0cc2b6f053"><span data-offset-key="dfedcd7b02044e5496043c0cc2b6f053:0">Postman support</span></span></span></a><span key="ef87180c4de244bda28e9a4dd0b32980"><span offset-key="ef87180c4de244bda28e9a4dd0b32980:0">. If your installation is working as expected, </span></span><a href="https://github.com/postmanlabs/postman-docs/blob/develop/docs/getting-started/sending-the-first-request" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f2cebe3db5aa41bfa98ff28dc008ff57" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="86374421a2304a6b9fd4f371b3f981b3"><span data-offset-key="86374421a2304a6b9fd4f371b3f981b3:0">send your first request</span></span></span></a><span key="14102242c4bd4e6a8810f3367cab6a30"><span offset-key="14102242c4bd4e6a8810f3367cab6a30:0">!</span></span>
 
-# 
+#
 
 <span key="f9ec9a21bd5a467abdcc69a1ce087557"><span offset-key="f9ec9a21bd5a467abdcc69a1ce087557:0">Postman JavaScript reference</span></span>
 
 <span key="d4cea9d2cb834d939635f9cdf80f3831"><span offset-key="d4cea9d2cb834d939635f9cdf80f3831:0">Postman provides JavaScript APIs that you can use in your request scripts. The </span>`pm`<span offset-key="d4cea9d2cb834d939635f9cdf80f3831:2"> object provides most of the functionality for testing your request and response data, with the </span>`postman`<span offset-key="d4cea9d2cb834d939635f9cdf80f3831:4"> object providing some additional workflow control.</span></span>
 
-## 
+##
 
 <span key="21bf535bbe4c47eb8ad6aafc3a2b8327"><span offset-key="21bf535bbe4c47eb8ad6aafc3a2b8327:0">Contents</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="05dab7c32fae42abbac2e7b3c1750058"><span offset-key="05dab7c32fae42abbac2e7b3c1750058:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#the-pm-object" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0b85a062aee941d39c463932c3abdaa9" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="ce9cd3ab270148a882bdf106824b6dce"><span data-offset-key="ce9cd3ab270148a882bdf106824b6dce:0">The pm object</span></span></span></a><span key="76882c48389c47cfb421e91d1cb3054e"><span offset-key="76882c48389c47cfb421e91d1cb3054e:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="05dab7c32fae42abbac2e7b3c1750058"><span offset-key="05dab7c32fae42abbac2e7b3c1750058:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#the-pm-object" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0b85a062aee941d39c463932c3abdaa9" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="ce9cd3ab270148a882bdf106824b6dce"><span data-offset-key="ce9cd3ab270148a882bdf106824b6dce:0">The pm object</span></span></span></a><span key="76882c48389c47cfb421e91d1cb3054e"><span offset-key="76882c48389c47cfb421e91d1cb3054e:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-        <span key="68b8d56dc5714702a8d11936cb87a2ac"><span offset-key="68b8d56dc5714702a8d11936cb87a2ac:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#using-variables-in-scripts" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="bed12e9e9e454f17a3849f8a28a3b007" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="e054bd3d62d647b680b411bc2dbbcf5f"><span data-offset-key="e054bd3d62d647b680b411bc2dbbcf5f:0">Using variables in scripts</span></span></span></a><span key="4c2fd2432be8470cb08b78794338590c"><span offset-key="4c2fd2432be8470cb08b78794338590c:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="68b8d56dc5714702a8d11936cb87a2ac"><span offset-key="68b8d56dc5714702a8d11936cb87a2ac:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#using-variables-in-scripts" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="bed12e9e9e454f17a3849f8a28a3b007" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="e054bd3d62d647b680b411bc2dbbcf5f"><span data-offset-key="e054bd3d62d647b680b411bc2dbbcf5f:0">Using variables in scripts</span></span></span></a><span key="4c2fd2432be8470cb08b78794338590c"><span offset-key="4c2fd2432be8470cb08b78794338590c:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-            <span key="94c4e1258d71492baeec17298be627d2"><span offset-key="94c4e1258d71492baeec17298be627d2:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#using-environment-variables-in-scripts" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="64e5c0b1df524837a1673f8a43ebd830" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="38455e757cf04cbdaf2f5a35d8ff1913"><span data-offset-key="38455e757cf04cbdaf2f5a35d8ff1913:0">Environment variables</span></span></span></a><span key="ed660d372daa4f8fa9241f1e4a00c613"><span offset-key="ed660d372daa4f8fa9241f1e4a00c613:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="94c4e1258d71492baeec17298be627d2"><span offset-key="94c4e1258d71492baeec17298be627d2:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#using-environment-variables-in-scripts" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="64e5c0b1df524837a1673f8a43ebd830" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="38455e757cf04cbdaf2f5a35d8ff1913"><span data-offset-key="38455e757cf04cbdaf2f5a35d8ff1913:0">Environment variables</span></span></span></a><span key="ed660d372daa4f8fa9241f1e4a00c613"><span offset-key="ed660d372daa4f8fa9241f1e4a00c613:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-            <span key="81312f9287ee4d3a9e69ca096a33e0ed"><span offset-key="81312f9287ee4d3a9e69ca096a33e0ed:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#using-collection-variables-in-scripts" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e9b76fab8e6b41c691e476bd4e64bd27" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="db32ec5718704ec7a6e817af6b7e90ca"><span data-offset-key="db32ec5718704ec7a6e817af6b7e90ca:0">Collection variables</span></span></span></a><span key="df06611576834edaac6f0478943060c9"><span offset-key="df06611576834edaac6f0478943060c9:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="81312f9287ee4d3a9e69ca096a33e0ed"><span offset-key="81312f9287ee4d3a9e69ca096a33e0ed:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#using-collection-variables-in-scripts" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e9b76fab8e6b41c691e476bd4e64bd27" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="db32ec5718704ec7a6e817af6b7e90ca"><span data-offset-key="db32ec5718704ec7a6e817af6b7e90ca:0">Collection variables</span></span></span></a><span key="df06611576834edaac6f0478943060c9"><span offset-key="df06611576834edaac6f0478943060c9:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-            <span key="3eb79b26609e49a9aa9ab1e50fc1564d"><span offset-key="3eb79b26609e49a9aa9ab1e50fc1564d:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#using-global-variables-in-scripts" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="445e360f1b6f47d28cf394f6c1511c4c" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="0429d88db66c497d97f32b0a79450fdf"><span data-offset-key="0429d88db66c497d97f32b0a79450fdf:0">Global variables</span></span></span></a><span key="347ac7a1bcf34660b12c12100bd539a1"><span offset-key="347ac7a1bcf34660b12c12100bd539a1:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="3eb79b26609e49a9aa9ab1e50fc1564d"><span offset-key="3eb79b26609e49a9aa9ab1e50fc1564d:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#using-global-variables-in-scripts" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="445e360f1b6f47d28cf394f6c1511c4c" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="0429d88db66c497d97f32b0a79450fdf"><span data-offset-key="0429d88db66c497d97f32b0a79450fdf:0">Global variables</span></span></span></a><span key="347ac7a1bcf34660b12c12100bd539a1"><span offset-key="347ac7a1bcf34660b12c12100bd539a1:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-            <span key="47fa535e428b4e87b926c069b052e1eb"><span offset-key="47fa535e428b4e87b926c069b052e1eb:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#using-data-variables-in-scripts" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3ba4b8871e2545f5a1c755e441c905ca" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="45b4f1d611ea4553a2b4b8dd30f647ec"><span data-offset-key="45b4f1d611ea4553a2b4b8dd30f647ec:0">Data variables</span></span></span></a><span key="7af103a1891a4b1bab763b6ff755e582"><span offset-key="7af103a1891a4b1bab763b6ff755e582:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="47fa535e428b4e87b926c069b052e1eb"><span offset-key="47fa535e428b4e87b926c069b052e1eb:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#using-data-variables-in-scripts" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3ba4b8871e2545f5a1c755e441c905ca" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="45b4f1d611ea4553a2b4b8dd30f647ec"><span data-offset-key="45b4f1d611ea4553a2b4b8dd30f647ec:0">Data variables</span></span></span></a><span key="7af103a1891a4b1bab763b6ff755e582"><span offset-key="7af103a1891a4b1bab763b6ff755e582:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-        <span key="0ad19cf3145b45dca524888f3fdcb6ea"><span offset-key="0ad19cf3145b45dca524888f3fdcb6ea:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#scripting-with-request-and-response-data" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1a041b423e074a94a6645a9eff4461e8" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="25118aa5ee424bf9b3d40a5d290916fd"><span data-offset-key="25118aa5ee424bf9b3d40a5d290916fd:0">Scripting with request and response data</span></span></span></a><span key="1b4139e7c3f74f56805fb413c967291e"><span offset-key="1b4139e7c3f74f56805fb413c967291e:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="0ad19cf3145b45dca524888f3fdcb6ea"><span offset-key="0ad19cf3145b45dca524888f3fdcb6ea:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#scripting-with-request-and-response-data" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1a041b423e074a94a6645a9eff4461e8" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="25118aa5ee424bf9b3d40a5d290916fd"><span data-offset-key="25118aa5ee424bf9b3d40a5d290916fd:0">Scripting with request and response data</span></span></span></a><span key="1b4139e7c3f74f56805fb413c967291e"><span offset-key="1b4139e7c3f74f56805fb413c967291e:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-            <span key="4a18b86f45894cfe979ef4d6d1d8dd3d"><span offset-key="4a18b86f45894cfe979ef4d6d1d8dd3d:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#scripting-with-request-data" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="390995935d7e483594071b0f21aa41ed" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="c32b24d87d804259809df26ac87f2048"><span data-offset-key="c32b24d87d804259809df26ac87f2048:0">Request data</span></span></span></a><span key="a67a6b90b3114af180372af83c5f48c4"><span offset-key="a67a6b90b3114af180372af83c5f48c4:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="4a18b86f45894cfe979ef4d6d1d8dd3d"><span offset-key="4a18b86f45894cfe979ef4d6d1d8dd3d:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#scripting-with-request-data" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="390995935d7e483594071b0f21aa41ed" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="c32b24d87d804259809df26ac87f2048"><span data-offset-key="c32b24d87d804259809df26ac87f2048:0">Request data</span></span></span></a><span key="a67a6b90b3114af180372af83c5f48c4"><span offset-key="a67a6b90b3114af180372af83c5f48c4:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-            <span key="b6e02c8a0ad64c71be96a2bd0d2be702"><span offset-key="b6e02c8a0ad64c71be96a2bd0d2be702:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#scripting-with-response-data" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3a27922738d740adbccd7209433ef3fa" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="7d0cd066a7834a2d9105d689091c3598"><span data-offset-key="7d0cd066a7834a2d9105d689091c3598:0">Response data</span></span></span></a><span key="a7dca2a69ed7443c85c70298a0d472cd"><span offset-key="a7dca2a69ed7443c85c70298a0d472cd:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="b6e02c8a0ad64c71be96a2bd0d2be702"><span offset-key="b6e02c8a0ad64c71be96a2bd0d2be702:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#scripting-with-response-data" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3a27922738d740adbccd7209433ef3fa" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="7d0cd066a7834a2d9105d689091c3598"><span data-offset-key="7d0cd066a7834a2d9105d689091c3598:0">Response data</span></span></span></a><span key="a7dca2a69ed7443c85c70298a0d472cd"><span offset-key="a7dca2a69ed7443c85c70298a0d472cd:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-            <span key="3a0cd30bbb3844b789979168cee268d4"><span offset-key="3a0cd30bbb3844b789979168cee268d4:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#scripting-with-request-info" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="40db8c6553874343a5c3b8cb9125cd58" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="96eb01baef8a4d5c9f39eed1ecf5443a"><span data-offset-key="96eb01baef8a4d5c9f39eed1ecf5443a:0">Request info</span></span></span></a><span key="bb9652d55a1240ec9ba2a9a751fb4574"><span offset-key="bb9652d55a1240ec9ba2a9a751fb4574:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="3a0cd30bbb3844b789979168cee268d4"><span offset-key="3a0cd30bbb3844b789979168cee268d4:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#scripting-with-request-info" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="40db8c6553874343a5c3b8cb9125cd58" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="96eb01baef8a4d5c9f39eed1ecf5443a"><span data-offset-key="96eb01baef8a4d5c9f39eed1ecf5443a:0">Request info</span></span></span></a><span key="bb9652d55a1240ec9ba2a9a751fb4574"><span offset-key="bb9652d55a1240ec9ba2a9a751fb4574:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-            <span key="991c89e45f28494da5e31d110e0ff553"><span offset-key="991c89e45f28494da5e31d110e0ff553:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#scripting-with-request-cookies" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="185e4a5ec5694752b61f705dca80e318" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="1cfa5424fe064f46b48bd8081fd1bd2b"><span data-offset-key="1cfa5424fe064f46b48bd8081fd1bd2b:0">Cookies</span></span></span></a><span key="26a5b83c50be4e54ac6609b956d5f230"><span offset-key="26a5b83c50be4e54ac6609b956d5f230:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="991c89e45f28494da5e31d110e0ff553"><span offset-key="991c89e45f28494da5e31d110e0ff553:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#scripting-with-request-cookies" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="185e4a5ec5694752b61f705dca80e318" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="1cfa5424fe064f46b48bd8081fd1bd2b"><span data-offset-key="1cfa5424fe064f46b48bd8081fd1bd2b:0">Cookies</span></span></span></a><span key="26a5b83c50be4e54ac6609b956d5f230"><span offset-key="26a5b83c50be4e54ac6609b956d5f230:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-        <span key="257ef237dc5144848f3916ff6ce039cd"><span offset-key="257ef237dc5144848f3916ff6ce039cd:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#sending-requests-from-scripts" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c13010c52b3c495081bd44e6f96f602e" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="6655ed71ca49464d9feadcfba5dd9721"><span data-offset-key="6655ed71ca49464d9feadcfba5dd9721:0">Sending requests from scripts</span></span></span></a><span key="14c5203fa98e4a578f7f42f06db9c48e"><span offset-key="14c5203fa98e4a578f7f42f06db9c48e:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="257ef237dc5144848f3916ff6ce039cd"><span offset-key="257ef237dc5144848f3916ff6ce039cd:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#sending-requests-from-scripts" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c13010c52b3c495081bd44e6f96f602e" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="6655ed71ca49464d9feadcfba5dd9721"><span data-offset-key="6655ed71ca49464d9feadcfba5dd9721:0">Sending requests from scripts</span></span></span></a><span key="14c5203fa98e4a578f7f42f06db9c48e"><span offset-key="14c5203fa98e4a578f7f42f06db9c48e:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="a0321cd02cec47c59c012eb33715cbd5"><span offset-key="a0321cd02cec47c59c012eb33715cbd5:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#scripting-workflows" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="654e4d7d230243ab9fe05a257aea0005" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="942c3dc3ba7d45d29eb180c11d7fbc81"><span data-offset-key="942c3dc3ba7d45d29eb180c11d7fbc81:0">Scripting workflows</span></span></span></a><span key="0929c4b442884feabb470b8ee71b1bea"><span offset-key="0929c4b442884feabb470b8ee71b1bea:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="a0321cd02cec47c59c012eb33715cbd5"><span offset-key="a0321cd02cec47c59c012eb33715cbd5:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#scripting-workflows" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="654e4d7d230243ab9fe05a257aea0005" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="942c3dc3ba7d45d29eb180c11d7fbc81"><span data-offset-key="942c3dc3ba7d45d29eb180c11d7fbc81:0">Scripting workflows</span></span></span></a><span key="0929c4b442884feabb470b8ee71b1bea"><span offset-key="0929c4b442884feabb470b8ee71b1bea:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="8d8aebc250474576b6339abb46032e6d"><span offset-key="8d8aebc250474576b6339abb46032e6d:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#scripting-visualizations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="42016b1a2af84079af67694174c4a880" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="ca31aeb249974f9b8cf7047a92afce24"><span data-offset-key="ca31aeb249974f9b8cf7047a92afce24:0">Scripting visualizations</span></span></span></a><span key="459db8ab9014492199f1769c96a9489b"><span offset-key="459db8ab9014492199f1769c96a9489b:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="8d8aebc250474576b6339abb46032e6d"><span offset-key="8d8aebc250474576b6339abb46032e6d:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#scripting-visualizations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="42016b1a2af84079af67694174c4a880" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="ca31aeb249974f9b8cf7047a92afce24"><span data-offset-key="ca31aeb249974f9b8cf7047a92afce24:0">Scripting visualizations</span></span></span></a><span key="459db8ab9014492199f1769c96a9489b"><span offset-key="459db8ab9014492199f1769c96a9489b:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="872b181a7f564387af8fc861ef929cbc"><span offset-key="872b181a7f564387af8fc861ef929cbc:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#building-response-data-into-visualizations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="633cc0c77d4743f38a551b01016a37a7" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="ba680221483743a0a2fe02cce577e103"><span data-offset-key="ba680221483743a0a2fe02cce577e103:0">Building response data into visualizations</span></span></span></a><span key="b26dba9193384724820054594ac72210"><span offset-key="b26dba9193384724820054594ac72210:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="872b181a7f564387af8fc861ef929cbc"><span offset-key="872b181a7f564387af8fc861ef929cbc:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#building-response-data-into-visualizations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="633cc0c77d4743f38a551b01016a37a7" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="ba680221483743a0a2fe02cce577e103"><span data-offset-key="ba680221483743a0a2fe02cce577e103:0">Building response data into visualizations</span></span></span></a><span key="b26dba9193384724820054594ac72210"><span offset-key="b26dba9193384724820054594ac72210:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="c7c68023df53406faa10b4abd84d9241"><span offset-key="c7c68023df53406faa10b4abd84d9241:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#writing-test-assertions" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3999f34d04f64907a049275dba54a30b" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="11202a876351495e94fa5fb3c7629949"><span data-offset-key="11202a876351495e94fa5fb3c7629949:0">Writing test assertions</span></span></span></a><span key="a66f14aa4b484aa7af6ca38060a0ac69"><span offset-key="a66f14aa4b484aa7af6ca38060a0ac69:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="c7c68023df53406faa10b4abd84d9241"><span offset-key="c7c68023df53406faa10b4abd84d9241:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#writing-test-assertions" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3999f34d04f64907a049275dba54a30b" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="11202a876351495e94fa5fb3c7629949"><span data-offset-key="11202a876351495e94fa5fb3c7629949:0">Writing test assertions</span></span></span></a><span key="a66f14aa4b484aa7af6ca38060a0ac69"><span offset-key="a66f14aa4b484aa7af6ca38060a0ac69:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="fe5730fe36594d0ea574e304e99f7f5c"><span offset-key="fe5730fe36594d0ea574e304e99f7f5c:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#using-external-libraries" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="80f040fdc3bb49988d1580bf64e9f1c0" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="2d787b2e0ec940118fde944b2eb4baad"><span data-offset-key="2d787b2e0ec940118fde944b2eb4baad:0">Using external libraries</span></span></span></a><span key="4d02ecbc4707440ca52a2bd3a5b0cd1e"><span offset-key="4d02ecbc4707440ca52a2bd3a5b0cd1e:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="fe5730fe36594d0ea574e304e99f7f5c"><span offset-key="fe5730fe36594d0ea574e304e99f7f5c:0"><span slate-zero-width="z">​</span></span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#using-external-libraries" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="80f040fdc3bb49988d1580bf64e9f1c0" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="2d787b2e0ec940118fde944b2eb4baad"><span data-offset-key="2d787b2e0ec940118fde944b2eb4baad:0">Using external libraries</span></span></span></a><span key="4d02ecbc4707440ca52a2bd3a5b0cd1e"><span offset-key="4d02ecbc4707440ca52a2bd3a5b0cd1e:0"><span slate-zero-width="z">​</span></span></span>
 
-## 
+##
 
 <span key="6cf78779c093465db2393e43fce0106e"><span offset-key="6cf78779c093465db2393e43fce0106e:0">The pm object</span></span>
 
 <span key="8113aa3410844302b5e5304a67400a62"><span offset-key="8113aa3410844302b5e5304a67400a62:0">You will carry out most of the Postman JavaScript API functionality using </span>`pm.*`<span offset-key="8113aa3410844302b5e5304a67400a62:2">, which provides access to request and response data, and variables.</span></span>
 
-### 
+###
 
 <span key="e19c304962984524bad73cf564f0fa9b"><span offset-key="e19c304962984524bad73cf564f0fa9b:0">Using variables in scripts</span></span>
 
@@ -1112,9 +1112,9 @@ Copied!
 
 <span key="b202b5e7b32a45cc835a6e45f1086033"><span offset-key="b202b5e7b32a45cc835a6e45f1086033:0">Postman supports a variety of variable </span></span><a href="https://learning.postman.com/docs/sending-requests/variables/#variable-scopes" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2f1661a509314549a99280a1ef9d1ff2" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="51fd7a06c6134045903c209552a761e7"><span data-offset-key="51fd7a06c6134045903c209552a761e7:0">scopes</span></span></span></a><span key="70c4f945486149299fd42dad829198d0"><span offset-key="70c4f945486149299fd42dad829198d0:0">. The </span>`pm`<span offset-key="70c4f945486149299fd42dad829198d0:2"> object provides methods for accessing global, collection, and environment variables specifically, and </span>`pm.variables`<span offset-key="70c4f945486149299fd42dad829198d0:4"> methods for accessing variables at different scopes as well as setting local variables.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="32a7ecb8e64f4ba0ad49c7db3e988e8b"><span offset-key="32a7ecb8e64f4ba0ad49c7db3e988e8b:0">Check if there is a Postman variable in the current scope:</span></span>
+  <span key="32a7ecb8e64f4ba0ad49c7db3e988e8b"><span offset-key="32a7ecb8e64f4ba0ad49c7db3e988e8b:0">Check if there is a Postman variable in the current scope:</span></span>
 
 1
 
@@ -1124,9 +1124,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="fb88201bf86a4715b822971340304eca"><span offset-key="fb88201bf86a4715b822971340304eca:0">Get the value of the Postman variable with the specified name:</span></span>
+  <span key="fb88201bf86a4715b822971340304eca"><span offset-key="fb88201bf86a4715b822971340304eca:0">Get the value of the Postman variable with the specified name:</span></span>
 
 1
 
@@ -1136,9 +1136,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="e4b837f258b547b29bf7246718f74893"><span offset-key="e4b837f258b547b29bf7246718f74893:0">Set a local variable with the specified name and value:</span></span>
+  <span key="e4b837f258b547b29bf7246718f74893"><span offset-key="e4b837f258b547b29bf7246718f74893:0">Set a local variable with the specified name and value:</span></span>
 
 1
 
@@ -1148,9 +1148,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="782af4f8453847b694d64f30fbc69061"><span offset-key="782af4f8453847b694d64f30fbc69061:0">Return the resolved value of a dynamic variable inside a script using the syntax </span>`{{$variableName}}`<span offset-key="782af4f8453847b694d64f30fbc69061:2">:</span></span>
+  <span key="782af4f8453847b694d64f30fbc69061"><span offset-key="782af4f8453847b694d64f30fbc69061:0">Return the resolved value of a dynamic variable inside a script using the syntax </span>`{{$variableName}}`<span offset-key="782af4f8453847b694d64f30fbc69061:2">:</span></span>
 
 1
 
@@ -1174,9 +1174,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="c2351b9324bc4b198d6175d7ea915dbc"><span offset-key="c2351b9324bc4b198d6175d7ea915dbc:0">Return an object containing all variables with their values in the current scope. Based on the order of precedence, this will contain variables from multiple scopes.</span></span>
+  <span key="c2351b9324bc4b198d6175d7ea915dbc"><span offset-key="c2351b9324bc4b198d6175d7ea915dbc:0">Return an object containing all variables with their values in the current scope. Based on the order of precedence, this will contain variables from multiple scopes.</span></span>
 
 1
 
@@ -1188,25 +1188,25 @@ Copied!
 
 <span key="92ace2c083d2446b93a6cccf10d917ce"><span offset-key="92ace2c083d2446b93a6cccf10d917ce:0">Variable scope determines the precedence Postman gives to variables when you reference them, in order of increasing precedence:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="0064fc0bdb514cbbb650d05d98b268c5"><span offset-key="0064fc0bdb514cbbb650d05d98b268c5:0">Global</span></span>
+  <span key="0064fc0bdb514cbbb650d05d98b268c5"><span offset-key="0064fc0bdb514cbbb650d05d98b268c5:0">Global</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="e05e9784914647f3abce429f3cbff6ce"><span offset-key="e05e9784914647f3abce429f3cbff6ce:0">Environment</span></span>
+  <span key="e05e9784914647f3abce429f3cbff6ce"><span offset-key="e05e9784914647f3abce429f3cbff6ce:0">Environment</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="e6e19f096b0c471096569426acf8ee2e"><span offset-key="e6e19f096b0c471096569426acf8ee2e:0">Collection</span></span>
+  <span key="e6e19f096b0c471096569426acf8ee2e"><span offset-key="e6e19f096b0c471096569426acf8ee2e:0">Collection</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="2af4d8d5039d4454a8f3f96162a554cc"><span offset-key="2af4d8d5039d4454a8f3f96162a554cc:0">Data</span></span>
+  <span key="2af4d8d5039d4454a8f3f96162a554cc"><span offset-key="2af4d8d5039d4454a8f3f96162a554cc:0">Data</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="f899ba5974b741a6b4eca8b3b0053af4"><span offset-key="f899ba5974b741a6b4eca8b3b0053af4:0">Local</span></span>
+  <span key="f899ba5974b741a6b4eca8b3b0053af4"><span offset-key="f899ba5974b741a6b4eca8b3b0053af4:0">Local</span></span>
 
 <span key="afc397ace6324be7b10062570550e043"><span offset-key="afc397ace6324be7b10062570550e043:0">The variable with the closest scope overrides any others. For example, if you have variables named </span>`score`<span offset-key="afc397ace6324be7b10062570550e043:2"> in both the current collection and the active environment, and you call </span>`pm.variables.get('score')`<span offset-key="afc397ace6324be7b10062570550e043:4">, Postman will return the current value of the environment variable. When you set a variable value using </span>`pm.variables.set`<span offset-key="afc397ace6324be7b10062570550e043:6">, the value is local and will only persist for the current request or collection run.</span></span>
 
@@ -1278,9 +1278,9 @@ Copied!
 
 <span key="2fbe93f3fe0347739210f6832a22ad9e"><span offset-key="2fbe93f3fe0347739210f6832a22ad9e:0">Your scripts can use the </span>`pm.environment`<span offset-key="2fbe93f3fe0347739210f6832a22ad9e:2"> methods to access and manipulate variables in the active (currently selected) environment.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="3de65392b07c43feaf20e4033f8d6fc1"><span offset-key="3de65392b07c43feaf20e4033f8d6fc1:0">The name of the active environment:</span></span>
+  <span key="3de65392b07c43feaf20e4033f8d6fc1"><span offset-key="3de65392b07c43feaf20e4033f8d6fc1:0">The name of the active environment:</span></span>
 
 1
 
@@ -1290,9 +1290,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="fab467bd3221431b88aae956f131dc51"><span offset-key="fab467bd3221431b88aae956f131dc51:0">Check whether the environment has a variable with the specified name:</span></span>
+  <span key="fab467bd3221431b88aae956f131dc51"><span offset-key="fab467bd3221431b88aae956f131dc51:0">Check whether the environment has a variable with the specified name:</span></span>
 
 1
 
@@ -1302,9 +1302,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="c249d9b235a249f598502f9383ee4b8a"><span offset-key="c249d9b235a249f598502f9383ee4b8a:0">Get the variable with the specified name in the active environment:</span></span>
+  <span key="c249d9b235a249f598502f9383ee4b8a"><span offset-key="c249d9b235a249f598502f9383ee4b8a:0">Get the variable with the specified name in the active environment:</span></span>
 
 1
 
@@ -1314,9 +1314,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="d5783045efdd4a4d8bced72750939162"><span offset-key="d5783045efdd4a4d8bced72750939162:0">Set the variable with the specified name and value in the active environment:</span></span>
+  <span key="d5783045efdd4a4d8bced72750939162"><span offset-key="d5783045efdd4a4d8bced72750939162:0">Set the variable with the specified name and value in the active environment:</span></span>
 
 1
 
@@ -1326,9 +1326,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="e200920e4fa64910a46260921f355625"><span offset-key="e200920e4fa64910a46260921f355625:0">Return the resolved value of a dynamic variable inside a script using the syntax </span>`{{$variableName}}`<span offset-key="e200920e4fa64910a46260921f355625:2">:</span></span>
+  <span key="e200920e4fa64910a46260921f355625"><span offset-key="e200920e4fa64910a46260921f355625:0">Return the resolved value of a dynamic variable inside a script using the syntax </span>`{{$variableName}}`<span offset-key="e200920e4fa64910a46260921f355625:2">:</span></span>
 
 1
 
@@ -1356,9 +1356,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="b26cbd4232604c168226f696afa2f889"><span offset-key="b26cbd4232604c168226f696afa2f889:0">Return all variables with their values in the active environment in a single object:</span></span>
+  <span key="b26cbd4232604c168226f696afa2f889"><span offset-key="b26cbd4232604c168226f696afa2f889:0">Return all variables with their values in the active environment in a single object:</span></span>
 
 1
 
@@ -1368,9 +1368,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="3cde91120d3d4b859b217d36a7c8c95c"><span offset-key="3cde91120d3d4b859b217d36a7c8c95c:0">Remove a variable from the active environment, specifying the variable by name:</span></span>
+  <span key="3cde91120d3d4b859b217d36a7c8c95c"><span offset-key="3cde91120d3d4b859b217d36a7c8c95c:0">Remove a variable from the active environment, specifying the variable by name:</span></span>
 
 1
 
@@ -1380,9 +1380,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="a1396c4f75e045b9b547641106fdc491"><span offset-key="a1396c4f75e045b9b547641106fdc491:0">Clear all variables in the active environment:</span></span>
+  <span key="a1396c4f75e045b9b547641106fdc491"><span offset-key="a1396c4f75e045b9b547641106fdc491:0">Clear all variables in the active environment:</span></span>
 
 1
 
@@ -1398,9 +1398,9 @@ Copied!
 
 <span key="2913184168904734aa2f3f49f42c1682"><span offset-key="2913184168904734aa2f3f49f42c1682:0">Your scripts can use the </span>`pm.collectionVariables`<span offset-key="2913184168904734aa2f3f49f42c1682:2"> methods to access and manipulate variables in the collection.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="17c39b82ee074d6981d6d956596bcacd"><span offset-key="17c39b82ee074d6981d6d956596bcacd:0">Check whether there is a variable in the collection with the specified name:</span></span>
+  <span key="17c39b82ee074d6981d6d956596bcacd"><span offset-key="17c39b82ee074d6981d6d956596bcacd:0">Check whether there is a variable in the collection with the specified name:</span></span>
 
 1
 
@@ -1410,9 +1410,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="8b860ad5ad1348f499b8bebb44b13568"><span offset-key="8b860ad5ad1348f499b8bebb44b13568:0">Return the value of the collection variable with the specified name:</span></span>
+  <span key="8b860ad5ad1348f499b8bebb44b13568"><span offset-key="8b860ad5ad1348f499b8bebb44b13568:0">Return the value of the collection variable with the specified name:</span></span>
 
 1
 
@@ -1422,9 +1422,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="5fbebe1d43ac41af8b7f99df8c864a04"><span offset-key="5fbebe1d43ac41af8b7f99df8c864a04:0">Set a collection variable with the specified name and value:</span></span>
+  <span key="5fbebe1d43ac41af8b7f99df8c864a04"><span offset-key="5fbebe1d43ac41af8b7f99df8c864a04:0">Set a collection variable with the specified name and value:</span></span>
 
 1
 
@@ -1434,9 +1434,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="82aa62a5af7949f59a923ca350ad3f04"><span offset-key="82aa62a5af7949f59a923ca350ad3f04:0">Return the resolved value of a dynamic variable inside a script using the syntax </span>`{{$variableName}}`<span offset-key="82aa62a5af7949f59a923ca350ad3f04:2">:</span></span>
+  <span key="82aa62a5af7949f59a923ca350ad3f04"><span offset-key="82aa62a5af7949f59a923ca350ad3f04:0">Return the resolved value of a dynamic variable inside a script using the syntax </span>`{{$variableName}}`<span offset-key="82aa62a5af7949f59a923ca350ad3f04:2">:</span></span>
 
 1
 
@@ -1464,9 +1464,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="5bd6ac1c205c4c36883deddce0f9ed05"><span offset-key="5bd6ac1c205c4c36883deddce0f9ed05:0">Return all variables with their values in the collection in an object:</span></span>
+  <span key="5bd6ac1c205c4c36883deddce0f9ed05"><span offset-key="5bd6ac1c205c4c36883deddce0f9ed05:0">Return all variables with their values in the collection in an object:</span></span>
 
 1
 
@@ -1476,9 +1476,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="4bd8ed9090b44fe1bd0e5c574e189f27"><span offset-key="4bd8ed9090b44fe1bd0e5c574e189f27:0">Remove the specified variable from the collection:</span></span>
+  <span key="4bd8ed9090b44fe1bd0e5c574e189f27"><span offset-key="4bd8ed9090b44fe1bd0e5c574e189f27:0">Remove the specified variable from the collection:</span></span>
 
 1
 
@@ -1488,9 +1488,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="3c986a71e9024ebea3ea5be5f082e949"><span offset-key="3c986a71e9024ebea3ea5be5f082e949:0">Clear all variables from the collection:</span></span>
+  <span key="3c986a71e9024ebea3ea5be5f082e949"><span offset-key="3c986a71e9024ebea3ea5be5f082e949:0">Clear all variables from the collection:</span></span>
 
 1
 
@@ -1504,9 +1504,9 @@ Copied!
 
 <span key="0c188d54acdb412b93d73a38c9808f66"><span offset-key="0c188d54acdb412b93d73a38c9808f66:0">Your scripts can use the </span>`pm.globals`<span offset-key="0c188d54acdb412b93d73a38c9808f66:2"> methods to access and manipulate variables at global scope within the workspace.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="1b31006fc9cb47848ec72720de34e7ee"><span offset-key="1b31006fc9cb47848ec72720de34e7ee:0">Check where there is a global variable with the specified name:</span></span>
+  <span key="1b31006fc9cb47848ec72720de34e7ee"><span offset-key="1b31006fc9cb47848ec72720de34e7ee:0">Check where there is a global variable with the specified name:</span></span>
 
 1
 
@@ -1516,9 +1516,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="9d01b26417cc4681a3531c1e6e506ae0"><span offset-key="9d01b26417cc4681a3531c1e6e506ae0:0">Return the value of the global variable with the specified name:</span></span>
+  <span key="9d01b26417cc4681a3531c1e6e506ae0"><span offset-key="9d01b26417cc4681a3531c1e6e506ae0:0">Return the value of the global variable with the specified name:</span></span>
 
 1
 
@@ -1528,9 +1528,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="f70cf31ca04440d995e879b033638382"><span offset-key="f70cf31ca04440d995e879b033638382:0">Set a global variable with specified name and value:</span></span>
+  <span key="f70cf31ca04440d995e879b033638382"><span offset-key="f70cf31ca04440d995e879b033638382:0">Set a global variable with specified name and value:</span></span>
 
 1
 
@@ -1540,9 +1540,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="6feb7771da7c410d82e7ed9f175fd3f9"><span offset-key="6feb7771da7c410d82e7ed9f175fd3f9:0">Return the resolved value of a dynamic variable inside a script using the syntax </span>`{{$variableName}}`<span offset-key="6feb7771da7c410d82e7ed9f175fd3f9:2">:</span></span>
+  <span key="6feb7771da7c410d82e7ed9f175fd3f9"><span offset-key="6feb7771da7c410d82e7ed9f175fd3f9:0">Return the resolved value of a dynamic variable inside a script using the syntax </span>`{{$variableName}}`<span offset-key="6feb7771da7c410d82e7ed9f175fd3f9:2">:</span></span>
 
 1
 
@@ -1570,9 +1570,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="150bbbf282bf4642888fde26c77782a0"><span offset-key="150bbbf282bf4642888fde26c77782a0:0">Return all global variables and their values in an object:</span></span>
+  <span key="150bbbf282bf4642888fde26c77782a0"><span offset-key="150bbbf282bf4642888fde26c77782a0:0">Return all global variables and their values in an object:</span></span>
 
 1
 
@@ -1582,9 +1582,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="ba9ed7ffdf0341aeb7c0fbf43bbd730a"><span offset-key="ba9ed7ffdf0341aeb7c0fbf43bbd730a:0">Remove the specified global variable:</span></span>
+  <span key="ba9ed7ffdf0341aeb7c0fbf43bbd730a"><span offset-key="ba9ed7ffdf0341aeb7c0fbf43bbd730a:0">Remove the specified global variable:</span></span>
 
 1
 
@@ -1594,9 +1594,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="1df4fab3577346618a9935697706f290"><span offset-key="1df4fab3577346618a9935697706f290:0">Clear all global variables in the workspace:</span></span>
+  <span key="1df4fab3577346618a9935697706f290"><span offset-key="1df4fab3577346618a9935697706f290:0">Clear all global variables in the workspace:</span></span>
 
 1
 
@@ -1612,9 +1612,9 @@ Copied!
 
 <span key="8fe1a62f31e440c0932398e6be906c43"><span offset-key="8fe1a62f31e440c0932398e6be906c43:0">Your scripts can use the </span>`pm.iterationData`<span offset-key="8fe1a62f31e440c0932398e6be906c43:2"> methods to access and manipulate variables from </span></span><a href="https://learning.postman.com/docs/running-collections/working-with-data-files/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a77e89ecbb4a4907b0533fd5bb266960" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="35a83215f730470a9a770862ebee1c97"><span data-offset-key="35a83215f730470a9a770862ebee1c97:0">data files during a collection run</span></span></span></a><span key="0fed5638248846e0b834e3833f93af3c"><span offset-key="0fed5638248846e0b834e3833f93af3c:0">.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="e43f867df65745af873d352089da08b2"><span offset-key="e43f867df65745af873d352089da08b2:0">Check whether a variable with the specified name exists in the current iteration data:</span></span>
+  <span key="e43f867df65745af873d352089da08b2"><span offset-key="e43f867df65745af873d352089da08b2:0">Check whether a variable with the specified name exists in the current iteration data:</span></span>
 
 1
 
@@ -1624,9 +1624,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="2c8b28965dca4b2e8d60cd83446b9dd2"><span offset-key="2c8b28965dca4b2e8d60cd83446b9dd2:0">Return a variable from the iteration data with the specified name:</span></span>
+  <span key="2c8b28965dca4b2e8d60cd83446b9dd2"><span offset-key="2c8b28965dca4b2e8d60cd83446b9dd2:0">Return a variable from the iteration data with the specified name:</span></span>
 
 1
 
@@ -1636,9 +1636,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="8ef63485337d49e79d359b815f4f2216"><span offset-key="8ef63485337d49e79d359b815f4f2216:0">Return the iteration data variables in an object:</span></span>
+  <span key="8ef63485337d49e79d359b815f4f2216"><span offset-key="8ef63485337d49e79d359b815f4f2216:0">Return the iteration data variables in an object:</span></span>
 
 1
 
@@ -1648,9 +1648,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="d698597ba8274f82a63001ed4232a023"><span offset-key="d698597ba8274f82a63001ed4232a023:0">Convert the iterationData object to JSON format:</span></span>
+  <span key="d698597ba8274f82a63001ed4232a023"><span offset-key="d698597ba8274f82a63001ed4232a023:0">Convert the iterationData object to JSON format:</span></span>
 
 1
 
@@ -1660,9 +1660,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="48b2f1d32089438f9f95753dd087565b"><span offset-key="48b2f1d32089438f9f95753dd087565b:0">Remove the specified variable:</span></span>
+  <span key="48b2f1d32089438f9f95753dd087565b"><span offset-key="48b2f1d32089438f9f95753dd087565b:0">Remove the specified variable:</span></span>
 
 1
 
@@ -1672,7 +1672,7 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span key="cf07dc2986414df9b94f7827d86331b0"><span offset-key="cf07dc2986414df9b94f7827d86331b0:0">Scripting with request and response data</span></span>
 
@@ -1686,9 +1686,9 @@ Copied!
 
 <span key="d95e89c2a62842e487ab8254e1971e94"><span offset-key="d95e89c2a62842e487ab8254e1971e94:0">The </span>`pm.request`<span offset-key="d95e89c2a62842e487ab8254e1971e94:2"> object provides the following properties and methods:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="41d6508067b149119b8b03e24cab9911"><span offset-key="41d6508067b149119b8b03e24cab9911:0">The request URL:</span></span>
+  <span key="41d6508067b149119b8b03e24cab9911"><span offset-key="41d6508067b149119b8b03e24cab9911:0">The request URL:</span></span>
 
 1
 
@@ -1698,9 +1698,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="5bc2113488de4710b7235cfcf2e00355"><span offset-key="5bc2113488de4710b7235cfcf2e00355:0">The </span></span><a href="https://www.postmanlabs.com/postman-collection/HeaderList.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="51e77f2e188a41c9b251f11f318b905b" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="428b67287df2440f8eac37830c39349b"><span data-offset-key="428b67287df2440f8eac37830c39349b:0">list of headers</span></span></span></a><span key="d44b2368f97b4643aef627c3a345a89f"><span offset-key="d44b2368f97b4643aef627c3a345a89f:0"> for the current request:</span></span>
+  <span key="5bc2113488de4710b7235cfcf2e00355"><span offset-key="5bc2113488de4710b7235cfcf2e00355:0">The </span></span><a href="https://www.postmanlabs.com/postman-collection/HeaderList.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="51e77f2e188a41c9b251f11f318b905b" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="428b67287df2440f8eac37830c39349b"><span data-offset-key="428b67287df2440f8eac37830c39349b:0">list of headers</span></span></span></a><span key="d44b2368f97b4643aef627c3a345a89f"><span offset-key="d44b2368f97b4643aef627c3a345a89f:0"> for the current request:</span></span>
 
 1
 
@@ -1710,9 +1710,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="2d0f79b551904fe0ad4403c63abd6331"><span offset-key="2d0f79b551904fe0ad4403c63abd6331:0">The HTTP request method:</span></span>
+  <span key="2d0f79b551904fe0ad4403c63abd6331"><span offset-key="2d0f79b551904fe0ad4403c63abd6331:0">The HTTP request method:</span></span>
 
 1
 
@@ -1722,9 +1722,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="da21c4aea175404cb827c0db12ed3d86"><span offset-key="da21c4aea175404cb827c0db12ed3d86:0">The data in the </span></span><a href="https://www.postmanlabs.com/postman-collection/RequestBody.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2cb36ca6613742aba74202a02c7b4d1b" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="7b03933d29234439ae2e46a258a73caf"><span data-offset-key="7b03933d29234439ae2e46a258a73caf:0">request body</span></span></span></a><span key="f8a4edcd25e342aabb758569f1c37e5e"><span offset-key="f8a4edcd25e342aabb758569f1c37e5e:0">. This object is immutable and cannot be modified from scripts:</span></span>
+  <span key="da21c4aea175404cb827c0db12ed3d86"><span offset-key="da21c4aea175404cb827c0db12ed3d86:0">The data in the </span></span><a href="https://www.postmanlabs.com/postman-collection/RequestBody.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2cb36ca6613742aba74202a02c7b4d1b" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="7b03933d29234439ae2e46a258a73caf"><span data-offset-key="7b03933d29234439ae2e46a258a73caf:0">request body</span></span></span></a><span key="f8a4edcd25e342aabb758569f1c37e5e"><span offset-key="f8a4edcd25e342aabb758569f1c37e5e:0">. This object is immutable and cannot be modified from scripts:</span></span>
 
 1
 
@@ -1734,9 +1734,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="cc6bc310cfb44243a8961ac97f69733c"><span offset-key="cc6bc310cfb44243a8961ac97f69733c:0">Add a header with the specified name and value for the current request:</span></span>
+  <span key="cc6bc310cfb44243a8961ac97f69733c"><span offset-key="cc6bc310cfb44243a8961ac97f69733c:0">Add a header with the specified name and value for the current request:</span></span>
 
 1
 
@@ -1768,9 +1768,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="784724a169ad42f4bb29e95dd47fb1ac"><span offset-key="784724a169ad42f4bb29e95dd47fb1ac:0">Delete the request header with the specified name:</span></span>
+  <span key="784724a169ad42f4bb29e95dd47fb1ac"><span offset-key="784724a169ad42f4bb29e95dd47fb1ac:0">Delete the request header with the specified name:</span></span>
 
 1
 
@@ -1780,9 +1780,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="1364a88d4fef4eb49f9296b61533bb73"><span offset-key="1364a88d4fef4eb49f9296b61533bb73:0">Insert the specified header name and value (if the header does not exist, otherwise the already existing header will update to the new value):</span></span>
+  <span key="1364a88d4fef4eb49f9296b61533bb73"><span offset-key="1364a88d4fef4eb49f9296b61533bb73:0">Insert the specified header name and value (if the header does not exist, otherwise the already existing header will update to the new value):</span></span>
 
 1
 
@@ -1800,9 +1800,9 @@ Copied!
 
 <span key="72bb3705842f4ce0876e3d0a2f9e631a"><span offset-key="72bb3705842f4ce0876e3d0a2f9e631a:0">The </span>`pm.response`<span offset-key="72bb3705842f4ce0876e3d0a2f9e631a:2"> object provides the following properties and methods:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="ceea099f4fff4974ab5bcf052b1d870e"><span offset-key="ceea099f4fff4974ab5bcf052b1d870e:0">The response status code:</span></span>
+  <span key="ceea099f4fff4974ab5bcf052b1d870e"><span offset-key="ceea099f4fff4974ab5bcf052b1d870e:0">The response status code:</span></span>
 
 1
 
@@ -1812,9 +1812,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="e6ea10fc317e483aba598ae6d5a3ed18"><span offset-key="e6ea10fc317e483aba598ae6d5a3ed18:0">The status text string:</span></span>
+  <span key="e6ea10fc317e483aba598ae6d5a3ed18"><span offset-key="e6ea10fc317e483aba598ae6d5a3ed18:0">The status text string:</span></span>
 
 1
 
@@ -1824,9 +1824,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="e100cb7359904d98baeef6cc2cdc7ac0"><span offset-key="e100cb7359904d98baeef6cc2cdc7ac0:0">The </span></span><a href="https://www.postmanlabs.com/postman-collection/HeaderList.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c1bd785aa8b94484ae6206e6e62c0586" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="102c9063335e48c690992221034a60b7"><span data-offset-key="102c9063335e48c690992221034a60b7:0">list of response headers</span></span></span></a><span key="c2f6ecf613c142e88a422de84c2680c8"><span offset-key="c2f6ecf613c142e88a422de84c2680c8:0">:</span></span>
+  <span key="e100cb7359904d98baeef6cc2cdc7ac0"><span offset-key="e100cb7359904d98baeef6cc2cdc7ac0:0">The </span></span><a href="https://www.postmanlabs.com/postman-collection/HeaderList.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c1bd785aa8b94484ae6206e6e62c0586" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="102c9063335e48c690992221034a60b7"><span data-offset-key="102c9063335e48c690992221034a60b7:0">list of response headers</span></span></span></a><span key="c2f6ecf613c142e88a422de84c2680c8"><span offset-key="c2f6ecf613c142e88a422de84c2680c8:0">:</span></span>
 
 1
 
@@ -1836,9 +1836,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="1927563a681641bf989456631239d514"><span offset-key="1927563a681641bf989456631239d514:0">The time the response took to receive in milliseconds:</span></span>
+  <span key="1927563a681641bf989456631239d514"><span offset-key="1927563a681641bf989456631239d514:0">The time the response took to receive in milliseconds:</span></span>
 
 1
 
@@ -1848,9 +1848,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="61d4d36c68d041ac879a4dc63a0646c0"><span offset-key="61d4d36c68d041ac879a4dc63a0646c0:0">The size of the response received:</span></span>
+  <span key="61d4d36c68d041ac879a4dc63a0646c0"><span offset-key="61d4d36c68d041ac879a4dc63a0646c0:0">The size of the response received:</span></span>
 
 1
 
@@ -1860,9 +1860,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="b1c0d477cf2a42ac9136be4e05815a73"><span offset-key="b1c0d477cf2a42ac9136be4e05815a73:0">The response text:</span></span>
+  <span key="b1c0d477cf2a42ac9136be4e05815a73"><span offset-key="b1c0d477cf2a42ac9136be4e05815a73:0">The response text:</span></span>
 
 1
 
@@ -1872,9 +1872,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="2d04e7ee72a949e0a49a8a1fb9aa1c6a"><span offset-key="2d04e7ee72a949e0a49a8a1fb9aa1c6a:0">The response JSON, which you can use to drill down into the properties received:</span></span>
+  <span key="2d04e7ee72a949e0a49a8a1fb9aa1c6a"><span offset-key="2d04e7ee72a949e0a49a8a1fb9aa1c6a:0">The response JSON, which you can use to drill down into the properties received:</span></span>
 
 1
 
@@ -1892,9 +1892,9 @@ Copied!
 
 <span key="4b8f41a88f2a402fa81ab52c41cac59c"><span offset-key="4b8f41a88f2a402fa81ab52c41cac59c:0">The </span>`pm.info`<span offset-key="4b8f41a88f2a402fa81ab52c41cac59c:2"> object provides the following properties and methods:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="07c01c3d91634874b7d17b1fd1069e67"><span offset-key="07c01c3d91634874b7d17b1fd1069e67:0">The event, which will be either "prerequest" or "test" depending on where the script is executing within the request:</span></span>
+  <span key="07c01c3d91634874b7d17b1fd1069e67"><span offset-key="07c01c3d91634874b7d17b1fd1069e67:0">The event, which will be either "prerequest" or "test" depending on where the script is executing within the request:</span></span>
 
 1
 
@@ -1904,9 +1904,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="af3bcdcd573e4126841deffb498c5dcc"><span offset-key="af3bcdcd573e4126841deffb498c5dcc:0">The value of the current </span></span><a href="https://learning.postman.com/docs/running-collections/intro-to-collection-runs/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7984aae915d44a57b0bed145e318de74" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="3eaa2b18876d4a23a135e45933b66a33"><span data-offset-key="3eaa2b18876d4a23a135e45933b66a33:0">iteration</span></span></span></a><span key="52c9a5312eca49fd9d933154a6c256ea"><span offset-key="52c9a5312eca49fd9d933154a6c256ea:0">:</span></span>
+  <span key="af3bcdcd573e4126841deffb498c5dcc"><span offset-key="af3bcdcd573e4126841deffb498c5dcc:0">The value of the current </span></span><a href="https://learning.postman.com/docs/running-collections/intro-to-collection-runs/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7984aae915d44a57b0bed145e318de74" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="3eaa2b18876d4a23a135e45933b66a33"><span data-offset-key="3eaa2b18876d4a23a135e45933b66a33:0">iteration</span></span></span></a><span key="52c9a5312eca49fd9d933154a6c256ea"><span offset-key="52c9a5312eca49fd9d933154a6c256ea:0">:</span></span>
 
 1
 
@@ -1916,9 +1916,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="3400c6420569467bae93de609ff4fd18"><span offset-key="3400c6420569467bae93de609ff4fd18:0">The total number of iterations that are scheduled to run:</span></span>
+  <span key="3400c6420569467bae93de609ff4fd18"><span offset-key="3400c6420569467bae93de609ff4fd18:0">The total number of iterations that are scheduled to run:</span></span>
 
 1
 
@@ -1928,9 +1928,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="0085ac7d8d04433ca1a91d8d0bc2569f"><span offset-key="0085ac7d8d04433ca1a91d8d0bc2569f:0">The saved name of the request running:</span></span>
+  <span key="0085ac7d8d04433ca1a91d8d0bc2569f"><span offset-key="0085ac7d8d04433ca1a91d8d0bc2569f:0">The saved name of the request running:</span></span>
 
 1
 
@@ -1940,9 +1940,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="2cc251fb516940288ff249a86d0629df"><span offset-key="2cc251fb516940288ff249a86d0629df:0">A unique GUID that identifies the running request:</span></span>
+  <span key="2cc251fb516940288ff249a86d0629df"><span offset-key="2cc251fb516940288ff249a86d0629df:0">A unique GUID that identifies the running request:</span></span>
 
 1
 
@@ -1958,9 +1958,9 @@ Copied!
 
 <span key="25ba843c98c243f4962b9a8eccdf2d84"><span offset-key="25ba843c98c243f4962b9a8eccdf2d84:0">The </span>`pm.cookies`<span offset-key="25ba843c98c243f4962b9a8eccdf2d84:2"> object provides the following properties and methods:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="40256a86bd1546d3ad51cf17ecae1f82"><span offset-key="40256a86bd1546d3ad51cf17ecae1f82:0">Check whether a particular cookie (specified by name) exists for the requested domain:</span></span>
+  <span key="40256a86bd1546d3ad51cf17ecae1f82"><span offset-key="40256a86bd1546d3ad51cf17ecae1f82:0">Check whether a particular cookie (specified by name) exists for the requested domain:</span></span>
 
 1
 
@@ -1970,9 +1970,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="215953a06257419da915c67c0776ef1e"><span offset-key="215953a06257419da915c67c0776ef1e:0">Get the value of the specified cookie:</span></span>
+  <span key="215953a06257419da915c67c0776ef1e"><span offset-key="215953a06257419da915c67c0776ef1e:0">Get the value of the specified cookie:</span></span>
 
 1
 
@@ -1982,9 +1982,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="ea1ac88250e04a9998abada2e3ab732d"><span offset-key="ea1ac88250e04a9998abada2e3ab732d:0">Get a copy of all cookies and their values in an object. Returns any cookies that are defined for the request domain and path:</span></span>
+  <span key="ea1ac88250e04a9998abada2e3ab732d"><span offset-key="ea1ac88250e04a9998abada2e3ab732d:0">Get a copy of all cookies and their values in an object. Returns any cookies that are defined for the request domain and path:</span></span>
 
 1
 
@@ -2000,9 +2000,9 @@ Copied!
 
 <span key="4cf64fc675024e21a2ed8ebf9c8fbd04"><span offset-key="4cf64fc675024e21a2ed8ebf9c8fbd04:0">To enable programmatic access via the </span>`pm.cookies.jar`<span offset-key="4cf64fc675024e21a2ed8ebf9c8fbd04:2"> methods, first </span></span><a href="https://learning.postman.com/docs/sending-requests/cookies/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c5248660177c481f8e137510221b2bce" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="e9e3f220137045198991f1ceec11d06e"><span data-offset-key="e9e3f220137045198991f1ceec11d06e:0">whitelist</span></span></span></a><span key="655d1c1624384764bcaa15e66005afc0"><span offset-key="655d1c1624384764bcaa15e66005afc0:0"> the cookie URL.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="e24ae971be4d4644b665ea9b74da10c2"><span offset-key="e24ae971be4d4644b665ea9b74da10c2:0">Access the cookie jar object:</span></span>
+  <span key="e24ae971be4d4644b665ea9b74da10c2"><span offset-key="e24ae971be4d4644b665ea9b74da10c2:0">Access the cookie jar object:</span></span>
 
 1
 
@@ -2026,9 +2026,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="50f6c52627b74e3b94c62d368282863a"><span offset-key="50f6c52627b74e3b94c62d368282863a:0">Set a cookie using name and value:</span></span>
+  <span key="50f6c52627b74e3b94c62d368282863a"><span offset-key="50f6c52627b74e3b94c62d368282863a:0">Set a cookie using name and value:</span></span>
 
 1
 
@@ -2038,9 +2038,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="1a21f477c59d4f888d401209b5936db0"><span offset-key="1a21f477c59d4f888d401209b5936db0:0">Set a cookie using </span></span><a href="https://www.postmanlabs.com/postman-collection/Cookie.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="828622d35e884ac59537091115d9d5a3" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="74891ab497cf4c0ebf81a690804dc30a"><span data-offset-key="74891ab497cf4c0ebf81a690804dc30a:0">PostmanCookie</span></span></span></a><span key="6b49e4d293824e52a3e847f69a36659e"><span offset-key="6b49e4d293824e52a3e847f69a36659e:0"> or a compatible object:</span></span>
+  <span key="1a21f477c59d4f888d401209b5936db0"><span offset-key="1a21f477c59d4f888d401209b5936db0:0">Set a cookie using </span></span><a href="https://www.postmanlabs.com/postman-collection/Cookie.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="828622d35e884ac59537091115d9d5a3" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="74891ab497cf4c0ebf81a690804dc30a"><span data-offset-key="74891ab497cf4c0ebf81a690804dc30a:0">PostmanCookie</span></span></span></a><span key="6b49e4d293824e52a3e847f69a36659e"><span offset-key="6b49e4d293824e52a3e847f69a36659e:0"> or a compatible object:</span></span>
 
 1
 
@@ -2088,9 +2088,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="56832f8042074589b62403cedaa3e84a"><span offset-key="56832f8042074589b62403cedaa3e84a:0">Get a cookie from the cookie jar:</span></span>
+  <span key="56832f8042074589b62403cedaa3e84a"><span offset-key="56832f8042074589b62403cedaa3e84a:0">Get a cookie from the cookie jar:</span></span>
 
 1
 
@@ -2100,9 +2100,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="61138aa4a10345e8a4bab68de3dd81a9"><span offset-key="61138aa4a10345e8a4bab68de3dd81a9:0">Get all the cookies from the cookie jar. The cookies are available in the callback function:</span></span>
+  <span key="61138aa4a10345e8a4bab68de3dd81a9"><span offset-key="61138aa4a10345e8a4bab68de3dd81a9:0">Get all the cookies from the cookie jar. The cookies are available in the callback function:</span></span>
 
 1
 
@@ -2112,9 +2112,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="7d3035bab5af40f2a47ca7b17c008f71"><span offset-key="7d3035bab5af40f2a47ca7b17c008f71:0">Remove a cookie:</span></span>
+  <span key="7d3035bab5af40f2a47ca7b17c008f71"><span offset-key="7d3035bab5af40f2a47ca7b17c008f71:0">Remove a cookie:</span></span>
 
 1
 
@@ -2124,9 +2124,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="fd4557be69e247d192053966ea6df63a"><span offset-key="fd4557be69e247d192053966ea6df63a:0">Clear all cookies from the cookie jar:</span></span>
+  <span key="fd4557be69e247d192053966ea6df63a"><span offset-key="fd4557be69e247d192053966ea6df63a:0">Clear all cookies from the cookie jar:</span></span>
 
 1
 
@@ -2138,7 +2138,7 @@ Copied!
 
 > <span key="0a7a6bb872e04d0e9ad80fd1bdfd808c"><span offset-key="0a7a6bb872e04d0e9ad80fd1bdfd808c:0">See the Postman </span></span><a href="https://www.postmanlabs.com/postman-collection/Cookie.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d38f7aad619c4a21b3bfe2987870900b" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="1d7ba908c1fa4f1989514103cde59d4b"><span data-offset-key="1d7ba908c1fa4f1989514103cde59d4b:0">Collection SDK Cookie reference</span></span></span></a><span key="423157a6d9294b719f8ffd1afe005585"><span offset-key="423157a6d9294b719f8ffd1afe005585:0"> for more detail.</span></span>
 
-### 
+###
 
 <span key="106c3e7d6a3244f098b9e416de9c778c"><span offset-key="106c3e7d6a3244f098b9e416de9c778c:0">Sending requests from scripts</span></span>
 
@@ -2304,7 +2304,7 @@ Copied!
 
 <span key="1f7597b86ce5495fb38a69e6abe7c032"><span offset-key="1f7597b86ce5495fb38a69e6abe7c032:0">See the </span></span><a href="http://www.postmanlabs.com/postman-collection/Request.html#~definition" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e036c1367094457b9a492cd14f1ba25a" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="9d42ab3fb84546cc8265b5834dfdc32e"><span data-offset-key="9d42ab3fb84546cc8265b5834dfdc32e:0">Request definition</span></span></span></a><span key="c0e72b5d5e524e5a861dc5e0ebeef524"><span offset-key="c0e72b5d5e524e5a861dc5e0ebeef524:0"> and </span></span><a href="http://www.postmanlabs.com/postman-collection/Response.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="228adddf54a442bcae92e99a37ab1107" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="3c221eedc44c484c80bf18894d2edd81"><span data-offset-key="3c221eedc44c484c80bf18894d2edd81:0">Response structure</span></span></span></a><span key="49ab56b345b74ecfa63fa5484cd7c0c4"><span offset-key="49ab56b345b74ecfa63fa5484cd7c0c4:0"> reference docs for more detail.</span></span>
 
-## 
+##
 
 <span key="a71fb90381294772ac1fe3733793dea8"><span offset-key="a71fb90381294772ac1fe3733793dea8:0">Scripting workflows</span></span>
 
@@ -2314,9 +2314,9 @@ Copied!
 
 <span key="65ace1b8fce2440c80a65679445fc4a5"><span offset-key="65ace1b8fce2440c80a65679445fc4a5:0">When you run a collection (using the collection runner or Newman), Postman will run your requests in a default order or an order you specify when you set up the run. However, you can override this execution order using </span>`postman.setNextRequest`<span offset-key="65ace1b8fce2440c80a65679445fc4a5:2"> to specify which request should run next.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="6615ca71960146038c1c240255eb08f8"><span offset-key="6615ca71960146038c1c240255eb08f8:0">Run the specified request after this one (the request name as defined in the collection e.g. "Get customers"):</span></span>
+  <span key="6615ca71960146038c1c240255eb08f8"><span offset-key="6615ca71960146038c1c240255eb08f8:0">Run the specified request after this one (the request name as defined in the collection e.g. "Get customers"):</span></span>
 
 1
 
@@ -2326,9 +2326,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="b4dd82b0b9d0407ebc1b6e6531445f3e"><span offset-key="b4dd82b0b9d0407ebc1b6e6531445f3e:0">Run the specified request after this one (the request ID returned by </span>`pm.info.requestId`<span offset-key="b4dd82b0b9d0407ebc1b6e6531445f3e:2">):</span></span>
+  <span key="b4dd82b0b9d0407ebc1b6e6531445f3e"><span offset-key="b4dd82b0b9d0407ebc1b6e6531445f3e:0">Run the specified request after this one (the request ID returned by </span>`pm.info.requestId`<span offset-key="b4dd82b0b9d0407ebc1b6e6531445f3e:2">):</span></span>
 
 1
 
@@ -2356,7 +2356,7 @@ Copied!
 
 Copied!
 
-## 
+##
 
 <span key="1781d0e6822742c3a43b32670915be42"><span offset-key="1781d0e6822742c3a43b32670915be42:0">Scripting visualizations</span></span>
 
@@ -2370,29 +2370,29 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="d818da02ca984319b574b593b4fc0069">`layout`<span offset-key="d818da02ca984319b574b593b4fc0069:1"> </span>**required**</span>
+  <span key="d818da02ca984319b574b593b4fc0069">`layout`<span offset-key="d818da02ca984319b574b593b4fc0069:1"> </span>**required**</span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-        <span key="4fa29b832b8d441baa128d9e73b216d7"><span offset-key="4fa29b832b8d441baa128d9e73b216d7:0"><span slate-zero-width="z">​</span></span></span><a href="https://handlebarsjs.com" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ebd04715376d410aa9964f72f7c2ff9a" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="a5251efe49924b75b6090647964d2b61"><span data-offset-key="a5251efe49924b75b6090647964d2b61:0">Handlebars</span></span></span></a><span key="8bf1dd2b639a4623a72d56387f1a8812"><span offset-key="8bf1dd2b639a4623a72d56387f1a8812:0"> HTML template string</span></span>
+    <span key="4fa29b832b8d441baa128d9e73b216d7"><span offset-key="4fa29b832b8d441baa128d9e73b216d7:0"><span slate-zero-width="z">​</span></span></span><a href="https://handlebarsjs.com" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ebd04715376d410aa9964f72f7c2ff9a" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="a5251efe49924b75b6090647964d2b61"><span data-offset-key="a5251efe49924b75b6090647964d2b61:0">Handlebars</span></span></span></a><span key="8bf1dd2b639a4623a72d56387f1a8812"><span offset-key="8bf1dd2b639a4623a72d56387f1a8812:0"> HTML template string</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="4a7465e5ddc947b3884e939805a4182e">`data`<span offset-key="4a7465e5ddc947b3884e939805a4182e:1"> </span>*optional*</span>
+  <span key="4a7465e5ddc947b3884e939805a4182e">`data`<span offset-key="4a7465e5ddc947b3884e939805a4182e:1"> </span>_optional_</span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-        <span key="b01759cd6c924dc1a23cfef4f8eff898"><span offset-key="b01759cd6c924dc1a23cfef4f8eff898:0">JSON object that binds to the template and you can access it inside the template string</span></span>
+    <span key="b01759cd6c924dc1a23cfef4f8eff898"><span offset-key="b01759cd6c924dc1a23cfef4f8eff898:0">JSON object that binds to the template and you can access it inside the template string</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="5d5ca9913287461397cc9cfae9253eaa">`options`<span offset-key="5d5ca9913287461397cc9cfae9253eaa:1"> </span>*optional*</span>
+  <span key="5d5ca9913287461397cc9cfae9253eaa">`options`<span offset-key="5d5ca9913287461397cc9cfae9253eaa:1"> </span>_optional_</span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-        <span key="8b584b8b301f4247a2e058188d9cbab5"><span offset-key="8b584b8b301f4247a2e058188d9cbab5:0"><span slate-zero-width="z">​</span></span></span><a href="https://handlebarsjs.com/api-reference/compilation.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="039e87115f954f3bbbc629ee3eef9a7f" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="6f46ed003265432fa3e9dc10e53d6821"><span data-offset-key="6f46ed003265432fa3e9dc10e53d6821:0">Options object</span></span></span></a><span key="8647079267534984a69ed8e45acd29c7"><span offset-key="8647079267534984a69ed8e45acd29c7:0"> for </span>`Handlebars.compile()`</span>
+    <span key="8b584b8b301f4247a2e058188d9cbab5"><span offset-key="8b584b8b301f4247a2e058188d9cbab5:0"><span slate-zero-width="z">​</span></span></span><a href="https://handlebarsjs.com/api-reference/compilation.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="039e87115f954f3bbbc629ee3eef9a7f" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="6f46ed003265432fa3e9dc10e53d6821"><span data-offset-key="6f46ed003265432fa3e9dc10e53d6821:0">Options object</span></span></span></a><span key="8647079267534984a69ed8e45acd29c7"><span offset-key="8647079267534984a69ed8e45acd29c7:0"> for </span>`Handlebars.compile()`</span>
 
 <span key="ae103001ac134ee39e78a2932682e760"><span offset-key="ae103001ac134ee39e78a2932682e760:0">Example usage:</span></span>
 
@@ -2416,7 +2416,7 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span key="c24be3d425c0406384018f80fda7a280"><span offset-key="c24be3d425c0406384018f80fda7a280:0">Building response data into visualizations</span></span>
 
@@ -2432,21 +2432,21 @@ Copied!
 
 <span key="227c38b764ed4d23a83d810c914fffde"><span offset-key="227c38b764ed4d23a83d810c914fffde:0">The callback function accepts two parameters:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="7842083ddd054e088bac67f415bf5be6">`error`</span>
+  <span key="7842083ddd054e088bac67f415bf5be6">`error`</span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-        <span key="078c179c41e942e9ac5dcbc7a9ca1d5a"><span offset-key="078c179c41e942e9ac5dcbc7a9ca1d5a:0">Any error detail</span></span>
+    <span key="078c179c41e942e9ac5dcbc7a9ca1d5a"><span offset-key="078c179c41e942e9ac5dcbc7a9ca1d5a:0">Any error detail</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="1c3df4ce2e894f2a9829fdd5e3414fa2">`data`</span>
+  <span key="1c3df4ce2e894f2a9829fdd5e3414fa2">`data`</span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-        <span key="1852a7c4efd642628ac675c03bc072fb"><span offset-key="1852a7c4efd642628ac675c03bc072fb:0">Data </span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#scripting-visualizations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="bca72d4905dc4ddebaf37f6e7039a536" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="9a6ebba475bd4802b4f7d80c458c757b"><span data-offset-key="9a6ebba475bd4802b4f7d80c458c757b:0">passed to the template</span></span></span></a><span key="90623077794945a3bd2b541a3ad9f0ec"><span offset-key="90623077794945a3bd2b541a3ad9f0ec:0"> by </span>`pm.visualizer.set`</span>
+    <span key="1852a7c4efd642628ac675c03bc072fb"><span offset-key="1852a7c4efd642628ac675c03bc072fb:0">Data </span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#scripting-visualizations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="bca72d4905dc4ddebaf37f6e7039a536" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="9a6ebba475bd4802b4f7d80c458c757b"><span data-offset-key="9a6ebba475bd4802b4f7d80c458c757b:0">passed to the template</span></span></span></a><span key="90623077794945a3bd2b541a3ad9f0ec"><span offset-key="90623077794945a3bd2b541a3ad9f0ec:0"> by </span>`pm.visualizer.set`</span>
 
 <span key="6938816666174d719e925af2cd7d299a"><span offset-key="6938816666174d719e925af2cd7d299a:0">Example usage:</span></span>
 
@@ -2466,13 +2466,13 @@ Copied!
 
 Copied!
 
-## 
+##
 
 <span key="df72793dcc804231a42ea4cff704f194"><span offset-key="df72793dcc804231a42ea4cff704f194:0">Writing test assertions</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="78412388db8e4e38b0329fd47c109bfd">`pm.test(testName:String, specFunction:Function):Function`</span>
+  <span key="78412388db8e4e38b0329fd47c109bfd">`pm.test(testName:String, specFunction:Function):Function`</span>
 
 <span key="2a136d6a4782435ebfffbba052fa6f43"><span offset-key="2a136d6a4782435ebfffbba052fa6f43:0">You can use </span>`pm.test`<span offset-key="2a136d6a4782435ebfffbba052fa6f43:2"> to write test specifications inside either the </span>**Pre-request**<span offset-key="2a136d6a4782435ebfffbba052fa6f43:4"> or </span>**Tests**<span offset-key="2a136d6a4782435ebfffbba052fa6f43:6"> scripts. Tests include a name and assertion—Postman will output test results as part of the response.</span></span>
 
@@ -2532,9 +2532,9 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="f4546a4a23b74c3ebf015b1a1d285b9b"><span offset-key="f4546a4a23b74c3ebf015b1a1d285b9b:0">Get the total number of tests executed from a specific location in code:</span></span>
+  <span key="f4546a4a23b74c3ebf015b1a1d285b9b"><span offset-key="f4546a4a23b74c3ebf015b1a1d285b9b:0">Get the total number of tests executed from a specific location in code:</span></span>
 
 1
 
@@ -2558,7 +2558,7 @@ Copied!
 
 <span key="718094b7ddb94cbdb97ce0da5c6399ae"><span offset-key="718094b7ddb94cbdb97ce0da5c6399ae:0">See </span></span><a href="https://learning.postman.com/docs/writing-scripts/script-references/test-examples/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4da936257b26458a86b7872da4828fac" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="a966cf8534e54ef1b195e44195822287"><span data-offset-key="a966cf8534e54ef1b195e44195822287:0">Test examples</span></span></span></a><span key="0278867b45a44a0388a05d47d69502bb"><span offset-key="0278867b45a44a0388a05d47d69502bb:0"> for more assertions.</span></span>
 
-## 
+##
 
 <span key="8cf214f00c7a46569aead529eb71770a"><span offset-key="8cf214f00c7a46569aead529eb71770a:0">Using external libraries</span></span>
 
@@ -2572,107 +2572,107 @@ Copied!
 
 <span key="7febd4dccf1a40d49dac04ec4b102fa1"><span offset-key="7febd4dccf1a40d49dac04ec4b102fa1:0">The </span>`require`<span offset-key="7febd4dccf1a40d49dac04ec4b102fa1:2"> method allows you to use the sandbox built-in library modules. The list of available libraries is listed below with links to the corresponding documentation.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="ab27f946d0b340d684c5d8b8acc7ec81"><span offset-key="ab27f946d0b340d684c5d8b8acc7ec81:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.npmjs.com/package/ajv" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8641eec1522a46efb1888af33fb6f7bc" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="a6c732f25607458e81c97dc0aad0c7bd"><span data-offset-key="a6c732f25607458e81c97dc0aad0c7bd:0">ajv</span></span></span></a><span key="81ad3af29b744af1b36d8b649913ef7f"><span offset-key="81ad3af29b744af1b36d8b649913ef7f:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="ab27f946d0b340d684c5d8b8acc7ec81"><span offset-key="ab27f946d0b340d684c5d8b8acc7ec81:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.npmjs.com/package/ajv" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8641eec1522a46efb1888af33fb6f7bc" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="a6c732f25607458e81c97dc0aad0c7bd"><span data-offset-key="a6c732f25607458e81c97dc0aad0c7bd:0">ajv</span></span></span></a><span key="81ad3af29b744af1b36d8b649913ef7f"><span offset-key="81ad3af29b744af1b36d8b649913ef7f:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="af631f835e774e8c9aff8da9590f2d4b"><span offset-key="af631f835e774e8c9aff8da9590f2d4b:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.npmjs.com/package/atob" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="21f50933cff344e7a83a6c1b2fb57ae8" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="4334991e9eb34a3ba261c16802f68ca7"><span data-offset-key="4334991e9eb34a3ba261c16802f68ca7:0">atob</span></span></span></a><span key="b4a308aeac4d49d2ba5a1572b3162f38"><span offset-key="b4a308aeac4d49d2ba5a1572b3162f38:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="af631f835e774e8c9aff8da9590f2d4b"><span offset-key="af631f835e774e8c9aff8da9590f2d4b:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.npmjs.com/package/atob" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="21f50933cff344e7a83a6c1b2fb57ae8" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="4334991e9eb34a3ba261c16802f68ca7"><span data-offset-key="4334991e9eb34a3ba261c16802f68ca7:0">atob</span></span></span></a><span key="b4a308aeac4d49d2ba5a1572b3162f38"><span offset-key="b4a308aeac4d49d2ba5a1572b3162f38:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="adc046661b1449be9f11c8ce13013bf4"><span offset-key="adc046661b1449be9f11c8ce13013bf4:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.npmjs.com/package/btoa" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9a70ba26a8fa407886943732e96303c5" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="ad0b4d1c1a26477ea97240b272aba9a1"><span data-offset-key="ad0b4d1c1a26477ea97240b272aba9a1:0">btoa</span></span></span></a><span key="2d43c72ca3c74866a39d2325fb91346a"><span offset-key="2d43c72ca3c74866a39d2325fb91346a:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="adc046661b1449be9f11c8ce13013bf4"><span offset-key="adc046661b1449be9f11c8ce13013bf4:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.npmjs.com/package/btoa" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9a70ba26a8fa407886943732e96303c5" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="ad0b4d1c1a26477ea97240b272aba9a1"><span data-offset-key="ad0b4d1c1a26477ea97240b272aba9a1:0">btoa</span></span></span></a><span key="2d43c72ca3c74866a39d2325fb91346a"><span offset-key="2d43c72ca3c74866a39d2325fb91346a:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="da2304caf1474c8ab3ca1c7d041616ac"><span offset-key="da2304caf1474c8ab3ca1c7d041616ac:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.chaijs.com" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="82f364f23e9a40aea57162c73f713abe" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="79c73c8f97cd437db99d8555674a8573"><span data-offset-key="79c73c8f97cd437db99d8555674a8573:0">chai</span></span></span></a><span key="41646eac2f934256bf0ad8ff8c450482"><span offset-key="41646eac2f934256bf0ad8ff8c450482:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="da2304caf1474c8ab3ca1c7d041616ac"><span offset-key="da2304caf1474c8ab3ca1c7d041616ac:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.chaijs.com" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="82f364f23e9a40aea57162c73f713abe" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="79c73c8f97cd437db99d8555674a8573"><span data-offset-key="79c73c8f97cd437db99d8555674a8573:0">chai</span></span></span></a><span key="41646eac2f934256bf0ad8ff8c450482"><span offset-key="41646eac2f934256bf0ad8ff8c450482:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="44bbcec25cf44b908faacdc27a129623"><span offset-key="44bbcec25cf44b908faacdc27a129623:0"><span slate-zero-width="z">​</span></span></span><a href="https://cheerio.js.org" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4ff827f9ee54419eb56002e19b9a1819" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="04940c45b2514f44a3c8eb512420dd76"><span data-offset-key="04940c45b2514f44a3c8eb512420dd76:0">cheerio</span></span></span></a><span key="de38e3de20a8477cb56cbc2fc9131c35"><span offset-key="de38e3de20a8477cb56cbc2fc9131c35:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="44bbcec25cf44b908faacdc27a129623"><span offset-key="44bbcec25cf44b908faacdc27a129623:0"><span slate-zero-width="z">​</span></span></span><a href="https://cheerio.js.org" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4ff827f9ee54419eb56002e19b9a1819" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="04940c45b2514f44a3c8eb512420dd76"><span data-offset-key="04940c45b2514f44a3c8eb512420dd76:0">cheerio</span></span></span></a><span key="de38e3de20a8477cb56cbc2fc9131c35"><span offset-key="de38e3de20a8477cb56cbc2fc9131c35:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="9c5cf9f72ee94aa987ea72e300a4c8eb"><span offset-key="9c5cf9f72ee94aa987ea72e300a4c8eb:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.npmjs.com/package/crypto-js" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2e9aff12c52549d9a2e22d0c5b2356fa" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="a391279ac6ab43b2acdb5c0103b13a7e"><span data-offset-key="a391279ac6ab43b2acdb5c0103b13a7e:0">crypto-js</span></span></span></a><span key="66e961f504724ffa938f3cd91e2167f0"><span offset-key="66e961f504724ffa938f3cd91e2167f0:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="9c5cf9f72ee94aa987ea72e300a4c8eb"><span offset-key="9c5cf9f72ee94aa987ea72e300a4c8eb:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.npmjs.com/package/crypto-js" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2e9aff12c52549d9a2e22d0c5b2356fa" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="a391279ac6ab43b2acdb5c0103b13a7e"><span data-offset-key="a391279ac6ab43b2acdb5c0103b13a7e:0">crypto-js</span></span></span></a><span key="66e961f504724ffa938f3cd91e2167f0"><span offset-key="66e961f504724ffa938f3cd91e2167f0:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="d48b3bc660f84a4784abf22b35408c72"><span offset-key="d48b3bc660f84a4784abf22b35408c72:0"><span slate-zero-width="z">​</span></span></span><a href="https://csv.js.org/parse/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9b4cb8033c164383b2129b6e9eb697ed" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="46b878c28ef04187b552d7b1417fbdfb"><span data-offset-key="46b878c28ef04187b552d7b1417fbdfb:0">csv-parse/lib/sync</span></span></span></a><span key="4b42899c6f3b4bf98cc387dd3e6b59c6"><span offset-key="4b42899c6f3b4bf98cc387dd3e6b59c6:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="d48b3bc660f84a4784abf22b35408c72"><span offset-key="d48b3bc660f84a4784abf22b35408c72:0"><span slate-zero-width="z">​</span></span></span><a href="https://csv.js.org/parse/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9b4cb8033c164383b2129b6e9eb697ed" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="46b878c28ef04187b552d7b1417fbdfb"><span data-offset-key="46b878c28ef04187b552d7b1417fbdfb:0">csv-parse/lib/sync</span></span></span></a><span key="4b42899c6f3b4bf98cc387dd3e6b59c6"><span offset-key="4b42899c6f3b4bf98cc387dd3e6b59c6:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="35d8918b703848d1b55da18565d11764"><span offset-key="35d8918b703848d1b55da18565d11764:0"><span slate-zero-width="z">​</span></span></span><a href="https://lodash.com" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a7dedb9d2d15427daf96ee7f1b6207b1" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="724de5efe3e1488483d68827dd758f02"><span data-offset-key="724de5efe3e1488483d68827dd758f02:0">lodash</span></span></span></a><span key="a85b99a0914444e49a0f2488c392194d"><span offset-key="a85b99a0914444e49a0f2488c392194d:0"> (The built-in </span>`_`<span offset-key="a85b99a0914444e49a0f2488c392194d:2"> object v3.10.1 exists in the sandbox by default. Use </span>`require`<span offset-key="a85b99a0914444e49a0f2488c392194d:4"> to load the latest version.)</span></span>
+  <span key="35d8918b703848d1b55da18565d11764"><span offset-key="35d8918b703848d1b55da18565d11764:0"><span slate-zero-width="z">​</span></span></span><a href="https://lodash.com" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a7dedb9d2d15427daf96ee7f1b6207b1" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="724de5efe3e1488483d68827dd758f02"><span data-offset-key="724de5efe3e1488483d68827dd758f02:0">lodash</span></span></span></a><span key="a85b99a0914444e49a0f2488c392194d"><span offset-key="a85b99a0914444e49a0f2488c392194d:0"> (The built-in </span>`_`<span offset-key="a85b99a0914444e49a0f2488c392194d:2"> object v3.10.1 exists in the sandbox by default. Use </span>`require`<span offset-key="a85b99a0914444e49a0f2488c392194d:4"> to load the latest version.)</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="23183c9a078249b28cc45823cff1407f"><span offset-key="23183c9a078249b28cc45823cff1407f:0"><span slate-zero-width="z">​</span></span></span><a href="https://momentjs.com/docs/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="caf3ef0617e54c498a685fabdafd2bff" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="6a763b184d574dbfbfb53042dabbc3aa"><span data-offset-key="6a763b184d574dbfbfb53042dabbc3aa:0">moment</span></span></span></a><span key="1bdbf7d648984ae6a313be67c792a7e5"><span offset-key="1bdbf7d648984ae6a313be67c792a7e5:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="23183c9a078249b28cc45823cff1407f"><span offset-key="23183c9a078249b28cc45823cff1407f:0"><span slate-zero-width="z">​</span></span></span><a href="https://momentjs.com/docs/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="caf3ef0617e54c498a685fabdafd2bff" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="6a763b184d574dbfbfb53042dabbc3aa"><span data-offset-key="6a763b184d574dbfbfb53042dabbc3aa:0">moment</span></span></span></a><span key="1bdbf7d648984ae6a313be67c792a7e5"><span offset-key="1bdbf7d648984ae6a313be67c792a7e5:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="ab2296f76ea84f84950d93e79c8c7822"><span offset-key="ab2296f76ea84f84950d93e79c8c7822:0"><span slate-zero-width="z">​</span></span></span><a href="http://www.postmanlabs.com/postman-collection/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="278689e128214ce4a6fbcc9dc53eab07" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="4057a040b3f945a48f5934c81e352ede"><span data-offset-key="4057a040b3f945a48f5934c81e352ede:0">postman-collection</span></span></span></a><span key="bff01b0eeec7473e87f271a76fe9f98f"><span offset-key="bff01b0eeec7473e87f271a76fe9f98f:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="ab2296f76ea84f84950d93e79c8c7822"><span offset-key="ab2296f76ea84f84950d93e79c8c7822:0"><span slate-zero-width="z">​</span></span></span><a href="http://www.postmanlabs.com/postman-collection/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="278689e128214ce4a6fbcc9dc53eab07" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="4057a040b3f945a48f5934c81e352ede"><span data-offset-key="4057a040b3f945a48f5934c81e352ede:0">postman-collection</span></span></span></a><span key="bff01b0eeec7473e87f271a76fe9f98f"><span offset-key="bff01b0eeec7473e87f271a76fe9f98f:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="bc8e840a856048bb84aca9a1c36e2480"><span offset-key="bc8e840a856048bb84aca9a1c36e2480:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/geraintluff/tv4" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="bf484124a8ce4e6aad668d6bfec90c3d" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="9b49d129a03848a8bade032ee04b7914"><span data-offset-key="9b49d129a03848a8bade032ee04b7914:0">tv4</span></span></span></a><span key="6d055c8c8909499bb69d97e701b2e353"><span offset-key="6d055c8c8909499bb69d97e701b2e353:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="bc8e840a856048bb84aca9a1c36e2480"><span offset-key="bc8e840a856048bb84aca9a1c36e2480:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/geraintluff/tv4" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="bf484124a8ce4e6aad668d6bfec90c3d" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="9b49d129a03848a8bade032ee04b7914"><span data-offset-key="9b49d129a03848a8bade032ee04b7914:0">tv4</span></span></span></a><span key="6d055c8c8909499bb69d97e701b2e353"><span offset-key="6d055c8c8909499bb69d97e701b2e353:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="26ac7aa061ea40f68e5b0e7d1e83e6e6"><span offset-key="26ac7aa061ea40f68e5b0e7d1e83e6e6:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.npmjs.com/package/uuid" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e8733d781569497c9f2b2c48c08d37f7" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="ea45f7ef62424c03b64da47c487329fe"><span data-offset-key="ea45f7ef62424c03b64da47c487329fe:0">uuid</span></span></span></a><span key="1f47050bf2e0456192f246c301d05870"><span offset-key="1f47050bf2e0456192f246c301d05870:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="26ac7aa061ea40f68e5b0e7d1e83e6e6"><span offset-key="26ac7aa061ea40f68e5b0e7d1e83e6e6:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.npmjs.com/package/uuid" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e8733d781569497c9f2b2c48c08d37f7" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="ea45f7ef62424c03b64da47c487329fe"><span data-offset-key="ea45f7ef62424c03b64da47c487329fe:0">uuid</span></span></span></a><span key="1f47050bf2e0456192f246c301d05870"><span offset-key="1f47050bf2e0456192f246c301d05870:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="4ae51f21ea6b43dfb7d37c3fba8d956e"><span offset-key="4ae51f21ea6b43dfb7d37c3fba8d956e:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.npmjs.com/package/xml2js" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="778558e89d8949f78759ef5f2657c515" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="0a5d7376d1af4b94b49b8c742ad028be"><span data-offset-key="0a5d7376d1af4b94b49b8c742ad028be:0">xml2js</span></span></span></a><span key="3a7d9291195649acaaf7e74a63d3b192"><span offset-key="3a7d9291195649acaaf7e74a63d3b192:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="4ae51f21ea6b43dfb7d37c3fba8d956e"><span offset-key="4ae51f21ea6b43dfb7d37c3fba8d956e:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.npmjs.com/package/xml2js" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="778558e89d8949f78759ef5f2657c515" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="0a5d7376d1af4b94b49b8c742ad028be"><span data-offset-key="0a5d7376d1af4b94b49b8c742ad028be:0">xml2js</span></span></span></a><span key="3a7d9291195649acaaf7e74a63d3b192"><span offset-key="3a7d9291195649acaaf7e74a63d3b192:0"><span slate-zero-width="z">​</span></span></span>
 
 <span key="583867130b7f489ab3e1c29ac15b08c1"><span offset-key="583867130b7f489ab3e1c29ac15b08c1:0">A number of NodeJS modules are also available to use in the sandbox:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="d2171da806a84a78916d56634ad8da26"><span offset-key="d2171da806a84a78916d56634ad8da26:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/path.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="44831d54b8a749baa85b155673d64b2b" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="215c718077a2461d86a58f1f10fdc8bd"><span data-offset-key="215c718077a2461d86a58f1f10fdc8bd:0">path</span></span></span></a><span key="054579d056e8454c822f59c3574f8c72"><span offset-key="054579d056e8454c822f59c3574f8c72:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="d2171da806a84a78916d56634ad8da26"><span offset-key="d2171da806a84a78916d56634ad8da26:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/path.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="44831d54b8a749baa85b155673d64b2b" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="215c718077a2461d86a58f1f10fdc8bd"><span data-offset-key="215c718077a2461d86a58f1f10fdc8bd:0">path</span></span></span></a><span key="054579d056e8454c822f59c3574f8c72"><span offset-key="054579d056e8454c822f59c3574f8c72:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="93aefb8a56c7484a884cb1aadf38296b"><span offset-key="93aefb8a56c7484a884cb1aadf38296b:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/assert.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e07b5d61c1304841a22249a3d1f4e071" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="31c383e74a3249cf8bf2f73d80e350a3"><span data-offset-key="31c383e74a3249cf8bf2f73d80e350a3:0">assert</span></span></span></a><span key="81550f3512e440a9980ef8a708fd2a27"><span offset-key="81550f3512e440a9980ef8a708fd2a27:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="93aefb8a56c7484a884cb1aadf38296b"><span offset-key="93aefb8a56c7484a884cb1aadf38296b:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/assert.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e07b5d61c1304841a22249a3d1f4e071" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="31c383e74a3249cf8bf2f73d80e350a3"><span data-offset-key="31c383e74a3249cf8bf2f73d80e350a3:0">assert</span></span></span></a><span key="81550f3512e440a9980ef8a708fd2a27"><span offset-key="81550f3512e440a9980ef8a708fd2a27:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="faa57a3c5ca14116a1e2d37cf2ee31fc"><span offset-key="faa57a3c5ca14116a1e2d37cf2ee31fc:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/buffer.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3ea87f5a3b71411db870e0e45b84e63e" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="51c09843795f4870970077bd20c3a7b9"><span data-offset-key="51c09843795f4870970077bd20c3a7b9:0">buffer</span></span></span></a><span key="38ecc864709e4125827f0a09c5704d8c"><span offset-key="38ecc864709e4125827f0a09c5704d8c:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="faa57a3c5ca14116a1e2d37cf2ee31fc"><span offset-key="faa57a3c5ca14116a1e2d37cf2ee31fc:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/buffer.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3ea87f5a3b71411db870e0e45b84e63e" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="51c09843795f4870970077bd20c3a7b9"><span data-offset-key="51c09843795f4870970077bd20c3a7b9:0">buffer</span></span></span></a><span key="38ecc864709e4125827f0a09c5704d8c"><span offset-key="38ecc864709e4125827f0a09c5704d8c:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="aacd8d00fb56486bb9f7192eeb389b1a"><span offset-key="aacd8d00fb56486bb9f7192eeb389b1a:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/util.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c5e14871710c43538c27a911a7444fd6" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="9f0401165d934ff99c845b89db9a4a15"><span data-offset-key="9f0401165d934ff99c845b89db9a4a15:0">util</span></span></span></a><span key="fc869a2922704863afd194362ce4f2fd"><span offset-key="fc869a2922704863afd194362ce4f2fd:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="aacd8d00fb56486bb9f7192eeb389b1a"><span offset-key="aacd8d00fb56486bb9f7192eeb389b1a:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/util.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c5e14871710c43538c27a911a7444fd6" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="9f0401165d934ff99c845b89db9a4a15"><span data-offset-key="9f0401165d934ff99c845b89db9a4a15:0">util</span></span></span></a><span key="fc869a2922704863afd194362ce4f2fd"><span offset-key="fc869a2922704863afd194362ce4f2fd:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="f905c1ce775743289ac49bcdc4337943"><span offset-key="f905c1ce775743289ac49bcdc4337943:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/url.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8257e88704a84be2a341886cb9be742f" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="42c93845fa524ce3868bb4122e5fd98e"><span data-offset-key="42c93845fa524ce3868bb4122e5fd98e:0">url</span></span></span></a><span key="3b643aa53d644e3283f0d90e21cc1257"><span offset-key="3b643aa53d644e3283f0d90e21cc1257:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="f905c1ce775743289ac49bcdc4337943"><span offset-key="f905c1ce775743289ac49bcdc4337943:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/url.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8257e88704a84be2a341886cb9be742f" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="42c93845fa524ce3868bb4122e5fd98e"><span data-offset-key="42c93845fa524ce3868bb4122e5fd98e:0">url</span></span></span></a><span key="3b643aa53d644e3283f0d90e21cc1257"><span offset-key="3b643aa53d644e3283f0d90e21cc1257:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="c5ca8e7b3bf4420185db603c7bf7a5c5"><span offset-key="c5ca8e7b3bf4420185db603c7bf7a5c5:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/punycode.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="86fc221fae2047b79fc4b854c2e6c1aa" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="3650ba478e7249ebaae3f6dd5d95662d"><span data-offset-key="3650ba478e7249ebaae3f6dd5d95662d:0">punycode</span></span></span></a><span key="fdafc67eb9aa4ea1abb2d307ac2d9dae"><span offset-key="fdafc67eb9aa4ea1abb2d307ac2d9dae:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="c5ca8e7b3bf4420185db603c7bf7a5c5"><span offset-key="c5ca8e7b3bf4420185db603c7bf7a5c5:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/punycode.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="86fc221fae2047b79fc4b854c2e6c1aa" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="3650ba478e7249ebaae3f6dd5d95662d"><span data-offset-key="3650ba478e7249ebaae3f6dd5d95662d:0">punycode</span></span></span></a><span key="fdafc67eb9aa4ea1abb2d307ac2d9dae"><span offset-key="fdafc67eb9aa4ea1abb2d307ac2d9dae:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="7ee0586352f54fe493a9e8eaa13f0044"><span offset-key="7ee0586352f54fe493a9e8eaa13f0044:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/querystring.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d2843a5a043b4c708d0e88152d01401b" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="9697d4d67961406f8de6cf9e22cae409"><span data-offset-key="9697d4d67961406f8de6cf9e22cae409:0">querystring</span></span></span></a><span key="60e9eebd89064d13a82be1d3290649f5"><span offset-key="60e9eebd89064d13a82be1d3290649f5:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="7ee0586352f54fe493a9e8eaa13f0044"><span offset-key="7ee0586352f54fe493a9e8eaa13f0044:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/querystring.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d2843a5a043b4c708d0e88152d01401b" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="9697d4d67961406f8de6cf9e22cae409"><span data-offset-key="9697d4d67961406f8de6cf9e22cae409:0">querystring</span></span></span></a><span key="60e9eebd89064d13a82be1d3290649f5"><span offset-key="60e9eebd89064d13a82be1d3290649f5:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="59f14212a1a14461b6abf74c9bf684ef"><span offset-key="59f14212a1a14461b6abf74c9bf684ef:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/string_decoder.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4ab6900fae3746138fcfafbbd2f0ffaf" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="41f3be4802094f1d852704d275cf9235"><span data-offset-key="41f3be4802094f1d852704d275cf9235:0">string-decoder</span></span></span></a><span key="06afb00d2809422aade6357040680cbf"><span offset-key="06afb00d2809422aade6357040680cbf:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="59f14212a1a14461b6abf74c9bf684ef"><span offset-key="59f14212a1a14461b6abf74c9bf684ef:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/string_decoder.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4ab6900fae3746138fcfafbbd2f0ffaf" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="41f3be4802094f1d852704d275cf9235"><span data-offset-key="41f3be4802094f1d852704d275cf9235:0">string-decoder</span></span></span></a><span key="06afb00d2809422aade6357040680cbf"><span offset-key="06afb00d2809422aade6357040680cbf:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="a3b7b493e3394e778d83eff490d87466"><span offset-key="a3b7b493e3394e778d83eff490d87466:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/stream.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="88b8db62d0224505a4a74f1f02fa3e1f" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="78f2612511144906842fb53b74b5fe42"><span data-offset-key="78f2612511144906842fb53b74b5fe42:0">stream</span></span></span></a><span key="b4d8f74b1f2d4114bf61a08b37bb6481"><span offset-key="b4d8f74b1f2d4114bf61a08b37bb6481:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="a3b7b493e3394e778d83eff490d87466"><span offset-key="a3b7b493e3394e778d83eff490d87466:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/stream.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="88b8db62d0224505a4a74f1f02fa3e1f" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="78f2612511144906842fb53b74b5fe42"><span data-offset-key="78f2612511144906842fb53b74b5fe42:0">stream</span></span></span></a><span key="b4d8f74b1f2d4114bf61a08b37bb6481"><span offset-key="b4d8f74b1f2d4114bf61a08b37bb6481:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="36fc584ba91f42f8a902f08c6304c68f"><span offset-key="36fc584ba91f42f8a902f08c6304c68f:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/timers.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="058fd30e9ec2431f855d624a1daa7978" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="3afc4fc82daa48f98f3fc12d05072825"><span data-offset-key="3afc4fc82daa48f98f3fc12d05072825:0">timers</span></span></span></a><span key="4574a0cca9544c73be2dc06186f29380"><span offset-key="4574a0cca9544c73be2dc06186f29380:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="36fc584ba91f42f8a902f08c6304c68f"><span offset-key="36fc584ba91f42f8a902f08c6304c68f:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/timers.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="058fd30e9ec2431f855d624a1daa7978" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="3afc4fc82daa48f98f3fc12d05072825"><span data-offset-key="3afc4fc82daa48f98f3fc12d05072825:0">timers</span></span></span></a><span key="4574a0cca9544c73be2dc06186f29380"><span offset-key="4574a0cca9544c73be2dc06186f29380:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="70685173674f43efadfb3925cd95340c"><span offset-key="70685173674f43efadfb3925cd95340c:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/events.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="dc01057c3b0e4d29b4e03bc4aa9ab0bb" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="0039d72c501d48cabc4090d94fbf918a"><span data-offset-key="0039d72c501d48cabc4090d94fbf918a:0">events</span></span></span></a><span key="821305d9f58b4b3ca868451f20c9425b"><span offset-key="821305d9f58b4b3ca868451f20c9425b:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="70685173674f43efadfb3925cd95340c"><span offset-key="70685173674f43efadfb3925cd95340c:0"><span slate-zero-width="z">​</span></span></span><a href="https://nodejs.org/api/events.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="dc01057c3b0e4d29b4e03bc4aa9ab0bb" data-rnw-int-class="nearest_260-4401_262-4402-240__"><span data-key="0039d72c501d48cabc4090d94fbf918a"><span data-offset-key="0039d72c501d48cabc4090d94fbf918a:0">events</span></span></span></a><span key="821305d9f58b4b3ca868451f20c9425b"><span offset-key="821305d9f58b4b3ca868451f20c9425b:0"><span slate-zero-width="z">​</span></span></span>
 
 <span key="4e58d11e0cda45d6b670a40b2811d55e"><span offset-key="4e58d11e0cda45d6b670a40b2811d55e:0">In order to use a library, call the </span>`require`<span offset-key="4e58d11e0cda45d6b670a40b2811d55e:2"> method, pass the module name as a parameter, and assign the return object from the method to a variable.</span></span>
 
-## 
+##
 
 <span key="a67323e69b86447cb4823c826dfc9ec7"><span offset-key="a67323e69b86447cb4823c826dfc9ec7:0">Next steps</span></span>
 
@@ -2682,7 +2682,7 @@ Copied!
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X18yNjAtNDQwMV9fIiBjbGFzcz0ici0xcmFzaTNoIHItMTQ3Mm13ZyByLTF2emk4eGkgci1scnNsbHAiPjxwYXRoIGQ9Ik0xOSAxMkg1TTEyIDE5bC03LTcgNy03Ij48L3BhdGg+PC9zdmc+" class="r-1rasi3h r-1472mwg r-1vzi8xi r-lrsllp" />
 
-WEB\_DEV\_TOOLS - Previous
+WEB_DEV_TOOLS - Previous
 
 Cloudinary
 

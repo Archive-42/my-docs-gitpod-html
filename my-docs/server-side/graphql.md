@@ -298,7 +298,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -320,7 +320,7 @@ Netlify
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc4LTQ1ODFfIiBjbGFzcz0ici1oN2dkb2Igci0xMHB0dW43IHItMXZ6aTh4aSIgc3R5bGU9IndpZHRoOjE2cHgiPjxwYXRoIGQ9Ik05IDE4bDYtNi02LTYiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -362,7 +362,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -420,163 +420,163 @@ Powered By <span class="css-901oao css-16my406 r-b88u0q">GitBook</span>
 
 GraphQL
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="371435b08d7b441f8594e5ca58a86948"><span offset-key="371435b08d7b441f8594e5ca58a86948:0"><span slate-zero-width="n">​</span></span></span>
+  <span key="371435b08d7b441f8594e5ca58a86948"><span offset-key="371435b08d7b441f8594e5ca58a86948:0"><span slate-zero-width="n">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="e18c692b6e6440d08d8cf2666a9e7313"><span offset-key="e18c692b6e6440d08d8cf2666a9e7313:0"><span slate-zero-width="n">​</span></span></span>
+    <span key="e18c692b6e6440d08d8cf2666a9e7313"><span offset-key="e18c692b6e6440d08d8cf2666a9e7313:0"><span slate-zero-width="n">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="72709e40ae69480fb2f59f75eb5a55ff"><span offset-key="72709e40ae69480fb2f59f75eb5a55ff:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/1-architecture/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fdc05f6ad6cd49f5a7f0942a5c939b3f" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="236b53f997494149a6ef3ab6dce7cdcc"><span data-offset-key="236b53f997494149a6ef3ab6dce7cdcc:0">Architecture</span></span></span></a><span key="71957531440142109a6b0c395b6304b1"><span offset-key="71957531440142109a6b0c395b6304b1:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="72709e40ae69480fb2f59f75eb5a55ff"><span offset-key="72709e40ae69480fb2f59f75eb5a55ff:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/1-architecture/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="fdc05f6ad6cd49f5a7f0942a5c939b3f" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="236b53f997494149a6ef3ab6dce7cdcc"><span data-offset-key="236b53f997494149a6ef3ab6dce7cdcc:0">Architecture</span></span></span></a><span key="71957531440142109a6b0c395b6304b1"><span offset-key="71957531440142109a6b0c395b6304b1:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="ae083c7a918e43cba4fbb71015734b06"><span offset-key="ae083c7a918e43cba4fbb71015734b06:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/2-fetching-data-queries/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0e42ae6d3a374143af6c1fe6ead90696" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="46d9a1926ecd482fb40ae42948e629ec"><span data-offset-key="46d9a1926ecd482fb40ae42948e629ec:0">Fetching data - Queries</span></span></span></a><span key="bbd6d511f8b94b258304c11150ba202f"><span offset-key="bbd6d511f8b94b258304c11150ba202f:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="ae083c7a918e43cba4fbb71015734b06"><span offset-key="ae083c7a918e43cba4fbb71015734b06:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/2-fetching-data-queries/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0e42ae6d3a374143af6c1fe6ead90696" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="46d9a1926ecd482fb40ae42948e629ec"><span data-offset-key="46d9a1926ecd482fb40ae42948e629ec:0">Fetching data - Queries</span></span></span></a><span key="bbd6d511f8b94b258304c11150ba202f"><span offset-key="bbd6d511f8b94b258304c11150ba202f:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="fb89d5511b094c94802e4071677b5aa8"><span offset-key="fb89d5511b094c94802e4071677b5aa8:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/3-writing-data-mutations/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="70b18ac84bd640d192e8ba26ee74d91f" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="dfe015c8f373466b91e83ffc54275104"><span data-offset-key="dfe015c8f373466b91e83ffc54275104:0">Writing data - Mutations</span></span></span></a><span key="1b7769c987d94425bea8a2d1229c15ea"><span offset-key="1b7769c987d94425bea8a2d1229c15ea:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="fb89d5511b094c94802e4071677b5aa8"><span offset-key="fb89d5511b094c94802e4071677b5aa8:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/3-writing-data-mutations/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="70b18ac84bd640d192e8ba26ee74d91f" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="dfe015c8f373466b91e83ffc54275104"><span data-offset-key="dfe015c8f373466b91e83ffc54275104:0">Writing data - Mutations</span></span></span></a><span key="1b7769c987d94425bea8a2d1229c15ea"><span offset-key="1b7769c987d94425bea8a2d1229c15ea:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="8df4d81f5436425cb3c3f7b67d9de4c5"><span offset-key="8df4d81f5436425cb3c3f7b67d9de4c5:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/4-watching-data-subscriptions/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6d19a446ced94b65a7159ef7448bd05a" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="7a7db08cc0934084bcda7d9d149d5e34"><span data-offset-key="7a7db08cc0934084bcda7d9d149d5e34:0">Watching data - Subscriptions</span></span></span></a><span key="c26ac3b4ab98446bbaef7a1ec753e5c9"><span offset-key="c26ac3b4ab98446bbaef7a1ec753e5c9:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="8df4d81f5436425cb3c3f7b67d9de4c5"><span offset-key="8df4d81f5436425cb3c3f7b67d9de4c5:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/4-watching-data-subscriptions/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6d19a446ced94b65a7159ef7448bd05a" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="7a7db08cc0934084bcda7d9d149d5e34"><span data-offset-key="7a7db08cc0934084bcda7d9d149d5e34:0">Watching data - Subscriptions</span></span></span></a><span key="c26ac3b4ab98446bbaef7a1ec753e5c9"><span offset-key="c26ac3b4ab98446bbaef7a1ec753e5c9:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="58aaa9e65a244f6098fa080f79b0dee3"><span offset-key="58aaa9e65a244f6098fa080f79b0dee3:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/hasura-backend/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="48e28a30735345b5ae2e3c9b0ef6bfd1" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="33845090d92a4dc1b4d89450c84168f7"><span data-offset-key="33845090d92a4dc1b4d89450c84168f7:0">Hasura Backend Setup</span></span></span></a><span key="7519029985e34c0c8ab33b0f251fc966"><span offset-key="7519029985e34c0c8ab33b0f251fc966:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="58aaa9e65a244f6098fa080f79b0dee3"><span offset-key="58aaa9e65a244f6098fa080f79b0dee3:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/hasura-backend/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="48e28a30735345b5ae2e3c9b0ef6bfd1" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="33845090d92a4dc1b4d89450c84168f7"><span data-offset-key="33845090d92a4dc1b4d89450c84168f7:0">Hasura Backend Setup</span></span></span></a><span key="7519029985e34c0c8ab33b0f251fc966"><span offset-key="7519029985e34c0c8ab33b0f251fc966:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="5ebb18a853b9435bb8079e622dcb1ae1"><span offset-key="5ebb18a853b9435bb8079e622dcb1ae1:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/auth0-setup/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="5cef53a5f265401ab5c0c27c10b03b93" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="f0ae81ea472d4dc9ace6d0e7c016968f"><span data-offset-key="f0ae81ea472d4dc9ace6d0e7c016968f:0">Auth0 Setup</span></span></span></a><span key="415f42ffb35f4af68a4880606002c890"><span offset-key="415f42ffb35f4af68a4880606002c890:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="5ebb18a853b9435bb8079e622dcb1ae1"><span offset-key="5ebb18a853b9435bb8079e622dcb1ae1:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/auth0-setup/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="5cef53a5f265401ab5c0c27c10b03b93" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="f0ae81ea472d4dc9ace6d0e7c016968f"><span data-offset-key="f0ae81ea472d4dc9ace6d0e7c016968f:0">Auth0 Setup</span></span></span></a><span key="415f42ffb35f4af68a4880606002c890"><span offset-key="415f42ffb35f4af68a4880606002c890:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="d175f3782bef463eb02a747e44a2e22b"><span offset-key="d175f3782bef463eb02a747e44a2e22b:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/auth0-setup/1-custom-claims/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="875548be2b7b4a2bae40250cf3abcc14" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="50d72eac4f334aa68244edcb47a01b5b"><span data-offset-key="50d72eac4f334aa68244edcb47a01b5b:0">Custom Claims in Auth0 Rules</span></span></span></a><span key="5a2e1ad39ba74a00b70174fb6520d796"><span offset-key="5a2e1ad39ba74a00b70174fb6520d796:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="d175f3782bef463eb02a747e44a2e22b"><span offset-key="d175f3782bef463eb02a747e44a2e22b:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/auth0-setup/1-custom-claims/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="875548be2b7b4a2bae40250cf3abcc14" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="50d72eac4f334aa68244edcb47a01b5b"><span data-offset-key="50d72eac4f334aa68244edcb47a01b5b:0">Custom Claims in Auth0 Rules</span></span></span></a><span key="5a2e1ad39ba74a00b70174fb6520d796"><span offset-key="5a2e1ad39ba74a00b70174fb6520d796:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="4e91e4e1f30742b3b2ccc03c65b0bb66"><span offset-key="4e91e4e1f30742b3b2ccc03c65b0bb66:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/auth0-setup/2-connect-hasura-auth0/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3f1f5d354d3b48e3b7232f9592693e69" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="4716c2567e444e7da4ee42067a836fd4"><span data-offset-key="4716c2567e444e7da4ee42067a836fd4:0">Connect Hasura with Auth0</span></span></span></a><span key="62835d07b2e44fab82e38905a81d2df5"><span offset-key="62835d07b2e44fab82e38905a81d2df5:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="4e91e4e1f30742b3b2ccc03c65b0bb66"><span offset-key="4e91e4e1f30742b3b2ccc03c65b0bb66:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/auth0-setup/2-connect-hasura-auth0/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3f1f5d354d3b48e3b7232f9592693e69" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="4716c2567e444e7da4ee42067a836fd4"><span data-offset-key="4716c2567e444e7da4ee42067a836fd4:0">Connect Hasura with Auth0</span></span></span></a><span key="62835d07b2e44fab82e38905a81d2df5"><span offset-key="62835d07b2e44fab82e38905a81d2df5:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="90319afc733e4013bc2aed582db9da13"><span offset-key="90319afc733e4013bc2aed582db9da13:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/auth0-setup/3-user-sync-rule/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="85e1e49807424889a184aae58b4e7f26" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="6dc7df11ce8949be81d4b9c93014cb58"><span data-offset-key="6dc7df11ce8949be81d4b9c93014cb58:0">Sync Users with Rules</span></span></span></a><span key="ff00b1d2b2c44e649ab8daa6b7b1bc5f"><span offset-key="ff00b1d2b2c44e649ab8daa6b7b1bc5f:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="90319afc733e4013bc2aed582db9da13"><span offset-key="90319afc733e4013bc2aed582db9da13:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/auth0-setup/3-user-sync-rule/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="85e1e49807424889a184aae58b4e7f26" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="6dc7df11ce8949be81d4b9c93014cb58"><span data-offset-key="6dc7df11ce8949be81d4b9c93014cb58:0">Sync Users with Rules</span></span></span></a><span key="ff00b1d2b2c44e649ab8daa6b7b1bc5f"><span offset-key="ff00b1d2b2c44e649ab8daa6b7b1bc5f:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="adaaa75bf92642bbb20eefe53278f76a"><span offset-key="adaaa75bf92642bbb20eefe53278f76a:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/setup/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c6345f7c936a4bf5998ba461b708f314" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="bacc4123ac744346bae5b35cbad5d94c"><span data-offset-key="bacc4123ac744346bae5b35cbad5d94c:0">Next.js Boilerplate Setup</span></span></span></a><span key="3648365e21a24eb98f7edf73a1a2c61a"><span offset-key="3648365e21a24eb98f7edf73a1a2c61a:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="adaaa75bf92642bbb20eefe53278f76a"><span offset-key="adaaa75bf92642bbb20eefe53278f76a:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/setup/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c6345f7c936a4bf5998ba461b708f314" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="bacc4123ac744346bae5b35cbad5d94c"><span data-offset-key="bacc4123ac744346bae5b35cbad5d94c:0">Next.js Boilerplate Setup</span></span></span></a><span key="3648365e21a24eb98f7edf73a1a2c61a"><span offset-key="3648365e21a24eb98f7edf73a1a2c61a:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="c6e7993a6bce49febd8cc3188aebb865"><span offset-key="c6e7993a6bce49febd8cc3188aebb865:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/apollo-client/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f5817249e9764748b86b8890f74e26ec" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="9005fcc520b446d5976b332fd025dc5b"><span data-offset-key="9005fcc520b446d5976b332fd025dc5b:0">Configure Apollo Client with Next.js</span></span></span></a><span key="2e47bb45adcd4bfb96e86bad1a194c9e"><span offset-key="2e47bb45adcd4bfb96e86bad1a194c9e:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="c6e7993a6bce49febd8cc3188aebb865"><span offset-key="c6e7993a6bce49febd8cc3188aebb865:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/apollo-client/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f5817249e9764748b86b8890f74e26ec" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="9005fcc520b446d5976b332fd025dc5b"><span data-offset-key="9005fcc520b446d5976b332fd025dc5b:0">Configure Apollo Client with Next.js</span></span></span></a><span key="2e47bb45adcd4bfb96e86bad1a194c9e"><span offset-key="2e47bb45adcd4bfb96e86bad1a194c9e:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="623c60456e1349d4b31a76d950bc956f"><span offset-key="623c60456e1349d4b31a76d950bc956f:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/queries/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0153106150934a4f927ba72961ea2dc7" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="724c40bdcc324597b996ace217b1ffc6"><span data-offset-key="724c40bdcc324597b996ace217b1ffc6:0">Queries</span></span></span></a><span key="9e34d1eee9334c7a9832f37aa03b0728"><span offset-key="9e34d1eee9334c7a9832f37aa03b0728:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="623c60456e1349d4b31a76d950bc956f"><span offset-key="623c60456e1349d4b31a76d950bc956f:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/queries/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0153106150934a4f927ba72961ea2dc7" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="724c40bdcc324597b996ace217b1ffc6"><span data-offset-key="724c40bdcc324597b996ace217b1ffc6:0">Queries</span></span></span></a><span key="9e34d1eee9334c7a9832f37aa03b0728"><span offset-key="9e34d1eee9334c7a9832f37aa03b0728:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="350aed9fd0ac4a25aea17e87bc964202"><span offset-key="350aed9fd0ac4a25aea17e87bc964202:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/queries/1-fetch-todos-query/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="bb292c3ef792491e93c811ef42969432" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="92aab4ee9e7a40a3b33de6ef1fcbc456"><span data-offset-key="92aab4ee9e7a40a3b33de6ef1fcbc456:0">Fetch todos - query</span></span></span></a><span key="887c9d5ec0314630abb5abe87188600b"><span offset-key="887c9d5ec0314630abb5abe87188600b:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="350aed9fd0ac4a25aea17e87bc964202"><span offset-key="350aed9fd0ac4a25aea17e87bc964202:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/queries/1-fetch-todos-query/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="bb292c3ef792491e93c811ef42969432" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="92aab4ee9e7a40a3b33de6ef1fcbc456"><span data-offset-key="92aab4ee9e7a40a3b33de6ef1fcbc456:0">Fetch todos - query</span></span></span></a><span key="887c9d5ec0314630abb5abe87188600b"><span offset-key="887c9d5ec0314630abb5abe87188600b:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="8567a19f01a44653ae64ccc614a100e7"><span offset-key="8567a19f01a44653ae64ccc614a100e7:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/queries/2-create-query/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a9d91a6d6e0a4880a72ff5155c47815b" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="e194b1ad5e484e3c9f52ea7e3c9fa865"><span data-offset-key="e194b1ad5e484e3c9f52ea7e3c9fa865:0">useQuery hook</span></span></span></a><span key="3756e14641e84fd4be8bc4870184c591"><span offset-key="3756e14641e84fd4be8bc4870184c591:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="8567a19f01a44653ae64ccc614a100e7"><span offset-key="8567a19f01a44653ae64ccc614a100e7:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/queries/2-create-query/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="a9d91a6d6e0a4880a72ff5155c47815b" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="e194b1ad5e484e3c9f52ea7e3c9fa865"><span data-offset-key="e194b1ad5e484e3c9f52ea7e3c9fa865:0">useQuery hook</span></span></span></a><span key="3756e14641e84fd4be8bc4870184c591"><span offset-key="3756e14641e84fd4be8bc4870184c591:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="1414dfe04eab4353b328bc78e7fe4d00"><span offset-key="1414dfe04eab4353b328bc78e7fe4d00:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/queries/3-handle-errors/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="20d7f77384ce4808842fa794f6d9f38d" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="f49dfd12d6d14f19b07195fa0905f503"><span data-offset-key="f49dfd12d6d14f19b07195fa0905f503:0">Handle loading/errors</span></span></span></a><span key="8f241312463f46d494c03fa6f1f18a55"><span offset-key="8f241312463f46d494c03fa6f1f18a55:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="1414dfe04eab4353b328bc78e7fe4d00"><span offset-key="1414dfe04eab4353b328bc78e7fe4d00:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/queries/3-handle-errors/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="20d7f77384ce4808842fa794f6d9f38d" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="f49dfd12d6d14f19b07195fa0905f503"><span data-offset-key="f49dfd12d6d14f19b07195fa0905f503:0">Handle loading/errors</span></span></span></a><span key="8f241312463f46d494c03fa6f1f18a55"><span offset-key="8f241312463f46d494c03fa6f1f18a55:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="87f32c6897cf4438835953b705e9210d"><span offset-key="87f32c6897cf4438835953b705e9210d:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/mutations-variables/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1e655b43ab614b3f89b48ea9e26ab979" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="21a22de75ec7445f8bab078cbae33e69"><span data-offset-key="21a22de75ec7445f8bab078cbae33e69:0">Mutations &amp; Query variables</span></span></span></a><span key="b0ea7c22f9ed4ed78e4cfcf27bf239dd"><span offset-key="b0ea7c22f9ed4ed78e4cfcf27bf239dd:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="87f32c6897cf4438835953b705e9210d"><span offset-key="87f32c6897cf4438835953b705e9210d:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/mutations-variables/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1e655b43ab614b3f89b48ea9e26ab979" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="21a22de75ec7445f8bab078cbae33e69"><span data-offset-key="21a22de75ec7445f8bab078cbae33e69:0">Mutations &amp; Query variables</span></span></span></a><span key="b0ea7c22f9ed4ed78e4cfcf27bf239dd"><span offset-key="b0ea7c22f9ed4ed78e4cfcf27bf239dd:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="65d9e41d38a04e58acba92f4a695d0fc"><span offset-key="65d9e41d38a04e58acba92f4a695d0fc:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/mutations-variables/1-create-todo/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7f92346a3a974e99a0348e528c4fbbb2" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="233c38c397df4c99ab0ccd74f0ac6524"><span data-offset-key="233c38c397df4c99ab0ccd74f0ac6524:0">Create todos - mutation</span></span></span></a><span key="2a9d7243969a41c09dd10fd54af8e34d"><span offset-key="2a9d7243969a41c09dd10fd54af8e34d:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="65d9e41d38a04e58acba92f4a695d0fc"><span offset-key="65d9e41d38a04e58acba92f4a695d0fc:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/mutations-variables/1-create-todo/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7f92346a3a974e99a0348e528c4fbbb2" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="233c38c397df4c99ab0ccd74f0ac6524"><span data-offset-key="233c38c397df4c99ab0ccd74f0ac6524:0">Create todos - mutation</span></span></span></a><span key="2a9d7243969a41c09dd10fd54af8e34d"><span offset-key="2a9d7243969a41c09dd10fd54af8e34d:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="b1486ba9165d4acbaab3cd3e13ace65d"><span offset-key="b1486ba9165d4acbaab3cd3e13ace65d:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/mutations-variables/2-query-variables/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6b630f36db7f4c31b083de5ffaaa22a9" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="3b767ae89d364800bc578dcecabec21f"><span data-offset-key="3b767ae89d364800bc578dcecabec21f:0">Query Variables</span></span></span></a><span key="725529a910d0447d8f464e2becdfb76c"><span offset-key="725529a910d0447d8f464e2becdfb76c:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="b1486ba9165d4acbaab3cd3e13ace65d"><span offset-key="b1486ba9165d4acbaab3cd3e13ace65d:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/mutations-variables/2-query-variables/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6b630f36db7f4c31b083de5ffaaa22a9" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="3b767ae89d364800bc578dcecabec21f"><span data-offset-key="3b767ae89d364800bc578dcecabec21f:0">Query Variables</span></span></span></a><span key="725529a910d0447d8f464e2becdfb76c"><span offset-key="725529a910d0447d8f464e2becdfb76c:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="287b9640e49440e19b123dec92291044"><span offset-key="287b9640e49440e19b123dec92291044:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/mutations-variables/3-create-mutation/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7618b9c34e25420992100da11a773a88" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="0200c57a36d24d22a3d726c806990783"><span data-offset-key="0200c57a36d24d22a3d726c806990783:0">useMutation Hook, Update Cache</span></span></span></a><span key="912bb5f87a9b4c12b6136a2250f8d19e"><span offset-key="912bb5f87a9b4c12b6136a2250f8d19e:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="287b9640e49440e19b123dec92291044"><span offset-key="287b9640e49440e19b123dec92291044:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/mutations-variables/3-create-mutation/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7618b9c34e25420992100da11a773a88" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="0200c57a36d24d22a3d726c806990783"><span data-offset-key="0200c57a36d24d22a3d726c806990783:0">useMutation Hook, Update Cache</span></span></span></a><span key="912bb5f87a9b4c12b6136a2250f8d19e"><span offset-key="912bb5f87a9b4c12b6136a2250f8d19e:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="d2bb3a63e6a84b40bcadd7d5e872df40"><span offset-key="d2bb3a63e6a84b40bcadd7d5e872df40:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="789aa1f6267a4722b850881a49053dbc" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="4396e0d7c1734af2972e768526b97102"><span data-offset-key="4396e0d7c1734af2972e768526b97102:0">Optimistic UI</span></span></span></a><span key="08370e83305143d49d67241afd889f1a"><span offset-key="08370e83305143d49d67241afd889f1a:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="d2bb3a63e6a84b40bcadd7d5e872df40"><span offset-key="d2bb3a63e6a84b40bcadd7d5e872df40:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="789aa1f6267a4722b850881a49053dbc" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="4396e0d7c1734af2972e768526b97102"><span data-offset-key="4396e0d7c1734af2972e768526b97102:0">Optimistic UI</span></span></span></a><span key="08370e83305143d49d67241afd889f1a"><span offset-key="08370e83305143d49d67241afd889f1a:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="b61e5af191564d6e882167c8237d0f99"><span offset-key="b61e5af191564d6e882167c8237d0f99:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/1-update-todos/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6a08e307be514102a4dd3052115c6ef1" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="ce17753343264b098b495eeb76197c57"><span data-offset-key="ce17753343264b098b495eeb76197c57:0">Update todos - mutation</span></span></span></a><span key="68970f34ad834762ac7b7ee72ece0417"><span offset-key="68970f34ad834762ac7b7ee72ece0417:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="b61e5af191564d6e882167c8237d0f99"><span offset-key="b61e5af191564d6e882167c8237d0f99:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/1-update-todos/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="6a08e307be514102a4dd3052115c6ef1" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="ce17753343264b098b495eeb76197c57"><span data-offset-key="ce17753343264b098b495eeb76197c57:0">Update todos - mutation</span></span></span></a><span key="68970f34ad834762ac7b7ee72ece0417"><span offset-key="68970f34ad834762ac7b7ee72ece0417:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="e07b971969e6467baa949fd1378c360e"><span offset-key="e07b971969e6467baa949fd1378c360e:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/2-mutation-cache/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="adc41fc2dcac47cb8cfbf9590326b09d" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="1aba9b05eb50440bb62a4235850769eb"><span data-offset-key="1aba9b05eb50440bb62a4235850769eb:0">Mutation and update cache</span></span></span></a><span key="355725691337453da2795557ba4925b7"><span offset-key="355725691337453da2795557ba4925b7:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="e07b971969e6467baa949fd1378c360e"><span offset-key="e07b971969e6467baa949fd1378c360e:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/2-mutation-cache/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="adc41fc2dcac47cb8cfbf9590326b09d" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="1aba9b05eb50440bb62a4235850769eb"><span data-offset-key="1aba9b05eb50440bb62a4235850769eb:0">Mutation and update cache</span></span></span></a><span key="355725691337453da2795557ba4925b7"><span offset-key="355725691337453da2795557ba4925b7:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="63c90e6aaf4b4e8896f9ea7345ccbfaa"><span offset-key="63c90e6aaf4b4e8896f9ea7345ccbfaa:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/3-remove-todos/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="880319ead183404fb873be847956faab" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="f9b67fd8ebfd4e629cb75e1209710ed7"><span data-offset-key="f9b67fd8ebfd4e629cb75e1209710ed7:0">Remove todos - mutation</span></span></span></a><span key="5231a381d35e4508a5a2ffb8464b8bba"><span offset-key="5231a381d35e4508a5a2ffb8464b8bba:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="63c90e6aaf4b4e8896f9ea7345ccbfaa"><span offset-key="63c90e6aaf4b4e8896f9ea7345ccbfaa:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/3-remove-todos/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="880319ead183404fb873be847956faab" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="f9b67fd8ebfd4e629cb75e1209710ed7"><span data-offset-key="f9b67fd8ebfd4e629cb75e1209710ed7:0">Remove todos - mutation</span></span></span></a><span key="5231a381d35e4508a5a2ffb8464b8bba"><span offset-key="5231a381d35e4508a5a2ffb8464b8bba:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="edfb1762bff24cb1a3a5fd4dc1f79a9a"><span offset-key="edfb1762bff24cb1a3a5fd4dc1f79a9a:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/3.1-mutation-update-cache/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8d4bcfa8f7cb408e9bb7bc331a640a7b" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="510f4ba10dbc475a801fe9bf56a5be10"><span data-offset-key="510f4ba10dbc475a801fe9bf56a5be10:0">Mutation and update cache</span></span></span></a><span key="1ba2306cc2bc4559b05534f70e33facb"><span offset-key="1ba2306cc2bc4559b05534f70e33facb:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="edfb1762bff24cb1a3a5fd4dc1f79a9a"><span offset-key="edfb1762bff24cb1a3a5fd4dc1f79a9a:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/3.1-mutation-update-cache/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8d4bcfa8f7cb408e9bb7bc331a640a7b" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="510f4ba10dbc475a801fe9bf56a5be10"><span data-offset-key="510f4ba10dbc475a801fe9bf56a5be10:0">Mutation and update cache</span></span></span></a><span key="1ba2306cc2bc4559b05534f70e33facb"><span offset-key="1ba2306cc2bc4559b05534f70e33facb:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="d46b83125e2f40c1993ea3a8a416ed99"><span offset-key="d46b83125e2f40c1993ea3a8a416ed99:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/3.2-bulk-delete-mutation/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="45985842bda84aee80f858c459a710a3" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="ce5456fcd0624c6e8d89f38f0c1232cb"><span data-offset-key="ce5456fcd0624c6e8d89f38f0c1232cb:0">Bulk delete todos - mutation</span></span></span></a><span key="523601f37a09402784562eeada543978"><span offset-key="523601f37a09402784562eeada543978:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="d46b83125e2f40c1993ea3a8a416ed99"><span offset-key="d46b83125e2f40c1993ea3a8a416ed99:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/3.2-bulk-delete-mutation/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="45985842bda84aee80f858c459a710a3" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="ce5456fcd0624c6e8d89f38f0c1232cb"><span data-offset-key="ce5456fcd0624c6e8d89f38f0c1232cb:0">Bulk delete todos - mutation</span></span></span></a><span key="523601f37a09402784562eeada543978"><span offset-key="523601f37a09402784562eeada543978:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="2396f7ba09c64af18369e347dd2a11cb"><span offset-key="2396f7ba09c64af18369e347dd2a11cb:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/3.3-clear-completed/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b3935fa76eaf418e99f60e4eee7d7bbb" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="8d40e0e4d41d469cabf915827c4d66cd"><span data-offset-key="8d40e0e4d41d469cabf915827c4d66cd:0">Mutation and update cache</span></span></span></a><span key="88703786c9364eb6b6e74a35f95d7b5c"><span offset-key="88703786c9364eb6b6e74a35f95d7b5c:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="2396f7ba09c64af18369e347dd2a11cb"><span offset-key="2396f7ba09c64af18369e347dd2a11cb:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/optimistic-update-mutations/3.3-clear-completed/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b3935fa76eaf418e99f60e4eee7d7bbb" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="8d40e0e4d41d469cabf915827c4d66cd"><span data-offset-key="8d40e0e4d41d469cabf915827c4d66cd:0">Mutation and update cache</span></span></span></a><span key="88703786c9364eb6b6e74a35f95d7b5c"><span offset-key="88703786c9364eb6b6e74a35f95d7b5c:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="94d1dad642a5464c883867bac64fa08f"><span offset-key="94d1dad642a5464c883867bac64fa08f:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/subscriptions/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0c07fcc4026a41caa94d18bf94719d6c" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="b9c434980a044354968199836dea4986"><span data-offset-key="b9c434980a044354968199836dea4986:0">Subscriptions to show online users</span></span></span></a><span key="ec484dd8e02a4a70ae79940cb648b391"><span offset-key="ec484dd8e02a4a70ae79940cb648b391:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="94d1dad642a5464c883867bac64fa08f"><span offset-key="94d1dad642a5464c883867bac64fa08f:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/subscriptions/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0c07fcc4026a41caa94d18bf94719d6c" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="b9c434980a044354968199836dea4986"><span data-offset-key="b9c434980a044354968199836dea4986:0">Subscriptions to show online users</span></span></span></a><span key="ec484dd8e02a4a70ae79940cb648b391"><span offset-key="ec484dd8e02a4a70ae79940cb648b391:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="0f590b0bd83b4729b8df91739e27ace1"><span offset-key="0f590b0bd83b4729b8df91739e27ace1:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/subscriptions/1-apollo-subscription/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="65bb2f2211bf4137bab321a6dec0d7ef" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="b4f13bf4b9fa4c089ecd3ab4d1523d0d"><span data-offset-key="b4f13bf4b9fa4c089ecd3ab4d1523d0d:0">Apollo useSubscription React hook</span></span></span></a><span key="7c999f0874ca44c483da87b580df5840"><span offset-key="7c999f0874ca44c483da87b580df5840:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="0f590b0bd83b4729b8df91739e27ace1"><span offset-key="0f590b0bd83b4729b8df91739e27ace1:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/subscriptions/1-apollo-subscription/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="65bb2f2211bf4137bab321a6dec0d7ef" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="b4f13bf4b9fa4c089ecd3ab4d1523d0d"><span data-offset-key="b4f13bf4b9fa4c089ecd3ab4d1523d0d:0">Apollo useSubscription React hook</span></span></span></a><span key="7c999f0874ca44c483da87b580df5840"><span offset-key="7c999f0874ca44c483da87b580df5840:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="c2aa81ea0da24c0180a3147d71cc7609"><span offset-key="c2aa81ea0da24c0180a3147d71cc7609:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/subscriptions/2-create-subscription/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="36288ad0ac824832858b998e47b7151b" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="147d4cea7df54e5a8b6fbadd990ef64d"><span data-offset-key="147d4cea7df54e5a8b6fbadd990ef64d:0">Create Subscription and Render Result</span></span></span></a><span key="ab6de6ba953347eca0c16e9e2cba9d47"><span offset-key="ab6de6ba953347eca0c16e9e2cba9d47:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="c2aa81ea0da24c0180a3147d71cc7609"><span offset-key="c2aa81ea0da24c0180a3147d71cc7609:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/subscriptions/2-create-subscription/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="36288ad0ac824832858b998e47b7151b" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="147d4cea7df54e5a8b6fbadd990ef64d"><span data-offset-key="147d4cea7df54e5a8b6fbadd990ef64d:0">Create Subscription and Render Result</span></span></span></a><span key="ab6de6ba953347eca0c16e9e2cba9d47"><span offset-key="ab6de6ba953347eca0c16e9e2cba9d47:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="0a1d868357d04cc28f8f1f12ffce25fb"><span offset-key="0a1d868357d04cc28f8f1f12ffce25fb:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/realtime-feed/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c747cef49272466bb58bf01683d726e7" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="e38b6b84cc964bdabe9124e05fe7dc5e"><span data-offset-key="e38b6b84cc964bdabe9124e05fe7dc5e:0">Realtime Feed</span></span></span></a><span key="8e9426245fb54fb49c7d74b4b9b6762d"><span offset-key="8e9426245fb54fb49c7d74b4b9b6762d:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="0a1d868357d04cc28f8f1f12ffce25fb"><span offset-key="0a1d868357d04cc28f8f1f12ffce25fb:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/realtime-feed/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c747cef49272466bb58bf01683d726e7" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="e38b6b84cc964bdabe9124e05fe7dc5e"><span data-offset-key="e38b6b84cc964bdabe9124e05fe7dc5e:0">Realtime Feed</span></span></span></a><span key="8e9426245fb54fb49c7d74b4b9b6762d"><span offset-key="8e9426245fb54fb49c7d74b4b9b6762d:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="9183d5ed63b04e1ab4ac666a5a082077"><span offset-key="9183d5ed63b04e1ab4ac666a5a082077:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/realtime-feed/1-fetch-public/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="653b2c132914470c91755426e8bd7682" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="bff42151693242689ad683f23da52b79"><span data-offset-key="bff42151693242689ad683f23da52b79:0">Fetch public todos - subscription</span></span></span></a><span key="f4ea5b96a8274d7ab3dbaaa5b54bfdd9"><span offset-key="f4ea5b96a8274d7ab3dbaaa5b54bfdd9:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="9183d5ed63b04e1ab4ac666a5a082077"><span offset-key="9183d5ed63b04e1ab4ac666a5a082077:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/realtime-feed/1-fetch-public/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="653b2c132914470c91755426e8bd7682" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="bff42151693242689ad683f23da52b79"><span data-offset-key="bff42151693242689ad683f23da52b79:0">Fetch public todos - subscription</span></span></span></a><span key="f4ea5b96a8274d7ab3dbaaa5b54bfdd9"><span offset-key="f4ea5b96a8274d7ab3dbaaa5b54bfdd9:0"><span slate-zero-width="z">​</span></span></span>
 
-        -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-            <span key="0fac8752b1d349819d576e5baff2acef"><span offset-key="0fac8752b1d349819d576e5baff2acef:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/realtime-feed/2-sync-todo/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9a4b8936a5e849c5bf17aca363f2fd12" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="fe2c941c25a947aabdb5f28956a5e0f9"><span data-offset-key="fe2c941c25a947aabdb5f28956a5e0f9:0">Sync new todos</span></span></span></a><span key="e702160788e24dd994c853b3fde0cc10"><span offset-key="e702160788e24dd994c853b3fde0cc10:0"><span slate-zero-width="z">​</span></span></span>
+      <span key="0fac8752b1d349819d576e5baff2acef"><span offset-key="0fac8752b1d349819d576e5baff2acef:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/realtime-feed/2-sync-todo/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9a4b8936a5e849c5bf17aca363f2fd12" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="fe2c941c25a947aabdb5f28956a5e0f9"><span data-offset-key="fe2c941c25a947aabdb5f28956a5e0f9:0">Sync new todos</span></span></span></a><span key="e702160788e24dd994c853b3fde0cc10"><span offset-key="e702160788e24dd994c853b3fde0cc10:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="208184d9ff8e4628848821f1ed290384"><span offset-key="208184d9ff8e4628848821f1ed290384:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/deployment/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="41725cac4ccb4f6391a2bcb1b9c541d2" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="f5eb53938ca4401ea7a54db0f611bb33"><span data-offset-key="f5eb53938ca4401ea7a54db0f611bb33:0">Deployment</span></span></span></a><span key="4e56a52a07354121a32074b89f3f796e"><span offset-key="4e56a52a07354121a32074b89f3f796e:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="208184d9ff8e4628848821f1ed290384"><span offset-key="208184d9ff8e4628848821f1ed290384:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/deployment/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="41725cac4ccb4f6391a2bcb1b9c541d2" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="f5eb53938ca4401ea7a54db0f611bb33"><span data-offset-key="f5eb53938ca4401ea7a54db0f611bb33:0">Deployment</span></span></span></a><span key="4e56a52a07354121a32074b89f3f796e"><span offset-key="4e56a52a07354121a32074b89f3f796e:0"><span slate-zero-width="z">​</span></span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+  - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-        <span key="c03a612b780b464a9c47f98522680217"><span offset-key="c03a612b780b464a9c47f98522680217:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/what-next/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="5095d2e88423471a998186ebf30f233a" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="f3ed2fbdbf054d0aab4f38d8d85ccfad"><span data-offset-key="f3ed2fbdbf054d0aab4f38d8d85ccfad:0">What next?</span></span></span></a><span key="8a11e094cb6a4044b491575a8fb450a7"><span offset-key="8a11e094cb6a4044b491575a8fb450a7:0"><span slate-zero-width="z">​</span></span></span>
+    <span key="c03a612b780b464a9c47f98522680217"><span offset-key="c03a612b780b464a9c47f98522680217:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/what-next/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="5095d2e88423471a998186ebf30f233a" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="f3ed2fbdbf054d0aab4f38d8d85ccfad"><span data-offset-key="f3ed2fbdbf054d0aab4f38d8d85ccfad:0">What next?</span></span></span></a><span key="8a11e094cb6a4044b491575a8fb450a7"><span offset-key="8a11e094cb6a4044b491575a8fb450a7:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="e3fc09c92fe54504bc417f83088b518a"><span offset-key="e3fc09c92fe54504bc417f83088b518a:0"><span slate-zero-width="n">​</span></span></span>
+  <span key="e3fc09c92fe54504bc417f83088b518a"><span offset-key="e3fc09c92fe54504bc417f83088b518a:0"><span slate-zero-width="n">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="ec4e772d8f184f87bebec6b59542ebf9"><span offset-key="ec4e772d8f184f87bebec6b59542ebf9:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/docs/latest/graphql/core/index.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e4659b2f94104f9298d91b0f79fb7102" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="1b85f3932c4a40d4b9eb4e00aecef86a"><span data-offset-key="1b85f3932c4a40d4b9eb4e00aecef86a:0">Hasura Docs</span></span></span></a><span key="9505a143ce7f42aba37014162498dc70"><span offset-key="9505a143ce7f42aba37014162498dc70:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="ec4e772d8f184f87bebec6b59542ebf9"><span offset-key="ec4e772d8f184f87bebec6b59542ebf9:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/docs/latest/graphql/core/index.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e4659b2f94104f9298d91b0f79fb7102" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="1b85f3932c4a40d4b9eb4e00aecef86a"><span data-offset-key="1b85f3932c4a40d4b9eb4e00aecef86a:0">Hasura Docs</span></span></span></a><span key="9505a143ce7f42aba37014162498dc70"><span offset-key="9505a143ce7f42aba37014162498dc70:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="d14c100cb41d44d89266dc38a5800918"><span offset-key="d14c100cb41d44d89266dc38a5800918:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/graphql/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ab95d1375f7d44399162f80733263e93" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="81e11564a2b949ac851560449ebf084a"><span data-offset-key="81e11564a2b949ac851560449ebf084a:0">GraphQL API</span></span></span></a><span key="05a5c2fa434046849e809be9397e6a6c"><span offset-key="05a5c2fa434046849e809be9397e6a6c:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="d14c100cb41d44d89266dc38a5800918"><span offset-key="d14c100cb41d44d89266dc38a5800918:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/graphql/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ab95d1375f7d44399162f80733263e93" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="81e11564a2b949ac851560449ebf084a"><span data-offset-key="81e11564a2b949ac851560449ebf084a:0">GraphQL API</span></span></span></a><span key="05a5c2fa434046849e809be9397e6a6c"><span offset-key="05a5c2fa434046849e809be9397e6a6c:0"><span slate-zero-width="z">​</span></span></span>
 
-# 
+#
 
 <span key="aec70afd59334b8b890a6bb8b9c5967a"><span offset-key="aec70afd59334b8b890a6bb8b9c5967a:0">Intro to GraphQL</span></span>
 
@@ -586,7 +586,7 @@ GraphQL
 
 <span key="4de2bf65b3ad498b937818e2b8540ba6"><span offset-key="4de2bf65b3ad498b937818e2b8540ba6:0">Edit on GitHub</span></span><span key="7db8717787b04361a3080aa712ad23f7"><span offset-key="7db8717787b04361a3080aa712ad23f7:0"><span slate-zero-width="z">​</span></span></span>
 
-## 
+##
 
 <span key="8b6d47fe82b046648318f215e707f3cd"><span offset-key="8b6d47fe82b046648318f215e707f3cd:0">What is GraphQL?</span></span>
 
@@ -594,7 +594,7 @@ GraphQL
 
 <span key="887cfa04bed2467eb956e36b9537ee58"><span offset-key="887cfa04bed2467eb956e36b9537ee58:0">GraphQL is designed for developers of web/mobile apps (HTTP clients) to be able to make API calls to fetch the data they need from their backend APIs conveniently.</span></span>
 
-## 
+##
 
 <span key="cfb2281943bc41979c09149f46b4cb85"><span offset-key="cfb2281943bc41979c09149f46b4cb85:0">GraphQL vs REST: an example</span></span>
 
@@ -620,45 +620,45 @@ GraphQL
 
 Copied!
 
-## 
+##
 
 <span key="0db2f130725542f1b290384f0dce8012"><span offset-key="0db2f130725542f1b290384f0dce8012:0">Thinking in GraphQL</span></span>
 
 <span key="3a5986a659fe4ff0a91d3b69db733d35"><span offset-key="3a5986a659fe4ff0a91d3b69db733d35:0">We're changing the way we think about API calls. Instead of making different API calls to different URLs to fetch data, we're making ad-hoc queries to a "single URL endpoint" that returns data based on the query.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="b337734efa684202b5c77aa33e664b8b"><span offset-key="b337734efa684202b5c77aa33e664b8b:0">Instead of 'GET'ing a resource you 'POST' a query that describes what data you want.</span></span>
+  <span key="b337734efa684202b5c77aa33e664b8b"><span offset-key="b337734efa684202b5c77aa33e664b8b:0">Instead of 'GET'ing a resource you 'POST' a query that describes what data you want.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="35c69f472aeb494f97a2f7096011af86"><span offset-key="35c69f472aeb494f97a2f7096011af86:0">You think of the data your API returns as a "graph", this allows you to make queries to fetch "related" pieces of data in a single shot. In the example above, you fetch the user and the user's address (as a nested JSON object) in the same API call, as opposed to making 2 API calls.</span></span>
+  <span key="35c69f472aeb494f97a2f7096011af86"><span offset-key="35c69f472aeb494f97a2f7096011af86:0">You think of the data your API returns as a "graph", this allows you to make queries to fetch "related" pieces of data in a single shot. In the example above, you fetch the user and the user's address (as a nested JSON object) in the same API call, as opposed to making 2 API calls.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="a670e325650740d78db59a98c2e66d45"><span offset-key="a670e325650740d78db59a98c2e66d45:0">The "query" you send as data in the POST request has a structure and a syntax. This "language" is called GraphQL.</span></span>
+  <span key="a670e325650740d78db59a98c2e66d45"><span offset-key="a670e325650740d78db59a98c2e66d45:0">The "query" you send as data in the POST request has a structure and a syntax. This "language" is called GraphQL.</span></span>
 
 <span key="eab1dc4d318842cdbacd47b05af5ada9"><span offset-key="eab1dc4d318842cdbacd47b05af5ada9:0">As you can see in the example above, GraphQL queries look very neat and easy to read! This is because the query is the "shape" of the final JSON data you desire. This is one of the key-reasons that makes GraphQL a joy to work with!</span></span>
 
-## 
+##
 
 <span key="4177996541054537b905492ded529ec6"><span offset-key="4177996541054537b905492ded529ec6:0">GraphQL benefits</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="0b03ba61d8d44e7a8a89b7a1b4532250">**Avoid over-fetching**<span offset-key="0b03ba61d8d44e7a8a89b7a1b4532250:1">: You avoid fetching more data than you need because you can specify the exact </span>**fields**<span offset-key="0b03ba61d8d44e7a8a89b7a1b4532250:3"> you need.</span></span>
+  <span key="0b03ba61d8d44e7a8a89b7a1b4532250">**Avoid over-fetching**<span offset-key="0b03ba61d8d44e7a8a89b7a1b4532250:1">: You avoid fetching more data than you need because you can specify the exact </span>**fields**<span offset-key="0b03ba61d8d44e7a8a89b7a1b4532250:3"> you need.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="c602d1fae3434e548eef39d371befce9">**Prevent multiple API calls**<span offset-key="c602d1fae3434e548eef39d371befce9:1">: In case you need more data, you can also avoid making multiple calls to your API. In the case above, you don't need to make 2 API calls to fetch </span>`user`<span offset-key="c602d1fae3434e548eef39d371befce9:3"> and </span>`address`<span offset-key="c602d1fae3434e548eef39d371befce9:5"> separately.</span></span>
+  <span key="c602d1fae3434e548eef39d371befce9">**Prevent multiple API calls**<span offset-key="c602d1fae3434e548eef39d371befce9:1">: In case you need more data, you can also avoid making multiple calls to your API. In the case above, you don't need to make 2 API calls to fetch </span>`user`<span offset-key="c602d1fae3434e548eef39d371befce9:3"> and </span>`address`<span offset-key="c602d1fae3434e548eef39d371befce9:5"> separately.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="cc014ebeb0c74c1a86e4c3b0795a5ef3">**Lesser communication with API developers**<span offset-key="cc014ebeb0c74c1a86e4c3b0795a5ef3:1">: Sometimes to fetch the exact data you need, especially if you need to fetch more data and want to avoid multiple API calls, you will need to ask your API developers to build a new API. With GraphQL, your work is </span>*independent*<span offset-key="cc014ebeb0c74c1a86e4c3b0795a5ef3:3"> of the API team! This allows you to work faster on your app.</span></span>
+  <span key="cc014ebeb0c74c1a86e4c3b0795a5ef3">**Lesser communication with API developers**<span offset-key="cc014ebeb0c74c1a86e4c3b0795a5ef3:1">: Sometimes to fetch the exact data you need, especially if you need to fetch more data and want to avoid multiple API calls, you will need to ask your API developers to build a new API. With GraphQL, your work is </span>_independent_<span offset-key="cc014ebeb0c74c1a86e4c3b0795a5ef3:3"> of the API team! This allows you to work faster on your app.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="ae35ce3bce3749c1b3d6341fa40de22d">**Self-documenting**<span offset-key="ae35ce3bce3749c1b3d6341fa40de22d:1">: Every GraphQL API conforms to a "schema" which is the graph data model and what kinds of queries a client can make. This allows the community to build lots of cool tools to explore & visualise your API or create IDE plugins that autocomplete your GraphQL queries and even do "codegen". We'll understand this in more detail later!</span></span>
+  <span key="ae35ce3bce3749c1b3d6341fa40de22d">**Self-documenting**<span offset-key="ae35ce3bce3749c1b3d6341fa40de22d:1">: Every GraphQL API conforms to a "schema" which is the graph data model and what kinds of queries a client can make. This allows the community to build lots of cool tools to explore & visualise your API or create IDE plugins that autocomplete your GraphQL queries and even do "codegen". We'll understand this in more detail later!</span></span>
 
 <span key="141653741cdd40d4b1db859c91ee30d1"><span offset-key="141653741cdd40d4b1db859c91ee30d1:0">Here's a quick chart to show you the GraphQL analogs of typical REST-ish terms:</span></span>
 
@@ -692,7 +692,7 @@ GraphQL
 
 <span key="793dbcd41c1249acbd7cf1e4826e1a5e"><span offset-key="793dbcd41c1249acbd7cf1e4826e1a5e:0">subscription</span></span>
 
-## 
+##
 
 <span key="1c6aa6775451459584a3d200bee5e247"><span offset-key="1c6aa6775451459584a3d200bee5e247:0">Try out GraphQL queries</span></span>
 
@@ -710,7 +710,7 @@ GraphQL
 
 <span key="3cc3101d16a1405dbb5bed3d81acfd8b"><span offset-key="3cc3101d16a1405dbb5bed3d81acfd8b:0">When you work with a GraphQL API in a project you will almost always use a tool like GraphiQL to explore and test your GraphQL queries.</span></span>
 
-## 
+##
 
 <span key="c3c93a7cbcf94283bde0bd77891394e2"><span offset-key="c3c93a7cbcf94283bde0bd77891394e2:0">Basic GraphQL query</span></span>
 
@@ -741,7 +741,7 @@ Copied!
 
 <span key="01c69539378f41c89f85dfe3a11e2dee"><span offset-key="01c69539378f41c89f85dfe3a11e2dee:0">Recall that there is no magic here! The hosted GraphiQL app is sending a GraphQL query string to the server at the given endpoint with the HTTP headers. The server then sends the response that you see on the right hand side.</span></span>
 
-## 
+##
 
 <span key="7c0214ae66a3421196a298e240dc3f94"><span offset-key="7c0214ae66a3421196a298e240dc3f94:0">Fetching "graphs"</span></span>
 
@@ -755,7 +755,7 @@ Copied!
 
 <span key="ccc124490e7648bfb8cde11d74412917"><span offset-key="ccc124490e7648bfb8cde11d74412917:0">Let's try making queries that fetch different slices of our data from the overall "graph".</span></span>
 
-### 
+###
 
 <span key="cf2ac597eabb4597ae2e0f594092d4f5"><span offset-key="cf2ac597eabb4597ae2e0f594092d4f5:0">Fetch users and their todos</span></span>
 
@@ -771,7 +771,7 @@ Copied!
 
 <span key="be5675bf3fc74eb1baa6efe18c051b41"><span offset-key="be5675bf3fc74eb1baa6efe18c051b41:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/graphiql" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="215908c7df7c4cbd8e1353c95711eb94" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="09e07647bc5440a4b5cc05cb13be01a1"><strong>Try it out in GraphiQL</strong></span></span></a><span key="dde417e5e832449e8d097956e47f6e34"><span offset-key="dde417e5e832449e8d097956e47f6e34:0"><span slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span key="00b10d4f9fa44cc59bdff49fe4fa4f2f"><span offset-key="00b10d4f9fa44cc59bdff49fe4fa4f2f:0">Fetch online users and their profile information</span></span>
 
@@ -779,7 +779,7 @@ Copied!
 
 1
 
-<span key="f949427bad5741d3b8b89f7fdf022db5"><span offset-key="f949427bad5741d3b8b89f7fdf022db5:0"> query { online\_users { last\_seen user { name } } }</span></span>
+<span key="f949427bad5741d3b8b89f7fdf022db5"><span offset-key="f949427bad5741d3b8b89f7fdf022db5:0"> query { online_users { last_seen user { name } } }</span></span>
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3OC00NTgxXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNSA1LjVhLjUuNSAwIDAxLjUtLjVoMTBhLjUuNSAwIDAxLjUuNXYxMGEuNS41IDAgMDEtLjUuNWgtMTBhLjUuNSAwIDAxLS41LS41di0xMHpNNiA2djloOVY2SDZ6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
@@ -787,15 +787,15 @@ Copied!
 
 <span key="faf10014ee594e7b9b1a2d02f7c6cb9a"><span offset-key="faf10014ee594e7b9b1a2d02f7c6cb9a:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/graphiql" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1df74a92944d434cbcd928fab70c5a77" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="9193e993ea3344f2bf70a7767109bd0a"><strong>Try it out in GraphiQL</strong></span></span></a><span key="f1fe744802284d49b1cf6e363b6f6515"><span offset-key="f1fe744802284d49b1cf6e363b6f6515:0"><span slate-zero-width="z">​</span></span></span>
 
-## 
+##
 
 <span key="76ba75f8871447009c4e48a090eaf2fe"><span offset-key="76ba75f8871447009c4e48a090eaf2fe:0">Adding parameters (arguments) to GraphQL queries</span></span>
 
 <span key="d46407ea65894358b89bf6e792792ddd"><span offset-key="d46407ea65894358b89bf6e792792ddd:0">In most API calls, you usually use parameters. For example, to specify what data you're fetching. If you're familiar with making </span>`GET`<span offset-key="d46407ea65894358b89bf6e792792ddd:2"> calls, you would have used a query parameter. For example, to fetch only 10 todos you might have made this API call: </span>`GET /api/todos?limit=10`<span offset-key="d46407ea65894358b89bf6e792792ddd:4">.</span></span>
 
-<span key="a8d781560605414aa4b3c7343b394c55"><span offset-key="a8d781560605414aa4b3c7343b394c55:0">The GraphQL query analog of this is </span>*arguments*<span offset-key="a8d781560605414aa4b3c7343b394c55:2"> that you can attach to a "field".</span></span>
+<span key="a8d781560605414aa4b3c7343b394c55"><span offset-key="a8d781560605414aa4b3c7343b394c55:0">The GraphQL query analog of this is </span>_arguments_<span offset-key="a8d781560605414aa4b3c7343b394c55:2"> that you can attach to a "field".</span></span>
 
-### 
+###
 
 <span key="26af78951a174c058178646ab4325acb"><span offset-key="26af78951a174c058178646ab4325acb:0">Basic argument: Fetch 10 todos</span></span>
 
@@ -813,13 +813,13 @@ Copied!
 
 <span key="5ba32b8f4fb84a5592519a5b185128c4"><span offset-key="5ba32b8f4fb84a5592519a5b185128c4:0">The most important bit to check here is </span>`limit: 10`<span offset-key="5ba32b8f4fb84a5592519a5b185128c4:2">. GraphQL servers will provide a list of arguments that can be used in </span>`()`<span offset-key="5ba32b8f4fb84a5592519a5b185128c4:4"> next to specific fields. In our case, we are using Hasura for creating the GraphQL backend which provides filter, sort and pagination arguments. The GraphQL server or API that you use, might provide a different set of arguments that can be used.</span></span>
 
-### 
+###
 
 <span key="78017ada0fe84e56b24ec0292294b79c"><span offset-key="78017ada0fe84e56b24ec0292294b79c:0">Multiple arguments on multiple fields: Fetch 1 user and 5 most recent todos for each user</span></span>
 
 1
 
-<span key="483283d3f2dd4bf9ba674b3a67cb2ee4"><span offset-key="483283d3f2dd4bf9ba674b3a67cb2ee4:0">query { users (limit: 1) { id name todos(order\_by: {created\_at: desc}, limit: 5) { id title } }}</span></span>
+<span key="483283d3f2dd4bf9ba674b3a67cb2ee4"><span offset-key="483283d3f2dd4bf9ba674b3a67cb2ee4:0">query { users (limit: 1) { id name todos(order_by: {created_at: desc}, limit: 5) { id title } }}</span></span>
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3OC00NTgxXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNSA1LjVhLjUuNSAwIDAxLjUtLjVoMTBhLjUuNSAwIDAxLjUuNXYxMGEuNS41IDAgMDEtLjUuNWgtMTBhLjUuNSAwIDAxLS41LS41di0xMHpNNiA2djloOVY2SDZ6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
@@ -831,7 +831,7 @@ Copied!
 
 <span key="4ad5f5801f5540fba6e93a05e2a87252"><span offset-key="4ad5f5801f5540fba6e93a05e2a87252:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/graphiql" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ebcfde01e5a84d2eba45c58168dd855b" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="d2349e77223a42899191374ec0f2e959"><strong>Try it out in GraphiQL</strong></span></span></a><span key="027fa5e2c4b9449384e6b80c42d34995"><span offset-key="027fa5e2c4b9449384e6b80c42d34995:0"><span slate-zero-width="z">​</span></span></span>
 
-## 
+##
 
 <span key="43f8f7ccd26b4c5abcc972543d2f046d"><span offset-key="43f8f7ccd26b4c5abcc972543d2f046d:0">GraphQL variables: Passing arguments to your queries dynamically</span></span>
 
@@ -849,7 +849,7 @@ Copied!
 
 <span key="c436f0e983174a6383fa0c3cb791e996"><span offset-key="c436f0e983174a6383fa0c3cb791e996:0">Thankfully, we don't ever have to do this! GraphQL variables are extra variables that you can send in a query so that the "arguments" can be provided dynamically!</span></span>
 
-## 
+##
 
 <span key="d94ab99b82b640a1af270838a70ad0b1"><span offset-key="d94ab99b82b640a1af270838a70ad0b1:0">Fetch $limit number of todos</span></span>
 
@@ -891,25 +891,25 @@ Copied!
 
 <span key="5501c3f6f718485eadd5ebdde95a0e65"><span offset-key="5501c3f6f718485eadd5ebdde95a0e65:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/graphiql" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="80927a8c53a64e10b242f64fdbccafc7" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="9f46a4e903f04de78b2f15591493ef65"><strong>Try it out in GraphiQL</strong></span></span></a><span key="67d4d94e910f49baa11f883b092597e3"><span offset-key="67d4d94e910f49baa11f883b092597e3:0"><span slate-zero-width="z">​</span></span></span>
 
-## 
+##
 
 <span key="dd480927a73943f8b8831728a9bfaedc"><span offset-key="dd480927a73943f8b8831728a9bfaedc:0">Summary</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="c946e0ef4feb41bd9451d2a685e754f7"><span offset-key="c946e0ef4feb41bd9451d2a685e754f7:0">You can now make GraphQL queries</span></span>
+  <span key="c946e0ef4feb41bd9451d2a685e754f7"><span offset-key="c946e0ef4feb41bd9451d2a685e754f7:0">You can now make GraphQL queries</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="515c070245ac41828721c046df5846fc"><span offset-key="515c070245ac41828721c046df5846fc:0">You know how to pass arguments to your GraphQL queries</span></span>
+  <span key="515c070245ac41828721c046df5846fc"><span offset-key="515c070245ac41828721c046df5846fc:0">You know how to pass arguments to your GraphQL queries</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="7b0eb0b2485c42faae733d7de9b5a2b9"><span offset-key="7b0eb0b2485c42faae733d7de9b5a2b9:0">You know how to make your arguments dynamic by using query variables</span></span>
+  <span key="7b0eb0b2485c42faae733d7de9b5a2b9"><span offset-key="7b0eb0b2485c42faae733d7de9b5a2b9:0">You know how to make your arguments dynamic by using query variables</span></span>
 
 <span key="ac63816d952049ff85d155423dea9f20"><span offset-key="ac63816d952049ff85d155423dea9f20:0">Next, let's look at writing data and not just fetching data!</span></span>
 
-# 
+#
 
 <span key="437dbeae4e9a4300b41c401d2b837ad3"><span offset-key="437dbeae4e9a4300b41c401d2b837ad3:0">Architecture</span></span>
 
@@ -919,7 +919,7 @@ Copied!
 
 <span key="98943fd44ff24f68b3b6edb1e402022b"><span offset-key="98943fd44ff24f68b3b6edb1e402022b:0"><span slate-zero-width="z">​</span></span></span><span key="834efceec6dd44c9aafa59337d18cd55"><span offset-key="834efceec6dd44c9aafa59337d18cd55:0">Before going further in understanding GraphQL, it's useful to get a sense of how GraphQL is actually used in an HTTP client (typically a web/mobile app).</span></span>
 
-## 
+##
 
 <span key="259323236dd5445f8f00c88a837fb25d"><span offset-key="259323236dd5445f8f00c88a837fb25d:0">GraphQL over HTTP</span></span>
 
@@ -929,12 +929,12 @@ Copied!
 
 <span key="50b67d16d0674c4c94dabab1e4cbcb27"><span offset-key="50b67d16d0674c4c94dabab1e4cbcb27:0">GraphQL over HTTP</span></span>
 
-### 
+###
 
 <span key="cdeecfaa242e4025922d7dadc033deda"><span offset-key="cdeecfaa242e4025922d7dadc033deda:0">GraphQL client-server flow:</span></span>
 
 1.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">1.</span>
-    <span key="58fed7f37a244d40aba15e7b748b6e93"><span offset-key="58fed7f37a244d40aba15e7b748b6e93:0">Note that the GraphQL query is not really JSON; it looks like the shape of the JSON you </span>*want*<span offset-key="58fed7f37a244d40aba15e7b748b6e93:2">. So when we make a 'POST' request to send our GraphQL query to the server, it is sent as a "string" by the client.</span></span>
+    <span key="58fed7f37a244d40aba15e7b748b6e93"><span offset-key="58fed7f37a244d40aba15e7b748b6e93:0">Note that the GraphQL query is not really JSON; it looks like the shape of the JSON you </span>_want_<span offset-key="58fed7f37a244d40aba15e7b748b6e93:2">. So when we make a 'POST' request to send our GraphQL query to the server, it is sent as a "string" by the client.</span></span>
 
 2.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">2.</span>
     <span key="e5624761af6740c2ae1b1595902e713a"><span offset-key="e5624761af6740c2ae1b1595902e713a:0">The server gets the JSON object and extracts the query string. As per the GraphQL syntax and the graph data model (GraphQL schema), the server processes and validates the GraphQL query.</span></span>
@@ -945,7 +945,7 @@ Copied!
 4.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">4.</span>
     <span key="29f719cc64eb49e38d7b3084e4f52090"><span offset-key="29f719cc64eb49e38d7b3084e4f52090:0">The server then takes the data and returns it to the client in a JSON object.</span></span>
 
-### 
+###
 
 <span key="a509a9fb97db41098d58d9f12ea0488c"><span offset-key="a509a9fb97db41098d58d9f12ea0488c:0">Example GraphQL client setup:</span></span>
 
@@ -965,7 +965,7 @@ Copied!
 
 Copied!
 
-# 
+#
 
 <span key="a0864502d15f4c8f9ea1d296b8b864c0"><span offset-key="a0864502d15f4c8f9ea1d296b8b864c0:0">Writing data - Mutations</span></span>
 
@@ -977,17 +977,17 @@ Copied!
 
 <span key="708d6cbc98eb4947af66af5ef4480d8f"><span offset-key="708d6cbc98eb4947af66af5ef4480d8f:0">These are the concepts you should know before you attack mutations (haha):</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="b7ddceeeb824473abcf6d913319a51de"><span offset-key="b7ddceeeb824473abcf6d913319a51de:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/2-fetching-data-queries/#tryoutgraphqlqueries" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b52305a7d20b43ac98213fcb44ebc896" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="251716b24ff34f88ad53a9936d9079c1"><span data-offset-key="251716b24ff34f88ad53a9936d9079c1:0">Using GraphiQL</span></span></span></a><span key="d917035607f9484bb941950d14a22985"><span offset-key="d917035607f9484bb941950d14a22985:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="b7ddceeeb824473abcf6d913319a51de"><span offset-key="b7ddceeeb824473abcf6d913319a51de:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/2-fetching-data-queries/#tryoutgraphqlqueries" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b52305a7d20b43ac98213fcb44ebc896" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="251716b24ff34f88ad53a9936d9079c1"><span data-offset-key="251716b24ff34f88ad53a9936d9079c1:0">Using GraphiQL</span></span></span></a><span key="d917035607f9484bb941950d14a22985"><span offset-key="d917035607f9484bb941950d14a22985:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="94e4d1a55a6c4f26829da83d4523c50b"><span offset-key="94e4d1a55a6c4f26829da83d4523c50b:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/2-fetching-data-queries/#graphqlvariables:passingargumentstoyourqueriesdynamically" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ba02218c541a4eccb7da6ab270a7ff28" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="e7cb31cdc552490c936d8c008bd7faaa"><span data-offset-key="e7cb31cdc552490c936d8c008bd7faaa:0">Using query variables</span></span></span></a><span key="49dcb388e2924338bcdfb1efbca671fe"><span offset-key="49dcb388e2924338bcdfb1efbca671fe:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="94e4d1a55a6c4f26829da83d4523c50b"><span offset-key="94e4d1a55a6c4f26829da83d4523c50b:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/nextjs-fullstack-serverless/intro-to-graphql/2-fetching-data-queries/#graphqlvariables:passingargumentstoyourqueriesdynamically" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ba02218c541a4eccb7da6ab270a7ff28" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="e7cb31cdc552490c936d8c008bd7faaa"><span data-offset-key="e7cb31cdc552490c936d8c008bd7faaa:0">Using query variables</span></span></span></a><span key="49dcb388e2924338bcdfb1efbca671fe"><span offset-key="49dcb388e2924338bcdfb1efbca671fe:0"><span slate-zero-width="z">​</span></span></span>
 
 <span key="eeec8e3ffdd240d7966f25632416b8c7"><span offset-key="eeec8e3ffdd240d7966f25632416b8c7:0">Now, let's get started with seeing how we can use GraphQL to "write" data. GraphQL mutations are types of GraphQL queries that may result in the state of your backend "mutating" or changing, just like typical </span>`'POST'`<span offset-key="eeec8e3ffdd240d7966f25632416b8c7:2">, </span>`'PUT'`<span offset-key="eeec8e3ffdd240d7966f25632416b8c7:4">, </span>`'PATCH'`<span offset-key="eeec8e3ffdd240d7966f25632416b8c7:6">, </span>`'DELETE'`<span offset-key="eeec8e3ffdd240d7966f25632416b8c7:8"> APIs.</span></span>
 
-## 
+##
 
 <span key="6c6d368335ff4cfeba3b675fc253234f"><span offset-key="6c6d368335ff4cfeba3b675fc253234f:0">Basic mutations</span></span>
 
@@ -995,7 +995,7 @@ Copied!
 
 <span key="a3de76212eea4a97ab6a179e2782ecdf"><span offset-key="a3de76212eea4a97ab6a179e2782ecdf:0">Let's try these mutations out in the context of a todo app to see what mutations look like. Mutations that you get from another GraphQL service, say if your API team has built their own, might be different.</span></span>
 
-### 
+###
 
 <span key="5b865f37397d4aa68a9b52193652e633"><span offset-key="5b865f37397d4aa68a9b52193652e633:0">Create a todo</span></span>
 
@@ -1007,7 +1007,7 @@ Copied!
 
 1
 
-<span key="f4bbf919b7994f5488d26728ac82d96f"><span offset-key="f4bbf919b7994f5488d26728ac82d96f:0">mutation { insert\_todos(objects: \[{title: "new todo"}\]) { returning { id } }}</span></span>
+<span key="f4bbf919b7994f5488d26728ac82d96f"><span offset-key="f4bbf919b7994f5488d26728ac82d96f:0">mutation { insert_todos(objects: \[{title: "new todo"}\]) { returning { id } }}</span></span>
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3OC00NTgxXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNSA1LjVhLjUuNSAwIDAxLjUtLjVoMTBhLjUuNSAwIDAxLjUuNXYxMGEuNS41IDAgMDEtLjUuNWgtMTBhLjUuNSAwIDAxLS41LS41di0xMHpNNiA2djloOVY2SDZ6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
@@ -1015,17 +1015,17 @@ Copied!
 
 <span key="70283507080048bd95b7c217ee16ff81"><span offset-key="70283507080048bd95b7c217ee16ff81:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/graphiql" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="91370299b03f40d3a32ae2433d7a65b3" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="fce9e19ef39c49fcaa58158806adbf83"><strong>Try it out in GraphiQL</strong></span></span></a><span key="d9fd7ed6188844e18e332cc047cfa189"><span offset-key="d9fd7ed6188844e18e332cc047cfa189:0"><span slate-zero-width="z">​</span></span></span>
 
-## 
+##
 
 <span key="582e8ca8f875468eb1afc144595f9083"><span offset-key="582e8ca8f875468eb1afc144595f9083:0">Returning data after the mutation</span></span>
 
-<span key="c3cdf81ec4da469491ffc9ef274462fd"><span offset-key="c3cdf81ec4da469491ffc9ef274462fd:0">Notice that the data of the todo that is to be inserted is sent as an argument to the </span>`insert_todos`<span offset-key="c3cdf81ec4da469491ffc9ef274462fd:2"> mutation. But the "fields" of the mutation specify the shape of the </span>*response*<span offset-key="c3cdf81ec4da469491ffc9ef274462fd:4"> that you want from the server.</span></span>
+<span key="c3cdf81ec4da469491ffc9ef274462fd"><span offset-key="c3cdf81ec4da469491ffc9ef274462fd:0">Notice that the data of the todo that is to be inserted is sent as an argument to the </span>`insert_todos`<span offset-key="c3cdf81ec4da469491ffc9ef274462fd:2"> mutation. But the "fields" of the mutation specify the shape of the </span>_response_<span offset-key="c3cdf81ec4da469491ffc9ef274462fd:4"> that you want from the server.</span></span>
 
 <span key="dad8a73110144d31a9700e4a8a2f5a75"><span offset-key="dad8a73110144d31a9700e4a8a2f5a75:0">Let's say we'd like to get the entire todo object once it's been created as a response:</span></span>
 
 1
 
-<span key="304055cb19fe4a62b81893cc1c3d0b18"><span offset-key="304055cb19fe4a62b81893cc1c3d0b18:0">mutation { insert\_todos(objects: \[{title: "new todo"}\]) { returning { id title is\_completed is\_public created\_at } }}</span></span>
+<span key="304055cb19fe4a62b81893cc1c3d0b18"><span offset-key="304055cb19fe4a62b81893cc1c3d0b18:0">mutation { insert_todos(objects: \[{title: "new todo"}\]) { returning { id title is_completed is_public created_at } }}</span></span>
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3OC00NTgxXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNSA1LjVhLjUuNSAwIDAxLjUtLjVoMTBhLjUuNSAwIDAxLjUuNXYxMGEuNS41IDAgMDEtLjUuNWgtMTBhLjUuNSAwIDAxLS41LS41di0xMHpNNiA2djloOVY2SDZ6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
@@ -1033,7 +1033,7 @@ Copied!
 
 <span key="c88a769387914260b9432bb5ee172ded"><span offset-key="c88a769387914260b9432bb5ee172ded:0"><span slate-zero-width="z">​</span></span></span><a href="https://hasura.io/learn/graphql/graphiql" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3b8ac8bb89f34a1db01fcb95d90ca95e" data-rnw-int-class="nearest_260-4577_262-4578-240__"><span data-key="f4124900683d4e7d9338eac9c465b30e"><strong>Try it out in GraphiQL</strong></span></span></a><span key="5ed1c316f39242dcbc01dfec8359356f"><span offset-key="5ed1c316f39242dcbc01dfec8359356f:0"><span slate-zero-width="z">​</span></span></span>
 
-## 
+##
 
 <span key="bde1268244a5443686f915aa1c358ddc"><span offset-key="bde1268244a5443686f915aa1c358ddc:0">Parameterise what you insert</span></span>
 
@@ -1061,21 +1061,21 @@ Copied!
 
 <span key="664c313538914acca701597f1a5253cc"><span offset-key="664c313538914acca701597f1a5253cc:0">We'll explore more mutations to update or delete data a little later. This is a good start to grokking mutations!</span></span>
 
-## 
+##
 
 <span key="6f3db05013ef4d81856b0f73069a05e2"><span offset-key="6f3db05013ef4d81856b0f73069a05e2:0">Summary</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="dbaab9d738664082a7810b261927d68b"><span offset-key="dbaab9d738664082a7810b261927d68b:0">You can make basic GraphQL mutations</span></span>
+  <span key="dbaab9d738664082a7810b261927d68b"><span offset-key="dbaab9d738664082a7810b261927d68b:0">You can make basic GraphQL mutations</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="70f696172b7a4c5ab6fd5f2f54ec8453"><span offset-key="70f696172b7a4c5ab6fd5f2f54ec8453:0">You can pass dynamic arguments/data to mutations with query variables</span></span>
+  <span key="70f696172b7a4c5ab6fd5f2f54ec8453"><span offset-key="70f696172b7a4c5ab6fd5f2f54ec8453:0">You can pass dynamic arguments/data to mutations with query variables</span></span>
 
 <span key="76c1886bc3c44db19ea898035fa7aa05"><span offset-key="76c1886bc3c44db19ea898035fa7aa05:0">Next, let's look at GraphQL subscriptions</span></span>
 
-# 
+#
 
 <span key="48cfd00ba9bf4040a7feed85e0c0f60e"><span offset-key="48cfd00ba9bf4040a7feed85e0c0f60e:0">Watching data - Subscriptions</span></span>
 
@@ -1091,7 +1091,7 @@ Copied!
 
 <span key="1351b168b78641ec9161a78784e36157"><span offset-key="1351b168b78641ec9161a78784e36157:0">GraphQL subscriptions are a critical component of adding realtime or reactive features to your apps easily. GraphQL clients and servers that support subscriptions are great because they allow you to build great experiences without having to deal with websocket code!</span></span>
 
-## 
+##
 
 <span key="17911017520d43ab9fc5bc893ce9206c"><span offset-key="17911017520d43ab9fc5bc893ce9206c:0">Make your first GraphQL subscription</span></span>
 
@@ -1099,7 +1099,7 @@ Copied!
 
 1
 
-<span key="1c969b531e6a42c78dc4460b73aacff0"><span offset-key="1c969b531e6a42c78dc4460b73aacff0:0">subscription { online\_users { id last\_seen user { name } }}</span></span>
+<span key="1c969b531e6a42c78dc4460b73aacff0"><span offset-key="1c969b531e6a42c78dc4460b73aacff0:0">subscription { online_users { id last_seen user { name } }}</span></span>
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3OC00NTgxXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNSA1LjVhLjUuNSAwIDAxLjUtLjVoMTBhLjUuNSAwIDAxLjUuNXYxMGEuNS41IDAgMDEtLjUuNWgtMTBhLjUuNSAwIDAxLS41LS41di0xMHpNNiA2djloOVY2SDZ6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
@@ -1109,7 +1109,7 @@ Copied!
 
 <span key="9c3dd4011ed64a34b6e407a7cef99552"><span offset-key="9c3dd4011ed64a34b6e407a7cef99552:0">Every time the set of online users change, you'll see the latest set on the response window on the right.</span></span>
 
-## 
+##
 
 <span key="b0dc131251414fb3aafa115e04e3687c"><span offset-key="b0dc131251414fb3aafa115e04e3687c:0">How do GraphQL subscriptions work?</span></span>
 
@@ -1117,13 +1117,13 @@ Copied!
 
 <span key="213f4bc953d849bdb1b24607edbaaf21"><span offset-key="213f4bc953d849bdb1b24607edbaaf21:0">A GraphQL subscription is a subscription query string sent to a websocket endpoint. And whenever data changes on the backend, new data is pushed over websockets from the server to the client.</span></span>
 
-## 
+##
 
 <span key="ebcd7eeb00c7463b8f66a02b7b08843b"><span offset-key="ebcd7eeb00c7463b8f66a02b7b08843b:0">Summary</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="83b2586d931c4e5e9817ca942abfbef2"><span offset-key="83b2586d931c4e5e9817ca942abfbef2:0">You know how to make GraphQL subscriptions</span></span>
+  <span key="83b2586d931c4e5e9817ca942abfbef2"><span offset-key="83b2586d931c4e5e9817ca942abfbef2:0">You know how to make GraphQL subscriptions</span></span>
 
 <span key="0ebdbf634b9b40c986e0bd22cf84136d"><span offset-key="0ebdbf634b9b40c986e0bd22cf84136d:0">Now that you're comfortable with the basics of using GraphQL, let's start integrating GraphQL APIs with an app!</span></span><span slate-void="true" key="1a8194a3a4c548c78c172071c9685878"></span>
 
@@ -1131,7 +1131,7 @@ Copied!
 
 <span key="7a611d3a27e54ecf90955598092c780a"><span offset-key="7a611d3a27e54ecf90955598092c780a:0"><span slate-zero-width="z">​</span></span></span>
 
-## 
+##
 
 <span key="3af46e09c0094dfb85cc81e401cef2b8"><span offset-key="3af46e09c0094dfb85cc81e401cef2b8:0">Get Started with GraphQL Now</span></span>
 

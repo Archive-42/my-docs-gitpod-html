@@ -294,7 +294,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -316,7 +316,7 @@ Netlify
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc4LTMyMDBfIiBjbGFzcz0ici1oN2dkb2Igci0xMHB0dW43IHItMXZ6aTh4aSIgc3R5bGU9IndpZHRoOjE2cHgiPjxwYXRoIGQ9Ik05IDE4bDYtNi02LTYiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -358,7 +358,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -420,13 +420,13 @@ Rest VS GraphQl
 
 <span key="8189f447862142d698ebc5134c62b209"><span offset-key="8189f447862142d698ebc5134c62b209:0">Thus, according to Postman’s 2020 State of the API Report 93.4% of respondents were most familiar with REST. By contrast, GraphQL is a modern revolutionary alternative for developing an API. In this article, we will look at REST and GraphQL, consider their principles and weigh the pros and cons of both technologies.</span></span>
 
-# 
+#
 
 <span key="3781e2faf3ff432680093d5adb6ae980"><span offset-key="3781e2faf3ff432680093d5adb6ae980:0">#Request examples</span></span>
 
 <span key="3d63a003e99f4a87adb3c49d5242b189"><span offset-key="3d63a003e99f4a87adb3c49d5242b189:0">Let’s start with the example. We consider an API for the library. The API provides information about authors and their books. Our application fetches the name of the author, and titles of all their books by author’s id.</span></span>
 
-## 
+##
 
 <span key="1d4fc9bd9d9f46e294c3c53bb6bed16a"><span offset-key="1d4fc9bd9d9f46e294c3c53bb6bed16a:0">#REST</span></span>
 
@@ -560,7 +560,7 @@ Copied!
 
 Copied!
 
-## 
+##
 
 <span key="27aedf9dc6ac46968fd11759fa3ff9c5"><span offset-key="27aedf9dc6ac46968fd11759fa3ff9c5:0">#GraphQL</span></span>
 
@@ -716,65 +716,65 @@ Copied!
 
 Copied!
 
-# 
+#
 
 <span key="b160af87d90544058fe510e2fab336c2"><span offset-key="b160af87d90544058fe510e2fab336c2:0">#REST basics</span></span>
 
 <span key="187e29a2c6dd409fa50cd3d096556d82"><span offset-key="187e29a2c6dd409fa50cd3d096556d82:0">REST (Representational State Transfer) is an architectural concept for web services that interact over HTTP protocol. The REST principles were introduced in 2000 by Roy Fielding in his Ph.D. dissertation. These principles are listed below.</span></span>
 
-## 
+##
 
 <span key="4418d936079045f8adf24a62799fc61b"><span offset-key="4418d936079045f8adf24a62799fc61b:0">#Client-Server</span></span>
 
 <span key="4a960ece70c044fd870c7771d90a688a"><span offset-key="4a960ece70c044fd870c7771d90a688a:0">An architecture of API should correspond to the client-server model. The client and server distribute their concerns. The server proceeds and stores data while the client requests resources and services. Also, the client and server don’t know the implementation details of each other. A decoupled architecture allows to use of the same server across multiple clients and helps to reduce software complexity.</span></span>
 
-## 
+##
 
 <span key="188d58c83667468ea1ab903a579d0c5c"><span offset-key="188d58c83667468ea1ab903a579d0c5c:0">#Stateless</span></span>
 
 <span key="bf2ace52d7574e25a52ad2e0dd5a56da"><span offset-key="bf2ace52d7574e25a52ad2e0dd5a56da:0">The server doesn’t store a client state. So, requests from the client should contain all needed information to perform operations and requests are independent.</span></span>
 
-## 
+##
 
 <span key="202378ba6f5a4e4f9268cf0923ee6373"><span offset-key="202378ba6f5a4e4f9268cf0923ee6373:0">#Cacheable</span></span>
 
 <span key="c3da8b72ad9744bdab099da75bad71ef"><span offset-key="c3da8b72ad9744bdab099da75bad71ef:0">Servers, clients, and intermediaries can cache response data, as cacheability is one of the standard HTTP protocol features. Caching decreases interactions between system components and improves performance.</span></span>
 
-## 
+##
 
 <span key="42367603c1024317a72d54760a109906"><span offset-key="42367603c1024317a72d54760a109906:0">#Uniform Interface</span></span>
 
 <span key="95d1754f78974952b8cb3719e4f88d8a"><span offset-key="95d1754f78974952b8cb3719e4f88d8a:0">There are four constraints for the uniform interface:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="d15e8e0abfe44a73a1f1cfd88196e520"><span offset-key="d15e8e0abfe44a73a1f1cfd88196e520:0">All resources are identified using URIs (Uniform Resource Identifiers) and separate from the representations that are returned to the client. Any format, such as JSON or XML, can be used for data transmission.</span></span>
+  <span key="d15e8e0abfe44a73a1f1cfd88196e520"><span offset-key="d15e8e0abfe44a73a1f1cfd88196e520:0">All resources are identified using URIs (Uniform Resource Identifiers) and separate from the representations that are returned to the client. Any format, such as JSON or XML, can be used for data transmission.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="56d0450e37104e1fbcc9eac45098054d"><span offset-key="56d0450e37104e1fbcc9eac45098054d:0">Representations contain all the necessary information for changing resources by the client.</span></span>
+  <span key="56d0450e37104e1fbcc9eac45098054d"><span offset-key="56d0450e37104e1fbcc9eac45098054d:0">Representations contain all the necessary information for changing resources by the client.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="9ee61b09955542baad97e3aaeb2cbab9"><span offset-key="9ee61b09955542baad97e3aaeb2cbab9:0">Self-descriptive messages returned to the client should contain all the information needed to process them.</span></span>
+  <span key="9ee61b09955542baad97e3aaeb2cbab9"><span offset-key="9ee61b09955542baad97e3aaeb2cbab9:0">Self-descriptive messages returned to the client should contain all the information needed to process them.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="233ef41aa1754788863eacdd9e575f4e"><span offset-key="233ef41aa1754788863eacdd9e575f4e:0">The server should implement Hypermedia as the Engine of Application State (HATEOAS), meaning that the client should be able to use hyperlinks to discover available actions.</span></span>
+  <span key="233ef41aa1754788863eacdd9e575f4e"><span offset-key="233ef41aa1754788863eacdd9e575f4e:0">The server should implement Hypermedia as the Engine of Application State (HATEOAS), meaning that the client should be able to use hyperlinks to discover available actions.</span></span>
 
-## 
+##
 
 <span key="fa924a659ab9455b8e3e0dff5cf7aec5"><span offset-key="fa924a659ab9455b8e3e0dff5cf7aec5:0">#Layered System</span></span>
 
 <span key="9b4bf540503840f3b966f4c02f7bb670"><span offset-key="9b4bf540503840f3b966f4c02f7bb670:0">The client is not aware of the intermediate components like a proxy, load balancer, or server that implement security policies. All intermediate layers should be invisible to the client.</span></span>
 
-## 
+##
 
 <span key="e8f199f4b46e4558b53051e6c4e14f97"><span offset-key="e8f199f4b46e4558b53051e6c4e14f97:0">#Code On Demand (optional)</span></span>
 
 <span key="0877291596554baebb4e8c686b9f7cf5"><span offset-key="0877291596554baebb4e8c686b9f7cf5:0">The server can send an executable code from the client when requested, extending client functionality.</span></span>
 
-# 
+#
 
 <span key="f06258e35361409bb0d03444727fe88f"><span offset-key="f06258e35361409bb0d03444727fe88f:0">#GraphQL basics</span></span>
 
@@ -788,35 +788,35 @@ Copied!
 
 <span key="4ecb514d1c984527a633fde74bd4d708"><span offset-key="4ecb514d1c984527a633fde74bd4d708:0">GraphQL uses its own type system that is described by GraphQL Schema Definition Language (SDL). GraphQL SDL became part of the specification in 2018. The type system is expressive and supports polymorphism using interfaces. A schema defines a graph structure of data, which means that objects are connected hierarchically.</span></span>
 
-# 
+#
 
 <span key="bbb5d53787774a0d82b8b5b4e0c1c3c1"><span offset-key="bbb5d53787774a0d82b8b5b4e0c1c3c1:0">#Pros and Cons</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="e827fde2380e4e31bf640d04eda6e100"><span offset-key="e827fde2380e4e31bf640d04eda6e100:0">REST has become the de facto standard for API development. It’s a tried-and-proven approach that has been using for decades and most developers are familiar with it.</span></span>
+  <span key="e827fde2380e4e31bf640d04eda6e100"><span offset-key="e827fde2380e4e31bf640d04eda6e100:0">REST has become the de facto standard for API development. It’s a tried-and-proven approach that has been using for decades and most developers are familiar with it.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="095cbd453c38465ab923c2a5cfa847dc"><span offset-key="095cbd453c38465ab923c2a5cfa847dc:0">With REST the server returns fixed data structures. But the client does not always need the entire dataset that is returned by the server. GraphQL solves the problem of over-fetching as it Enables the client to specify which data needs to be fetched.</span></span>
+  <span key="095cbd453c38465ab923c2a5cfa847dc"><span offset-key="095cbd453c38465ab923c2a5cfa847dc:0">With REST the server returns fixed data structures. But the client does not always need the entire dataset that is returned by the server. GraphQL solves the problem of over-fetching as it Enables the client to specify which data needs to be fetched.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="9180c10a4b084e409a26d03784f7a91e"><span offset-key="9180c10a4b084e409a26d03784f7a91e:0">When developers are using REST, they face under-fetching and N+1 requests problem. The client makes multiple requests to obtain all data it needs. On the contrary, GraphQL allows aggregating the data in a single query.</span></span>
+  <span key="9180c10a4b084e409a26d03784f7a91e"><span offset-key="9180c10a4b084e409a26d03784f7a91e:0">When developers are using REST, they face under-fetching and N+1 requests problem. The client makes multiple requests to obtain all data it needs. On the contrary, GraphQL allows aggregating the data in a single query.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="ddcdf007a333472bb5c980969dab05d5"><span offset-key="ddcdf007a333472bb5c980969dab05d5:0">GraphQL uses a strong type system to define the contract between the client and the server using GraphQL SDL. REST does not require a strict API definition, but today almost every RESTful service is defined using OpenAPI Specification. OpenAPI, as GraphQL, provides high expressiveness.</span></span>
+  <span key="ddcdf007a333472bb5c980969dab05d5"><span offset-key="ddcdf007a333472bb5c980969dab05d5:0">GraphQL uses a strong type system to define the contract between the client and the server using GraphQL SDL. REST does not require a strict API definition, but today almost every RESTful service is defined using OpenAPI Specification. OpenAPI, as GraphQL, provides high expressiveness.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="32c56f3ed69a497ca9ec02c6f75b8b49"><span offset-key="32c56f3ed69a497ca9ec02c6f75b8b49:0">Since GraphQL uses a single endpoint, it can not utilize an HTTP caching mechanism, unlike REST. There are several ways to implement caching in GraphQL, such as Apollo Engine on the backend and Apollo Client and Relay on the frontend. However, HTTP caching wins completely over these technologies.</span></span>
+  <span key="32c56f3ed69a497ca9ec02c6f75b8b49"><span offset-key="32c56f3ed69a497ca9ec02c6f75b8b49:0">Since GraphQL uses a single endpoint, it can not utilize an HTTP caching mechanism, unlike REST. There are several ways to implement caching in GraphQL, such as Apollo Engine on the backend and Apollo Client and Relay on the frontend. However, HTTP caching wins completely over these technologies.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="36a7e4e6e885442789af2bf8217bbd3c"><span offset-key="36a7e4e6e885442789af2bf8217bbd3c:0">With REST it is easy to organize error reporting and API monitoring because REST uses HTTP response status codes. Instead, in GraphQL the server always returns code 200, and analyzing the response body is required to capture errors in interaction.</span></span>
+  <span key="36a7e4e6e885442789af2bf8217bbd3c"><span offset-key="36a7e4e6e885442789af2bf8217bbd3c:0">With REST it is easy to organize error reporting and API monitoring because REST uses HTTP response status codes. Instead, in GraphQL the server always returns code 200, and analyzing the response body is required to capture errors in interaction.</span></span>
 
-# 
+#
 
 <span key="cf721181e0764c0c8970cab350fee448"><span offset-key="cf721181e0764c0c8970cab350fee448:0">#Conclusion</span></span>
 

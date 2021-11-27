@@ -298,7 +298,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -320,7 +320,7 @@ Netlify
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc4LTM4MDdfIiBjbGFzcz0ici1oN2dkb2Igci0xMHB0dW43IHItMXZ6aTh4aSIgc3R5bGU9IndpZHRoOjE2cHgiPjxwYXRoIGQ9Ik05IDE4bDYtNi02LTYiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -362,7 +362,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -420,103 +420,103 @@ Powered By <span class="css-901oao css-16my406 r-b88u0q">GitBook</span>
 
 FB-Dev-Open Source
 
-# 
+#
 
 <span key="a8f506c15494499898f497777b1432bc"><span offset-key="a8f506c15494499898f497777b1432bc:0">Content Publishing</span></span>
 
 <span key="fb6541b0c20148a6812bd7f900ebe9b1"><span offset-key="fb6541b0c20148a6812bd7f900ebe9b1:0">You can use the Instagram Graph API to publish </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-media" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="89a9dab969294b828964ed29f2f8b683" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="d53b6ec9e58743e5bd8596549953585c"><span data-offset-key="d53b6ec9e58743e5bd8596549953585c:0">IG Media</span></span></span></a><span key="50720eb1ecca466f819ac7beeda2dad4"><span offset-key="50720eb1ecca466f819ac7beeda2dad4:0"> objects on Instagram Business </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e1f5b389c557492e9879056362e5e3d3" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="3fc58a16e6544c4092aab2032c2ed31d"><span data-offset-key="3fc58a16e6544c4092aab2032c2ed31d:0">IG Users</span></span></span></a><span key="914116dba37f4a45a54f01a5ad44611b"><span offset-key="914116dba37f4a45a54f01a5ad44611b:0">. Publishing media objects is a two step process — first create a media object container, then use the container to publish the media.</span></span>
 
-## 
+##
 
 <span key="952a04cbf56a426ea24e3038c1ec8177"><span offset-key="952a04cbf56a426ea24e3038c1ec8177:0">Limitations</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="b9fb8a0743b84eb8a123f33dd229a7a4"><span offset-key="b9fb8a0743b84eb8a123f33dd229a7a4:0">Can only be used to publish to business </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c23e379b265f4bae9de6a8ad66a0a7cb" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="24bcb58b4e6243ffac58712c06732883"><span data-offset-key="24bcb58b4e6243ffac58712c06732883:0">IG User</span></span></span></a><span key="8de962950e854e7483a74b06ed634638"><span offset-key="8de962950e854e7483a74b06ed634638:0"> accounts; Creator IG User accounts are not supported.</span></span>
+  <span key="b9fb8a0743b84eb8a123f33dd229a7a4"><span offset-key="b9fb8a0743b84eb8a123f33dd229a7a4:0">Can only be used to publish to business </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c23e379b265f4bae9de6a8ad66a0a7cb" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="24bcb58b4e6243ffac58712c06732883"><span data-offset-key="24bcb58b4e6243ffac58712c06732883:0">IG User</span></span></span></a><span key="8de962950e854e7483a74b06ed634638"><span offset-key="8de962950e854e7483a74b06ed634638:0"> accounts; Creator IG User accounts are not supported.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="3c019736419b4220a4e6a4518930bd45"><span offset-key="3c019736419b4220a4e6a4518930bd45:0">Accounts are limited to 25 API-published posts within a 24 hour period.</span></span>
+  <span key="3c019736419b4220a4e6a4518930bd45"><span offset-key="3c019736419b4220a4e6a4518930bd45:0">Accounts are limited to 25 API-published posts within a 24 hour period.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="ab872ed9c79848439851463c70c380cb"><span offset-key="ab872ed9c79848439851463c70c380cb:0">JPEG is the only image format supported. Extended JPEG formats such as MPO and JPS are not supported.</span></span>
+  <span key="ab872ed9c79848439851463c70c380cb"><span offset-key="ab872ed9c79848439851463c70c380cb:0">JPEG is the only image format supported. Extended JPEG formats such as MPO and JPS are not supported.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="4aa2ac6e4de04460a676afe1dee21a80"><span offset-key="4aa2ac6e4de04460a676afe1dee21a80:0">Stories are not supported.</span></span>
+  <span key="4aa2ac6e4de04460a676afe1dee21a80"><span offset-key="4aa2ac6e4de04460a676afe1dee21a80:0">Stories are not supported.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="ad57eff8f2584c47b22e55eb97d30b20"><span offset-key="ad57eff8f2584c47b22e55eb97d30b20:0">Shopping tags are not supported.</span></span>
+  <span key="ad57eff8f2584c47b22e55eb97d30b20"><span offset-key="ad57eff8f2584c47b22e55eb97d30b20:0">Shopping tags are not supported.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="089aad0af3c74e71a90ee91ca573ca02"><span offset-key="089aad0af3c74e71a90ee91ca573ca02:0">Branded content tags are not supported.</span></span>
+  <span key="089aad0af3c74e71a90ee91ca573ca02"><span offset-key="089aad0af3c74e71a90ee91ca573ca02:0">Branded content tags are not supported.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="40bfc4d6399046698925658eb78c64b5"><span offset-key="40bfc4d6399046698925658eb78c64b5:0">Filters are not supported.</span></span>
+  <span key="40bfc4d6399046698925658eb78c64b5"><span offset-key="40bfc4d6399046698925658eb78c64b5:0">Filters are not supported.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="a43139054a9b401ca255c7e85952ba76"><span offset-key="a43139054a9b401ca255c7e85952ba76:0">Multi-image posts are not supported.</span></span>
+  <span key="a43139054a9b401ca255c7e85952ba76"><span offset-key="a43139054a9b401ca255c7e85952ba76:0">Multi-image posts are not supported.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="0f3e6248f17b49e2b18a65f649bbe470"><span offset-key="0f3e6248f17b49e2b18a65f649bbe470:0">If the caption contains a hashtag, it should be HTML URL-encoded as %23 in the request.</span></span>
+  <span key="0f3e6248f17b49e2b18a65f649bbe470"><span offset-key="0f3e6248f17b49e2b18a65f649bbe470:0">If the caption contains a hashtag, it should be HTML URL-encoded as %23 in the request.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="78cc9d5935504f44a9b4538ed761e524"><span offset-key="78cc9d5935504f44a9b4538ed761e524:0">Publishing to IGTV is not supported.</span></span>
+  <span key="78cc9d5935504f44a9b4538ed761e524"><span offset-key="78cc9d5935504f44a9b4538ed761e524:0">Publishing to IGTV is not supported.</span></span>
 
 <span key="e1fcf98d4c9343f9aba86f1e077619cb"><span offset-key="e1fcf98d4c9343f9aba86f1e077619cb:0">For additional limitations, please refer to the </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8a87c8a392864c22a1870df149b6f1f0" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="e2d18ad44c154009a23680a3c3e319ae"><span data-offset-key="e2d18ad44c154009a23680a3c3e319ae:0">IG User Media</span></span></span></a><span key="39f8f1211bbc4c688f568d79f8944184"><span offset-key="39f8f1211bbc4c688f568d79f8944184:0"> endpoint reference.</span></span>
 
-## 
+##
 
 <span key="4ea84c588367480ab1b6dbb1e8509e6f"><span offset-key="4ea84c588367480ab1b6dbb1e8509e6f:0">Requirements</span></span>
 
-### 
+###
 
 <span key="bf0ab8646bae4f9fb21e5c98b0115252"><span offset-key="bf0ab8646bae4f9fb21e5c98b0115252:0">Access Tokens</span></span>
 
 <span key="005389f6d44d4fd88bc797beb2f75f54"><span offset-key="005389f6d44d4fd88bc797beb2f75f54:0">All requests must include the app user's </span></span><a href="https://developers.facebook.com/docs/facebook-login/access-tokens/#usertokens" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="68852e596f0a4560b82c08527b822ba9" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="dab91653b4d64d8f8538d07fdc9e3fb2"><span data-offset-key="dab91653b4d64d8f8538d07fdc9e3fb2:0">User</span></span></span></a><span key="2d2c480c7924403f9f0311c2460e85ad"><span offset-key="2d2c480c7924403f9f0311c2460e85ad:0"> access token.</span></span>
 
-### 
+###
 
 <span key="be9c863995ec4ef7a8ddb89aeb166381"><span offset-key="be9c863995ec4ef7a8ddb89aeb166381:0">Permissions</span></span>
 
 <span key="cb060c7f338e428e9692c5af33eb5d2c"><span offset-key="cb060c7f338e428e9692c5af33eb5d2c:0">Publishing relies on a combination of the following permissions. The exact combination depends on which </span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#endpoints" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e8c4ede169c9427193ab99858acc617a" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="ef0605b45e5c46869b3c50cea2851a8b"><span data-offset-key="ef0605b45e5c46869b3c50cea2851a8b:0">endpoints</span></span></span></a><span key="d17a4d4d579b4a86ad6ec3e886491aa8"><span offset-key="d17a4d4d579b4a86ad6ec3e886491aa8:0"> your app will be using. Refer to our </span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#endpoints" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="447ad23cc5124ac889661a2444f98e4e" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="df63087284b9431da1fc023ff585007b"><span data-offset-key="df63087284b9431da1fc023ff585007b:0">endpoint</span></span></span></a><span key="d9a3559d5f7f4c68a19a4a38b9d795fd"><span offset-key="d9a3559d5f7f4c68a19a4a38b9d795fd:0"> references to determine which permissions they require.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="a0b54dfd985d465993022cd9d4a4caa8"><span offset-key="a0b54dfd985d465993022cd9d4a4caa8:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/ads_management" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="96c305a69fe14d8c9dfc6327e782ccae" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="fb191acb49f44fb7815892612521f9d2"><span data-offset-key="fb191acb49f44fb7815892612521f9d2:0">ads_management</span></span></span></a><span key="a801892ec95d4c4eba5ff8c8410c1ff9"><span offset-key="a801892ec95d4c4eba5ff8c8410c1ff9:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="a0b54dfd985d465993022cd9d4a4caa8"><span offset-key="a0b54dfd985d465993022cd9d4a4caa8:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/ads_management" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="96c305a69fe14d8c9dfc6327e782ccae" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="fb191acb49f44fb7815892612521f9d2"><span data-offset-key="fb191acb49f44fb7815892612521f9d2:0">ads_management</span></span></span></a><span key="a801892ec95d4c4eba5ff8c8410c1ff9"><span offset-key="a801892ec95d4c4eba5ff8c8410c1ff9:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="e0e3f70e58834331b2da8d21996f625c"><span offset-key="e0e3f70e58834331b2da8d21996f625c:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/business_management" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ed206abdc220420e982cc1aa001b4a5d" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="7ce598c88402404cb2e35e07a98ea04e"><span data-offset-key="7ce598c88402404cb2e35e07a98ea04e:0">business_management</span></span></span></a><span key="ba65934afe7841fab46730cbf22f875c"><span offset-key="ba65934afe7841fab46730cbf22f875c:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="e0e3f70e58834331b2da8d21996f625c"><span offset-key="e0e3f70e58834331b2da8d21996f625c:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/business_management" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ed206abdc220420e982cc1aa001b4a5d" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="7ce598c88402404cb2e35e07a98ea04e"><span data-offset-key="7ce598c88402404cb2e35e07a98ea04e:0">business_management</span></span></span></a><span key="ba65934afe7841fab46730cbf22f875c"><span offset-key="ba65934afe7841fab46730cbf22f875c:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="7ad401a64d5d442fa438c1426e1bb0d2"><span offset-key="7ad401a64d5d442fa438c1426e1bb0d2:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/instagram_basic" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2c26e85665f4403ba3f3eb638e381d03" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="4c1935ec37aa4099a162dce3f9ab27ac"><span data-offset-key="4c1935ec37aa4099a162dce3f9ab27ac:0">instagram_basic</span></span></span></a><span key="0470678b7673446cab95d71b04842b23"><span offset-key="0470678b7673446cab95d71b04842b23:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="7ad401a64d5d442fa438c1426e1bb0d2"><span offset-key="7ad401a64d5d442fa438c1426e1bb0d2:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/instagram_basic" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2c26e85665f4403ba3f3eb638e381d03" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="4c1935ec37aa4099a162dce3f9ab27ac"><span data-offset-key="4c1935ec37aa4099a162dce3f9ab27ac:0">instagram_basic</span></span></span></a><span key="0470678b7673446cab95d71b04842b23"><span offset-key="0470678b7673446cab95d71b04842b23:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="f228cb75ec494ab9b7b7cc74593f7cf9"><span offset-key="f228cb75ec494ab9b7b7cc74593f7cf9:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/instagram_content_publish" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b25afa9d83c1415bab3dd749d843ed4d" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="61bf5ac1374343c29c40c7f6fe87517e"><span data-offset-key="61bf5ac1374343c29c40c7f6fe87517e:0">instagram_content_publish</span></span></span></a><span key="512e7c9e56f54f9f81e859c572fa86e3"><span offset-key="512e7c9e56f54f9f81e859c572fa86e3:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="f228cb75ec494ab9b7b7cc74593f7cf9"><span offset-key="f228cb75ec494ab9b7b7cc74593f7cf9:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/instagram_content_publish" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b25afa9d83c1415bab3dd749d843ed4d" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="61bf5ac1374343c29c40c7f6fe87517e"><span data-offset-key="61bf5ac1374343c29c40c7f6fe87517e:0">instagram_content_publish</span></span></span></a><span key="512e7c9e56f54f9f81e859c572fa86e3"><span offset-key="512e7c9e56f54f9f81e859c572fa86e3:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="60eba98356cc4a9a8641500e7dd7b55a"><span offset-key="60eba98356cc4a9a8641500e7dd7b55a:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/pages_read_engagement" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4b70a415d78e4ca4b95ca582bb09aefa" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="c21361cc690c4567ad981a14e15bbb65"><span data-offset-key="c21361cc690c4567ad981a14e15bbb65:0">pages_read_engagement</span></span></span></a><span key="ba8b52caf1114e34b46e1e7bcdb31145"><span offset-key="ba8b52caf1114e34b46e1e7bcdb31145:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="60eba98356cc4a9a8641500e7dd7b55a"><span offset-key="60eba98356cc4a9a8641500e7dd7b55a:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/permissions/reference/pages_read_engagement" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4b70a415d78e4ca4b95ca582bb09aefa" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="c21361cc690c4567ad981a14e15bbb65"><span data-offset-key="c21361cc690c4567ad981a14e15bbb65:0">pages_read_engagement</span></span></span></a><span key="ba8b52caf1114e34b46e1e7bcdb31145"><span offset-key="ba8b52caf1114e34b46e1e7bcdb31145:0"><span slate-zero-width="z">​</span></span></span>
 
 <span key="1d79942f4e4e443ab023fecd07367a17"><span offset-key="1d79942f4e4e443ab023fecd07367a17:0">If your app will be used by app users who do not have a </span></span><a href="https://developers.facebook.com/docs/development/build-and-test/app-roles" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f228b0a72e614a34a9263905da708522" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="7d0d6e78f7d34412912e5eba51436ad8"><span data-offset-key="7d0d6e78f7d34412912e5eba51436ad8:0">role</span></span></span></a><span key="d298232816be4af6acc7572bc566da79"><span offset-key="d298232816be4af6acc7572bc566da79:0"> on your app or a role in a </span></span><a href="https://www.facebook.com/business/help/442345745885606?id=180505742745347" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="07ca1e00ac5242f099a5930142558c9b" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="6dbe2fbe81de439ea3ac96b385acdf81"><span data-offset-key="6dbe2fbe81de439ea3ac96b385acdf81:0">Business</span></span></span></a><span key="cd4aecb80f82406da78b28eab8552643"><span offset-key="cd4aecb80f82406da78b28eab8552643:0"> that claimed your app, you must request approval for each permission via </span></span><a href="https://developers.facebook.com/docs/app-review" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="35a362c62e804e9db54199a9c8193520" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="ea0055c752c042c6a67aebafd8eb9df9"><span data-offset-key="ea0055c752c042c6a67aebafd8eb9df9:0">App Review</span></span></span></a><span key="2a5f224e764543e18f253a71e93d8210"><span offset-key="2a5f224e764543e18f253a71e93d8210:0"> before non-role app users can grant them to your app.</span></span>
 
-### 
+###
 
 <span key="bba437297ee749249f744aa9ef3db751"><span offset-key="bba437297ee749249f744aa9ef3db751:0">Public Server</span></span>
 
 <span key="0378042b3e0b470da3b6822c6988e464"><span offset-key="0378042b3e0b470da3b6822c6988e464:0">We will cURL your media object using the passed in URL so the object must be on a public server.</span></span>
 
-### 
+###
 
 <span key="bc26b0e2152a4d189686520b2b7b5826"><span offset-key="bc26b0e2152a4d189686520b2b7b5826:0">Page Publishing Authorization</span></span>
 
@@ -524,7 +524,7 @@ FB-Dev-Open Source
 
 <span key="7e934a5bee414a2ea08a90bd2d214876"><span offset-key="7e934a5bee414a2ea08a90bd2d214876:0">It's possible that an app user may be able to perform </span></span><a href="https://developers.facebook.com/docs/instagram-api/overview#tasks" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d96bee3b8d17400a8040616ceba7465b" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="5bac6bb76f1c451a8aef089e8efbba59"><span data-offset-key="5bac6bb76f1c451a8aef089e8efbba59:0">Tasks</span></span></span></a><span key="90c6fcfb96c84af8b725d8053a0fe9ea"><span offset-key="90c6fcfb96c84af8b725d8053a0fe9ea:0"> on a Page that initially does not require PPA but later requires it. In this scenario, the app user would not be able to publish content to their Instagram Business account until completing PPA. Since there's no way for you to determine if an app user's Page requires PPA, we recommend that you advise app users to preemptively complete PPA.</span></span>
 
-## 
+##
 
 <span key="e3cebb063acb465aabe9a1de923703d8"><span offset-key="e3cebb063acb465aabe9a1de923703d8:0">Rate Limit</span></span>
 
@@ -532,53 +532,53 @@ FB-Dev-Open Source
 
 <span key="f5f14071ad494af2a08cfdeb3d8774e2"><span offset-key="f5f14071ad494af2a08cfdeb3d8774e2:0">To check an IG Business acccount's current rate limit usage, query the </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/content_publishing_limit" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d8e9a780ca6e423bb16a08fe30af9e81" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="26cf4a6e2a494cc888c99dddc48e12fd"><span data-offset-key="26cf4a6e2a494cc888c99dddc48e12fd:0">IG User Content Publishing Limit</span></span></span></a><span key="7eae92207b2f44bb872003e1cdfaabd8"><span offset-key="7eae92207b2f44bb872003e1cdfaabd8:0"> endpoint.</span></span>
 
-## 
+##
 
 <span key="21038582ce554e76b487d9eae6043752"><span offset-key="21038582ce554e76b487d9eae6043752:0">Endpoints</span></span>
 
 <span key="07372e8b1a374b15b207ffbcbbd0c0bf"><span offset-key="07372e8b1a374b15b207ffbcbbd0c0bf:0">The API consists of the following endpoints. Refer to each endpoint's reference document for usage requirements.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="3d7ff853c74e4e8b8fccc19823d2eb70"><span offset-key="3d7ff853c74e4e8b8fccc19823d2eb70:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ba39fab7abf444618288215125a57d17" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="ff62350aee494fe9b429aab5aadbcf0c"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="ff62350aee494fe9b429aab5aadbcf0c:0">POST /{ig-user-id}/media</code></span></span></a><span key="e82adec8ef4a480cb953b5becea38897"><span offset-key="e82adec8ef4a480cb953b5becea38897:0"> — upload media and create media containers.</span></span>
+  <span key="3d7ff853c74e4e8b8fccc19823d2eb70"><span offset-key="3d7ff853c74e4e8b8fccc19823d2eb70:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ba39fab7abf444618288215125a57d17" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="ff62350aee494fe9b429aab5aadbcf0c"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="ff62350aee494fe9b429aab5aadbcf0c:0">POST /{ig-user-id}/media</code></span></span></a><span key="e82adec8ef4a480cb953b5becea38897"><span offset-key="e82adec8ef4a480cb953b5becea38897:0"> — upload media and create media containers.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="7fc74db151f345b08e7f8b7f926a545c"><span offset-key="7fc74db151f345b08e7f8b7f926a545c:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media_publish#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="82e2d5197e4443a3a35da31f6f08c185" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="521d8b6e989846b39676488e198d7da7"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="521d8b6e989846b39676488e198d7da7:0">POST /{ig-user-id}/media_publish</code></span></span></a><span key="6541fdc186f542c8833a0621d9a5468f"><span offset-key="6541fdc186f542c8833a0621d9a5468f:0"> — publish uploaded media using their media containers.</span></span>
+  <span key="7fc74db151f345b08e7f8b7f926a545c"><span offset-key="7fc74db151f345b08e7f8b7f926a545c:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media_publish#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="82e2d5197e4443a3a35da31f6f08c185" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="521d8b6e989846b39676488e198d7da7"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="521d8b6e989846b39676488e198d7da7:0">POST /{ig-user-id}/media_publish</code></span></span></a><span key="6541fdc186f542c8833a0621d9a5468f"><span offset-key="6541fdc186f542c8833a0621d9a5468f:0"> — publish uploaded media using their media containers.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="45911804931648f790ffa7c0a6f44fb0"><span offset-key="45911804931648f790ffa7c0a6f44fb0:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-container#reading" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1882218117f2423ab1e4615d397b9a45" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="ddf502d9740b440aad259019c007e3cc"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="ddf502d9740b440aad259019c007e3cc:0">GET /{ig-container-id}?fields=status_code</code></span></span></a><span key="d7132225bb9d466e8792d583ab3f9d7b"><span offset-key="d7132225bb9d466e8792d583ab3f9d7b:0"> — check media container publishing eligibility and status.</span></span>
+  <span key="45911804931648f790ffa7c0a6f44fb0"><span offset-key="45911804931648f790ffa7c0a6f44fb0:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-container#reading" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1882218117f2423ab1e4615d397b9a45" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="ddf502d9740b440aad259019c007e3cc"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="ddf502d9740b440aad259019c007e3cc:0">GET /{ig-container-id}?fields=status_code</code></span></span></a><span key="d7132225bb9d466e8792d583ab3f9d7b"><span offset-key="d7132225bb9d466e8792d583ab3f9d7b:0"> — check media container publishing eligibility and status.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="9e4bcaae8cfd4e928560fbbd4cd70ccb"><span offset-key="9e4bcaae8cfd4e928560fbbd4cd70ccb:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/content_publishing_limit" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7e602e50d78f44c79981aaaa7603807b" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="15e230157e0a4077a4eaae990de2f3ec"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="15e230157e0a4077a4eaae990de2f3ec:0">GET /{ig-user-id}/content_publishing_limit</code></span></span></a><span key="adcdceacc0d44de3a3cb153e84145b89"><span offset-key="adcdceacc0d44de3a3cb153e84145b89:0"> — check app user's current publishing rate limit usage.</span></span>
+  <span key="9e4bcaae8cfd4e928560fbbd4cd70ccb"><span offset-key="9e4bcaae8cfd4e928560fbbd4cd70ccb:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/content_publishing_limit" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="7e602e50d78f44c79981aaaa7603807b" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="15e230157e0a4077a4eaae990de2f3ec"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="15e230157e0a4077a4eaae990de2f3ec:0">GET /{ig-user-id}/content_publishing_limit</code></span></span></a><span key="adcdceacc0d44de3a3cb153e84145b89"><span offset-key="adcdceacc0d44de3a3cb153e84145b89:0"> — check app user's current publishing rate limit usage.</span></span>
 
-## 
+##
 
 <span key="e8094c7ec6fb4757a66c7c4fe94984a6"><span offset-key="e8094c7ec6fb4757a66c7c4fe94984a6:0">Examples</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="83ca7079205046b899df9437bff5e5ad"><span offset-key="83ca7079205046b899df9437bff5e5ad:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#publish-photos" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="bf00fb57619640a3a34c260b88a31ad0" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="41e8f19f97f948aba098d8ec9900d997"><span data-offset-key="41e8f19f97f948aba098d8ec9900d997:0">Publishing Photos</span></span></span></a><span key="f2244802c8f04d569e752ebc770df41c"><span offset-key="f2244802c8f04d569e752ebc770df41c:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="83ca7079205046b899df9437bff5e5ad"><span offset-key="83ca7079205046b899df9437bff5e5ad:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#publish-photos" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="bf00fb57619640a3a34c260b88a31ad0" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="41e8f19f97f948aba098d8ec9900d997"><span data-offset-key="41e8f19f97f948aba098d8ec9900d997:0">Publishing Photos</span></span></span></a><span key="f2244802c8f04d569e752ebc770df41c"><span offset-key="f2244802c8f04d569e752ebc770df41c:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="bcceb64a562e466dac8bcea85e7cb0f1"><span offset-key="bcceb64a562e466dac8bcea85e7cb0f1:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#publish-with-tagged-users" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="aca69c706a1142779aa0e217e8964769" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="7bef0d0184364881b1c16d6869827678"><span data-offset-key="7bef0d0184364881b1c16d6869827678:0">Publishing Photos w/ Tagged Users</span></span></span></a><span key="c97ad2c1967d475cb3fc1c38a8ed4bfd"><span offset-key="c97ad2c1967d475cb3fc1c38a8ed4bfd:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="bcceb64a562e466dac8bcea85e7cb0f1"><span offset-key="bcceb64a562e466dac8bcea85e7cb0f1:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#publish-with-tagged-users" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="aca69c706a1142779aa0e217e8964769" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="7bef0d0184364881b1c16d6869827678"><span data-offset-key="7bef0d0184364881b1c16d6869827678:0">Publishing Photos w/ Tagged Users</span></span></span></a><span key="c97ad2c1967d475cb3fc1c38a8ed4bfd"><span offset-key="c97ad2c1967d475cb3fc1c38a8ed4bfd:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="2a562cd220e54a0d946898099f53d73a"><span offset-key="2a562cd220e54a0d946898099f53d73a:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#publish-with-locations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="902681ccfe8c402091154a75b086a41e" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="aa64a19d60d7454082971f1ce9df035f"><span data-offset-key="aa64a19d60d7454082971f1ce9df035f:0">Publishing Photos w/ Locations</span></span></span></a><span key="c05420034e834171854c85acf17e405f"><span offset-key="c05420034e834171854c85acf17e405f:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="2a562cd220e54a0d946898099f53d73a"><span offset-key="2a562cd220e54a0d946898099f53d73a:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#publish-with-locations" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="902681ccfe8c402091154a75b086a41e" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="aa64a19d60d7454082971f1ce9df035f"><span data-offset-key="aa64a19d60d7454082971f1ce9df035f:0">Publishing Photos w/ Locations</span></span></span></a><span key="c05420034e834171854c85acf17e405f"><span offset-key="c05420034e834171854c85acf17e405f:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="15654479d4894ddca17aa1aa9407246e"><span offset-key="15654479d4894ddca17aa1aa9407246e:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#publish-videos" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="366b48d3f43d45c7bf906f6342f35ae9" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="f2032653f99d48ab9c5d9233a2ac4104"><span data-offset-key="f2032653f99d48ab9c5d9233a2ac4104:0">Publishing Videos</span></span></span></a><span key="63018076f2eb43d6976018b817e072e5"><span offset-key="63018076f2eb43d6976018b817e072e5:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="15654479d4894ddca17aa1aa9407246e"><span offset-key="15654479d4894ddca17aa1aa9407246e:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#publish-videos" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="366b48d3f43d45c7bf906f6342f35ae9" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="f2032653f99d48ab9c5d9233a2ac4104"><span data-offset-key="f2032653f99d48ab9c5d9233a2ac4104:0">Publishing Videos</span></span></span></a><span key="63018076f2eb43d6976018b817e072e5"><span offset-key="63018076f2eb43d6976018b817e072e5:0"><span slate-zero-width="z">​</span></span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="bda3211276c14e66a2e2ab4b883de520"><span offset-key="bda3211276c14e66a2e2ab4b883de520:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#checking-rate-limit-usage" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2584453e393541c0b0ea3487c62fb6aa" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="95e5057a0381414eb6f4be38636022a5"><span data-offset-key="95e5057a0381414eb6f4be38636022a5:0">Checking Rate Limit Usage</span></span></span></a><span key="0e852deb5df54163a6f7f35ceda201d9"><span offset-key="0e852deb5df54163a6f7f35ceda201d9:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="bda3211276c14e66a2e2ab4b883de520"><span offset-key="bda3211276c14e66a2e2ab4b883de520:0"><span slate-zero-width="z">​</span></span></span><a href="https://developers.facebook.com/docs/instagram-api/guides/content-publishing/#checking-rate-limit-usage" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2584453e393541c0b0ea3487c62fb6aa" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="95e5057a0381414eb6f4be38636022a5"><span data-offset-key="95e5057a0381414eb6f4be38636022a5:0">Checking Rate Limit Usage</span></span></span></a><span key="0e852deb5df54163a6f7f35ceda201d9"><span offset-key="0e852deb5df54163a6f7f35ceda201d9:0"><span slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span key="4f39a0ccaa3341818c74aa17780bf615"><span offset-key="4f39a0ccaa3341818c74aa17780bf615:0">Publishing Photos</span></span>
 
@@ -610,7 +610,7 @@ Copied!
 
 2
 
-<span key="203b22e57c9c461e87539380b0348b39"><span offset-key="203b22e57c9c461e87539380b0348b39:0"> ?image\_url=https//www.example.com/images/bronz-fonz.jpg</span></span>
+<span key="203b22e57c9c461e87539380b0348b39"><span offset-key="203b22e57c9c461e87539380b0348b39:0"> ?image_url=https//www.example.com/images/bronz-fonz.jpg</span></span>
 
 3
 
@@ -626,17 +626,17 @@ Copied!
 
 1
 
-<span key="b8baa3a9019b43a3b9d66d833d6f9605"><span offset-key="b8baa3a9019b43a3b9d66d833d6f9605:0">POST graph.facebook.com/17841405822304914/media\_publish</span></span>
+<span key="b8baa3a9019b43a3b9d66d833d6f9605"><span offset-key="b8baa3a9019b43a3b9d66d833d6f9605:0">POST graph.facebook.com/17841405822304914/media_publish</span></span>
 
 2
 
-<span key="3ccc2ee86c094c149260a9bb7115e915"><span offset-key="3ccc2ee86c094c149260a9bb7115e915:0"> ?creation\_id=17889455560051444</span></span>
+<span key="3ccc2ee86c094c149260a9bb7115e915"><span offset-key="3ccc2ee86c094c149260a9bb7115e915:0"> ?creation_id=17889455560051444</span></span>
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3OC0zODA3XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNSA1LjVhLjUuNSAwIDAxLjUtLjVoMTBhLjUuNSAwIDAxLjUuNXYxMGEuNS41IDAgMDEtLjUuNWgtMTBhLjUuNSAwIDAxLS41LS41di0xMHpNNiA2djloOVY2SDZ6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
-### 
+###
 
 <span key="19c29d30f4774ca2aebb5814eee45a3c"><span offset-key="19c29d30f4774ca2aebb5814eee45a3c:0">Publishing Photos w/ Tagged Users</span></span>
 
@@ -654,7 +654,7 @@ Copied!
 
 2
 
-<span key="220145c5b17246a490b85d1aa8fd1a9a"><span offset-key="220145c5b17246a490b85d1aa8fd1a9a:0"> ?image\_url=https://www.example.com/images/bronzed-fonzes.jpg</span></span>
+<span key="220145c5b17246a490b85d1aa8fd1a9a"><span offset-key="220145c5b17246a490b85d1aa8fd1a9a:0"> ?image_url=https://www.example.com/images/bronzed-fonzes.jpg</span></span>
 
 3
 
@@ -662,7 +662,7 @@ Copied!
 
 4
 
-<span key="bb438b6422ca4359aa5fbf90fb414372"><span offset-key="bb438b6422ca4359aa5fbf90fb414372:0"> &user\_tags=</span></span>
+<span key="bb438b6422ca4359aa5fbf90fb414372"><span offset-key="bb438b6422ca4359aa5fbf90fb414372:0"> &user_tags=</span></span>
 
 5
 
@@ -720,27 +720,27 @@ Copied!
 
 <span key="54fce7579f62412880b2c5a2749c9dad">**Notes**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="79b942b87bae4f76b60c1876802e290a"><span offset-key="79b942b87bae4f76b60c1876802e290a:0">The </span>`user_tags`<span offset-key="79b942b87bae4f76b60c1876802e290a:2"> value must be an array of objects formatted with JSON.</span></span>
+  <span key="79b942b87bae4f76b60c1876802e290a"><span offset-key="79b942b87bae4f76b60c1876802e290a:0">The </span>`user_tags`<span offset-key="79b942b87bae4f76b60c1876802e290a:2"> value must be an array of objects formatted with JSON.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="7b0d5a7560bf4875ae96af770c00bf63"><span offset-key="7b0d5a7560bf4875ae96af770c00bf63:0">You can only tag users with public Instagram accounts.</span></span>
+  <span key="7b0d5a7560bf4875ae96af770c00bf63"><span offset-key="7b0d5a7560bf4875ae96af770c00bf63:0">You can only tag users with public Instagram accounts.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="2aabc2a2a99e4848be285559bedcb0f8"><span offset-key="2aabc2a2a99e4848be285559bedcb0f8:0">The object must contain all three properties (</span>`username`<span offset-key="2aabc2a2a99e4848be285559bedcb0f8:2">, </span>`x`<span offset-key="2aabc2a2a99e4848be285559bedcb0f8:4">, and </span>`y`<span offset-key="2aabc2a2a99e4848be285559bedcb0f8:6">) for each user.</span></span>
+  <span key="2aabc2a2a99e4848be285559bedcb0f8"><span offset-key="2aabc2a2a99e4848be285559bedcb0f8:0">The object must contain all three properties (</span>`username`<span offset-key="2aabc2a2a99e4848be285559bedcb0f8:2">, </span>`x`<span offset-key="2aabc2a2a99e4848be285559bedcb0f8:4">, and </span>`y`<span offset-key="2aabc2a2a99e4848be285559bedcb0f8:6">) for each user.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="01cb113df880475ea7b2ff494cf7a720">`x`<span offset-key="01cb113df880475ea7b2ff494cf7a720:1"> and </span>`y`<span offset-key="01cb113df880475ea7b2ff494cf7a720:3"> values must be </span>`float`<span offset-key="01cb113df880475ea7b2ff494cf7a720:5"> numbers that originate from the top-left of the image, with a range of </span>`0.0`<span offset-key="01cb113df880475ea7b2ff494cf7a720:7">–</span>`1.0`<span offset-key="01cb113df880475ea7b2ff494cf7a720:9">.</span></span>
+  <span key="01cb113df880475ea7b2ff494cf7a720">`x`<span offset-key="01cb113df880475ea7b2ff494cf7a720:1"> and </span>`y`<span offset-key="01cb113df880475ea7b2ff494cf7a720:3"> values must be </span>`float`<span offset-key="01cb113df880475ea7b2ff494cf7a720:5"> numbers that originate from the top-left of the image, with a range of </span>`0.0`<span offset-key="01cb113df880475ea7b2ff494cf7a720:7">–</span>`1.0`<span offset-key="01cb113df880475ea7b2ff494cf7a720:9">.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="2b7de6a719c7478f88886ebb1582002e"><span offset-key="2b7de6a719c7478f88886ebb1582002e:0">The hashtag character (#) is HTML URL-encoded in the request (%23).</span></span>
+  <span key="2b7de6a719c7478f88886ebb1582002e"><span offset-key="2b7de6a719c7478f88886ebb1582002e:0">The hashtag character (#) is HTML URL-encoded in the request (%23).</span></span>
 
-### 
+###
 
 <span key="4956d1d1e4a54d8e84b7cfb4d13ef2ba"><span offset-key="4956d1d1e4a54d8e84b7cfb4d13ef2ba:0">Publishing Photos w/ Locations</span></span>
 
@@ -762,7 +762,7 @@ Copied!
 
 4
 
-<span key="9f2866ac8c2143bf80312f4fe6e01c8b"><span offset-key="9f2866ac8c2143bf80312f4fe6e01c8b:0"> &access\_token={access-token}</span></span>
+<span key="9f2866ac8c2143bf80312f4fe6e01c8b"><span offset-key="9f2866ac8c2143bf80312f4fe6e01c8b:0"> &access_token={access-token}</span></span>
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3OC0zODA3XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNSA1LjVhLjUuNSAwIDAxLjUtLjVoMTBhLjUuNSAwIDAxLjUuNXYxMGEuNS41IDAgMDEtLjUuNWgtMTBhLjUuNSAwIDAxLS41LS41di0xMHpNNiA2djloOVY2SDZ6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
@@ -852,7 +852,7 @@ Copied!
 
 2
 
-<span key="605e3cecdd5f45c08c0ae693779b8857"><span offset-key="605e3cecdd5f45c08c0ae693779b8857:0"> ?image\_url=https://www.example.com/images/gugges.jpg</span></span>
+<span key="605e3cecdd5f45c08c0ae693779b8857"><span offset-key="605e3cecdd5f45c08c0ae693779b8857:0"> ?image_url=https://www.example.com/images/gugges.jpg</span></span>
 
 3
 
@@ -860,7 +860,7 @@ Copied!
 
 4
 
-<span key="37b95497599d4192a68b08874c0c67d1"><span offset-key="37b95497599d4192a68b08874c0c67d1:0"> &location\_id=7640348500</span></span>
+<span key="37b95497599d4192a68b08874c0c67d1"><span offset-key="37b95497599d4192a68b08874c0c67d1:0"> &location_id=7640348500</span></span>
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3OC0zODA3XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNSA1LjVhLjUuNSAwIDAxLjUtLjVoMTBhLjUuNSAwIDAxLjUuNXYxMGEuNS41IDAgMDEtLjUuNWgtMTBhLjUuNSAwIDAxLS41LS41di0xMHpNNiA2djloOVY2SDZ6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
@@ -868,7 +868,7 @@ Copied!
 
 <span key="13f445ab99004c9c9e07109a5360ba9d"><span offset-key="13f445ab99004c9c9e07109a5360ba9d:0">This would return a container ID which you would then use with the </span>`POST /{ig-user-id}/media_publish`<span offset-key="13f445ab99004c9c9e07109a5360ba9d:2"> endpoint to publish the photo.</span></span>
 
-### 
+###
 
 <span key="f45fd2cf9c2943ff808491b62f66361c"><span offset-key="f45fd2cf9c2943ff808491b62f66361c:0">Publishing Videos</span></span>
 
@@ -900,11 +900,11 @@ Copied!
 
 2
 
-<span key="11f10b00723244438727f92f3baca370"><span offset-key="11f10b00723244438727f92f3baca370:0"> ?media\_type=VIDEO</span></span>
+<span key="11f10b00723244438727f92f3baca370"><span offset-key="11f10b00723244438727f92f3baca370:0"> ?media_type=VIDEO</span></span>
 
 3
 
-<span key="accb3f40e93144748dcb64c68fed764f"><span offset-key="accb3f40e93144748dcb64c68fed764f:0"> &video\_url=https//www.example.com/videos/hungry-fonzes.mov</span></span>
+<span key="accb3f40e93144748dcb64c68fed764f"><span offset-key="accb3f40e93144748dcb64c68fed764f:0"> &video_url=https//www.example.com/videos/hungry-fonzes.mov</span></span>
 
 4
 
@@ -920,17 +920,17 @@ Copied!
 
 1
 
-<span key="9ecea40d66cd4bd0801cffe90f6418be"><span offset-key="9ecea40d66cd4bd0801cffe90f6418be:0">POST graph.facebook.com/17841405822304914/media\_publish</span></span>
+<span key="9ecea40d66cd4bd0801cffe90f6418be"><span offset-key="9ecea40d66cd4bd0801cffe90f6418be:0">POST graph.facebook.com/17841405822304914/media_publish</span></span>
 
 2
 
-<span key="852e03318988487e90d1af3ecdee9493"><span offset-key="852e03318988487e90d1af3ecdee9493:0"> ?creation\_id=17889455560051447</span></span>
+<span key="852e03318988487e90d1af3ecdee9493"><span offset-key="852e03318988487e90d1af3ecdee9493:0"> ?creation_id=17889455560051447</span></span>
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3OC0zODA3XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNSA1LjVhLjUuNSAwIDAxLjUtLjVoMTBhLjUuNSAwIDAxLjUuNXYxMGEuNS41IDAgMDEtLjUuNWgtMTBhLjUuNSAwIDAxLS41LS41di0xMHpNNiA2djloOVY2SDZ6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
 Copied!
 
-### 
+###
 
 <span key="d20d1f6765d64ed7a988a04bf7e6dae0"><span offset-key="d20d1f6765d64ed7a988a04bf7e6dae0:0">Checking Rate Limit Usage</span></span>
 
@@ -940,7 +940,7 @@ Copied!
 
 1
 
-<span key="ce963f8f1ec54b30988ae47e92bb4473"><span offset-key="ce963f8f1ec54b30988ae47e92bb4473:0">GET graph.facebook.com/17841400008460056/content\_publishing\_limit</span></span>
+<span key="ce963f8f1ec54b30988ae47e92bb4473"><span offset-key="ce963f8f1ec54b30988ae47e92bb4473:0">GET graph.facebook.com/17841400008460056/content_publishing_limit</span></span>
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3OC0zODA3XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDoxNnB4Ij48cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTAgLjVBLjUuNSAwIDAxLjUgMGgxMGEuNS41IDAgMDEuNS41VjRoLTFWMUgxdjloM3YxSC41YS41LjUgMCAwMS0uNS0uNVYuNXoiIGZpbGw9ImN1cnJlbnRDb2xvciI+PC9wYXRoPjxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNSA1LjVhLjUuNSAwIDAxLjUtLjVoMTBhLjUuNSAwIDAxLjUuNXYxMGEuNS41IDAgMDEtLjUuNWgtMTBhLjUuNSAwIDAxLS41LS41di0xMHpNNiA2djloOVY2SDZ6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
@@ -962,7 +962,7 @@ Copied!
 
 4
 
-<span key="e20a0b25059f4ffabd8f0a9124a2854a"><span offset-key="e20a0b25059f4ffabd8f0a9124a2854a:0"> "quota\_usage": 2</span></span>
+<span key="e20a0b25059f4ffabd8f0a9124a2854a"><span offset-key="e20a0b25059f4ffabd8f0a9124a2854a:0"> "quota_usage": 2</span></span>
 
 5
 
@@ -980,35 +980,35 @@ Copied!
 
 Copied!
 
-## 
+##
 
 <span key="64473cb9b3cf4f23b3caccb94a94c8f4"><span offset-key="64473cb9b3cf4f23b3caccb94a94c8f4:0">Troubleshooting</span></span>
 
 <span key="4634778c05c74fd6b2f877fa378430d0"><span offset-key="4634778c05c74fd6b2f877fa378430d0:0">If you are able to create a container for a video but the </span></span><a href="https://developers.facebook.com/docs/instagram-api/reference/ig-user/media_publish#creating" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8e9d04ae8e0a4b5692e6baf0bac5600b" data-rnw-int-class="nearest_260-3803_262-3804-240__"><span data-key="bb8b962bd8fe4efdb7f41b75b0ce8538"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="bb8b962bd8fe4efdb7f41b75b0ce8538:0">POST /{ig-user-id}/media_publish</code></span></span></a><span key="fdbef3d2717c452891eea1e877e71cac"><span offset-key="fdbef3d2717c452891eea1e877e71cac:0"> endpoint does not return the published media ID, you can get the container's publishing status by querying the </span>`GET /{ig-container-id}?fields=status_code`<span offset-key="fdbef3d2717c452891eea1e877e71cac:2"> endpoint. This endpoint will return one of the following:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="6565a158123546bb8ec941ca9f8c874b">`EXPIRED`<span offset-key="6565a158123546bb8ec941ca9f8c874b:1"> — The container was not published within 24 hours and has expired.</span></span>
+  <span key="6565a158123546bb8ec941ca9f8c874b">`EXPIRED`<span offset-key="6565a158123546bb8ec941ca9f8c874b:1"> — The container was not published within 24 hours and has expired.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="4b90057875164ca69854e05a187c1f10">`ERROR`<span offset-key="4b90057875164ca69854e05a187c1f10:1"> — The container failed to complete the publishing process.</span></span>
+  <span key="4b90057875164ca69854e05a187c1f10">`ERROR`<span offset-key="4b90057875164ca69854e05a187c1f10:1"> — The container failed to complete the publishing process.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="a3e245fc30cd4abd9fd11420f257f17b">`FINISHED`<span offset-key="a3e245fc30cd4abd9fd11420f257f17b:1"> — The container and its media object are ready to be published.</span></span>
+  <span key="a3e245fc30cd4abd9fd11420f257f17b">`FINISHED`<span offset-key="a3e245fc30cd4abd9fd11420f257f17b:1"> — The container and its media object are ready to be published.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="231f162e7da34c6a86de7c20a2b7b1fb">`IN_PROGRESS`<span offset-key="231f162e7da34c6a86de7c20a2b7b1fb:1"> — The container is still in the publishing process.</span></span>
+  <span key="231f162e7da34c6a86de7c20a2b7b1fb">`IN_PROGRESS`<span offset-key="231f162e7da34c6a86de7c20a2b7b1fb:1"> — The container is still in the publishing process.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="7cd190d651b04841bd9c897b25035be4">`PUBLISHED`<span offset-key="7cd190d651b04841bd9c897b25035be4:1"> — The container's media object has been published.</span></span>
+  <span key="7cd190d651b04841bd9c897b25035be4">`PUBLISHED`<span offset-key="7cd190d651b04841bd9c897b25035be4:1"> — The container's media object has been published.</span></span>
 
 <span key="942e1a1dc298402fad568bc6817f00be"><span offset-key="942e1a1dc298402fad568bc6817f00be:0">We recommend querying a container's status once per minute, for no more than 5 minutes.</span></span>
 
-## 
+##
 
 <span key="00b1422ebb49497cb176f634c07bbca4"><span offset-key="00b1422ebb49497cb176f634c07bbca4:0">Errors</span></span>
 

@@ -294,7 +294,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -316,7 +316,7 @@ Netlify
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc4LTM3NTRfIiBjbGFzcz0ici1oN2dkb2Igci0xMHB0dW43IiBzdHlsZT0idmVydGljYWwtYWxpZ246bWlkZGxlO3dpZHRoOjE2cHgiPjxwYXRoIGQ9Ik05IDE4bDYtNi02LTYiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7" />
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -358,7 +358,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -438,13 +438,13 @@ Pytorch
 
 <span key="3c2a36c1955d490aaf050b6571217b31"><span offset-key="3c2a36c1955d490aaf050b6571217b31:0">Explore a rich ecosystem of libraries, tools, and more to support development.</span></span>
 
-## 
+##
 
 <span key="6500e182289645d4b1296396866fd5d4"><span offset-key="6500e182289645d4b1296396866fd5d4:0">Community</span></span>
 
 <span key="068c93c18b5947d89c753b0e42c0c41c"><span offset-key="068c93c18b5947d89c753b0e42c0c41c:0">Join the PyTorch developer community to contribute, learn, and get your questions answered.</span></span>
 
-### 
+###
 
 <span key="962958d07ca24b9d8f296df861fb77b5"><span offset-key="962958d07ca24b9d8f296df861fb77b5:0">Learn the Basics</span></span>
 
@@ -452,7 +452,7 @@ Pytorch
 
 <span key="9deffca892394b509dad0ac10094dc90"><span offset-key="9deffca892394b509dad0ac10094dc90:0"><span slate-zero-width="z">​</span></span></span><a href="https://pytorch.org/tutorials/beginner/basics/intro.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="4fc76e00b6a6473e830efd6a36ea1dd6" data-rnw-int-class="nearest_260-3750_262-3751-240__"><span data-key="83453d54425c49cf886caf4de99ee473"><span data-offset-key="83453d54425c49cf886caf4de99ee473:0">Get started with PyTorch</span></span></span></a><span key="0cc6afe70a0949ff936c00e60b577c3c"><span offset-key="0cc6afe70a0949ff936c00e60b577c3c:0"><span slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span key="b4ad472384934a1db332daf466205d94"><span offset-key="b4ad472384934a1db332daf466205d94:0">PyTorch Recipes</span></span>
 
@@ -460,7 +460,7 @@ Pytorch
 
 <span key="df1d3631d7e8442e8f02a424b8a36cfd"><span offset-key="df1d3631d7e8442e8f02a424b8a36cfd:0"><span slate-zero-width="z">​</span></span></span><a href="https://pytorch.org/tutorials/recipes/recipes_index.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="5d91650b17524ded85620609d3b2fe2e" data-rnw-int-class="nearest_260-3750_262-3751-240__"><span data-key="1fb6f335a5ce4bfaa50485a0ca2e1a81"><span data-offset-key="1fb6f335a5ce4bfaa50485a0ca2e1a81:0">Explore Recipes</span></span></span></a><span key="61f8c49886664b3c91e2ac8dc1b7f609"><span offset-key="61f8c49886664b3c91e2ac8dc1b7f609:0"><span slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span key="bc0ba8ae550d428585d1c2d00165168a"><span offset-key="bc0ba8ae550d428585d1c2d00165168a:0">Examples of PyTorch</span></span>
 
@@ -468,7 +468,7 @@ Pytorch
 
 <span key="a33d977fe6e94734b326d7f5c7c08cba"><span offset-key="a33d977fe6e94734b326d7f5c7c08cba:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/pytorch/examples" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0a1f2661f84d40aebe533dacf09a1e17" data-rnw-int-class="nearest_260-3750_262-3751-240__"><span data-key="bc92562ec6634fcea51ae5e2f9f59d67"><span data-offset-key="bc92562ec6634fcea51ae5e2f9f59d67:0">Checkout Examples</span></span></span></a><span key="a1561fca3c514a9e9634f403f4ef4ac9"><span offset-key="a1561fca3c514a9e9634f403f4ef4ac9:0"><span slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span key="71d476a650c14e3787d22ac7f3c47b61"><span offset-key="71d476a650c14e3787d22ac7f3c47b61:0">PyTorch Cheat Sheet</span></span>
 
@@ -476,7 +476,7 @@ Pytorch
 
 <span key="109750deba1849ef8628f4bd878bf61e"><span offset-key="109750deba1849ef8628f4bd878bf61e:0"><span slate-zero-width="z">​</span></span></span><a href="https://pytorch.org/tutorials/beginner/ptcheat.html" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b8fb8d8c087f4f038d43fbdd21f66c33" data-rnw-int-class="nearest_260-3750_262-3751-240__"><span data-key="e672c0cf7db94f158b5dfb7dc9f6835b"><span data-offset-key="e672c0cf7db94f158b5dfb7dc9f6835b:0">Open</span></span></span></a><span key="7d6a957d80574e3ab9a3889a3fc80a82"><span offset-key="7d6a957d80574e3ab9a3889a3fc80a82:0"><span slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span key="c0a26f79807346c99929f9308ee876fe"><span offset-key="c0a26f79807346c99929f9308ee876fe:0">Tutorials on GitHub</span></span>
 
@@ -484,7 +484,7 @@ Pytorch
 
 <span key="9e0462d85f694bb49ea9ce1c615aadb8"><span offset-key="9e0462d85f694bb49ea9ce1c615aadb8:0"><span slate-zero-width="z">​</span></span></span><a href="https://github.com/pytorch/tutorials" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2e03735b85064ca3acf9a293ba67b3c7" data-rnw-int-class="nearest_260-3750_262-3751-240__"><span data-key="7015d90973174858a0cdc98059c9a8ba"><span data-offset-key="7015d90973174858a0cdc98059c9a8ba:0">Go To GitHub</span></span></span></a><span key="0a06427e5f574aa9ab080eef4df5e992"><span offset-key="0a06427e5f574aa9ab080eef4df5e992:0"><span slate-zero-width="z">​</span></span></span>
 
-### 
+###
 
 <span key="e12726aa54a545f78125daf59ac9a546"><span offset-key="e12726aa54a545f78125daf59ac9a546:0">Run Tutorials on Google Colab</span></span>
 
@@ -519,23 +519,23 @@ Pytorch
     <span key="e6b1f084d2ce437b896a1950b5e66379"><span offset-key="e6b1f084d2ce437b896a1950b5e66379:0">Unzip the file on your local machine.</span></span>
 
 5.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">5.</span>
-    <span key="c3de91975daa4f58908289b2c78fe0f3"><span offset-key="c3de91975daa4f58908289b2c78fe0f3:0">Copy the files </span>**movie\_lines.txt**<span offset-key="c3de91975daa4f58908289b2c78fe0f3:2"> and </span>**movie\_conversations.txt**<span offset-key="c3de91975daa4f58908289b2c78fe0f3:4"> to the </span>**data/cornell**<span offset-key="c3de91975daa4f58908289b2c78fe0f3:6"> folder that you created in Google Drive.</span></span>
+    <span key="c3de91975daa4f58908289b2c78fe0f3"><span offset-key="c3de91975daa4f58908289b2c78fe0f3:0">Copy the files </span>**movie_lines.txt**<span offset-key="c3de91975daa4f58908289b2c78fe0f3:2"> and </span>**movie_conversations.txt**<span offset-key="c3de91975daa4f58908289b2c78fe0f3:4"> to the </span>**data/cornell**<span offset-key="c3de91975daa4f58908289b2c78fe0f3:6"> folder that you created in Google Drive.</span></span>
 
 <span key="a2c05283588747ab8950528296f6cdef"><span offset-key="a2c05283588747ab8950528296f6cdef:0">Now we’ll need to edit the file in\_ \_Colab to point to the file on Google Drive.</span></span>
 
-<span key="4f4c1b5646bb4a9cb86995b4cd559307"><span offset-key="4f4c1b5646bb4a9cb86995b4cd559307:0">In Colab, add the following to top of the code section over the line that begins </span>*corpus\_name*<span offset-key="4f4c1b5646bb4a9cb86995b4cd559307:2">:</span></span>
+<span key="4f4c1b5646bb4a9cb86995b4cd559307"><span offset-key="4f4c1b5646bb4a9cb86995b4cd559307:0">In Colab, add the following to top of the code section over the line that begins </span>_corpus_name_<span offset-key="4f4c1b5646bb4a9cb86995b4cd559307:2">:</span></span>
 
 <span key="0fde6208ad3d47a5a3169f267c1ca95c"><span offset-key="0fde6208ad3d47a5a3169f267c1ca95c:0">from google.colab import drive drive.mount('/content/gdrive')</span></span>
 
 <span key="ae9d45dfe141437f853e68d5f581bbed"><span offset-key="ae9d45dfe141437f853e68d5f581bbed:0">Change the two lines that follow:</span></span>
 
 1.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">1.</span>
-    <span key="401f9eb4a8d5435e872cc5c1a941fa70"><span offset-key="401f9eb4a8d5435e872cc5c1a941fa70:0">Change the </span>**corpus\_name**<span offset-key="401f9eb4a8d5435e872cc5c1a941fa70:2"> value to </span>**“cornell”**<span offset-key="401f9eb4a8d5435e872cc5c1a941fa70:4">.</span></span>
+    <span key="401f9eb4a8d5435e872cc5c1a941fa70"><span offset-key="401f9eb4a8d5435e872cc5c1a941fa70:0">Change the </span>**corpus_name**<span offset-key="401f9eb4a8d5435e872cc5c1a941fa70:2"> value to </span>**“cornell”**<span offset-key="401f9eb4a8d5435e872cc5c1a941fa70:4">.</span></span>
 
 2.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">2.</span>
     <span key="ff92ed4a27b84833bb5de3a28de39317"><span offset-key="ff92ed4a27b84833bb5de3a28de39317:0">Change the line that begins with </span>**corpus**<span offset-key="ff92ed4a27b84833bb5de3a28de39317:2"> to this:</span></span>
 
-<span key="3fd0f9abf3a44e6eb48f8f172f1ad8d3"><span offset-key="3fd0f9abf3a44e6eb48f8f172f1ad8d3:0">corpus = os.path.join("/content/gdrive/My Drive/data", corpus\_name)</span></span>
+<span key="3fd0f9abf3a44e6eb48f8f172f1ad8d3"><span offset-key="3fd0f9abf3a44e6eb48f8f172f1ad8d3:0">corpus = os.path.join("/content/gdrive/My Drive/data", corpus_name)</span></span>
 
 <span key="4348d7b44aac4945bf0b79e6b9e8dfb5"><span offset-key="4348d7b44aac4945bf0b79e6b9e8dfb5:0">We’re now pointing to the file we uploaded to Drive.</span></span>
 
@@ -572,23 +572,23 @@ Pytorch
     <span key="b6a6fbd5bde54d4db96954229af96241"><span offset-key="b6a6fbd5bde54d4db96954229af96241:0">Unzip the file on your local machine.</span></span>
 
 5.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">5.</span>
-    <span key="5abd8064459a41f2ae3d5c3076876b88"><span offset-key="5abd8064459a41f2ae3d5c3076876b88:0">Copy the files </span>**movie\_lines.txt**<span offset-key="5abd8064459a41f2ae3d5c3076876b88:2"> and </span>**movie\_conversations.txt**<span offset-key="5abd8064459a41f2ae3d5c3076876b88:4"> to the </span>**data/cornell**<span offset-key="5abd8064459a41f2ae3d5c3076876b88:6"> folder that you created in Google Drive.</span></span>
+    <span key="5abd8064459a41f2ae3d5c3076876b88"><span offset-key="5abd8064459a41f2ae3d5c3076876b88:0">Copy the files </span>**movie_lines.txt**<span offset-key="5abd8064459a41f2ae3d5c3076876b88:2"> and </span>**movie_conversations.txt**<span offset-key="5abd8064459a41f2ae3d5c3076876b88:4"> to the </span>**data/cornell**<span offset-key="5abd8064459a41f2ae3d5c3076876b88:6"> folder that you created in Google Drive.</span></span>
 
 <span key="492e4c8f27dc41eb9a1fd5c5b448c916"><span offset-key="492e4c8f27dc41eb9a1fd5c5b448c916:0">Now we’ll need to edit the file in\_ \_Colab to point to the file on Google Drive.</span></span>
 
-<span key="0752b4a93bc54a15856f4964daf4ce36"><span offset-key="0752b4a93bc54a15856f4964daf4ce36:0">In Colab, add the following to top of the code section over the line that begins </span>*corpus\_name*<span offset-key="0752b4a93bc54a15856f4964daf4ce36:2">:</span></span>
+<span key="0752b4a93bc54a15856f4964daf4ce36"><span offset-key="0752b4a93bc54a15856f4964daf4ce36:0">In Colab, add the following to top of the code section over the line that begins </span>_corpus_name_<span offset-key="0752b4a93bc54a15856f4964daf4ce36:2">:</span></span>
 
 <span key="9b02be6cc1934be3829c4825f8a548ce"><span offset-key="9b02be6cc1934be3829c4825f8a548ce:0">from google.colab import drive drive.mount('/content/gdrive')</span></span>
 
 <span key="16165e89d0e34885af1eb0d65ca6cd0b"><span offset-key="16165e89d0e34885af1eb0d65ca6cd0b:0">Change the two lines that follow:</span></span>
 
 1.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">1.</span>
-    <span key="2f4cea8ca150415e8c087ec4c488f391"><span offset-key="2f4cea8ca150415e8c087ec4c488f391:0">Change the </span>**corpus\_name**<span offset-key="2f4cea8ca150415e8c087ec4c488f391:2"> value to </span>**“cornell”**<span offset-key="2f4cea8ca150415e8c087ec4c488f391:4">.</span></span>
+    <span key="2f4cea8ca150415e8c087ec4c488f391"><span offset-key="2f4cea8ca150415e8c087ec4c488f391:0">Change the </span>**corpus_name**<span offset-key="2f4cea8ca150415e8c087ec4c488f391:2"> value to </span>**“cornell”**<span offset-key="2f4cea8ca150415e8c087ec4c488f391:4">.</span></span>
 
 2.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">2.</span>
     <span key="5f86c197f6d94b50ab24a27b4788cc57"><span offset-key="5f86c197f6d94b50ab24a27b4788cc57:0">Change the line that begins with </span>**corpus**<span offset-key="5f86c197f6d94b50ab24a27b4788cc57:2"> to this:</span></span>
 
-<span key="316bcf34fcc243e48ed380e1c1367917"><span offset-key="316bcf34fcc243e48ed380e1c1367917:0">corpus = os.path.join("/content/gdrive/My Drive/data", corpus\_name)</span></span>
+<span key="316bcf34fcc243e48ed380e1c1367917"><span offset-key="316bcf34fcc243e48ed380e1c1367917:0">corpus = os.path.join("/content/gdrive/My Drive/data", corpus_name)</span></span>
 
 <span key="9fab9fab6e984d0f8fe0d1f772231f19"><span offset-key="9fab9fab6e984d0f8fe0d1f772231f19:0">We’re now pointing to the file we uploaded to Drive.</span></span>
 
@@ -620,7 +620,7 @@ Pytorch
 
 <span key="3c25ad38ee994cd09b707259d07004ae"><span offset-key="3c25ad38ee994cd09b707259d07004ae:0">1.10.0+cu102 0.10.0+cu102</span></span>
 
-## 
+##
 
 <span key="af388f7597ab43528a781bf24678fe89"><span offset-key="af388f7597ab43528a781bf24678fe89:0">Preparing data and utility functions (skip this section)</span></span>
 
@@ -632,115 +632,115 @@ Pytorch
 
 <span key="9819b15c566742349110eb77cf240a1e"><span offset-key="9819b15c566742349110eb77cf240a1e:0">import librosa import matplotlib.pyplot as plt from IPython.display import Audio, display</span></span>
 
-<span key="74fe490776a3466cae476452718165de"><span offset-key="74fe490776a3466cae476452718165de:0">\_SAMPLE\_DIR = "\_sample\_data"</span></span>
+<span key="74fe490776a3466cae476452718165de"><span offset-key="74fe490776a3466cae476452718165de:0">\_SAMPLE_DIR = "\_sample_data"</span></span>
 
-<span key="72f708c5072f4df78b227083bb5475af"><span offset-key="72f708c5072f4df78b227083bb5475af:0">SAMPLE\_WAV\_SPEECH\_URL = "https://pytorch-tutorial-assets.s3.amazonaws.com/VOiCES\_devkit/source-16k/train/sp0307/Lab41-SRI-VOiCES-src-sp0307-ch127535-sg0042.wav" SAMPLE\_WAV\_SPEECH\_PATH = os.path.join(\_SAMPLE\_DIR, "speech.wav")</span></span>
+<span key="72f708c5072f4df78b227083bb5475af"><span offset-key="72f708c5072f4df78b227083bb5475af:0">SAMPLE_WAV_SPEECH_URL = "https://pytorch-tutorial-assets.s3.amazonaws.com/VOiCES\_devkit/source-16k/train/sp0307/Lab41-SRI-VOiCES-src-sp0307-ch127535-sg0042.wav" SAMPLE_WAV_SPEECH_PATH = os.path.join(\_SAMPLE_DIR, "speech.wav")</span></span>
 
-<span key="79d42d8cb02340ef984c697792b88762"><span offset-key="79d42d8cb02340ef984c697792b88762:0">os.makedirs(\_SAMPLE\_DIR, exist\_ok=True)</span></span>
+<span key="79d42d8cb02340ef984c697792b88762"><span offset-key="79d42d8cb02340ef984c697792b88762:0">os.makedirs(\_SAMPLE_DIR, exist_ok=True)</span></span>
 
-<span key="12b7488a4a2f4c80a27c7610b5dd6333"><span offset-key="12b7488a4a2f4c80a27c7610b5dd6333:0">def \_fetch\_data(): uri = \[ (SAMPLE\_WAV\_SPEECH\_URL, SAMPLE\_WAV\_SPEECH\_PATH), \] for url, path in uri: with open(path, 'wb') as file\_: file\_.write(requests.get(url).content)</span></span>
+<span key="12b7488a4a2f4c80a27c7610b5dd6333"><span offset-key="12b7488a4a2f4c80a27c7610b5dd6333:0">def \_fetch_data(): uri = \[ (SAMPLE_WAV_SPEECH_URL, SAMPLE_WAV_SPEECH_PATH), \] for url, path in uri: with open(path, 'wb') as file\_: file\_.write(requests.get(url).content)</span></span>
 
-<span key="e47172b57ec94c77918278d3bedb7373"><span offset-key="e47172b57ec94c77918278d3bedb7373:0">\_fetch\_data()</span></span>
+<span key="e47172b57ec94c77918278d3bedb7373"><span offset-key="e47172b57ec94c77918278d3bedb7373:0">\_fetch_data()</span></span>
 
-<span key="65edccb8a5e9497bae6117bbdabe7228"><span offset-key="65edccb8a5e9497bae6117bbdabe7228:0">def \_get\_sample(path, resample=None): effects = \[ \["remix", "1"\] \] if resample: effects.extend(\[ \["lowpass", f"{resample // 2}"\], \["rate", f'{resample}'\], \]) return torchaudio.sox\_effects.apply\_effects\_file(path, effects=effects)</span></span>
+<span key="65edccb8a5e9497bae6117bbdabe7228"><span offset-key="65edccb8a5e9497bae6117bbdabe7228:0">def \_get_sample(path, resample=None): effects = \[ \["remix", "1"\] \] if resample: effects.extend(\[ \["lowpass", f"{resample // 2}"\], \["rate", f'{resample}'\], \]) return torchaudio.sox_effects.apply_effects_file(path, effects=effects)</span></span>
 
-<span key="1e1764b4b5ee4df8a0c2828db2b1dd4e"><span offset-key="1e1764b4b5ee4df8a0c2828db2b1dd4e:0">def get\_speech\_sample(\*, resample=None): return \_get\_sample(SAMPLE\_WAV\_SPEECH\_PATH, resample=resample)</span></span>
+<span key="1e1764b4b5ee4df8a0c2828db2b1dd4e"><span offset-key="1e1764b4b5ee4df8a0c2828db2b1dd4e:0">def get_speech_sample(\*, resample=None): return \_get_sample(SAMPLE_WAV_SPEECH_PATH, resample=resample)</span></span>
 
-<span key="83ce2aa306d749d29ab0be914329092c"><span offset-key="83ce2aa306d749d29ab0be914329092c:0">def print\_stats(waveform, sample\_rate=None, src=None): if src: print("-" \* 10) print("Source:", src) print("-" \* 10) if sample\_rate: print("Sample Rate:", sample\_rate) print("Shape:", tuple(waveform.shape)) print("Dtype:", waveform.dtype) print(f" - Max: {waveform.max().item():6.3f}") print(f" - Min: {waveform.min().item():6.3f}") print(f" - Mean: {waveform.mean().item():6.3f}") print(f" - Std Dev: {waveform.std().item():6.3f}") print() print(waveform) print()</span></span>
+<span key="83ce2aa306d749d29ab0be914329092c"><span offset-key="83ce2aa306d749d29ab0be914329092c:0">def print_stats(waveform, sample_rate=None, src=None): if src: print("-" \* 10) print("Source:", src) print("-" \* 10) if sample_rate: print("Sample Rate:", sample_rate) print("Shape:", tuple(waveform.shape)) print("Dtype:", waveform.dtype) print(f" - Max: {waveform.max().item():6.3f}") print(f" - Min: {waveform.min().item():6.3f}") print(f" - Mean: {waveform.mean().item():6.3f}") print(f" - Std Dev: {waveform.std().item():6.3f}") print() print(waveform) print()</span></span>
 
-<span key="7880862cfff34c58824925836429fd42"><span offset-key="7880862cfff34c58824925836429fd42:0">def plot\_spectrogram(spec, title=None, ylabel='freq\_bin', aspect='auto', xmax=None): fig, axs = plt.subplots(1, 1) axs.set\_title(title or 'Spectrogram (db)') axs.set\_ylabel(ylabel) axs.set\_xlabel('frame') im = axs.imshow(librosa.power\_to\_db(spec), origin='lower', aspect=aspect) if xmax: axs.set\_xlim((0, xmax)) fig.colorbar(im, ax=axs) plt.show(block=False)</span></span>
+<span key="7880862cfff34c58824925836429fd42"><span offset-key="7880862cfff34c58824925836429fd42:0">def plot_spectrogram(spec, title=None, ylabel='freq_bin', aspect='auto', xmax=None): fig, axs = plt.subplots(1, 1) axs.set_title(title or 'Spectrogram (db)') axs.set_ylabel(ylabel) axs.set_xlabel('frame') im = axs.imshow(librosa.power_to_db(spec), origin='lower', aspect=aspect) if xmax: axs.set_xlim((0, xmax)) fig.colorbar(im, ax=axs) plt.show(block=False)</span></span>
 
-<span key="8fdb3cf6295d4fd6a43ceef63b5e34ef"><span offset-key="8fdb3cf6295d4fd6a43ceef63b5e34ef:0">def plot\_waveform(waveform, sample\_rate, title="Waveform", xlim=None, ylim=None): waveform = waveform.numpy()</span></span>
+<span key="8fdb3cf6295d4fd6a43ceef63b5e34ef"><span offset-key="8fdb3cf6295d4fd6a43ceef63b5e34ef:0">def plot_waveform(waveform, sample_rate, title="Waveform", xlim=None, ylim=None): waveform = waveform.numpy()</span></span>
 
-<span key="02b2c0e7b3f64a3dbaadb10b38d2d727"><span offset-key="02b2c0e7b3f64a3dbaadb10b38d2d727:0">num\_channels, num\_frames = waveform.shape time\_axis = torch.arange(0, num\_frames) / sample\_rate</span></span>
+<span key="02b2c0e7b3f64a3dbaadb10b38d2d727"><span offset-key="02b2c0e7b3f64a3dbaadb10b38d2d727:0">num_channels, num_frames = waveform.shape time_axis = torch.arange(0, num_frames) / sample_rate</span></span>
 
-<span key="872fea06c6d44dbabdfd878d8ce694a3"><span offset-key="872fea06c6d44dbabdfd878d8ce694a3:0">figure, axes = plt.subplots(num\_channels, 1) if num\_channels == 1: axes = \[axes\] for c in range(num\_channels): axes\[c\].plot(time\_axis, waveform\[c\], linewidth=1) axes\[c\].grid(True) if num\_channels &gt; 1: axes\[c\].set\_ylabel(f'Channel {c+1}') if xlim: axes\[c\].set\_xlim(xlim) if ylim: axes\[c\].set\_ylim(ylim) figure.suptitle(title) plt.show(block=False)</span></span>
+<span key="872fea06c6d44dbabdfd878d8ce694a3"><span offset-key="872fea06c6d44dbabdfd878d8ce694a3:0">figure, axes = plt.subplots(num_channels, 1) if num_channels == 1: axes = \[axes\] for c in range(num_channels): axes\[c\].plot(time_axis, waveform\[c\], linewidth=1) axes\[c\].grid(True) if num_channels &gt; 1: axes\[c\].set_ylabel(f'Channel {c+1}') if xlim: axes\[c\].set_xlim(xlim) if ylim: axes\[c\].set_ylim(ylim) figure.suptitle(title) plt.show(block=False)</span></span>
 
-<span key="4ba0088948fe42e4a07f085d10ad3678"><span offset-key="4ba0088948fe42e4a07f085d10ad3678:0">def play\_audio(waveform, sample\_rate): waveform = waveform.numpy()</span></span>
+<span key="4ba0088948fe42e4a07f085d10ad3678"><span offset-key="4ba0088948fe42e4a07f085d10ad3678:0">def play_audio(waveform, sample_rate): waveform = waveform.numpy()</span></span>
 
-<span key="0863cf41d965460e874e9f6a810db944"><span offset-key="0863cf41d965460e874e9f6a810db944:0">num\_channels, num\_frames = waveform.shape if num\_channels == 1: display(Audio(waveform\[0\], rate=sample\_rate)) elif num\_channels == 2: display(Audio((waveform\[0\], waveform\[1\]), rate=sample\_rate)) else: raise ValueError("Waveform with more than 2 channels are not supported.")</span></span>
+<span key="0863cf41d965460e874e9f6a810db944"><span offset-key="0863cf41d965460e874e9f6a810db944:0">num_channels, num_frames = waveform.shape if num_channels == 1: display(Audio(waveform\[0\], rate=sample_rate)) elif num_channels == 2: display(Audio((waveform\[0\], waveform\[1\]), rate=sample_rate)) else: raise ValueError("Waveform with more than 2 channels are not supported.")</span></span>
 
-<span key="b1b3fd56ed814e95b54b7f4df0b0de3b"><span offset-key="b1b3fd56ed814e95b54b7f4df0b0de3b:0">def plot\_mel\_fbank(fbank, title=None): fig, axs = plt.subplots(1, 1) axs.set\_title(title or 'Filter bank') axs.imshow(fbank, aspect='auto') axs.set\_ylabel('frequency bin') axs.set\_xlabel('mel bin') plt.show(block=False)</span></span>
+<span key="b1b3fd56ed814e95b54b7f4df0b0de3b"><span offset-key="b1b3fd56ed814e95b54b7f4df0b0de3b:0">def plot_mel_fbank(fbank, title=None): fig, axs = plt.subplots(1, 1) axs.set_title(title or 'Filter bank') axs.imshow(fbank, aspect='auto') axs.set_ylabel('frequency bin') axs.set_xlabel('mel bin') plt.show(block=False)</span></span>
 
-<span key="369d91c4552a415584104129e62b0df5"><span offset-key="369d91c4552a415584104129e62b0df5:0">def plot\_pitch(waveform, sample\_rate, pitch): figure, axis = plt.subplots(1, 1) axis.set\_title("Pitch Feature") axis.grid(True)</span></span>
+<span key="369d91c4552a415584104129e62b0df5"><span offset-key="369d91c4552a415584104129e62b0df5:0">def plot_pitch(waveform, sample_rate, pitch): figure, axis = plt.subplots(1, 1) axis.set_title("Pitch Feature") axis.grid(True)</span></span>
 
-<span key="d715d59504ca457f935d0d6d9f20fbce"><span offset-key="d715d59504ca457f935d0d6d9f20fbce:0">end\_time = waveform.shape\[1\] / sample\_rate time\_axis = torch.linspace(0, end\_time, waveform.shape\[1\]) axis.plot(time\_axis, waveform\[0\], linewidth=1, color='gray', alpha=0.3)</span></span>
+<span key="d715d59504ca457f935d0d6d9f20fbce"><span offset-key="d715d59504ca457f935d0d6d9f20fbce:0">end_time = waveform.shape\[1\] / sample_rate time_axis = torch.linspace(0, end_time, waveform.shape\[1\]) axis.plot(time_axis, waveform\[0\], linewidth=1, color='gray', alpha=0.3)</span></span>
 
-<span key="8d77bb3e53364c89b6e6fa103da84420"><span offset-key="8d77bb3e53364c89b6e6fa103da84420:0">axis2 = axis.twinx() time\_axis = torch.linspace(0, end\_time, pitch.shape\[1\]) ln2 = axis2.plot( time\_axis, pitch\[0\], linewidth=2, label='Pitch', color='green')</span></span>
+<span key="8d77bb3e53364c89b6e6fa103da84420"><span offset-key="8d77bb3e53364c89b6e6fa103da84420:0">axis2 = axis.twinx() time_axis = torch.linspace(0, end_time, pitch.shape\[1\]) ln2 = axis2.plot( time_axis, pitch\[0\], linewidth=2, label='Pitch', color='green')</span></span>
 
 <span key="23b8cb88d592462caf46ffc52ece133a"><span offset-key="23b8cb88d592462caf46ffc52ece133a:0">axis2.legend(loc=0) plt.show(block=False)</span></span>
 
-<span key="6e57ba97df544108a189948b8861fe0b"><span offset-key="6e57ba97df544108a189948b8861fe0b:0">def plot\_kaldi\_pitch(waveform, sample\_rate, pitch, nfcc): figure, axis = plt.subplots(1, 1) axis.set\_title("Kaldi Pitch Feature") axis.grid(True)</span></span>
+<span key="6e57ba97df544108a189948b8861fe0b"><span offset-key="6e57ba97df544108a189948b8861fe0b:0">def plot_kaldi_pitch(waveform, sample_rate, pitch, nfcc): figure, axis = plt.subplots(1, 1) axis.set_title("Kaldi Pitch Feature") axis.grid(True)</span></span>
 
-<span key="10b185edf182410b8c6205f6b28ce67c"><span offset-key="10b185edf182410b8c6205f6b28ce67c:0">end\_time = waveform.shape\[1\] / sample\_rate time\_axis = torch.linspace(0, end\_time, waveform.shape\[1\]) axis.plot(time\_axis, waveform\[0\], linewidth=1, color='gray', alpha=0.3)</span></span>
+<span key="10b185edf182410b8c6205f6b28ce67c"><span offset-key="10b185edf182410b8c6205f6b28ce67c:0">end_time = waveform.shape\[1\] / sample_rate time_axis = torch.linspace(0, end_time, waveform.shape\[1\]) axis.plot(time_axis, waveform\[0\], linewidth=1, color='gray', alpha=0.3)</span></span>
 
-<span key="46e40d7dd0644d869ca9096cbd5b0775"><span offset-key="46e40d7dd0644d869ca9096cbd5b0775:0">time\_axis = torch.linspace(0, end\_time, pitch.shape\[1\]) ln1 = axis.plot(time\_axis, pitch\[0\], linewidth=2, label='Pitch', color='green') axis.set\_ylim((-1.3, 1.3))</span></span>
+<span key="46e40d7dd0644d869ca9096cbd5b0775"><span offset-key="46e40d7dd0644d869ca9096cbd5b0775:0">time_axis = torch.linspace(0, end_time, pitch.shape\[1\]) ln1 = axis.plot(time_axis, pitch\[0\], linewidth=2, label='Pitch', color='green') axis.set_ylim((-1.3, 1.3))</span></span>
 
-<span key="819900f3a75542d3b4ac60316911f05c"><span offset-key="819900f3a75542d3b4ac60316911f05c:0">axis2 = axis.twinx() time\_axis = torch.linspace(0, end\_time, nfcc.shape\[1\]) ln2 = axis2.plot( time\_axis, nfcc\[0\], linewidth=2, label='NFCC', color='blue', linestyle='--')</span></span>
+<span key="819900f3a75542d3b4ac60316911f05c"><span offset-key="819900f3a75542d3b4ac60316911f05c:0">axis2 = axis.twinx() time_axis = torch.linspace(0, end_time, nfcc.shape\[1\]) ln2 = axis2.plot( time_axis, nfcc\[0\], linewidth=2, label='NFCC', color='blue', linestyle='--')</span></span>
 
-<span key="f7ca2e1ade324099815e5b3ad1b7e488"><span offset-key="f7ca2e1ade324099815e5b3ad1b7e488:0">lns = ln1 + ln2 labels = \[l.get\_label() for l in lns\] axis.legend(lns, labels, loc=0) plt.show(block=False)</span></span>
+<span key="f7ca2e1ade324099815e5b3ad1b7e488"><span offset-key="f7ca2e1ade324099815e5b3ad1b7e488:0">lns = ln1 + ln2 labels = \[l.get_label() for l in lns\] axis.legend(lns, labels, loc=0) plt.show(block=False)</span></span>
 
-## 
+##
 
 <span key="020d22d1e9f044d7b926bbc82bef3fb4"><span offset-key="020d22d1e9f044d7b926bbc82bef3fb4:0">Spectrogram</span></span>
 
 <span key="0a128f73088e40e2a32f06bb65077e3b"><span offset-key="0a128f73088e40e2a32f06bb65077e3b:0">To get the frequency make-up of an audio signal as it varies with time, you can use </span>`Spectrogram`<span offset-key="0a128f73088e40e2a32f06bb65077e3b:2">.</span></span>
 
-<span key="ccc23ed5ac7f4f5188fac9a29fb46272"><span offset-key="ccc23ed5ac7f4f5188fac9a29fb46272:0">waveform, sample\_rate = get\_speech\_sample()</span></span>
+<span key="ccc23ed5ac7f4f5188fac9a29fb46272"><span offset-key="ccc23ed5ac7f4f5188fac9a29fb46272:0">waveform, sample_rate = get_speech_sample()</span></span>
 
-<span key="2ce980b868b848d084db449f0d4f2834"><span offset-key="2ce980b868b848d084db449f0d4f2834:0">n\_fft = 1024 win\_length = None hop\_length = 512</span></span>
+<span key="2ce980b868b848d084db449f0d4f2834"><span offset-key="2ce980b868b848d084db449f0d4f2834:0">n_fft = 1024 win_length = None hop_length = 512</span></span>
 
-<span key="abc4288395a74bbb889a6d0ff0647055"><span offset-key="abc4288395a74bbb889a6d0ff0647055:0"># define transformation spectrogram = T.Spectrogram( n\_fft=n\_fft, win\_length=win\_length, hop\_length=hop\_length, center=True, pad\_mode="reflect", power=2.0, ) # Perform transformation spec = spectrogram(waveform)</span></span>
+<span key="abc4288395a74bbb889a6d0ff0647055"><span offset-key="abc4288395a74bbb889a6d0ff0647055:0"># define transformation spectrogram = T.Spectrogram( n_fft=n_fft, win_length=win_length, hop_length=hop_length, center=True, pad_mode="reflect", power=2.0, ) # Perform transformation spec = spectrogram(waveform)</span></span>
 
-<span key="e5cec01afa324aff846767434f0d4f28"><span offset-key="e5cec01afa324aff846767434f0d4f28:0">print\_stats(spec) plot\_spectrogram(spec\[0\], title='torchaudio')</span></span>
+<span key="e5cec01afa324aff846767434f0d4f28"><span offset-key="e5cec01afa324aff846767434f0d4f28:0">print_stats(spec) plot_spectrogram(spec\[0\], title='torchaudio')</span></span>
 
 <img src="https://pytorch.org/tutorials/_images/sphx_glr_audio_feature_extractions_tutorial_001.png" class="css-9pa8cd" draggable="false" />
 
-<span key="b1693c95c56940dba627b5c7a49ae74b"><span offset-key="b1693c95c56940dba627b5c7a49ae74b:0">../\_images/sphx\_glr\_audio\_feature\_extractions\_tutorial\_001.png</span></span>
+<span key="b1693c95c56940dba627b5c7a49ae74b"><span offset-key="b1693c95c56940dba627b5c7a49ae74b:0">../\_images/sphx_glr_audio_feature_extractions_tutorial_001.png</span></span>
 
 <span key="bd987dfa6d0e4431ae6f1cf23d57f458"><span offset-key="bd987dfa6d0e4431ae6f1cf23d57f458:0">Out:</span></span>
 
 <span key="6a0a18144e4f40f8970548264d6de323"><span offset-key="6a0a18144e4f40f8970548264d6de323:0">Shape: (1, 513, 107) Dtype: torch.float32</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="1bb4a80faae94bc4bffe6f04c6fa53fb"><span offset-key="1bb4a80faae94bc4bffe6f04c6fa53fb:0">Max: 4000.533</span></span>
+  <span key="1bb4a80faae94bc4bffe6f04c6fa53fb"><span offset-key="1bb4a80faae94bc4bffe6f04c6fa53fb:0">Max: 4000.533</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="8c0116c1f86c4e3dbbd355982d8d812b"><span offset-key="8c0116c1f86c4e3dbbd355982d8d812b:0">Min: 0.000</span></span>
+  <span key="8c0116c1f86c4e3dbbd355982d8d812b"><span offset-key="8c0116c1f86c4e3dbbd355982d8d812b:0">Min: 0.000</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="a9273f8a95b04432850f8c05cefbcf95"><span offset-key="a9273f8a95b04432850f8c05cefbcf95:0">Mean: 5.726</span></span>
+  <span key="a9273f8a95b04432850f8c05cefbcf95"><span offset-key="a9273f8a95b04432850f8c05cefbcf95:0">Mean: 5.726</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="acfdfb6117d64684bfe05a7592430792"><span offset-key="acfdfb6117d64684bfe05a7592430792:0">Std Dev: 70.301</span></span>
+  <span key="acfdfb6117d64684bfe05a7592430792"><span offset-key="acfdfb6117d64684bfe05a7592430792:0">Std Dev: 70.301</span></span>
 
 <span key="00c23601505040019e69e69f51626c4c"><span offset-key="00c23601505040019e69e69f51626c4c:0">tensor(\[\[\[7.8743e+00, 4.4462e+00, 5.6781e-01, ..., 2.7694e+01, 8.9546e+00, 4.1289e+00\], \[7.1094e+00, 3.2595e+00, 7.3520e-01, ..., 1.7141e+01, 4.4812e+00, 8.0840e-01\], \[3.8374e+00, 8.2490e-01, 3.0779e-01, ..., 1.8502e+00, 1.1777e-01, 1.2369e-01\], ..., \[3.4708e-07, 1.0604e-05, 1.2395e-05, ..., 7.4090e-06, 8.2063e-07, 1.0176e-05\], \[4.7173e-05, 4.4329e-07, 3.9444e-05, ..., 3.0622e-05, 3.9735e-07, 8.1572e-06\], \[1.3221e-04, 1.6440e-05, 7.2536e-05, ..., 5.4662e-05, 1.1663e-05, 2.5758e-06\]\]\])</span></span>
 
-## 
+##
 
 <span key="1d61d8ee3e854553a0b0614dfec022be"><span offset-key="1d61d8ee3e854553a0b0614dfec022be:0">GriffinLim</span></span>
 
 <span key="0971c585341d42918cb5bc821b502142"><span offset-key="0971c585341d42918cb5bc821b502142:0">To recover a waveform from a spectrogram, you can use </span>`GriffinLim`<span offset-key="0971c585341d42918cb5bc821b502142:2">.</span></span>
 
-<span key="e9e51facb5844240829c06d8d494f631"><span offset-key="e9e51facb5844240829c06d8d494f631:0">torch.random.manual\_seed(0) waveform, sample\_rate = get\_speech\_sample() plot\_waveform(waveform, sample\_rate, title="Original") play\_audio(waveform, sample\_rate)</span></span>
+<span key="e9e51facb5844240829c06d8d494f631"><span offset-key="e9e51facb5844240829c06d8d494f631:0">torch.random.manual_seed(0) waveform, sample_rate = get_speech_sample() plot_waveform(waveform, sample_rate, title="Original") play_audio(waveform, sample_rate)</span></span>
 
-<span key="0e1d0ca6199c4b66b68483e3a5898f24"><span offset-key="0e1d0ca6199c4b66b68483e3a5898f24:0">n\_fft = 1024 win\_length = None hop\_length = 512</span></span>
+<span key="0e1d0ca6199c4b66b68483e3a5898f24"><span offset-key="0e1d0ca6199c4b66b68483e3a5898f24:0">n_fft = 1024 win_length = None hop_length = 512</span></span>
 
-<span key="c53e3cf004414f97aa46584a769e5edf"><span offset-key="c53e3cf004414f97aa46584a769e5edf:0">spec = T.Spectrogram( n\_fft=n\_fft, win\_length=win\_length, hop\_length=hop\_length, )(waveform)</span></span>
+<span key="c53e3cf004414f97aa46584a769e5edf"><span offset-key="c53e3cf004414f97aa46584a769e5edf:0">spec = T.Spectrogram( n_fft=n_fft, win_length=win_length, hop_length=hop_length, )(waveform)</span></span>
 
-<span key="0c0b07670d174e6d9d4782d2cc73f605"><span offset-key="0c0b07670d174e6d9d4782d2cc73f605:0">griffin\_lim = T.GriffinLim( n\_fft=n\_fft, win\_length=win\_length, hop\_length=hop\_length, ) waveform = griffin\_lim(spec)</span></span>
+<span key="0c0b07670d174e6d9d4782d2cc73f605"><span offset-key="0c0b07670d174e6d9d4782d2cc73f605:0">griffin_lim = T.GriffinLim( n_fft=n_fft, win_length=win_length, hop_length=hop_length, ) waveform = griffin_lim(spec)</span></span>
 
-<span key="209cb843368e46a8bebbe6952378c0b1"><span offset-key="209cb843368e46a8bebbe6952378c0b1:0">plot\_waveform(waveform, sample\_rate, title="Reconstructed") play\_audio(waveform, sample\_rate)</span></span>
+<span key="209cb843368e46a8bebbe6952378c0b1"><span offset-key="209cb843368e46a8bebbe6952378c0b1:0">plot_waveform(waveform, sample_rate, title="Reconstructed") play_audio(waveform, sample_rate)</span></span>
 
 <span key="221026dfc9a34ab38930780b2236e5e0"><span offset-key="221026dfc9a34ab38930780b2236e5e0:0">Out:</span></span>
 
 <span key="c5fa3015152a4fec943e23b83c1cb967"><span offset-key="c5fa3015152a4fec943e23b83c1cb967:0">&lt;IPython.lib.display.Audio object> &lt;IPython.lib.display.Audio object></span></span>
 
-## 
+##
 
 <span key="86b977ce7a7941a0b764c1868e498e53"><span offset-key="86b977ce7a7941a0b764c1868e498e53:0">Mel Filter Bank</span></span>
 
@@ -748,125 +748,125 @@ Pytorch
 
 <span key="979cc1659ce54d8ea041e08881f35a02"><span offset-key="979cc1659ce54d8ea041e08881f35a02:0">Since this function does not require input audio/features, there is no equivalent transform in </span>`torchaudio.transforms`<span offset-key="979cc1659ce54d8ea041e08881f35a02:2">.</span></span>
 
-<span key="c66b439eb12641508f5db76e1dced51c"><span offset-key="c66b439eb12641508f5db76e1dced51c:0">n\_fft = 256 n\_mels = 64 sample\_rate = 6000</span></span>
+<span key="c66b439eb12641508f5db76e1dced51c"><span offset-key="c66b439eb12641508f5db76e1dced51c:0">n_fft = 256 n_mels = 64 sample_rate = 6000</span></span>
 
-<span key="e54ae4ef316e472ba97942bc3d813f6f"><span offset-key="e54ae4ef316e472ba97942bc3d813f6f:0">mel\_filters = F.create\_fb\_matrix( int(n\_fft // 2 + 1), n\_mels=n\_mels, f\_min=0., f\_max=sample\_rate/2., sample\_rate=sample\_rate, norm='slaney' ) plot\_mel\_fbank(mel\_filters, "Mel Filter Bank - torchaudio")</span></span>
+<span key="e54ae4ef316e472ba97942bc3d813f6f"><span offset-key="e54ae4ef316e472ba97942bc3d813f6f:0">mel_filters = F.create_fb_matrix( int(n_fft // 2 + 1), n_mels=n_mels, f_min=0., f_max=sample_rate/2., sample_rate=sample_rate, norm='slaney' ) plot_mel_fbank(mel_filters, "Mel Filter Bank - torchaudio")</span></span>
 
 <img src="https://pytorch.org/tutorials/_images/sphx_glr_audio_feature_extractions_tutorial_004.png" class="css-9pa8cd" draggable="false" />
 
-<span key="8cb68a431aff4d7fa4dc2e128ca82a34"><span offset-key="8cb68a431aff4d7fa4dc2e128ca82a34:0">../\_images/sphx\_glr\_audio\_feature\_extractions\_tutorial\_004.png</span></span>
+<span key="8cb68a431aff4d7fa4dc2e128ca82a34"><span offset-key="8cb68a431aff4d7fa4dc2e128ca82a34:0">../\_images/sphx_glr_audio_feature_extractions_tutorial_004.png</span></span>
 
-### 
+###
 
 <span key="6b6793dd83644ec19a4717b4603c64d0"><span offset-key="6b6793dd83644ec19a4717b4603c64d0:0">Comparison against librosa</span></span>
 
 <span key="3e358b8312d14d6f89ab5dfb48915264"><span offset-key="3e358b8312d14d6f89ab5dfb48915264:0">For reference, here is the equivalent way to get the mel filter bank with </span>`librosa`<span offset-key="3e358b8312d14d6f89ab5dfb48915264:2">.</span></span>
 
-<span key="195a87027bc4440db6405560d3132e44"><span offset-key="195a87027bc4440db6405560d3132e44:0">mel\_filters\_librosa = librosa.filters.mel( sample\_rate, n\_fft, n\_mels=n\_mels, fmin=0., fmax=sample\_rate/2., norm='slaney', htk=True, ).T</span></span>
+<span key="195a87027bc4440db6405560d3132e44"><span offset-key="195a87027bc4440db6405560d3132e44:0">mel_filters_librosa = librosa.filters.mel( sample_rate, n_fft, n_mels=n_mels, fmin=0., fmax=sample_rate/2., norm='slaney', htk=True, ).T</span></span>
 
-<span key="7394d46ad900449286cc68b94c059936"><span offset-key="7394d46ad900449286cc68b94c059936:0">plot\_mel\_fbank(mel\_filters\_librosa, "Mel Filter Bank - librosa")</span></span>
+<span key="7394d46ad900449286cc68b94c059936"><span offset-key="7394d46ad900449286cc68b94c059936:0">plot_mel_fbank(mel_filters_librosa, "Mel Filter Bank - librosa")</span></span>
 
-<span key="87797c08c34e4bc8afef1c9a66859ae3"><span offset-key="87797c08c34e4bc8afef1c9a66859ae3:0">mse = torch.square(mel\_filters - mel\_filters\_librosa).mean().item() print('Mean Square Difference: ', mse)</span></span>
+<span key="87797c08c34e4bc8afef1c9a66859ae3"><span offset-key="87797c08c34e4bc8afef1c9a66859ae3:0">mse = torch.square(mel_filters - mel_filters_librosa).mean().item() print('Mean Square Difference: ', mse)</span></span>
 
 <img src="https://pytorch.org/tutorials/_images/sphx_glr_audio_feature_extractions_tutorial_005.png" class="css-9pa8cd" draggable="false" />
 
-<span key="908554b17fba4dd590c56336359f6bb3"><span offset-key="908554b17fba4dd590c56336359f6bb3:0">../\_images/sphx\_glr\_audio\_feature\_extractions\_tutorial\_005.png</span></span>
+<span key="908554b17fba4dd590c56336359f6bb3"><span offset-key="908554b17fba4dd590c56336359f6bb3:0">../\_images/sphx_glr_audio_feature_extractions_tutorial_005.png</span></span>
 
 <span key="171bbd7a54694389a39837af050c14a0"><span offset-key="171bbd7a54694389a39837af050c14a0:0">Out:</span></span>
 
 <span key="9211bb0c6b8e4f38918105fffd9fd0a6"><span offset-key="9211bb0c6b8e4f38918105fffd9fd0a6:0">Mean Square Difference: 3.795462323290159e-17</span></span>
 
-## 
+##
 
 <span key="1da89d501bd54e54b7e30611c0fb237c"><span offset-key="1da89d501bd54e54b7e30611c0fb237c:0">MelSpectrogram</span></span>
 
 <span key="a7808f9f149c4d47af164d5a98055284"><span offset-key="a7808f9f149c4d47af164d5a98055284:0">Generating a mel-scale spectrogram involves generating a spectrogram and performing mel-scale conversion. In </span>`torchaudio`<span offset-key="a7808f9f149c4d47af164d5a98055284:2">, </span>`MelSpectrogram`<span offset-key="a7808f9f149c4d47af164d5a98055284:4"> provides this functionality.</span></span>
 
-<span key="4492bacdeeb146748b63fe3761ac6724"><span offset-key="4492bacdeeb146748b63fe3761ac6724:0">waveform, sample\_rate = get\_speech\_sample()</span></span>
+<span key="4492bacdeeb146748b63fe3761ac6724"><span offset-key="4492bacdeeb146748b63fe3761ac6724:0">waveform, sample_rate = get_speech_sample()</span></span>
 
-<span key="5c779c63f51845989c8309aaa44e3074"><span offset-key="5c779c63f51845989c8309aaa44e3074:0">n\_fft = 1024 win\_length = None hop\_length = 512 n\_mels = 128</span></span>
+<span key="5c779c63f51845989c8309aaa44e3074"><span offset-key="5c779c63f51845989c8309aaa44e3074:0">n_fft = 1024 win_length = None hop_length = 512 n_mels = 128</span></span>
 
-<span key="1d395afa9cea49abb0c04fbb5e28209c"><span offset-key="1d395afa9cea49abb0c04fbb5e28209c:0">mel\_spectrogram = T.MelSpectrogram( sample\_rate=sample\_rate, n\_fft=n\_fft, win\_length=win\_length, hop\_length=hop\_length, center=True, pad\_mode="reflect", power=2.0, norm='slaney', onesided=True, n\_mels=n\_mels, mel\_scale="htk", )</span></span>
+<span key="1d395afa9cea49abb0c04fbb5e28209c"><span offset-key="1d395afa9cea49abb0c04fbb5e28209c:0">mel_spectrogram = T.MelSpectrogram( sample_rate=sample_rate, n_fft=n_fft, win_length=win_length, hop_length=hop_length, center=True, pad_mode="reflect", power=2.0, norm='slaney', onesided=True, n_mels=n_mels, mel_scale="htk", )</span></span>
 
-<span key="eb0232ee0e734e9ea095ab21e83b0574"><span offset-key="eb0232ee0e734e9ea095ab21e83b0574:0">melspec = mel\_spectrogram(waveform) plot\_spectrogram( melspec\[0\], title="MelSpectrogram - torchaudio", ylabel='mel freq')</span></span>
+<span key="eb0232ee0e734e9ea095ab21e83b0574"><span offset-key="eb0232ee0e734e9ea095ab21e83b0574:0">melspec = mel_spectrogram(waveform) plot_spectrogram( melspec\[0\], title="MelSpectrogram - torchaudio", ylabel='mel freq')</span></span>
 
 <img src="https://pytorch.org/tutorials/_images/sphx_glr_audio_feature_extractions_tutorial_006.png" class="css-9pa8cd" draggable="false" />
 
-<span key="4f25af80a4c945058531728a69108785"><span offset-key="4f25af80a4c945058531728a69108785:0">../\_images/sphx\_glr\_audio\_feature\_extractions\_tutorial\_006.png</span></span>
+<span key="4f25af80a4c945058531728a69108785"><span offset-key="4f25af80a4c945058531728a69108785:0">../\_images/sphx_glr_audio_feature_extractions_tutorial_006.png</span></span>
 
-### 
+###
 
 <span key="baacc424dbab474486e42cb26719a007"><span offset-key="baacc424dbab474486e42cb26719a007:0">Comparison against librosa</span></span>
 
 <span key="adb7c3dd38bd42a28e36eec37d68377d"><span offset-key="adb7c3dd38bd42a28e36eec37d68377d:0">For reference, here is the equivalent means of generating mel-scale spectrograms with </span>`librosa`<span offset-key="adb7c3dd38bd42a28e36eec37d68377d:2">.</span></span>
 
-<span key="782211f0895441f7adcf861ef49a8009"><span offset-key="782211f0895441f7adcf861ef49a8009:0">melspec\_librosa = librosa.feature.melspectrogram( waveform.numpy()\[0\], sr=sample\_rate, n\_fft=n\_fft, hop\_length=hop\_length, win\_length=win\_length, center=True, pad\_mode="reflect", power=2.0, n\_mels=n\_mels, norm='slaney', htk=True, ) plot\_spectrogram( melspec\_librosa, title="MelSpectrogram - librosa", ylabel='mel freq')</span></span>
+<span key="782211f0895441f7adcf861ef49a8009"><span offset-key="782211f0895441f7adcf861ef49a8009:0">melspec_librosa = librosa.feature.melspectrogram( waveform.numpy()\[0\], sr=sample_rate, n_fft=n_fft, hop_length=hop_length, win_length=win_length, center=True, pad_mode="reflect", power=2.0, n_mels=n_mels, norm='slaney', htk=True, ) plot_spectrogram( melspec_librosa, title="MelSpectrogram - librosa", ylabel='mel freq')</span></span>
 
-<span key="61faefd0c77c4fac880134691f92ff0e"><span offset-key="61faefd0c77c4fac880134691f92ff0e:0">mse = torch.square(melspec - melspec\_librosa).mean().item() print('Mean Square Difference: ', mse)</span></span>
+<span key="61faefd0c77c4fac880134691f92ff0e"><span offset-key="61faefd0c77c4fac880134691f92ff0e:0">mse = torch.square(melspec - melspec_librosa).mean().item() print('Mean Square Difference: ', mse)</span></span>
 
 <img src="https://pytorch.org/tutorials/_images/sphx_glr_audio_feature_extractions_tutorial_007.png" class="css-9pa8cd" draggable="false" />
 
-<span key="87b3597b0d934eca87bd43d37ddbb787"><span offset-key="87b3597b0d934eca87bd43d37ddbb787:0">../\_images/sphx\_glr\_audio\_feature\_extractions\_tutorial\_007.png</span></span>
+<span key="87b3597b0d934eca87bd43d37ddbb787"><span offset-key="87b3597b0d934eca87bd43d37ddbb787:0">../\_images/sphx_glr_audio_feature_extractions_tutorial_007.png</span></span>
 
 <span key="ce376d2d256a4f6bb1f69c57b5b454df"><span offset-key="ce376d2d256a4f6bb1f69c57b5b454df:0">Out:</span></span>
 
 <span key="821484ac32af4cafb5e9de5eb5a4b86c"><span offset-key="821484ac32af4cafb5e9de5eb5a4b86c:0">Mean Square Difference: 1.17573561997375e-10</span></span>
 
-## 
+##
 
 <span key="d40454b6c38e4b73ac122e71d8ffb466"><span offset-key="d40454b6c38e4b73ac122e71d8ffb466:0">MFCC</span></span>
 
-<span key="d9af87fb31bb4a8a95e5508d9a16445d"><span offset-key="d9af87fb31bb4a8a95e5508d9a16445d:0">waveform, sample\_rate = get\_speech\_sample()</span></span>
+<span key="d9af87fb31bb4a8a95e5508d9a16445d"><span offset-key="d9af87fb31bb4a8a95e5508d9a16445d:0">waveform, sample_rate = get_speech_sample()</span></span>
 
-<span key="502d21a007c64fe39d1ee69e412c0bcc"><span offset-key="502d21a007c64fe39d1ee69e412c0bcc:0">n\_fft = 2048 win\_length = None hop\_length = 512 n\_mels = 256 n\_mfcc = 256</span></span>
+<span key="502d21a007c64fe39d1ee69e412c0bcc"><span offset-key="502d21a007c64fe39d1ee69e412c0bcc:0">n_fft = 2048 win_length = None hop_length = 512 n_mels = 256 n_mfcc = 256</span></span>
 
-<span key="8c18ca8cae594d8dbd6e1a2c4efcebd8"><span offset-key="8c18ca8cae594d8dbd6e1a2c4efcebd8:0">mfcc\_transform = T.MFCC( sample\_rate=sample\_rate, n\_mfcc=n\_mfcc, melkwargs={ 'n\_fft': n\_fft, 'n\_mels': n\_mels, 'hop\_length': hop\_length, 'mel\_scale': 'htk', } )</span></span>
+<span key="8c18ca8cae594d8dbd6e1a2c4efcebd8"><span offset-key="8c18ca8cae594d8dbd6e1a2c4efcebd8:0">mfcc_transform = T.MFCC( sample_rate=sample_rate, n_mfcc=n_mfcc, melkwargs={ 'n_fft': n_fft, 'n_mels': n_mels, 'hop_length': hop_length, 'mel_scale': 'htk', } )</span></span>
 
-<span key="6ed01814a0bb4818b8bf166f04bc6b4a"><span offset-key="6ed01814a0bb4818b8bf166f04bc6b4a:0">mfcc = mfcc\_transform(waveform)</span></span>
+<span key="6ed01814a0bb4818b8bf166f04bc6b4a"><span offset-key="6ed01814a0bb4818b8bf166f04bc6b4a:0">mfcc = mfcc_transform(waveform)</span></span>
 
-<span key="f1de966195384be68b4abee7fbb85c79"><span offset-key="f1de966195384be68b4abee7fbb85c79:0">plot\_spectrogram(mfcc\[0\])</span></span>
+<span key="f1de966195384be68b4abee7fbb85c79"><span offset-key="f1de966195384be68b4abee7fbb85c79:0">plot_spectrogram(mfcc\[0\])</span></span>
 
 <img src="https://pytorch.org/tutorials/_images/sphx_glr_audio_feature_extractions_tutorial_008.png" class="css-9pa8cd" draggable="false" />
 
-<span key="6267d636401e4fe0a77c85f6849c1177"><span offset-key="6267d636401e4fe0a77c85f6849c1177:0">../\_images/sphx\_glr\_audio\_feature\_extractions\_tutorial\_008.png</span></span>
+<span key="6267d636401e4fe0a77c85f6849c1177"><span offset-key="6267d636401e4fe0a77c85f6849c1177:0">../\_images/sphx_glr_audio_feature_extractions_tutorial_008.png</span></span>
 
-### 
+###
 
 <span key="f7f726078eb0484489c99c2b56c03d9f"><span offset-key="f7f726078eb0484489c99c2b56c03d9f:0">Comparing against librosa</span></span>
 
-<span key="1e651b378702432db68350148cdb1612"><span offset-key="1e651b378702432db68350148cdb1612:0">melspec = librosa.feature.melspectrogram( y=waveform.numpy()\[0\], sr=sample\_rate, n\_fft=n\_fft, win\_length=win\_length, hop\_length=hop\_length, n\_mels=n\_mels, htk=True, norm=None)</span></span>
+<span key="1e651b378702432db68350148cdb1612"><span offset-key="1e651b378702432db68350148cdb1612:0">melspec = librosa.feature.melspectrogram( y=waveform.numpy()\[0\], sr=sample_rate, n_fft=n_fft, win_length=win_length, hop_length=hop_length, n_mels=n_mels, htk=True, norm=None)</span></span>
 
-<span key="8fd1a2b7ae704b3682581dd25dd2417b"><span offset-key="8fd1a2b7ae704b3682581dd25dd2417b:0">mfcc\_librosa = librosa.feature.mfcc( S=librosa.core.spectrum.power\_to\_db(melspec), n\_mfcc=n\_mfcc, dct\_type=2, norm='ortho')</span></span>
+<span key="8fd1a2b7ae704b3682581dd25dd2417b"><span offset-key="8fd1a2b7ae704b3682581dd25dd2417b:0">mfcc_librosa = librosa.feature.mfcc( S=librosa.core.spectrum.power_to_db(melspec), n_mfcc=n_mfcc, dct_type=2, norm='ortho')</span></span>
 
-<span key="66c423fad1c24a40bb897b97fedb7c09"><span offset-key="66c423fad1c24a40bb897b97fedb7c09:0">plot\_spectrogram(mfcc\_librosa)</span></span>
+<span key="66c423fad1c24a40bb897b97fedb7c09"><span offset-key="66c423fad1c24a40bb897b97fedb7c09:0">plot_spectrogram(mfcc_librosa)</span></span>
 
-<span key="aaf23e20e1654bf384a1cc21746d3ab9"><span offset-key="aaf23e20e1654bf384a1cc21746d3ab9:0">mse = torch.square(mfcc - mfcc\_librosa).mean().item() print('Mean Square Difference: ', mse)</span></span>
+<span key="aaf23e20e1654bf384a1cc21746d3ab9"><span offset-key="aaf23e20e1654bf384a1cc21746d3ab9:0">mse = torch.square(mfcc - mfcc_librosa).mean().item() print('Mean Square Difference: ', mse)</span></span>
 
 <img src="https://pytorch.org/tutorials/_images/sphx_glr_audio_feature_extractions_tutorial_009.png" class="css-9pa8cd" draggable="false" />
 
-<span key="a068f3bae58748508e5cd4ab9222000a"><span offset-key="a068f3bae58748508e5cd4ab9222000a:0">../\_images/sphx\_glr\_audio\_feature\_extractions\_tutorial\_009.png</span></span>
+<span key="a068f3bae58748508e5cd4ab9222000a"><span offset-key="a068f3bae58748508e5cd4ab9222000a:0">../\_images/sphx_glr_audio_feature_extractions_tutorial_009.png</span></span>
 
 <span key="604169cb688743cca6ceabfa11710144"><span offset-key="604169cb688743cca6ceabfa11710144:0">Out:</span></span>
 
 <span key="357295599cb54afea1cbecaf92e23332"><span offset-key="357295599cb54afea1cbecaf92e23332:0">Mean Square Difference: 4.258112085153698e-08</span></span>
 
-## 
+##
 
 <span key="17983c68aae14da9b5c5fcf0cfc0dc09"><span offset-key="17983c68aae14da9b5c5fcf0cfc0dc09:0">Pitch</span></span>
 
-<span key="e991909d20bb4860b8dec6d4b8219bd6"><span offset-key="e991909d20bb4860b8dec6d4b8219bd6:0">waveform, sample\_rate = get\_speech\_sample()</span></span>
+<span key="e991909d20bb4860b8dec6d4b8219bd6"><span offset-key="e991909d20bb4860b8dec6d4b8219bd6:0">waveform, sample_rate = get_speech_sample()</span></span>
 
-<span key="ac10ae4b3a3440c4bf265a32ee9b9d6b"><span offset-key="ac10ae4b3a3440c4bf265a32ee9b9d6b:0">pitch = F.detect\_pitch\_frequency(waveform, sample\_rate) plot\_pitch(waveform, sample\_rate, pitch) play\_audio(waveform, sample\_rate)</span></span>
+<span key="ac10ae4b3a3440c4bf265a32ee9b9d6b"><span offset-key="ac10ae4b3a3440c4bf265a32ee9b9d6b:0">pitch = F.detect_pitch_frequency(waveform, sample_rate) plot_pitch(waveform, sample_rate, pitch) play_audio(waveform, sample_rate)</span></span>
 
 <img src="https://pytorch.org/tutorials/_images/sphx_glr_audio_feature_extractions_tutorial_010.png" class="css-9pa8cd" draggable="false" />
 
-<span key="c58879d153cd4e2fbc182987e33e7e24"><span offset-key="c58879d153cd4e2fbc182987e33e7e24:0">../\_images/sphx\_glr\_audio\_feature\_extractions\_tutorial\_010.png</span></span>
+<span key="c58879d153cd4e2fbc182987e33e7e24"><span offset-key="c58879d153cd4e2fbc182987e33e7e24:0">../\_images/sphx_glr_audio_feature_extractions_tutorial_010.png</span></span>
 
 <span key="b46b5e9f5be34411906ebd5eb4552711"><span offset-key="b46b5e9f5be34411906ebd5eb4552711:0">Out:</span></span>
 
 <span key="f305714a22fd4d28a78bc04cf34ef672"><span offset-key="f305714a22fd4d28a78bc04cf34ef672:0">&lt;IPython.lib.display.Audio object></span></span>
 
-## 
+##
 
 <span key="64f55411a26b4e388cd2b01090811b76"><span offset-key="64f55411a26b4e388cd2b01090811b76:0">Kaldi Pitch (beta)</span></span>
 
@@ -879,15 +879,15 @@ Pytorch
 
     <span key="f38dbbf95150449d99f0c6e2a78cc120"><span offset-key="f38dbbf95150449d99f0c6e2a78cc120:0">2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Florence, 2014, pp. 2494-2498, doi: 10.1109/ICASSP.2014.6854049. \[</span></span><a href="https://ieeexplore.ieee.org/document/6854049" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="c2a4c496e7c541189fc7777a928c5b9a" data-rnw-int-class="nearest_260-3750_262-3751-240__"><span data-key="0d43d07a5a954357bd7208aecfc59edd"><span data-offset-key="0d43d07a5a954357bd7208aecfc59edd:0">abstract</span></span></span></a><span key="faf2e43ed81f457791e3a9bf4d472d04"><span offset-key="faf2e43ed81f457791e3a9bf4d472d04:0">\], \[</span></span><a href="https://danielpovey.com/files/2014_icassp_pitch.pdf" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="508b3459c492436ca0b911ef41b8d8e5" data-rnw-int-class="nearest_260-3750_262-3751-240__"><span data-key="92434a6893f847c781be15b0cde7993f"><span data-offset-key="92434a6893f847c781be15b0cde7993f:0">paper</span></span></span></a><span key="fdd0d6aea05549c5bd6854cc0f33f101"><span offset-key="fdd0d6aea05549c5bd6854cc0f33f101:0">\]</span></span>
 
-<span key="7af46903f83844c799b51e16a50093b3"><span offset-key="7af46903f83844c799b51e16a50093b3:0">waveform, sample\_rate = get\_speech\_sample(resample=16000)</span></span>
+<span key="7af46903f83844c799b51e16a50093b3"><span offset-key="7af46903f83844c799b51e16a50093b3:0">waveform, sample_rate = get_speech_sample(resample=16000)</span></span>
 
-<span key="2fb9236d5595405e91f5148892c26aaf"><span offset-key="2fb9236d5595405e91f5148892c26aaf:0">pitch\_feature = F.compute\_kaldi\_pitch(waveform, sample\_rate) pitch, nfcc = pitch\_feature\[..., 0\], pitch\_feature\[..., 1\]</span></span>
+<span key="2fb9236d5595405e91f5148892c26aaf"><span offset-key="2fb9236d5595405e91f5148892c26aaf:0">pitch_feature = F.compute_kaldi_pitch(waveform, sample_rate) pitch, nfcc = pitch_feature\[..., 0\], pitch_feature\[..., 1\]</span></span>
 
-<span key="f206084f96c1432c8b1f8e64bf1afa47"><span offset-key="f206084f96c1432c8b1f8e64bf1afa47:0">plot\_kaldi\_pitch(waveform, sample\_rate, pitch, nfcc) play\_audio(waveform, sample\_rate)</span></span>
+<span key="f206084f96c1432c8b1f8e64bf1afa47"><span offset-key="f206084f96c1432c8b1f8e64bf1afa47:0">plot_kaldi_pitch(waveform, sample_rate, pitch, nfcc) play_audio(waveform, sample_rate)</span></span>
 
 <img src="https://pytorch.org/tutorials/_images/sphx_glr_audio_feature_extractions_tutorial_011.png" class="css-9pa8cd" draggable="false" />
 
-<span key="c59c114ed65b43a4937451a38786143b"><span offset-key="c59c114ed65b43a4937451a38786143b:0">../\_images/sphx\_glr\_audio\_feature\_extractions\_tutorial\_011.png</span></span>
+<span key="c59c114ed65b43a4937451a38786143b"><span offset-key="c59c114ed65b43a4937451a38786143b:0">../\_images/sphx_glr_audio_feature_extractions_tutorial_011.png</span></span>
 
 <span key="cf4bdd9edd214bc2a4f5daf87d20f6d2"><span offset-key="cf4bdd9edd214bc2a4f5daf87d20f6d2:0">Out:</span></span>
 

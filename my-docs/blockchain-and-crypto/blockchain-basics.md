@@ -294,7 +294,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -316,7 +316,7 @@ Netlify
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc4LTcwODdfIiBjbGFzcz0ici1oN2dkb2Igci0xMHB0dW43IHItMXZ6aTh4aSIgc3R5bGU9IndpZHRoOiAxNnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -362,7 +362,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -435,35 +435,35 @@ Initial page
 
 Solidarity-Blockchain-NFTs
 
-### 
+###
 
 <span key="e3d757c1d83b48d9a18374068f929886"><span offset-key="e3d757c1d83b48d9a18374068f929886:0">KEY TAKEAWAYS</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
-    <span key="ba6fee5135c149bc86c0a0900869addf"><span offset-key="ba6fee5135c149bc86c0a0900869addf:0">Blockchain is a specific type of database.</span></span>
+  <span key="ba6fee5135c149bc86c0a0900869addf"><span offset-key="ba6fee5135c149bc86c0a0900869addf:0">Blockchain is a specific type of database.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
-    <span key="88006610136e4526a582cc950c92d082"><span offset-key="88006610136e4526a582cc950c92d082:0">It differs from a typical database in the way it stores information; blockchains store data in blocks that are then chained together.</span></span>
+  <span key="88006610136e4526a582cc950c92d082"><span offset-key="88006610136e4526a582cc950c92d082:0">It differs from a typical database in the way it stores information; blockchains store data in blocks that are then chained together.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
-    <span key="02d9ec070c8b4f00bfee56c51de21106"><span offset-key="02d9ec070c8b4f00bfee56c51de21106:0">As new data comes in it is entered into a fresh block. Once the block is filled with data it is chained onto the previous block, which makes the data chained together in chronological order.</span></span>
+  <span key="02d9ec070c8b4f00bfee56c51de21106"><span offset-key="02d9ec070c8b4f00bfee56c51de21106:0">As new data comes in it is entered into a fresh block. Once the block is filled with data it is chained onto the previous block, which makes the data chained together in chronological order.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
-    <span key="597a0885e44a4d67812dfbdeb877ba19"><span offset-key="597a0885e44a4d67812dfbdeb877ba19:0">Different types of information can be stored on a blockchain but the most common use so far has been as a ledger for transactions.</span></span>
+  <span key="597a0885e44a4d67812dfbdeb877ba19"><span offset-key="597a0885e44a4d67812dfbdeb877ba19:0">Different types of information can be stored on a blockchain but the most common use so far has been as a ledger for transactions.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
-    <span key="537e3554771a45f4a8c6b9da80f2cc20"><span offset-key="537e3554771a45f4a8c6b9da80f2cc20:0">In Bitcoin’s case, blockchain is used in a decentralized way so that no single person or group has control—rather, all users collectively retain control.</span></span>
+  <span key="537e3554771a45f4a8c6b9da80f2cc20"><span offset-key="537e3554771a45f4a8c6b9da80f2cc20:0">In Bitcoin’s case, blockchain is used in a decentralized way so that no single person or group has control—rather, all users collectively retain control.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
-    <span key="5b450c5e383242f69bef0d8edb2af731"><span offset-key="5b450c5e383242f69bef0d8edb2af731:0">Decentralized blockchains are immutable, which means that the data entered is irreversible. For Bitcoin, this means that transactions are permanently recorded and viewable to anyone.</span></span>
+  <span key="5b450c5e383242f69bef0d8edb2af731"><span offset-key="5b450c5e383242f69bef0d8edb2af731:0">Decentralized blockchains are immutable, which means that the data entered is irreversible. For Bitcoin, this means that transactions are permanently recorded and viewable to anyone.</span></span>
 
-## 
+##
 
 <span key="eec56f9c166e46f7a37854fd6cbf73ce"><span offset-key="eec56f9c166e46f7a37854fd6cbf73ce:0">What is Blockchain?</span></span>
 
@@ -477,7 +477,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="3e3234096246410883fa69adba057fc3"><span offset-key="3e3234096246410883fa69adba057fc3:0">So how does a blockchain differ from a database?</span></span>
 
-## 
+##
 
 <span key="75b9f143f9b54ac2b1d736908b7e21fa"><span offset-key="75b9f143f9b54ac2b1d736908b7e21fa:0">Storage Structure</span></span>
 
@@ -485,7 +485,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="a05e588940e84098af9430cc56d86312"><span offset-key="a05e588940e84098af9430cc56d86312:0">A database structures its data into tables whereas a blockchain, like its name implies, structures its data into chunks (blocks) that are chained together. This makes it so that all blockchains are databases but not all databases are blockchains. This system also inherently makes an irreversible timeline of data when implemented in a decentralized nature. When a block is filled it is set in stone and becomes a part of this timeline. Each block in the chain is given an exact timestamp when it is added to the chain.</span></span>
 
-### 
+###
 
 <span key="68103788817b43d48ec4f6d9d03eda60"><span offset-key="68103788817b43d48ec4f6d9d03eda60:0">Transaction Process</span></span>
 
@@ -493,7 +493,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="4ca01fbc91344b209b2410501d8062e0"><span offset-key="4ca01fbc91344b209b2410501d8062e0:0">Blockchain</span></span>
 
-### 
+###
 
 <span key="39e151f73e3f423d9aaeea8af93c547f"><span offset-key="39e151f73e3f423d9aaeea8af93c547f:0">Attributes of Cryptocurrency</span></span>
 
@@ -501,7 +501,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="b903881376a743a593cae8993717cedb"><span offset-key="b903881376a743a593cae8993717cedb:0">Blockchain</span></span>
 
-## 
+##
 
 <span key="244fbafea8f6460ea1e6ed1513d68642"><span offset-key="244fbafea8f6460ea1e6ed1513d68642:0">Decentralization</span></span>
 
@@ -517,7 +517,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="59e03d6a9da6452d8e7dbd323331182d"><span offset-key="59e03d6a9da6452d8e7dbd323331182d:0">In order to change how that system works, or the information stored within it, a majority of the decentralized network’s computing power would need to agree on said changes. This ensures that whatever changes do occur are in the best interests of the majority.</span></span>
 
-## 
+##
 
 <span key="4a3e19351c074d4b8bd8f0c850fe4529"><span offset-key="4a3e19351c074d4b8bd8f0c850fe4529:0">Transparency</span></span>
 
@@ -525,7 +525,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="5922ac6a2d2342c0b472c28ce5452e51"><span offset-key="5922ac6a2d2342c0b472c28ce5452e51:0">For example, exchanges have been hacked in the past where those who held Bitcoin on the exchange lost everything. While the hacker may be entirely anonymous, the Bitcoins that they extracted are easily traceable. If the Bitcoins that were stolen in some of these hacks were to be moved or spent somewhere, it would be known.</span></span>
 
-## 
+##
 
 <span key="5d4662f26a7547ce8fdc192502235009"><span offset-key="5d4662f26a7547ce8fdc192502235009:0">Is Blockchain Secure?</span></span>
 
@@ -541,7 +541,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="c4825c3a6bd44ab1995dd42d359a85d7"><span offset-key="c4825c3a6bd44ab1995dd42d359a85d7:0">This would cause the attacked version of Bitcoin to plummet in value, making the attack ultimately pointless as the bad actor has control of a worthless asset. The same would occur if the bad actor were to attack the new fork of Bitcoin. It is built this way so that taking part in the network is far more economically incentivized than attacking it.</span></span>
 
-## 
+##
 
 <span key="7cc8c93c7cbb4070bc533ac6fc2e8f84"><span offset-key="7cc8c93c7cbb4070bc533ac6fc2e8f84:0">Bitcoin vs. Blockchain</span></span>
 
@@ -555,13 +555,13 @@ Solidarity-Blockchain-NFTs
 
 <span key="bd381a8485d5481383d542ac0e1d8a03"><span offset-key="bd381a8485d5481383d542ac0e1d8a03:0">For example, a voting system could work such that each citizen of a country would be issued a single cryptocurrency or token. Each candidate would then be given a specific wallet address, and the voters would send their token or crypto to whichever candidate's address they wish to vote for. The transparent and traceable nature of blockchain would eliminate the need for human vote counting as well as the ability of bad actors to tamper with physical ballots.</span></span>
 
-## 
+##
 
 <span key="fcb4bdc46d224d54b9ad801d1e34b4dc"><span offset-key="fcb4bdc46d224d54b9ad801d1e34b4dc:0">Blockchain vs. Banks</span></span>
 
 <span key="9ac8cee3228c4843a73cd1055bbe5428"><span offset-key="9ac8cee3228c4843a73cd1055bbe5428:0">Banks and decentralized blockchains are vastly different. To see how a bank differs from blockchain, let’s compare the banking system to Bitcoin’s implementation of blockchain.</span></span>
 
-## 
+##
 
 <span key="ad18f4a191cd49eba9609e1ea0a0be24"><span offset-key="ad18f4a191cd49eba9609e1ea0a0be24:0">How is Blockchain Used?</span></span>
 
@@ -573,7 +573,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="8562e57068354feea966b286ee657517"><span offset-key="8562e57068354feea966b286ee657517:0">Using blockchain gives brands the ability to track a food product’s route from its origin, through each stop it makes, and finally its delivery. If a food is found to be contaminated then it can be traced all the way back through each stop to its origin. Not only that, but these companies can also now see everything else it may have come in contact with, allowing the identification of the problem to occur far sooner, potentially saving lives. This is one example of blockchains in practice, but there are many other forms of blockchain implementation.</span></span>
 
-### 
+###
 
 <span key="10adc7c07da140b79353eec31a60cf38"><span offset-key="10adc7c07da140b79353eec31a60cf38:0">Banking and Finance</span></span>
 
@@ -583,7 +583,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="36d0601d43d8423687865f057d26c155"><span offset-key="36d0601d43d8423687865f057d26c155:0">Given the size of the sums involved, even the few days that the money is in transit can carry significant costs and risks for banks. European bank Santander and its research partners put the potential savings at $15 billion to $20 billion a year.3﻿ Capgemini, a French consultancy, estimates that consumers could save up to $16 billion in banking and insurance fees each year4﻿ through blockchain-based applications.</span></span>
 
-### 
+###
 
 <span key="573153406add4734aac15afb5a163c64"><span offset-key="573153406add4734aac15afb5a163c64:0">Currency</span></span>
 
@@ -593,13 +593,13 @@ Solidarity-Blockchain-NFTs
 
 <span key="a71e14f956044af3a2cfd884f44f6eda"><span offset-key="a71e14f956044af3a2cfd884f44f6eda:0">Using cryptocurrency wallets for savings accounts or as a means of payment is especially profound for those who have no state identification. Some countries may be war-torn or have governments that lack any real infrastructure to provide identification. Citizens of such countries may not have access to savings or brokerage accounts and therefore, no way to safely store wealth.</span></span>
 
-### 
+###
 
 <span key="fe9f6e53c40340b49ab4b4cea26ef6f0"><span offset-key="fe9f6e53c40340b49ab4b4cea26ef6f0:0">Healthcare</span></span>
 
 <span key="49240cf4dabb4deab8dcb34913e6a629"><span offset-key="49240cf4dabb4deab8dcb34913e6a629:0">Health care providers can leverage blockchain to securely store their patients’ medical records. When a medical record is generated and signed, it can be written into the blockchain, which provides patients with the proof and confidence that the record cannot be changed. These personal health records could be encoded and stored on the blockchain with a private key, so that they are only accessible by certain individuals, thereby ensuring privacy.</span></span>
 
-### 
+###
 
 <span key="ac8f2daeb37b4475a2fce996baa338d3"><span offset-key="ac8f2daeb37b4475a2fce996baa338d3:0">Records of Property</span></span>
 
@@ -609,7 +609,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="5225db35355b4909949a196a1b0d630b"><span offset-key="5225db35355b4909949a196a1b0d630b:0">In war-torn countries or areas that have little to no government or financial infrastructure, and certainly no “Recorder’s Office,” it can be nearly impossible to prove ownership of a property. If a group of people living in such an area is able to leverage blockchain, transparent and clear timelines of property ownership could be established.</span></span>
 
-### 
+###
 
 <span key="07c6f9a85aaf42618dc2c9dcf8890c99"><span offset-key="07c6f9a85aaf42618dc2c9dcf8890c99:0">Smart Contracts</span></span>
 
@@ -617,7 +617,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="0a4d6948e3e84120943814c94545f1db"><span offset-key="0a4d6948e3e84120943814c94545f1db:0">Say, for example, a potential tenant would like to lease an apartment using a smart contract. The landlord agrees to give the tenant the door code to the apartment as soon as the tenant pays the security deposit. Both the tenant and the landlord would send their respective portions of the deal to the smart contract, which would hold onto and automatically exchange the door code for the security deposit on the date the lease begins. If the landlord doesn’t supply the door code by the lease date, the smart contract refunds the security deposit. This would eliminate the fees and processes typically associated with the use of a notary, third-party mediator, or attornies.</span></span>
 
-### 
+###
 
 <span key="a535a909299e4f96b45ddd7b79ca7ba2"><span offset-key="a535a909299e4f96b45ddd7b79ca7ba2:0">Supply Chains</span></span>
 
@@ -625,91 +625,91 @@ Solidarity-Blockchain-NFTs
 
 <span key="33f8f42e316c44a1960957469296d800"><span offset-key="33f8f42e316c44a1960957469296d800:0">As reported by Forbes, the </span></span><a href="https://www.forbes.com/sites/samantharadocchia/2018/04/26/3-innovative-ways-blockchain-will-build-trust-in-the-food-industry/#10a5ebc42afc" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ea9bcc8c32164f068ce4e3303f8ce362" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="fd17354e55554f13b7a252b9d05d28b3"><span data-offset-key="fd17354e55554f13b7a252b9d05d28b3:0">food industry is increasingly adopting the use</span></span></span></a><span key="c747d2a48beb4cc9a9aa77dc0763c080"><span offset-key="c747d2a48beb4cc9a9aa77dc0763c080:0"> of blockchain to track the path and safety of food throughout the farm-to-user journey.</span></span>
 
-### 
+###
 
 <span key="f175166764f94bc1ba1d7ea244c02005"><span offset-key="f175166764f94bc1ba1d7ea244c02005:0">Voting</span></span>
 
 <span key="b531dddd0d5e4316835f246199696a6f"><span offset-key="b531dddd0d5e4316835f246199696a6f:0">As mentioned, blockchain could be used to facilitate a modern voting system. Voting with blockchain carries the potential to eliminate election fraud and boost voter turnout, as was tested in the November 2018 midterm elections in West Virginia.Using blockchain in this way would make votes nearly impossible to tamper with. The blockchain protocol would also maintain transparency in the electoral process, reducing the personnel needed to conduct an election and providing officials with nearly instant results. This would eliminate the need for recounts or any real concern that fraud might threaten the election.</span></span>
 
-## 
+##
 
 <span key="82f138dbe0e5439ba86741c976ea1b26"><span offset-key="82f138dbe0e5439ba86741c976ea1b26:0">Advantages and Disadvantages of Blockchain</span></span>
 
 <span key="ff25557172ba426ebdcf0fd8cfb1bdf9"><span offset-key="ff25557172ba426ebdcf0fd8cfb1bdf9:0">For all of its complexity, blockchain’s potential as a decentralized form of record-keeping is almost without limit. From greater user privacy and heightened security to lower processing fees and fewer errors, blockchain technology may very well see applications beyond those outlined above. But there are also some disadvantages.Pros</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
-    <span key="9ffd427487544f37a19cdddd5ecb33e9"><span offset-key="9ffd427487544f37a19cdddd5ecb33e9:0">Improved accuracy by removing human involvement in verification</span></span>
+  <span key="9ffd427487544f37a19cdddd5ecb33e9"><span offset-key="9ffd427487544f37a19cdddd5ecb33e9:0">Improved accuracy by removing human involvement in verification</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
-    <span key="74a0502bfed043438774466c64d47424"><span offset-key="74a0502bfed043438774466c64d47424:0">Cost reductions by eliminating third-party verification</span></span>
+  <span key="74a0502bfed043438774466c64d47424"><span offset-key="74a0502bfed043438774466c64d47424:0">Cost reductions by eliminating third-party verification</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
-    <span key="64b82eb6c2784e488960d0c4a74624ce"><span offset-key="64b82eb6c2784e488960d0c4a74624ce:0">Decentralization makes it harder to tamper with</span></span>
+  <span key="64b82eb6c2784e488960d0c4a74624ce"><span offset-key="64b82eb6c2784e488960d0c4a74624ce:0">Decentralization makes it harder to tamper with</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
-    <span key="d77fec7285794f30868bf08a9d828831"><span offset-key="d77fec7285794f30868bf08a9d828831:0">Transactions are secure, private, and efficient</span></span>
+  <span key="d77fec7285794f30868bf08a9d828831"><span offset-key="d77fec7285794f30868bf08a9d828831:0">Transactions are secure, private, and efficient</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
-    <span key="0e83747851c749d793d6a74b20e1a721"><span offset-key="0e83747851c749d793d6a74b20e1a721:0">Transparent technology</span></span>
+  <span key="0e83747851c749d793d6a74b20e1a721"><span offset-key="0e83747851c749d793d6a74b20e1a721:0">Transparent technology</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
-    <span key="9c36fde07a8a4a37a0be67c55eeb204c"><span offset-key="9c36fde07a8a4a37a0be67c55eeb204c:0">Provides a banking alternative and way to secure personal information for citizens of countries with unstable or underdeveloped governments</span></span>
+  <span key="9c36fde07a8a4a37a0be67c55eeb204c"><span offset-key="9c36fde07a8a4a37a0be67c55eeb204c:0">Provides a banking alternative and way to secure personal information for citizens of countries with unstable or underdeveloped governments</span></span>
 
 <span key="ed79992d3a504f8bab08bd082c5ec4c9"><span offset-key="ed79992d3a504f8bab08bd082c5ec4c9:0">Cons</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
-    <span key="066fabdc80934e5ca6edb182f46747f4"><span offset-key="066fabdc80934e5ca6edb182f46747f4:0">Significant technology cost associated with mining bitcoin</span></span>
+  <span key="066fabdc80934e5ca6edb182f46747f4"><span offset-key="066fabdc80934e5ca6edb182f46747f4:0">Significant technology cost associated with mining bitcoin</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
-    <span key="d4ebd7628ee04bbdb63102c08e8973c7"><span offset-key="d4ebd7628ee04bbdb63102c08e8973c7:0">Low transactions per second</span></span>
+  <span key="d4ebd7628ee04bbdb63102c08e8973c7"><span offset-key="d4ebd7628ee04bbdb63102c08e8973c7:0">Low transactions per second</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
-    <span key="269f98df6ebb4c779c0e8915b5413cc3"><span offset-key="269f98df6ebb4c779c0e8915b5413cc3:0">History of use in illicit activities</span></span>
+  <span key="269f98df6ebb4c779c0e8915b5413cc3"><span offset-key="269f98df6ebb4c779c0e8915b5413cc3:0">History of use in illicit activities</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
-    <span key="5b414c54fcee44259197f37ea0b5fdfd"><span offset-key="5b414c54fcee44259197f37ea0b5fdfd:0">Regulation</span></span>
+  <span key="5b414c54fcee44259197f37ea0b5fdfd"><span offset-key="5b414c54fcee44259197f37ea0b5fdfd:0">Regulation</span></span>
 
 <span key="329b7cb7b8ad4ff8a3afb475aa2ce1dc"><span offset-key="329b7cb7b8ad4ff8a3afb475aa2ce1dc:0">Here are the selling points of blockchain for businesses on the market today in more detail.</span></span>
 
-## 
+##
 
 <span key="32f9151f6eb548edb2658a420ca600a7"><span offset-key="32f9151f6eb548edb2658a420ca600a7:0">Advantages of Blockchain</span></span>
 
-### 
+###
 
 <span key="9aa417db9d044f8490f62ae1e0d1b44f"><span offset-key="9aa417db9d044f8490f62ae1e0d1b44f:0">Accuracy of the Chain</span></span>
 
 <span key="f9a9bc1607f546baa16bbb1b9388751a"><span offset-key="f9a9bc1607f546baa16bbb1b9388751a:0">Transactions on the blockchain network are approved by a network of thousands of computers. This removes almost all human involvement in the verification process, resulting in less human error and an accurate record of information. Even if a computer on the network were to make a computational mistake, the error would only be made to one copy of the blockchain. In order for that error to spread to the rest of the blockchain, it would need to be made by at least 51% of the network’s computers—a near impossibility for a large and growing network the size of Bitcoin’s.</span></span>
 
-### 
+###
 
 <span key="9d400142657b42f18631552242336122"><span offset-key="9d400142657b42f18631552242336122:0">Cost Reductions</span></span>
 
 <span key="9fe8a05130df4d76a1086e8028f4b525"><span offset-key="9fe8a05130df4d76a1086e8028f4b525:0">Typically, consumers pay a bank to verify a transaction, a notary to sign a document, or a minister to perform a marriage. Blockchain eliminates the need for third-party verification and, with it, their associated costs. Business owners incur a small fee whenever they accept payments using credit cards, for example, because banks and payment processing companies have to process those transactions. Bitcoin, on the other hand, does not have a central authority and has limited transaction fees.</span></span>
 
-### 
+###
 
 <span key="8be9fa87d2b8499fbc7907d4d5447c59"><span offset-key="8be9fa87d2b8499fbc7907d4d5447c59:0">Decentralization</span></span>
 
 <span key="1e81b5db1584444ead891f528dd5acfd"><span offset-key="1e81b5db1584444ead891f528dd5acfd:0">Blockchain does not store any of its information in a central location. Instead, the blockchain is copied and spread across a network of computers. Whenever a new block is added to the blockchain, every computer on the network updates its blockchain to reflect the change. By spreading that information across a network, rather than storing it in one central database, blockchain becomes more difficult to tamper with. If a copy of the blockchain fell into the hands of a hacker, only a single copy of the information, rather than the entire network, would be compromised.</span></span>
 
-### 
+###
 
 <span key="07675f4c18b04c3fa27078f5a8f4586f"><span offset-key="07675f4c18b04c3fa27078f5a8f4586f:0">Efficient Transactions</span></span>
 
 <span key="a0ff7b728a2740e6b2267a0b63bed0f3"><span offset-key="a0ff7b728a2740e6b2267a0b63bed0f3:0">Transactions placed through a central authority can take up to a few days to settle. If you attempt to deposit a check on Friday evening, for example, you may not actually see funds in your account until Monday morning. Whereas financial institutions operate during business hours, five days a week, blockchain is working 24 hours a day, seven days a week, and 365 days a year. Transactions can be completed in as little as ten minutes and can be considered secure after just a few hours. This is particularly useful for </span></span><a href="https://www.investopedia.com/articles/forex/09/currency-cross-triangulation.asp" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9357f1d88f434a27a7ef925f1a6ba6b5" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="8c02a1290bcf45b888e0b26f77c06cf5"><span data-offset-key="8c02a1290bcf45b888e0b26f77c06cf5:0">cross-border</span></span></span></a><span key="0cbfa3634ed84fdd88dc459234209a4f"><span offset-key="0cbfa3634ed84fdd88dc459234209a4f:0"> trades, which usually take much longer because of time-zone issues and the fact that all parties must confirm payment processing.</span></span>
 
-### 
+###
 
 <span key="e663f0a5b01b4ab98496d0589774fa15"><span offset-key="e663f0a5b01b4ab98496d0589774fa15:0">Private Transactions</span></span>
 
@@ -717,19 +717,19 @@ Solidarity-Blockchain-NFTs
 
 <span key="42b29d78d8d240f381a34db73f3e0efe"><span offset-key="42b29d78d8d240f381a34db73f3e0efe:0">That is, when a user makes public transactions, their unique code called a </span></span><a href="https://www.investopedia.com/terms/p/public-key.asp" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="dede413cd4b543e5be8b6a2041936052" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="0513c61bac3b452fa55bef760d4e1b12"><span data-offset-key="0513c61bac3b452fa55bef760d4e1b12:0">public key</span></span></span></a><span key="0d07aedd924a41789d9de5bf7a49bbd1"><span offset-key="0d07aedd924a41789d9de5bf7a49bbd1:0">, is recorded on the blockchain, rather than their personal information. If a person has made a Bitcoin purchase on an exchange that requires identification then the person’s identity is still linked to their blockchain address, but a transaction, even when tied to a person’s name, does not reveal any personal information.</span></span>
 
-### 
+###
 
 <span key="43d312fef25b4beeb8d25d62a66daf23"><span offset-key="43d312fef25b4beeb8d25d62a66daf23:0">Secure Transactions</span></span>
 
 <span key="11f44c7f035a49458339a5abac7e07db"><span offset-key="11f44c7f035a49458339a5abac7e07db:0">Once a transaction is recorded, its authenticity must be verified by the blockchain network. Thousands of computers on the blockchain rush to confirm that the details of the purchase are correct. After a computer has validated the transaction, it is added to the blockchain block. Each block on the blockchain contains its own unique hash, along with the unique hash of the block before it. When the information on a block is edited in any way, that block’s hashcode changes—however, the hash code on the block after it would not. This discrepancy makes it extremely difficult for information on the blockchain to be changed without notice.</span></span>
 
-### 
+###
 
 <span key="c93ce6153da04333aded1c960f0ad1d6"><span offset-key="c93ce6153da04333aded1c960f0ad1d6:0">Transparency</span></span>
 
 <span key="5374a5d647804563a997ba13fe40c5c5"><span offset-key="5374a5d647804563a997ba13fe40c5c5:0">Most blockchains are entirely open-source software. This means that anyone and everyone can view its code. This gives auditors the ability to review cryptocurrencies like Bitcoin for security. This also means that there is no real authority on who controls Bitcoin’s code or how it is edited. Because of this, anyone can suggest changes or upgrades to the system. If a majority of the network users agree that the new version of the code with the upgrade is sound and worthwhile then Bitcoin can be updated.</span></span>
 
-### 
+###
 
 <span key="d8849b79db8d4c8ca3134cdb8a0f2308"><span offset-key="d8849b79db8d4c8ca3134cdb8a0f2308:0">Banking the Unbanked</span></span>
 
@@ -739,13 +739,13 @@ Solidarity-Blockchain-NFTs
 
 <span key="b2b033645007435c9939dcbefc9a52e4"><span offset-key="b2b033645007435c9939dcbefc9a52e4:0">Blockchains of the future are also looking for solutions to not only be a unit of account for wealth storage, but also to store medical records, property rights, and a variety of other legal contracts.</span></span>
 
-## 
+##
 
 <span key="142a561c89324ade815b016cec48dd7a"><span offset-key="142a561c89324ade815b016cec48dd7a:0">Disadvantages of Blockchain</span></span>
 
 <span key="fb81f4a1dc3a4e27993d8d378810ddbe"><span offset-key="fb81f4a1dc3a4e27993d8d378810ddbe:0">While there are significant upsides to the blockchain, there are also significant challenges to its adoption. The roadblocks to the application of blockchain technology today are not just technical. The real challenges are political and regulatory, for the most part, to say nothing of the thousands of hours (read: money) of custom software design and back-end programming required to integrate blockchain to current business networks. Here are some of the challenges standing in the way of widespread blockchain adoption.</span></span>
 
-### 
+###
 
 <span key="4f30a4b39f1847e8bc88fd2451b95723"><span offset-key="4f30a4b39f1847e8bc88fd2451b95723:0">Technology Cost</span></span>
 
@@ -755,7 +755,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="1f14b7bd988b4847bb9e2333f99f2319"><span offset-key="1f14b7bd988b4847bb9e2333f99f2319:0">Some solutions to these issues are beginning to arise. For example, bitcoin mining farms have been set up to use solar power, excess natural gas from fracking sites, or power from wind farms.</span></span>
 
-### 
+###
 
 <span key="c36c098656334f3ba2cdf386e134b127"><span offset-key="c36c098656334f3ba2cdf386e134b127:0">Speed Inefficiency</span></span>
 
@@ -763,7 +763,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="1715a1e3c3ad41f6bd90a35bfd7d1321"><span offset-key="1715a1e3c3ad41f6bd90a35bfd7d1321:0">Solutions to this issue have been in development for years. There are currently blockchains that are boasting over 30,000 transactions per second.</span></span>
 
-### 
+###
 
 <span key="c337da52669a49539e0e4c9a65db3579"><span offset-key="c337da52669a49539e0e4c9a65db3579:0">Illegal Activity</span></span>
 
@@ -771,7 +771,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="70d6d8bded08436cadfaa2b262631da8"><span offset-key="70d6d8bded08436cadfaa2b262631da8:0">The website allowed users to browse the website without being tracked using the Tor browser and make illegal purchases in Bitcoin or other cryptocurrencies. Current U.S. regulations require financial service providers to obtain information about their customers when they open an account, verify the identity of each customer, and confirm that customers do not appear on any list of known or suspected terrorist organizations. This system can be seen as both a pro and a con. It gives anyone access to financial accounts but also allows criminals to more easily transact. Many have argued that the good uses of crypto, like banking the unbanked world, outweigh the bad uses of cryptocurrency, especially when most illegal activity is still accomplished through untraceable cash.</span></span>
 
-### 
+###
 
 <span key="fd8a423e50f4415aa6779f0e14af4bc5"><span offset-key="fd8a423e50f4415aa6779f0e14af4bc5:0">Regulation</span></span>
 
@@ -779,7 +779,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="31aa3e5d60cd4d8ead46038ad73c441c"><span offset-key="31aa3e5d60cd4d8ead46038ad73c441c:0">Over time this concern has grown smaller as large companies like PayPal begin to allow the ownership and use of cryptocurrencies on its platform.</span></span>
 
-## 
+##
 
 <span key="415fd15b45c742e9b1025a4de264a766"><span offset-key="415fd15b45c742e9b1025a4de264a766:0">What's Next for Blockchain?</span></span>
 
@@ -789,7 +789,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="b9787fced59441fe96cca8f4d08503b1"><span offset-key="b9787fced59441fe96cca8f4d08503b1:0">As we prepare to head into the third decade of blockchain, it’s no longer a question of "if" legacy companies will catch on to the technology—it's a question of "when."SPONSOREDBitcoin is an Investment, Too.Did you know </span></span><a href="https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjssn8g0fN-PFxkUb7n5UajQX86GlGqRM4HIKxyMQgE0eVL4hhLzz0t5WlkfM5kpcbxpP_KCU144yiuzwAbETn5SRKItpUJsnkH7C632n0L8LsDa9A7rNhUUArfT4w6IzzIH9yb2rkyO-NEiBHRhMino5TycHN8d1-xKmPOsuxPhXXZiP5bRD6NuwEPBryFBvonZqYzXKjrU0JAwnkIeYMGe9g3JRjRa8KNOsKUVERRVD4DhLRHqrGYP2uj-10UnLDVhTBv8Pwpb8nPD5C8K0WYeRiBVD1AHNWtf_IIcdcgSQbV2fuvkzTP4PQ_Eh618uJrCcB6vbb6l3PnWIjgjtgwLMsm8FtA&amp;sig=Cg0ArKJSzKeO2jpMni4nEAE&amp;fbs_aeid=%5Bgw_fbsaeid%5D&amp;urlfix=1&amp;adurl=https://ad.doubleclick.net/ddm/clk/503674036;310776828;l" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="57c0e6787de44192b25bb1f1197f5b0e" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="5990d60dcc95472385ee7e4387e1082f"><span data-offset-key="5990d60dcc95472385ee7e4387e1082f:0">BTC beat the 2020 returns</span></span></span></a><span key="f9c1561e39254636b40531249d690ec4"><span offset-key="f9c1561e39254636b40531249d690ec4:0"> of gold and the S&P 500? And there’s a slew of altcoins making similarly exciting moves in the market. You can </span></span><a href="https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjssn8g0fN-PFxkUb7n5UajQX86GlGqRM4HIKxyMQgE0eVL4hhLzz0t5WlkfM5kpcbxpP_KCU144yiuzwAbETn5SRKItpUJsnkH7C632n0L8LsDa9A7rNhUUArfT4w6IzzIH9yb2rkyO-NEiBHRhMino5TycHN8d1-xKmPOsuxPhXXZiP5bRD6NuwEPBryFBvonZqYzXKjrU0JAwnkIeYMGe9g3JRjRa8KNOsKUVERRVD4DhLRHqrGYP2uj-10UnLDVhTBv8Pwpb8nPD5C8K0WYeRiBVD1AHNWtf_IIcdcgSQbV2fuvkzTP4PQ_Eh618uJrCcB6vbb6l3PnWIjgjtgwLMsm8FtA&amp;sig=Cg0ArKJSzKeO2jpMni4nEAE&amp;fbs_aeid=%5Bgw_fbsaeid%5D&amp;urlfix=1&amp;adurl=https://ad.doubleclick.net/ddm/clk/503674036;310776828;l" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="739be44cfacb49b7a4df944c8befbf54" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="af3f58cc1e064e56ab733301ce3c4b2f"><span data-offset-key="af3f58cc1e064e56ab733301ce3c4b2f:0">find them on eToro,</span></span></span></a><span key="23e9f0eefa364451a6fae71cc577e238"><span offset-key="23e9f0eefa364451a6fae71cc577e238:0"> the world’s leading social trading platform. For a limited time, </span></span><a href="https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjssn8g0fN-PFxkUb7n5UajQX86GlGqRM4HIKxyMQgE0eVL4hhLzz0t5WlkfM5kpcbxpP_KCU144yiuzwAbETn5SRKItpUJsnkH7C632n0L8LsDa9A7rNhUUArfT4w6IzzIH9yb2rkyO-NEiBHRhMino5TycHN8d1-xKmPOsuxPhXXZiP5bRD6NuwEPBryFBvonZqYzXKjrU0JAwnkIeYMGe9g3JRjRa8KNOsKUVERRVD4DhLRHqrGYP2uj-10UnLDVhTBv8Pwpb8nPD5C8K0WYeRiBVD1AHNWtf_IIcdcgSQbV2fuvkzTP4PQ_Eh618uJrCcB6vbb6l3PnWIjgjtgwLMsm8FtA&amp;sig=Cg0ArKJSzKeO2jpMni4nEAE&amp;fbs_aeid=%5Bgw_fbsaeid%5D&amp;urlfix=1&amp;adurl=https://ad.doubleclick.net/ddm/clk/503674036;310776828;l" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="1f93b0d3a37d4ffa8dccdd2ab4508307" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="a95aac8cc8f74685ba6b1cad97bd6dc8"><span data-offset-key="a95aac8cc8f74685ba6b1cad97bd6dc8:0">if you make $500 in trades, eToro will give $50!</span></span></span></a><span key="0523257df68245fa9bcfc44b3dba108f"><span offset-key="0523257df68245fa9bcfc44b3dba108f:0"> So, get into the crypto game and </span></span><a href="https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjssn8g0fN-PFxkUb7n5UajQX86GlGqRM4HIKxyMQgE0eVL4hhLzz0t5WlkfM5kpcbxpP_KCU144yiuzwAbETn5SRKItpUJsnkH7C632n0L8LsDa9A7rNhUUArfT4w6IzzIH9yb2rkyO-NEiBHRhMino5TycHN8d1-xKmPOsuxPhXXZiP5bRD6NuwEPBryFBvonZqYzXKjrU0JAwnkIeYMGe9g3JRjRa8KNOsKUVERRVD4DhLRHqrGYP2uj-10UnLDVhTBv8Pwpb8nPD5C8K0WYeRiBVD1AHNWtf_IIcdcgSQbV2fuvkzTP4PQ_Eh618uJrCcB6vbb6l3PnWIjgjtgwLMsm8FtA&amp;sig=Cg0ArKJSzKeO2jpMni4nEAE&amp;fbs_aeid=%5Bgw_fbsaeid%5D&amp;urlfix=1&amp;adurl=https://ad.doubleclick.net/ddm/clk/503674036;310776828;l" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="70c59d04220f482ea7e363ead4209c67" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="e8cc2800e571436c80c9d8a076407f79"><span data-offset-key="e8cc2800e571436c80c9d8a076407f79:0">start investing on eToro today.</span></span></span></a><span key="79b89e81d18a422182755e0cb5af8af5"><span offset-key="79b89e81d18a422182755e0cb5af8af5:0"><span slate-zero-width="z">​</span></span></span>
 
-## 
+##
 
 <span key="81ff97652d3e437d9311956bbad43461"><span offset-key="81ff97652d3e437d9311956bbad43461:0">A New Direction for Advertising</span></span>
 
@@ -803,11 +803,11 @@ Solidarity-Blockchain-NFTs
 
 <span key="0365e0d3581a461ba0fae593a9a1d2e6"><span offset-key="0365e0d3581a461ba0fae593a9a1d2e6:0">Another venture, </span></span><a href="https://ico.bitcomo.com" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8a39b16a9e90498bad7f998856a78227" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="7cb8452a00a748f38c93c48f0fed00cb"><span data-offset-key="7cb8452a00a748f38c93c48f0fed00cb:0">Bitcomo</span></span></span></a><span key="2cb11fb90997410d9fcb5b2232b1ae2b"><span offset-key="2cb11fb90997410d9fcb5b2232b1ae2b:0"> – a blockchain-driven lead generation platform – is creating a smart contract-based advertising model (pre-sale ICO kicks off on September 18) in which payment is due once results been delivered or after generating a smart contract-triggered sale. Bitcomo offers a solution to the traditional advertising model in which publishers are at the mercy of advertisers who are not always able to pay the entire commission as a protection against leads that were not approved.</span></span>
 
-<span key="e64930fbcf8b4016af31e8f6ea7099ee"><span offset-key="e64930fbcf8b4016af31e8f6ea7099ee:0">Similarly, advertisers cannot be certain they are getting their money's worth and are often forced to blacklist publishers who may be conducting fraudulent activities. (See also: </span></span><a href="https://www.investopedia.com/news/investing-cryptocurrencies-what-keep-mind/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="30aeb7daae4043f18be3c4d524643a61" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="1f9c387da0eb4980820ee330733ed7d3"><em>Investing in Cryptocurrencies: What to Keep In Mind</em></span></span></a><span key="5475c537b3ae490eb9eedfcc80078555">*.*<span offset-key="5475c537b3ae490eb9eedfcc80078555:1">)</span></span>
+<span key="e64930fbcf8b4016af31e8f6ea7099ee"><span offset-key="e64930fbcf8b4016af31e8f6ea7099ee:0">Similarly, advertisers cannot be certain they are getting their money's worth and are often forced to blacklist publishers who may be conducting fraudulent activities. (See also: </span></span><a href="https://www.investopedia.com/news/investing-cryptocurrencies-what-keep-mind/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="30aeb7daae4043f18be3c4d524643a61" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="1f9c387da0eb4980820ee330733ed7d3"><em>Investing in Cryptocurrencies: What to Keep In Mind</em></span></span></a><span key="5475c537b3ae490eb9eedfcc80078555">_._<span offset-key="5475c537b3ae490eb9eedfcc80078555:1">)</span></span>
 
 <span key="5a799e8c214b4617b29cb73680a57b3f"><span offset-key="5a799e8c214b4617b29cb73680a57b3f:0">Kanstruktor over at </span></span><a href="https://steemit.com/science/@kanstruktor/bitcomo-decentralized-cpa-network-bitcomo-2017106t173838301z" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="26b58a8f3f2344469562351388ab53b7" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="d7c82576fa8741939ec93837c7e7e6c8"><span data-offset-key="d7c82576fa8741939ec93837c7e7e6c8:0">Steemit</span></span></span></a><span key="af6d87667a49420ab06ae90ded43ea99"><span offset-key="af6d87667a49420ab06ae90ded43ea99:0"> explains: "Decentralized network between advertisers and publishers through caching, and logging of clicks and leads, key statistics, personalized nodes in the blockchain operator MetaHash (fork of Ethereum – ERC20). It is a basic principle of protection against fraud and concealment of data on actual transactions from advertisers, or making unrealistic target bots in the traffic of publishers instead of real users."</span></span>
 
-## 
+##
 
 <span key="c941b9b5efa740148218190a0e420c2e"><span offset-key="c941b9b5efa740148218190a0e420c2e:0">Blockchain’s Advertising Chops</span></span>
 
@@ -817,7 +817,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="df983cd8c23c426189d9050c4e9977fe"><span offset-key="df983cd8c23c426189d9050c4e9977fe:0">Instead of paying upfront for expensive ad space targeting fishermen, for instance, the same fishing gear company can use a blockchain advertising company to target those who have expressly stated (with their data-sharing preferences) that they are interested in such gear. The game will no longer be based on flighty browsing habits, but on hard data. Moreover, smart contract ad buying solutions make it possible for companies to buy conditional space, which will only show an ad should the target fulfill certain parameters.</span></span>
 
-## 
+##
 
 <span key="013355c193b5453e894621ea74472ec3"><span offset-key="013355c193b5453e894621ea74472ec3:0">Blockchain’s Future in Advertising</span></span>
 
@@ -825,7 +825,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="a84ebb867d104c6cb9627a903821b5e8"><span offset-key="a84ebb867d104c6cb9627a903821b5e8:0">The future is fast in coming, and instead of predicting it, the fast movers are already making it happen.</span></span>
 
-## 
+##
 
 <span key="13175d165acf411499477027d9174e15"><span offset-key="13175d165acf411499477027d9174e15:0">What Is A Blockchain, Take One</span></span>
 
@@ -841,7 +841,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="1733af0bb7324ec48028d95a1ed49f28"><span offset-key="1733af0bb7324ec48028d95a1ed49f28:0">I don't know about you, but after reading these definitions, I still had troubles figuring out what this is all about. Let's get a bit deeper.</span></span>
 
-## 
+##
 
 <span key="515613d1b92f4653982e516a411d53a8"><span offset-key="515613d1b92f4653982e516a411d53a8:0">Ordering Facts</span></span>
 
@@ -859,17 +859,17 @@ Solidarity-Blockchain-NFTs
 
 <span key="2567a30ba0d44fa5b15671183ac1e611"><span offset-key="2567a30ba0d44fa5b15671183ac1e611:0">Consensus algorithms for distributed systems are a </span></span><a href="https://en.wikipedia.org/wiki/Consensus_(computer_science)" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9fcf2b024b114af89638a513b80802b2" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="088deb81012a4c94950be1653bbe29eb"><span data-offset-key="088deb81012a4c94950be1653bbe29eb:0">very active research field</span></span></span></a><span key="a9e394fdc32e411ba594496bc3592887"><span offset-key="a9e394fdc32e411ba594496bc3592887:0">. You may have heard of Paxos or Raft algorithms. The blockchain implements another algorithm, the </span>**proof-of-work**<span offset-key="a9e394fdc32e411ba594496bc3592887:2"> consensus, using blocks.</span></span>
 
-## 
+##
 
 <span key="2d172ddc8b7c43809c73d8a326b5aaf1"><span offset-key="2d172ddc8b7c43809c73d8a326b5aaf1:0">Blocks</span></span>
 
-<span key="aed2f219d5f34ff6afc62afa54b5cd66"><span offset-key="aed2f219d5f34ff6afc62afa54b5cd66:0">Blocks are a smart trick to order facts in a network of non-trusted peers. The idea is simple: facts are grouped in </span>*blocks*<span offset-key="aed2f219d5f34ff6afc62afa54b5cd66:2">, and there is only a single chain of blocks, replicated in the entire network. Each block references the previous one. So if fact F is in block 21, and fact E is in block 22, then fact E is considered by the entire network to be posterior to fact F. Before being added to a block, facts are </span>*pending*<span offset-key="aed2f219d5f34ff6afc62afa54b5cd66:4">, i.e. unconfirmed.</span></span>
+<span key="aed2f219d5f34ff6afc62afa54b5cd66"><span offset-key="aed2f219d5f34ff6afc62afa54b5cd66:0">Blocks are a smart trick to order facts in a network of non-trusted peers. The idea is simple: facts are grouped in </span>_blocks_<span offset-key="aed2f219d5f34ff6afc62afa54b5cd66:2">, and there is only a single chain of blocks, replicated in the entire network. Each block references the previous one. So if fact F is in block 21, and fact E is in block 22, then fact E is considered by the entire network to be posterior to fact F. Before being added to a block, facts are </span>_pending_<span offset-key="aed2f219d5f34ff6afc62afa54b5cd66:4">, i.e. unconfirmed.</span></span>
 
 <img src="https://marmelab.com/images/blog/blocks_facts.png" class="css-9pa8cd" draggable="false" />
 
 <span key="ee591fceb54442a3bdc8ce02557b1de1"><span offset-key="ee591fceb54442a3bdc8ce02557b1de1:0">How blocks group facts</span></span>
 
-## 
+##
 
 <span key="98b32084427048fd8206a6ae8c64df37"><span offset-key="98b32084427048fd8206a6ae8c64df37:0">Mining</span></span>
 
@@ -905,27 +905,27 @@ Solidarity-Blockchain-NFTs
 >
 > <span key="9563536e6362472bb0146db125cf6495"><span offset-key="9563536e6362472bb0146db125cf6495:0">Number n is adjusted every once in a while to keep block duration fixed despite variations in the number of nodes. This number is called the </span>**difficulty**<span offset-key="9563536e6362472bb0146db125cf6495:2">. Other blockchain implementations use special hashing techniques that discourage the usage of GPUs (e.g. by requiring large memory transfers).</span></span>
 
-<span key="6fa804905a374f0084883cd0f9d2ea68"><span offset-key="6fa804905a374f0084883cd0f9d2ea68:0">The process of looking for blocks is called </span>*mining*<span offset-key="6fa804905a374f0084883cd0f9d2ea68:2">. This is because, just like gold mining, block mining brings an economical reward - some form of money. That's the reason why people who run nodes in a blockchain are also called </span>*miners*<span offset-key="6fa804905a374f0084883cd0f9d2ea68:4">.</span></span>
+<span key="6fa804905a374f0084883cd0f9d2ea68"><span offset-key="6fa804905a374f0084883cd0f9d2ea68:0">The process of looking for blocks is called </span>_mining_<span offset-key="6fa804905a374f0084883cd0f9d2ea68:2">. This is because, just like gold mining, block mining brings an economical reward - some form of money. That's the reason why people who run nodes in a blockchain are also called </span>_miners_<span offset-key="6fa804905a374f0084883cd0f9d2ea68:4">.</span></span>
 
 <span key="65d7d7418117408a9e2db016ba6208a3">**Note**<span offset-key="65d7d7418117408a9e2db016ba6208a3:1">: By default, a node doesn't mine - it just receives blocks mined by other nodes. It's a voluntary process to turn a node into a miner node.</span></span>
 
-## 
+##
 
 <span key="ccf185bb37194f7299568ebfa16a5c14"><span offset-key="ccf185bb37194f7299568ebfa16a5c14:0">Money and Cryptocurrencies</span></span>
 
 <span key="4b1c935734b741c2b9c7b135d4985522"><span offset-key="4b1c935734b741c2b9c7b135d4985522:0">Every second, each miner node in a blockchain tests thousands of random strings to try and form a new block. So running a miner in the blockchain pumps a huge amount of computer resources (storage and CPU). That's why </span>**you must pay to store facts**<span offset-key="4b1c935734b741c2b9c7b135d4985522:2"> in a blockchain. Reading facts, on the other hand, is free: you just need to run your own node, and you'll recuperate the entire history of facts issued by all the other nodes. So to summarize:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="625c446f84e74a99985f783ac7a378bf"><span offset-key="625c446f84e74a99985f783ac7a378bf:0">Reading data is free</span></span>
+  <span key="625c446f84e74a99985f783ac7a378bf"><span offset-key="625c446f84e74a99985f783ac7a378bf:0">Reading data is free</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="52c02fe23f03450295101c47dc8b8c72"><span offset-key="52c02fe23f03450295101c47dc8b8c72:0">Adding facts costs a small fee</span></span>
+  <span key="52c02fe23f03450295101c47dc8b8c72"><span offset-key="52c02fe23f03450295101c47dc8b8c72:0">Adding facts costs a small fee</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="e9c4ac017e384a45b710ab1870e70ede"><span offset-key="e9c4ac017e384a45b710ab1870e70ede:0">Mining a block brings in the money of all the fees of the facts included in the block</span></span>
+  <span key="e9c4ac017e384a45b710ab1870e70ede"><span offset-key="e9c4ac017e384a45b710ab1870e70ede:0">Mining a block brings in the money of all the fees of the facts included in the block</span></span>
 
 <span key="7a2f4a6386d44d3f9f3f05fde04d851e"><span offset-key="7a2f4a6386d44d3f9f3f05fde04d851e:0">We're not talking about real money here. In fact, each blockchain has its own (crypto-)currency. It's called Bitcoin (</span>**BTC**<span offset-key="7a2f4a6386d44d3f9f3f05fde04d851e:2">) in the Bitcoin network, Ether (</span>**ETH**<span offset-key="7a2f4a6386d44d3f9f3f05fde04d851e:4">) on the Ethereum network, etc. To make a payment in the Bitcoin network, you must pay a small fee in Bitcoins - just like you would pay a fee to a bank. But then, where do the first coins come from?</span></span><a href="https://www.linkedin.com/pulse/20141106071134-811619-value-of-bitcoins-why-bitcoins-may-become-the-gold-of-the-21st-century-and-beyond" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f41fb513d8864946add85747bf5e82d3" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="47ffc755a4284a13abbd6fd2865f0601"><span data-offset-key="47ffc755a4284a13abbd6fd2865f0601:0"><span data-slate-zero-width="z">​</span></span></span><span data-slate-void="true" data-key="ca5f0a5352724387a215b71f54169a67"><span></span></span></span></a>
 
@@ -941,7 +941,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="b920e540f1324b4fa01573ba6df53e32"><span offset-key="b920e540f1324b4fa01573ba6df53e32:0"><span slate-zero-width="z">​</span></span></span><span key="996f3952e014463ab8a493b11c5ce12f"><span offset-key="996f3952e014463ab8a493b11c5ce12f:0"><span slate-zero-width="z">​</span></span></span>
 
-## 
+##
 
 <span key="1baa36fcb69746358054a39d74a87921"><span offset-key="1baa36fcb69746358054a39d74a87921:0">Contracts</span></span>
 
@@ -959,21 +959,21 @@ Solidarity-Blockchain-NFTs
 >
 > <span key="11a7560043a44da9af0036344c4dcc6f"><span offset-key="11a7560043a44da9af0036344c4dcc6f:0">Smart contracts in a blockchain allow you to get rid of the bank, the lawyer, and the court. Just write a program that defines how much money should be transferred in response to certain conditions:</span></span>
 >
-> -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
+> - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 >
->     <span key="f23e46df6f054228989f08a09798b5c8"><span offset-key="f23e46df6f054228989f08a09798b5c8:0">two weeks before beginning of rental: transfer $500 from loaner to owner</span></span>
+>   <span key="f23e46df6f054228989f08a09798b5c8"><span offset-key="f23e46df6f054228989f08a09798b5c8:0">two weeks before beginning of rental: transfer $500 from loaner to owner</span></span>
 >
-> -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
+> - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 >
->     <span key="a658359cce60421c8fb0675b0bbb031f"><span offset-key="a658359cce60421c8fb0675b0bbb031f:0">cancellation by the owner: transfer $500 from owner to loaner</span></span>
+>   <span key="a658359cce60421c8fb0675b0bbb031f"><span offset-key="a658359cce60421c8fb0675b0bbb031f:0">cancellation by the owner: transfer $500 from owner to loaner</span></span>
 >
-> -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
+> - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 >
->     <span key="2bffc0323387401d9e7adfc4edded30d"><span offset-key="2bffc0323387401d9e7adfc4edded30d:0">end of the rental period: transfer $500 from loaner to owner</span></span>
+>   <span key="2bffc0323387401d9e7adfc4edded30d"><span offset-key="2bffc0323387401d9e7adfc4edded30d:0">end of the rental period: transfer $500 from loaner to owner</span></span>
 >
-> -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
+> - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0wIDhjMC0yLjIgMS44LTQgNC00czQgMS44IDQgNC0xLjggNC00IDQtNC0xLjgtNC00eiIgZmlsbD0iY3VycmVudENvbG9yIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm r-1vzi8xi" />
 >
->     <span key="c7702d1d14ab4f00a79ca2bb768b4d84"><span offset-key="c7702d1d14ab4f00a79ca2bb768b4d84:0">proof of physical degradation after the rental period: transfer $5,000 from loaner to owner</span></span>
+>   <span key="c7702d1d14ab4f00a79ca2bb768b4d84"><span offset-key="c7702d1d14ab4f00a79ca2bb768b4d84:0">proof of physical degradation after the rental period: transfer $5,000 from loaner to owner</span></span>
 >
 > <span key="8c25bf816cd9486e949d038e5c54c819"><span offset-key="8c25bf816cd9486e949d038e5c54c819:0">Upload this smart contract to the blockchain, and you're all set. At the time defined in the contract, the money transfers will occur. And if the owner can bring a predefined proof of physical degradation, they get the $5,000 automatically (without any need for a deposit).</span></span>
 
@@ -987,7 +987,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="742600822ea54e6dada973a71d758d91"><span offset-key="742600822ea54e6dada973a71d758d91:0">Disintermediation</span></span>
 
-## 
+##
 
 <span key="5d1f9cdbefc944e598fb0152e91e77f6"><span offset-key="5d1f9cdbefc944e598fb0152e91e77f6:0">What Is A Blockchain, Take Two</span></span>
 
@@ -1003,7 +1003,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="67e6ca8db1ef44cbba64eac06cd5fa24"><span offset-key="67e6ca8db1ef44cbba64eac06cd5fa24:0">It's all a matter of perspective</span></span>
 
-## 
+##
 
 <span key="b4ee86f4a9c849e88a5e927360d863fe"><span offset-key="b4ee86f4a9c849e88a5e927360d863fe:0">Practical Implications</span></span>
 
@@ -1017,7 +1017,7 @@ Solidarity-Blockchain-NFTs
 
 <span key="02ae423b48bc44eea242d59d71e45968"><span offset-key="02ae423b48bc44eea242d59d71e45968:0">YouTube might track you and we would rather have your consent before loading this video.YES, LOAD IT.</span></span><a href="https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html#" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="20355404e8a5401284dcf9eaa64d1b50" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="4f76fef6bcb2404e98182cf353277fc6"><span data-offset-key="4f76fef6bcb2404e98182cf353277fc6:0">Always allow</span></span></span></a><span key="26b166a3134c44a9ac61aca599366052"><span offset-key="26b166a3134c44a9ac61aca599366052:0"><span slate-zero-width="z">​</span></span></span>
 
-## 
+##
 
 <span key="063d034697a74f65a8d2773601335af6"><span offset-key="063d034697a74f65a8d2773601335af6:0">Why It's a Big deal</span></span>
 
@@ -1029,29 +1029,29 @@ Solidarity-Blockchain-NFTs
 
 <span key="a06626cf715b4bf990ac6df3323d2da9"><span offset-key="a06626cf715b4bf990ac6df3323d2da9:0">These smart people have seen a huge potential in the blockchain. It concerns disintermediation. The blockchain can potentially replace all the intermediaries required to build trust. Let's see a few example applications, most of which are just proof-of-concepts for now:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="007d019b317a436b91b4b7087bd27875"><span offset-key="007d019b317a436b91b4b7087bd27875:0"><span slate-zero-width="z">​</span></span></span><a href="https://monegraph.com" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d27c887dbfab42caa50a606375c3ea66" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="e364862fccda4ff3ae213ded45980f09"><span data-offset-key="e364862fccda4ff3ae213ded45980f09:0">Monegraph</span></span></span></a><span key="e151a862da90441d8464a2c07bb06301"><span offset-key="e151a862da90441d8464a2c07bb06301:0"> lets authors claim their work, and set their rules (and fares) for use</span></span>
+  <span key="007d019b317a436b91b4b7087bd27875"><span offset-key="007d019b317a436b91b4b7087bd27875:0"><span slate-zero-width="z">​</span></span></span><a href="https://monegraph.com" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d27c887dbfab42caa50a606375c3ea66" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="e364862fccda4ff3ae213ded45980f09"><span data-offset-key="e364862fccda4ff3ae213ded45980f09:0">Monegraph</span></span></span></a><span key="e151a862da90441d8464a2c07bb06301"><span offset-key="e151a862da90441d8464a2c07bb06301:0"> lets authors claim their work, and set their rules (and fares) for use</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="4a584cf28a13428492814715e256f8eb"><span offset-key="4a584cf28a13428492814715e256f8eb:0"><span slate-zero-width="z">​</span></span></span><a href="http://www.lazooz.net" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="628b0562d54a4fc1854b7afe920d20c3" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="1293822aef7a462eb55ba5cdc2ded3f1"><span data-offset-key="1293822aef7a462eb55ba5cdc2ded3f1:0">La Zooz</span></span></span></a><span key="bd7320d6337742a691fc7933d4e943e5"><span offset-key="bd7320d6337742a691fc7933d4e943e5:0"> is a decentralized Uber. Share your car, find a seat, without Uber taking a fee.</span></span>
+  <span key="4a584cf28a13428492814715e256f8eb"><span offset-key="4a584cf28a13428492814715e256f8eb:0"><span slate-zero-width="z">​</span></span></span><a href="http://www.lazooz.net" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="628b0562d54a4fc1854b7afe920d20c3" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="1293822aef7a462eb55ba5cdc2ded3f1"><span data-offset-key="1293822aef7a462eb55ba5cdc2ded3f1:0">La Zooz</span></span></span></a><span key="bd7320d6337742a691fc7933d4e943e5"><span offset-key="bd7320d6337742a691fc7933d4e943e5:0"> is a decentralized Uber. Share your car, find a seat, without Uber taking a fee.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="b8222b3de6044717b8aaa68061841f0f"><span offset-key="b8222b3de6044717b8aaa68061841f0f:0"><span slate-zero-width="z">​</span></span></span><a href="https://augur.net" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e28443ed24aa41c5aa4a070b22525bfb" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="74fa53eed0564df9b9340f9466128cc9"><span data-offset-key="74fa53eed0564df9b9340f9466128cc9:0">Augur</span></span></span></a><span key="243b0a09d5ec49a4a0ff6dd1d2f10f85"><span offset-key="243b0a09d5ec49a4a0ff6dd1d2f10f85:0"> is an online bookmaker. Bet on outcomes, and get paid.</span></span>
+  <span key="b8222b3de6044717b8aaa68061841f0f"><span offset-key="b8222b3de6044717b8aaa68061841f0f:0"><span slate-zero-width="z">​</span></span></span><a href="https://augur.net" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e28443ed24aa41c5aa4a070b22525bfb" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="74fa53eed0564df9b9340f9466128cc9"><span data-offset-key="74fa53eed0564df9b9340f9466128cc9:0">Augur</span></span></span></a><span key="243b0a09d5ec49a4a0ff6dd1d2f10f85"><span offset-key="243b0a09d5ec49a4a0ff6dd1d2f10f85:0"> is an online bookmaker. Bet on outcomes, and get paid.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="19ec5b2aece24626bec83cef58ec260b"><span offset-key="19ec5b2aece24626bec83cef58ec260b:0"><span slate-zero-width="z">​</span></span></span><a href="https://storj.io" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e795ac0836cf4e25835112b353c04326" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="311b3daeb90241bcb8fd7d8ccdc74628"><span data-offset-key="311b3daeb90241bcb8fd7d8ccdc74628:0">Storj.io</span></span></span></a><span key="60089c9ec6f0411dbb196623671f8e9d"><span offset-key="60089c9ec6f0411dbb196623671f8e9d:0"> is a peer-to-peer storage system. Rent your unused disk space, or find ultra cheap online storage.</span></span>
+  <span key="19ec5b2aece24626bec83cef58ec260b"><span offset-key="19ec5b2aece24626bec83cef58ec260b:0"><span slate-zero-width="z">​</span></span></span><a href="https://storj.io" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="e795ac0836cf4e25835112b353c04326" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="311b3daeb90241bcb8fd7d8ccdc74628"><span data-offset-key="311b3daeb90241bcb8fd7d8ccdc74628:0">Storj.io</span></span></span></a><span key="60089c9ec6f0411dbb196623671f8e9d"><span offset-key="60089c9ec6f0411dbb196623671f8e9d:0"> is a peer-to-peer storage system. Rent your unused disk space, or find ultra cheap online storage.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="40d4e1b417204ba6935b3e98994bb456"><span offset-key="40d4e1b417204ba6935b3e98994bb456:0"><span slate-zero-width="z">​</span></span></span><a href="http://museblockchain.com" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3fe21736c1b1444e830df6f77fdb6483" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="b786a8f7d75140778841d7a341bce1c2"><span data-offset-key="b786a8f7d75140778841d7a341bce1c2:0">Muse</span></span></span></a><span key="b3fa53ded9ee49c88b9d393b70d3b85d"><span offset-key="b3fa53ded9ee49c88b9d393b70d3b85d:0"> is a distributed, open, and transparent database tailored for the music industry</span></span>
+  <span key="40d4e1b417204ba6935b3e98994bb456"><span offset-key="40d4e1b417204ba6935b3e98994bb456:0"><span slate-zero-width="z">​</span></span></span><a href="http://museblockchain.com" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="3fe21736c1b1444e830df6f77fdb6483" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="b786a8f7d75140778841d7a341bce1c2"><span data-offset-key="b786a8f7d75140778841d7a341bce1c2:0">Muse</span></span></span></a><span key="b3fa53ded9ee49c88b9d393b70d3b85d"><span offset-key="b3fa53ded9ee49c88b9d393b70d3b85d:0"> is a distributed, open, and transparent database tailored for the music industry</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="496f4d375d62412b9425151d4a15b065"><span offset-key="496f4d375d62412b9425151d4a15b065:0"><span slate-zero-width="z">​</span></span></span><a href="https://ripple.com" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="266ab674c8b540808a8915c730fbc8d3" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="eeaa059e4c8a415a909fc655b3574218"><span data-offset-key="eeaa059e4c8a415a909fc655b3574218:0">Ripple</span></span></span></a><span key="6743454be4fb4bf988f09dda5efc1466"><span offset-key="6743454be4fb4bf988f09dda5efc1466:0"> enables low cost cross-border payments for banks</span></span>
+  <span key="496f4d375d62412b9425151d4a15b065"><span offset-key="496f4d375d62412b9425151d4a15b065:0"><span slate-zero-width="z">​</span></span></span><a href="https://ripple.com" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="266ab674c8b540808a8915c730fbc8d3" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="eeaa059e4c8a415a909fc655b3574218"><span data-offset-key="eeaa059e4c8a415a909fc655b3574218:0">Ripple</span></span></span></a><span key="6743454be4fb4bf988f09dda5efc1466"><span offset-key="6743454be4fb4bf988f09dda5efc1466:0"> enables low cost cross-border payments for banks</span></span>
 
 <img src="https://marmelab.com/images/blog/blockchain_infographic.png" class="css-9pa8cd" draggable="false" />
 
@@ -1061,23 +1061,23 @@ Solidarity-Blockchain-NFTs
 
 <span key="b079130170544d2a93fdc4d9b446041d"><span offset-key="b079130170544d2a93fdc4d9b446041d:0">Will it benefit to end users, who won't need third parties to exchange goods and services anymore? It's far from certain. Internet had the same promise of heavy disintermediation. Yet Google built the first market capitalization worldwide as an intermediary. That's why it's crucial to invest in the blockchain quickly, because the winners and losers of the next decade are being born right now.</span></span>
 
-## 
+##
 
 <span key="27e209ec24224652a4d793fc17b73798"><span offset-key="27e209ec24224652a4d793fc17b73798:0">You Won't Build Your Own Blockchain</span></span>
 
 <span key="74621780a2224075a3903188004742ac"><span offset-key="74621780a2224075a3903188004742ac:0">The technology behind the blockchain uses advanced cryptography, custom network protocols, and performance optimizations. This is all too sophisticated to be redeveloped each time a project needs a blockchain. Fortunately, aside of Bitcoin, there are several open-source blockchain implementations. Here are the most advanced:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="d7250b55b802410799939a8358244770"><span offset-key="d7250b55b802410799939a8358244770:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.ethereum.org" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="067e06463db443a1bd634c7135a68e0e" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="801e24f7b6994742a479048fc35ded16"><span data-offset-key="801e24f7b6994742a479048fc35ded16:0">Ethereum</span></span></span></a><span key="02c50a50eef54d4286ccf1c7696995fa"><span offset-key="02c50a50eef54d4286ccf1c7696995fa:0">: an open-source blockchain platform by the Ethereum Foundation</span></span>
+  <span key="d7250b55b802410799939a8358244770"><span offset-key="d7250b55b802410799939a8358244770:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.ethereum.org" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="067e06463db443a1bd634c7135a68e0e" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="801e24f7b6994742a479048fc35ded16"><span data-offset-key="801e24f7b6994742a479048fc35ded16:0">Ethereum</span></span></span></a><span key="02c50a50eef54d4286ccf1c7696995fa"><span offset-key="02c50a50eef54d4286ccf1c7696995fa:0">: an open-source blockchain platform by the Ethereum Foundation</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="47eaf3f350a14f93a1dc6471bef1098b"><span offset-key="47eaf3f350a14f93a1dc6471bef1098b:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.hyperledger.org" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="32c82a55424b4b708de7ea8e01f6a738" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="6688e262eb5a498a886f5ddce8c69afe"><span data-offset-key="6688e262eb5a498a886f5ddce8c69afe:0">Hyperledger</span></span></span></a><span key="0027287a55c5445c89f6d08808ffead1"><span offset-key="0027287a55c5445c89f6d08808ffead1:0">: another open-source implementation, this time by the Linux Foundation. The first proposal was </span></span><a href="https://github.com/hyperledger/fabric" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="51f507c13e3c46a2ba01a3e4dd91e0ea" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="ac8410beeeab43338c8432833117ce12"><span data-offset-key="ac8410beeeab43338c8432833117ce12:0">published very recently</span></span></span></a><span key="9ed3df6aeca645bd8a6162a10627b6b9"><span offset-key="9ed3df6aeca645bd8a6162a10627b6b9:0">.</span></span>
+  <span key="47eaf3f350a14f93a1dc6471bef1098b"><span offset-key="47eaf3f350a14f93a1dc6471bef1098b:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.hyperledger.org" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="32c82a55424b4b708de7ea8e01f6a738" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="6688e262eb5a498a886f5ddce8c69afe"><span data-offset-key="6688e262eb5a498a886f5ddce8c69afe:0">Hyperledger</span></span></span></a><span key="0027287a55c5445c89f6d08808ffead1"><span offset-key="0027287a55c5445c89f6d08808ffead1:0">: another open-source implementation, this time by the Linux Foundation. The first proposal was </span></span><a href="https://github.com/hyperledger/fabric" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="51f507c13e3c46a2ba01a3e4dd91e0ea" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="ac8410beeeab43338c8432833117ce12"><span data-offset-key="ac8410beeeab43338c8432833117ce12:0">published very recently</span></span></span></a><span key="9ed3df6aeca645bd8a6162a10627b6b9"><span offset-key="9ed3df6aeca645bd8a6162a10627b6b9:0">.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="594b5b85243248a79f63054876c4a268"><span offset-key="594b5b85243248a79f63054876c4a268:0"><span slate-zero-width="z">​</span></span></span><a href="https://erisindustries.com" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8c0b8e8b7225435ba7ee9dc836afd989" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="9d9458b3147b4227a76f017fe0467862"><span data-offset-key="9d9458b3147b4227a76f017fe0467862:0">Eris Industries</span></span></span></a><span key="c6e004c35da04f3c858861ef4f3fe23e"><span offset-key="c6e004c35da04f3c858861ef4f3fe23e:0">: Tools helping to manipulate Ethereum, Bitcoin or totally independent blockchains, mostly to build private networks. Their </span></span><a href="https://docs.erisindustries.com/tutorials/getting-started/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9c87222270ff46bca635fdf69343a1b8" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="5053bd362fe547be90f12075173d211a"><span data-offset-key="5053bd362fe547be90f12075173d211a:0">tutorials</span></span></span></a><span key="eee9c7402c3b43da87220735c1a5d2cb"><span offset-key="eee9c7402c3b43da87220735c1a5d2cb:0"> and </span></span><a href="https://docs.erisindustries.com/explainers/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b0f83d468e8841f89aaf659a200974d4" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="77a79b83dccc4774a46763c2cce631bf"><span data-offset-key="77a79b83dccc4774a46763c2cce631bf:0">explainers</span></span></span></a><span key="5f62dba8026b4a5db69dfc62a3085d9f"><span offset-key="5f62dba8026b4a5db69dfc62a3085d9f:0"> are a great starting point for an overview of the blockchain technology.</span></span>
+  <span key="594b5b85243248a79f63054876c4a268"><span offset-key="594b5b85243248a79f63054876c4a268:0"><span slate-zero-width="z">​</span></span></span><a href="https://erisindustries.com" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8c0b8e8b7225435ba7ee9dc836afd989" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="9d9458b3147b4227a76f017fe0467862"><span data-offset-key="9d9458b3147b4227a76f017fe0467862:0">Eris Industries</span></span></span></a><span key="c6e004c35da04f3c858861ef4f3fe23e"><span offset-key="c6e004c35da04f3c858861ef4f3fe23e:0">: Tools helping to manipulate Ethereum, Bitcoin or totally independent blockchains, mostly to build private networks. Their </span></span><a href="https://docs.erisindustries.com/tutorials/getting-started/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="9c87222270ff46bca635fdf69343a1b8" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="5053bd362fe547be90f12075173d211a"><span data-offset-key="5053bd362fe547be90f12075173d211a:0">tutorials</span></span></span></a><span key="eee9c7402c3b43da87220735c1a5d2cb"><span offset-key="eee9c7402c3b43da87220735c1a5d2cb:0"> and </span></span><a href="https://docs.erisindustries.com/explainers/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="b0f83d468e8841f89aaf659a200974d4" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="77a79b83dccc4774a46763c2cce631bf"><span data-offset-key="77a79b83dccc4774a46763c2cce631bf:0">explainers</span></span></span></a><span key="5f62dba8026b4a5db69dfc62a3085d9f"><span offset-key="5f62dba8026b4a5db69dfc62a3085d9f:0"> are a great starting point for an overview of the blockchain technology.</span></span>
 
 <span key="cae6e6ece98047f298a83411a6e0dea5"><span offset-key="cae6e6ece98047f298a83411a6e0dea5:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.ethereum.org" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="82006c2e57594fc3b6acbe8dba8b54a8" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="139bdf07a6134de1b8160a6cc83bd15c"><span data-offset-key="139bdf07a6134de1b8160a6cc83bd15c:0"><span data-slate-zero-width="z">​</span></span></span><span data-slate-void="true" data-key="f6b65022ed664ee28c5a8ce2c5207f77"><span></span></span></span></a>
 
@@ -1087,17 +1087,17 @@ Solidarity-Blockchain-NFTs
 
 <span key="35a006debf74405d92c34e0da779a059"><span offset-key="35a006debf74405d92c34e0da779a059:0">The maturity of these implementations varies a lot. If you have to build an application now, we'd advise:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="ad9e23519a4e45e495beb84fb5b0c185"><span offset-key="ad9e23519a4e45e495beb84fb5b0c185:0">Eris for a closed Blockchain, or to discover and play with the technology</span></span>
+  <span key="ad9e23519a4e45e495beb84fb5b0c185"><span offset-key="ad9e23519a4e45e495beb84fb5b0c185:0">Eris for a closed Blockchain, or to discover and play with the technology</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="8bb8ca968eb54b5c8a42dfe038f64a76"><span offset-key="8bb8ca968eb54b5c8a42dfe038f64a76:0">Ethereum for a shared Blockchain</span></span>
+  <span key="8bb8ca968eb54b5c8a42dfe038f64a76"><span offset-key="8bb8ca968eb54b5c8a42dfe038f64a76:0">Ethereum for a shared Blockchain</span></span>
 
 <span key="e9b7aa0a827e4d6cbb7fc417bcc46bd9"><span offset-key="e9b7aa0a827e4d6cbb7fc417bcc46bd9:0">Also, Bitcoin isn't a good choice to build an application upon. It was designed for money transactions and nothing else, although you can program pseudo-smart contracts (but you have to love </span></span><a href="https://en.bitcoin.it/wiki/Contract" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d639395bf8f640a880585df74df68f96" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="2a6dd7027fe94a92acf3e0395be8c898"><span data-offset-key="2a6dd7027fe94a92acf3e0395be8c898:0">assembly</span></span></span></a><span key="efab0a9c4dd243b79fe99832a99441bc"><span offset-key="efab0a9c4dd243b79fe99832a99441bc:0">). The network currently </span></span><a href="https://medium.com/@octskyward/the-resolution-of-the-Bitcoin-experiment-dabb30201f7" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="2947fea6c7f446468772608ccca9595b" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="a6e5c70c4cf346c28ee29c5c57eeb7cc"><span data-offset-key="a6e5c70c4cf346c28ee29c5c57eeb7cc:0">suffers a serious growth crisis</span></span></span></a><span key="db12cf8d76b44d7b9d5a48a152904d83"><span offset-key="db12cf8d76b44d7b9d5a48a152904d83:0">, transactions wait in line for up to one hour to get inserted in a block. Miners often select transactions with the highest fees, so money transfers in Bitcoin become more expensive than they are in a Bank. The developer community is at war, and the speculation on the cryptocurrency makes the face value move too much.</span></span>
 
-## 
+##
 
 <span key="b3c31df0f00148c480caec77d226b688"><span offset-key="b3c31df0f00148c480caec77d226b688:0">Numbers</span></span>
 
@@ -1105,75 +1105,75 @@ Solidarity-Blockchain-NFTs
 
 <span key="3fa69e0653c44c218288a11e57262f19"><span offset-key="3fa69e0653c44c218288a11e57262f19:0">Bitcoin:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="33bfd3c7aa9140cda1f696b1ed36e472"><span offset-key="33bfd3c7aa9140cda1f696b1ed36e472:0">Block time: 10 minutes</span></span>
+  <span key="33bfd3c7aa9140cda1f696b1ed36e472"><span offset-key="33bfd3c7aa9140cda1f696b1ed36e472:0">Block time: 10 minutes</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="ffc64054de7d4eefb373d6366d3e4f63"><span offset-key="ffc64054de7d4eefb373d6366d3e4f63:0">Number of bitcoins earned for each mined block: 25</span></span>
+  <span key="ffc64054de7d4eefb373d6366d3e4f63"><span offset-key="ffc64054de7d4eefb373d6366d3e4f63:0">Number of bitcoins earned for each mined block: 25</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="4c8489c7f7ec4c37893bb82ae5cb0dba"><span offset-key="4c8489c7f7ec4c37893bb82ae5cb0dba:0"><span slate-zero-width="z">​</span></span></span><a href="https://blockchain.info" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ed5001bf346748f295c6ea28ecc4ca82" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="103b3d56259c4fce83e727379a1a185e"><span data-offset-key="103b3d56259c4fce83e727379a1a185e:0">Number of blocks mined</span></span></span></a><span key="9ad755ff4901420aad757403e0a953da"><span offset-key="9ad755ff4901420aad757403e0a953da:0">: over 400,000</span></span>
+  <span key="4c8489c7f7ec4c37893bb82ae5cb0dba"><span offset-key="4c8489c7f7ec4c37893bb82ae5cb0dba:0"><span slate-zero-width="z">​</span></span></span><a href="https://blockchain.info" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="ed5001bf346748f295c6ea28ecc4ca82" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="103b3d56259c4fce83e727379a1a185e"><span data-offset-key="103b3d56259c4fce83e727379a1a185e:0">Number of blocks mined</span></span></span></a><span key="9ad755ff4901420aad757403e0a953da"><span offset-key="9ad755ff4901420aad757403e0a953da:0">: over 400,000</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="6706e313782f44faa17f6e7810511441"><span offset-key="6706e313782f44faa17f6e7810511441:0"><span slate-zero-width="z">​</span></span></span><a href="https://blockchain.info/en/charts/n-transactions-per-block" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="424f1dfa4e794198ad5005e0d848651d" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="912b02178bda4d73b2bc90631d5c7dcd"><span data-offset-key="912b02178bda4d73b2bc90631d5c7dcd:0">Number of transactions per block</span></span></span></a><span key="0180f4172f8f447cbf1e1cf2dcc9cab1"><span offset-key="0180f4172f8f447cbf1e1cf2dcc9cab1:0">: over 1,200</span></span>
+  <span key="6706e313782f44faa17f6e7810511441"><span offset-key="6706e313782f44faa17f6e7810511441:0"><span slate-zero-width="z">​</span></span></span><a href="https://blockchain.info/en/charts/n-transactions-per-block" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="424f1dfa4e794198ad5005e0d848651d" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="912b02178bda4d73b2bc90631d5c7dcd"><span data-offset-key="912b02178bda4d73b2bc90631d5c7dcd:0">Number of transactions per block</span></span></span></a><span key="0180f4172f8f447cbf1e1cf2dcc9cab1"><span offset-key="0180f4172f8f447cbf1e1cf2dcc9cab1:0">: over 1,200</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="44f7e7be70ef42c28e5dec104ea3fcd3"><span offset-key="44f7e7be70ef42c28e5dec104ea3fcd3:0"><span slate-zero-width="z">​</span></span></span><a href="https://bitnodes.21.co" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="78bb16a7ac4b42f293b73b9de35d373b" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="e4d2f950f6484460a3b4ca7db106950d"><span data-offset-key="e4d2f950f6484460a3b4ca7db106950d:0">Number of nodes in the network</span></span></span></a><span key="f4238bc51f85471bb879b7383df8af39"><span offset-key="f4238bc51f85471bb879b7383df8af39:0">: ~7000</span></span>
+  <span key="44f7e7be70ef42c28e5dec104ea3fcd3"><span offset-key="44f7e7be70ef42c28e5dec104ea3fcd3:0"><span slate-zero-width="z">​</span></span></span><a href="https://bitnodes.21.co" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="78bb16a7ac4b42f293b73b9de35d373b" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="e4d2f950f6484460a3b4ca7db106950d"><span data-offset-key="e4d2f950f6484460a3b4ca7db106950d:0">Number of nodes in the network</span></span></span></a><span key="f4238bc51f85471bb879b7383df8af39"><span offset-key="f4238bc51f85471bb879b7383df8af39:0">: ~7000</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="265ec70981984fffbe4f0865edb4a66f"><span offset-key="265ec70981984fffbe4f0865edb4a66f:0"><span slate-zero-width="z">​</span></span></span><a href="http://www.coindesk.com/price/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="76ed2ddac697444381e6815849ef34d5" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="c90d2835293f417e85907930658556a0"><span data-offset-key="c90d2835293f417e85907930658556a0:0">Bitcoin value</span></span></span></a><span key="d9ec667350fb4c96941067dc53ef76d4"><span offset-key="d9ec667350fb4c96941067dc53ef76d4:0">: $420</span></span>
+  <span key="265ec70981984fffbe4f0865edb4a66f"><span offset-key="265ec70981984fffbe4f0865edb4a66f:0"><span slate-zero-width="z">​</span></span></span><a href="http://www.coindesk.com/price/" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="76ed2ddac697444381e6815849ef34d5" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="c90d2835293f417e85907930658556a0"><span data-offset-key="c90d2835293f417e85907930658556a0:0">Bitcoin value</span></span></span></a><span key="d9ec667350fb4c96941067dc53ef76d4"><span offset-key="d9ec667350fb4c96941067dc53ef76d4:0">: $420</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="726e384d3f88412b9b2810bd7073b496"><span offset-key="726e384d3f88412b9b2810bd7073b496:0"><span slate-zero-width="z">​</span></span></span><a href="https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7#.by0blzsmz" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d726efde3fb04f5696c6af96eed3137a" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="41be5025e117427fa5e10bd4c9ea4e2d"><span data-offset-key="41be5025e117427fa5e10bd4c9ea4e2d:0">Most of the computing power is said to be concentrated in China</span></span></span></a><span key="84a170160bc24984b7122c6d7830d4c7"><span offset-key="84a170160bc24984b7122c6d7830d4c7:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="726e384d3f88412b9b2810bd7073b496"><span offset-key="726e384d3f88412b9b2810bd7073b496:0"><span slate-zero-width="z">​</span></span></span><a href="https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7#.by0blzsmz" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d726efde3fb04f5696c6af96eed3137a" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="41be5025e117427fa5e10bd4c9ea4e2d"><span data-offset-key="41be5025e117427fa5e10bd4c9ea4e2d:0">Most of the computing power is said to be concentrated in China</span></span></span></a><span key="84a170160bc24984b7122c6d7830d4c7"><span offset-key="84a170160bc24984b7122c6d7830d4c7:0"><span slate-zero-width="z">​</span></span></span>
 
 <span key="6bda6c61f06040a49b21799d99161720"><span offset-key="6bda6c61f06040a49b21799d99161720:0">Ethereum:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="86793708781d4958b498663fe1884c22"><span offset-key="86793708781d4958b498663fe1884c22:0">Block time: 10 seconds</span></span>
+  <span key="86793708781d4958b498663fe1884c22"><span offset-key="86793708781d4958b498663fe1884c22:0">Block time: 10 seconds</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="d06bb94c2cb54efdb69b179f0e3d2d46"><span offset-key="d06bb94c2cb54efdb69b179f0e3d2d46:0">Number of Ether earned for each mined block: 5</span></span>
+  <span key="d06bb94c2cb54efdb69b179f0e3d2d46"><span offset-key="d06bb94c2cb54efdb69b179f0e3d2d46:0">Number of Ether earned for each mined block: 5</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="b16079c08de243e5a73eb3c56c2ee6ab"><span offset-key="b16079c08de243e5a73eb3c56c2ee6ab:0"><span slate-zero-width="z">​</span></span></span><a href="https://ethstats.net" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="aff8b2c726b64a4ea07a95346cd10381" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="0cd4ce6266dd4d27ad888ac93381a7b4"><span data-offset-key="0cd4ce6266dd4d27ad888ac93381a7b4:0">Number of blocks mined</span></span></span></a><span key="f005eda6e86f4bae9f4557efa5a6a482"><span offset-key="f005eda6e86f4bae9f4557efa5a6a482:0">: more than 1,400,000</span></span>
+  <span key="b16079c08de243e5a73eb3c56c2ee6ab"><span offset-key="b16079c08de243e5a73eb3c56c2ee6ab:0"><span slate-zero-width="z">​</span></span></span><a href="https://ethstats.net" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="aff8b2c726b64a4ea07a95346cd10381" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="0cd4ce6266dd4d27ad888ac93381a7b4"><span data-offset-key="0cd4ce6266dd4d27ad888ac93381a7b4:0">Number of blocks mined</span></span></span></a><span key="f005eda6e86f4bae9f4557efa5a6a482"><span offset-key="f005eda6e86f4bae9f4557efa5a6a482:0">: more than 1,400,000</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="65af3fbc519b4305b7f4c1030d88cc64"><span offset-key="65af3fbc519b4305b7f4c1030d88cc64:0"><span slate-zero-width="z">​</span></span></span><a href="https://stats.etherchain.org/dashboard/db/transactions?theme=light" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="37704f7e5e78444c9c643d806746a7a2" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="4d6f213b11d74584b3e2b1607108d0f1"><span data-offset-key="4d6f213b11d74584b3e2b1607108d0f1:0">Number of transactions per day</span></span></span></a><span key="6001ff1120314401ad7eeadfce62f66c"><span offset-key="6001ff1120314401ad7eeadfce62f66c:0">: over 30,000</span></span>
+  <span key="65af3fbc519b4305b7f4c1030d88cc64"><span offset-key="65af3fbc519b4305b7f4c1030d88cc64:0"><span slate-zero-width="z">​</span></span></span><a href="https://stats.etherchain.org/dashboard/db/transactions?theme=light" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="37704f7e5e78444c9c643d806746a7a2" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="4d6f213b11d74584b3e2b1607108d0f1"><span data-offset-key="4d6f213b11d74584b3e2b1607108d0f1:0">Number of transactions per day</span></span></span></a><span key="6001ff1120314401ad7eeadfce62f66c"><span offset-key="6001ff1120314401ad7eeadfce62f66c:0">: over 30,000</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="a281bf37b339474495e571ae5cf61f83"><span offset-key="a281bf37b339474495e571ae5cf61f83:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.ethernodes.org/network/1" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="74eaeeff33214471b96c9f6e3efe82c6" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="758b5d59b2fd48d1b502216d8ad4edcd"><span data-offset-key="758b5d59b2fd48d1b502216d8ad4edcd:0">Number of nodes in the network</span></span></span></a><span key="ab3b29aba9754945832aabd999400509"><span offset-key="ab3b29aba9754945832aabd999400509:0">: over 6,000</span></span>
+  <span key="a281bf37b339474495e571ae5cf61f83"><span offset-key="a281bf37b339474495e571ae5cf61f83:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.ethernodes.org/network/1" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="74eaeeff33214471b96c9f6e3efe82c6" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="758b5d59b2fd48d1b502216d8ad4edcd"><span data-offset-key="758b5d59b2fd48d1b502216d8ad4edcd:0">Number of nodes in the network</span></span></span></a><span key="ab3b29aba9754945832aabd999400509"><span offset-key="ab3b29aba9754945832aabd999400509:0">: over 6,000</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="0f3c7c12fb7e4793bc9afc650826055c"><span offset-key="0f3c7c12fb7e4793bc9afc650826055c:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.etherchain.org" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="052f6476f53b49cf88686d74d3f310da" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="bb8ad9a4876649d2ac05de267ebdcbf1"><span data-offset-key="bb8ad9a4876649d2ac05de267ebdcbf1:0">Ether value</span></span></span></a><span key="ddc347b65b5a4426bd506fc8b648daf4"><span offset-key="ddc347b65b5a4426bd506fc8b648daf4:0">: around $10, but it varies a lot.</span></span>
+  <span key="0f3c7c12fb7e4793bc9afc650826055c"><span offset-key="0f3c7c12fb7e4793bc9afc650826055c:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.etherchain.org" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="052f6476f53b49cf88686d74d3f310da" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="bb8ad9a4876649d2ac05de267ebdcbf1"><span data-offset-key="bb8ad9a4876649d2ac05de267ebdcbf1:0">Ether value</span></span></span></a><span key="ddc347b65b5a4426bd506fc8b648daf4"><span offset-key="ddc347b65b5a4426bd506fc8b648daf4:0">: around $10, but it varies a lot.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="ba1b1935124a4c65bb8ec98a3827138f"><span offset-key="ba1b1935124a4c65bb8ec98a3827138f:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.etherchain.org/statistics/miners" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="97d173a042ae44f99211e1491c8989d0" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="98f966e322b649f6a250c76fff29142d"><span data-offset-key="98f966e322b649f6a250c76fff29142d:0">Most of the computing power is said to be concentrated by a miner pool called "Dwarfpool"</span></span></span></a><span key="f356948fd0d0422eb6a2969e6e467e67"><span offset-key="f356948fd0d0422eb6a2969e6e467e67:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="ba1b1935124a4c65bb8ec98a3827138f"><span offset-key="ba1b1935124a4c65bb8ec98a3827138f:0"><span slate-zero-width="z">​</span></span></span><a href="https://www.etherchain.org/statistics/miners" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="97d173a042ae44f99211e1491c8989d0" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="98f966e322b649f6a250c76fff29142d"><span data-offset-key="98f966e322b649f6a250c76fff29142d:0">Most of the computing power is said to be concentrated by a miner pool called "Dwarfpool"</span></span></span></a><span key="f356948fd0d0422eb6a2969e6e467e67"><span offset-key="f356948fd0d0422eb6a2969e6e467e67:0"><span slate-zero-width="z">​</span></span></span>
 
 <img src="https://marmelab.com/images/blog/ethstats.png" class="css-9pa8cd" draggable="false" />
 
 <span key="8145ad8d28844c0882dddfaf873d4c3d"><span offset-key="8145ad8d28844c0882dddfaf873d4c3d:0">Ethereum stats</span></span>
 
-## 
+##
 
 <span key="2c10989bc9b94c068eb8d296bb7f661a"><span offset-key="2c10989bc9b94c068eb8d296bb7f661a:0"><span slate-zero-width="z">​</span></span></span><a href="https://ethstats.net" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="504936bdbde1443f985a0a2dc97e3495" data-rnw-int-class="nearest_260-7083_262-7084-240__"><span data-key="ebb324c8151b40b58753e79b28cd7e5a"><span data-offset-key="ebb324c8151b40b58753e79b28cd7e5a:0">https://ethstats.net/</span></span></span></a><span key="5c9bc4b1e3b64ffbabf967e11fd0a8c0"><span offset-key="5c9bc4b1e3b64ffbabf967e11fd0a8c0:0"><span slate-zero-width="z">​</span></span></span>
 
 Ethereum Network Status
 
-## 
+##
 
 <span key="3e8f3decd6db4d9da250ecd9905ace68"><span offset-key="3e8f3decd6db4d9da250ecd9905ace68:0">Conclusion</span></span>
 

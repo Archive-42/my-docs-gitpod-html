@@ -114,7 +114,7 @@ Advanced
 
 Advanced
 
-MY\_DOCS
+MY_DOCS
 
 <a href="/my-docs/v/mynotes/my_docs/docs" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -186,7 +186,7 @@ Powered By <span class="css-901oao css-16my406 r-b88u0q">GitBook</span>
 
 index
 
-# 
+#
 
 <span key="c9788b4d5c3542f5a30ab8f07bd19aee"><span offset-key="c9788b4d5c3542f5a30ab8f07bd19aee:0">Website:</span></span>
 
@@ -196,7 +196,7 @@ React
 
 <span key="83a19d0121564cdfa23aa0be9e944208"><span offset-key="83a19d0121564cdfa23aa0be9e944208:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="7436a8721d6a469da344677489a47ada"><span offset-key="7436a8721d6a469da344677489a47ada:0">Repo</span></span>
 

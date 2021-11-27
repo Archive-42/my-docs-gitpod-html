@@ -72,13 +72,13 @@ Powered By <span class="css-901oao css-16my406 r-b88u0q">GitBook</span>
 
 Initial page
 
-# 
+#
 
 <span key="9b277ee498fc4c5dbcf7eec5e30dbad0"><span offset-key="9b277ee498fc4c5dbcf7eec5e30dbad0:0">Test Dirven Development:</span></span>
 
 <img src="https://github.com/bgoonz/gitbook-embeds/blob/master/broken-reference" class="css-9pa8cd" draggable="false" />
 
-# 
+#
 
 <span key="75a22297770946828d245ddb56f00a84"><span offset-key="75a22297770946828d245ddb56f00a84:0">Overview</span></span>
 
@@ -110,41 +110,41 @@ Initial page
 
 <span key="e389239c3aaf43b8bab4a10912d2995b"><span offset-key="e389239c3aaf43b8bab4a10912d2995b:0">There are nine types of built-in error objects in JavaScript, which are the foundation for exception handling:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="8adf2e2568054567a6daf9ef80bafe14"><span offset-key="8adf2e2568054567a6daf9ef80bafe14:0">Error --- represents generic exceptions. It is most often used for implementing user-defined exceptions.</span></span>
+  <span key="8adf2e2568054567a6daf9ef80bafe14"><span offset-key="8adf2e2568054567a6daf9ef80bafe14:0">Error --- represents generic exceptions. It is most often used for implementing user-defined exceptions.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="8dabfb87ff344002b691cac36997b452"><span offset-key="8dabfb87ff344002b691cac36997b452:0">EvalError --- occurs when the </span>`eval()`<span offset-key="8dabfb87ff344002b691cac36997b452:2"> function is used improperly.</span></span>
+  <span key="8dabfb87ff344002b691cac36997b452"><span offset-key="8dabfb87ff344002b691cac36997b452:0">EvalError --- occurs when the </span>`eval()`<span offset-key="8dabfb87ff344002b691cac36997b452:2"> function is used improperly.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="c5376fe8b76b444c93367f0c223aa314"><span offset-key="c5376fe8b76b444c93367f0c223aa314:0">RangeError --- used for errors that occur when a numeric variable or parameter is outside of its valid range.</span></span>
+  <span key="c5376fe8b76b444c93367f0c223aa314"><span offset-key="c5376fe8b76b444c93367f0c223aa314:0">RangeError --- used for errors that occur when a numeric variable or parameter is outside of its valid range.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="2a29bec93b8a432ca05bc4e23813b555"><span offset-key="2a29bec93b8a432ca05bc4e23813b555:0">ReferenceError --- occurs when a non-existent variable is accessed.</span></span>
+  <span key="2a29bec93b8a432ca05bc4e23813b555"><span offset-key="2a29bec93b8a432ca05bc4e23813b555:0">ReferenceError --- occurs when a non-existent variable is accessed.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="1aa83c829efb45e5b969b1014235b73e"><span offset-key="1aa83c829efb45e5b969b1014235b73e:0">SyntaxError --- occurs when the JavaScript language rules are broken. For static-typed languages, this happens during compilation time. In JavaScript, it happens during runtime.</span></span>
+  <span key="1aa83c829efb45e5b969b1014235b73e"><span offset-key="1aa83c829efb45e5b969b1014235b73e:0">SyntaxError --- occurs when the JavaScript language rules are broken. For static-typed languages, this happens during compilation time. In JavaScript, it happens during runtime.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="ada5c2631edd43968e1ecefdad043e1b"><span offset-key="ada5c2631edd43968e1ecefdad043e1b:0">TypeError --- occurs when a value does not match the expected type. Calling a non-existent object method is a common cause of this type of exception.</span></span>
+  <span key="ada5c2631edd43968e1ecefdad043e1b"><span offset-key="ada5c2631edd43968e1ecefdad043e1b:0">TypeError --- occurs when a value does not match the expected type. Calling a non-existent object method is a common cause of this type of exception.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="6ce5e74342c34855857c6277d52fca16"><span offset-key="6ce5e74342c34855857c6277d52fca16:0">URIError --- occurs when </span>`encodeURI()`<span offset-key="6ce5e74342c34855857c6277d52fca16:2"> and </span>`decodeURI()`<span offset-key="6ce5e74342c34855857c6277d52fca16:4"> encounter a malformed URI.</span></span>
+  <span key="6ce5e74342c34855857c6277d52fca16"><span offset-key="6ce5e74342c34855857c6277d52fca16:0">URIError --- occurs when </span>`encodeURI()`<span offset-key="6ce5e74342c34855857c6277d52fca16:2"> and </span>`decodeURI()`<span offset-key="6ce5e74342c34855857c6277d52fca16:4"> encounter a malformed URI.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="d7e8381aaae64cdd89037316624fccda"><span offset-key="d7e8381aaae64cdd89037316624fccda:0">AggregateError --- when multiple errors need to be reported by an operation, for example by </span>`Promise.any()`<span offset-key="d7e8381aaae64cdd89037316624fccda:2">.</span></span>
+  <span key="d7e8381aaae64cdd89037316624fccda"><span offset-key="d7e8381aaae64cdd89037316624fccda:0">AggregateError --- when multiple errors need to be reported by an operation, for example by </span>`Promise.any()`<span offset-key="d7e8381aaae64cdd89037316624fccda:2">.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="b2b633e9292743669f4aa2c2254b204d"><span offset-key="b2b633e9292743669f4aa2c2254b204d:0">InternalError --- occurs when an internal error in the JavaScript engine is thrown. E.g. "too much recursion". This API is not standardized at the moment of writing this article.</span></span>
+  <span key="b2b633e9292743669f4aa2c2254b204d"><span offset-key="b2b633e9292743669f4aa2c2254b204d:0">InternalError --- occurs when an internal error in the JavaScript engine is thrown. E.g. "too much recursion". This API is not standardized at the moment of writing this article.</span></span>
 
 <span key="e23c2b67ca7c45d89bd63901c6e675f9"><span offset-key="e23c2b67ca7c45d89bd63901c6e675f9:0">You can also define custom error types by inheriting some of the built-in error types.</span></span>
 
@@ -168,7 +168,7 @@ Initial page
 
 <span key="bca67f7ed56c45ee8923f0c065023bb3"><span offset-key="bca67f7ed56c45ee8923f0c065023bb3:0">Now we will see how to make sure that exceptions don't crash our apps.</span></span>
 
-## 
+##
 
 <span key="3adb09ce12f24d41a724753381170831"><span offset-key="3adb09ce12f24d41a724753381170831:0">The "try" Clause</span></span>
 
@@ -178,7 +178,7 @@ Initial page
 
 <span key="ae5b0b9a837b470c9076d257e2814021"><span offset-key="ae5b0b9a837b470c9076d257e2814021:0">The </span>`try`<span offset-key="ae5b0b9a837b470c9076d257e2814021:2"> clause is mandatory and wraps a block of code that potentially can throw an error.</span></span>
 
-## 
+##
 
 <span key="a5b55cf817d744109abb7bf9fb9d6c8a"><span offset-key="a5b55cf817d744109abb7bf9fb9d6c8a:0">The "catch" Clause</span></span>
 
@@ -192,7 +192,7 @@ Initial page
 
 <span key="d3b02a97778449a0959f36ea2bbcfd7a"><span offset-key="d3b02a97778449a0959f36ea2bbcfd7a:0">It's a valid case to re-</span>`throw`<span offset-key="d3b02a97778449a0959f36ea2bbcfd7a:2"> an exception that has been caught. For example, if you catch an exception, the type of which is not relevant to you in this context.</span></span>
 
-## 
+##
 
 <span key="4c16e6b916184391bc59e32e63be5674"><span offset-key="4c16e6b916184391bc59e32e63be5674:0">The "finally" Clause</span></span>
 
@@ -556,7 +556,7 @@ Copied!
 
 <span key="aaba66691b864e459955c8a3ef5c71b2"><span offset-key="aaba66691b864e459955c8a3ef5c71b2:0">We won't go into detail about the </span></span><a href="https://blog.sessionstack.com/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with-2f077c4438b5" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="d186788ebd884bcdb885a4d7a65ee67f" data-rnw-int-class="nearest_260-2678_262-2679-240__"><span data-key="abfaf911a1a8440fb2e6b9c6ddc8c560"><span data-offset-key="abfaf911a1a8440fb2e6b9c6ddc8c560:0">internals of async programming in JavaScript</span></span></span></a><span key="00fa818063e745cdbf886b2720890f8f"><span offset-key="00fa818063e745cdbf886b2720890f8f:0"> here, but we will see how handling exceptions is done with "callback functions", "promises", and "async/await".</span></span>
 
-## 
+##
 
 <span key="076cdc12e6f64b828f7869ab54ac5dbc"><span offset-key="076cdc12e6f64b828f7869ab54ac5dbc:0">async/await</span></span>
 
@@ -572,7 +572,7 @@ Copied!
 
 <span key="e15126b7be3f4e33bb94e9fc4c58dc8d"><span offset-key="e15126b7be3f4e33bb94e9fc4c58dc8d:0">This can be handled by just adding the </span>`await`<span offset-key="e15126b7be3f4e33bb94e9fc4c58dc8d:2"> keyword when invoking </span>`foo()`<span offset-key="e15126b7be3f4e33bb94e9fc4c58dc8d:4"> and wrapping the code in an </span>`async`<span offset-key="e15126b7be3f4e33bb94e9fc4c58dc8d:6"> function:</span></span>
 
-## 
+##
 
 <span key="c63a640d724e4558b4b7d388b3f09fe0"><span offset-key="c63a640d724e4558b4b7d388b3f09fe0:0">Promises</span></span>
 
@@ -592,7 +592,7 @@ Copied!
 
 <span key="1298636d63874803aeaf0333d6bc59ef"><span offset-key="1298636d63874803aeaf0333d6bc59ef:0">If there is no </span>`catch`<span offset-key="1298636d63874803aeaf0333d6bc59ef:2"> method to handle the error inside the </span>`Promise`<span offset-key="1298636d63874803aeaf0333d6bc59ef:4">, the next function from the callback queue will be added to the stack.</span></span>
 
-## 
+##
 
 <span key="937bae925ed542a6be9f52eb133043a7"><span offset-key="937bae925ed542a6be9f52eb133043a7:0">Callback Functions</span></span>
 
@@ -612,7 +612,7 @@ Copied!
 
 <span key="4754b0457040411a8b7fa3c245c2a69c"><span offset-key="4754b0457040411a8b7fa3c245c2a69c:0">If your application uses third-party libraries, you have no control over how they deal with exceptions. There are cases when you might want to be able to deal with unhandled exceptions.</span></span>
 
-## 
+##
 
 <span key="00e8c592104a45248812e34932e21c2c"><span offset-key="00e8c592104a45248812e34932e21c2c:0">Browser</span></span>
 
@@ -622,25 +622,25 @@ Copied!
 
 <span key="ec21460a380344498f9f38454c72aeb6"><span offset-key="ec21460a380344498f9f38454c72aeb6:0">This is what the arguments mean:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="fcf9ca8388264d15a2c18772bef87193"><span offset-key="fcf9ca8388264d15a2c18772bef87193:0">msg --- The message associated with the error, e.g. </span>`Uncaught ReferenceError: foo is not defined`<span offset-key="fcf9ca8388264d15a2c18772bef87193:2">.</span></span>
+  <span key="fcf9ca8388264d15a2c18772bef87193"><span offset-key="fcf9ca8388264d15a2c18772bef87193:0">msg --- The message associated with the error, e.g. </span>`Uncaught ReferenceError: foo is not defined`<span offset-key="fcf9ca8388264d15a2c18772bef87193:2">.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="c204bbc3f1c74989987237a86c62e692"><span offset-key="c204bbc3f1c74989987237a86c62e692:0">url --- The URL of the script or document associated with the error.</span></span>
+  <span key="c204bbc3f1c74989987237a86c62e692"><span offset-key="c204bbc3f1c74989987237a86c62e692:0">url --- The URL of the script or document associated with the error.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="46022bd95bb84895b6175b426fceeb10"><span offset-key="46022bd95bb84895b6175b426fceeb10:0">lineNo --- The line number (if available).</span></span>
+  <span key="46022bd95bb84895b6175b426fceeb10"><span offset-key="46022bd95bb84895b6175b426fceeb10:0">lineNo --- The line number (if available).</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="bd3375ffc2f74ff1be44f33e78b84919"><span offset-key="bd3375ffc2f74ff1be44f33e78b84919:0">columnNo --- The column number (if available).</span></span>
+  <span key="bd3375ffc2f74ff1be44f33e78b84919"><span offset-key="bd3375ffc2f74ff1be44f33e78b84919:0">columnNo --- The column number (if available).</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="db287880968446eb8dcc085f1d4cae1f"><span offset-key="db287880968446eb8dcc085f1d4cae1f:0">err --- The Error object associated with this error (if available).</span></span>
+  <span key="db287880968446eb8dcc085f1d4cae1f"><span offset-key="db287880968446eb8dcc085f1d4cae1f:0">err --- The Error object associated with this error (if available).</span></span>
 
 <span key="4cae9c482cec4cb7b8a4fffd0916cd9d"><span offset-key="4cae9c482cec4cb7b8a4fffd0916cd9d:0">When the function returns true, this prevents the firing of the default event handler.</span></span>
 
@@ -658,7 +658,7 @@ Copied!
 
 <span key="63e44711ea2b417c80b5cdbe6fb84089"><span offset-key="63e44711ea2b417c80b5cdbe6fb84089:0">This approach is much better, and also widely supported (from IE9 onwards).</span></span>
 
-## 
+##
 
 <span key="02f6c6cd27004e52bfdd8a687cadf574"><span offset-key="02f6c6cd27004e52bfdd8a687cadf574:0">Node.js</span></span>
 
@@ -676,82 +676,82 @@ Copied!
 
 <span key="ecaa38d0e6e548418677b31dda6da092"><span offset-key="ecaa38d0e6e548418677b31dda6da092:0">SessionStack is a solution that lets you replay JavaScript errors as if they happened in your browser. You can visually replay the exact user steps that led to the error, see the device, resolution, network, and all of the data that might be needed to connect the dots.</span></span>
 
-# 
+#
 
 <span key="7fb9770fb14841a39b4fea14b7901406">**Flashcards**</span>
 
-## 
+##
 
 <span key="3d78086063bb474c90ae0d5dda46be85">**Asynchronous**</span>
 
 <span key="06f6ba73be404d7c96fec30742420957">**1. What are the arguments that the** **`setTimeout`** **and** **`setInterval`** **methods can accept?**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="e24d8f90ffd6480ea9ca492c072573be"><span offset-key="e24d8f90ffd6480ea9ca492c072573be:0"><span slate-zero-width="n">​</span></span></span>
+  <span key="e24d8f90ffd6480ea9ca492c072573be"><span offset-key="e24d8f90ffd6480ea9ca492c072573be:0"><span slate-zero-width="n">​</span></span></span>
 
-    1.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">1.</span>
-        <span key="a000b7fdd51740319be799988d9ca1c1"><span offset-key="a000b7fdd51740319be799988d9ca1c1:0">a callback function</span></span>
+  1.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">1.</span>
+      <span key="a000b7fdd51740319be799988d9ca1c1"><span offset-key="a000b7fdd51740319be799988d9ca1c1:0">a callback function</span></span>
 
-    2.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">2.</span>
-        <span key="13cb5b491ebd475fa3e7fba252748d0f"><span offset-key="13cb5b491ebd475fa3e7fba252748d0f:0">a delay time in milliseconds</span></span>
+  2.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">2.</span>
+      <span key="13cb5b491ebd475fa3e7fba252748d0f"><span offset-key="13cb5b491ebd475fa3e7fba252748d0f:0">a delay time in milliseconds</span></span>
 
-    3.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">3.</span>
-        <span key="d56b069b29424b579aaaa0d63d4a6509"><span offset-key="d56b069b29424b579aaaa0d63d4a6509:0">any number of additional arguments to be passed to the callback</span></span>
+  3.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">3.</span>
+      <span key="d56b069b29424b579aaaa0d63d4a6509"><span offset-key="d56b069b29424b579aaaa0d63d4a6509:0">any number of additional arguments to be passed to the callback</span></span>
 
 <span key="800e9c5c89fb4ca59b8765e42920a2df">**2. What does the** **`setTimeout`** **method return in the Node environment?**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="b8f3520a08d847e3adad6ee266c2d059"><span offset-key="b8f3520a08d847e3adad6ee266c2d059:0">The </span>`setTimeout`<span offset-key="b8f3520a08d847e3adad6ee266c2d059:2"> method returns a Timeout object that can be passed to </span>`clearTimeout`<span offset-key="b8f3520a08d847e3adad6ee266c2d059:4"> to cancel the timeout.</span></span>
+  <span key="b8f3520a08d847e3adad6ee266c2d059"><span offset-key="b8f3520a08d847e3adad6ee266c2d059:0">The </span>`setTimeout`<span offset-key="b8f3520a08d847e3adad6ee266c2d059:2"> method returns a Timeout object that can be passed to </span>`clearTimeout`<span offset-key="b8f3520a08d847e3adad6ee266c2d059:4"> to cancel the timeout.</span></span>
 
 <span key="2bc2c457109f4a459cf0ccb79df4e6c3">**3. What does the** **`setTimeout`** **method return in the browser environment?**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="56e80c43def54b0b992f80e69801f7d8"><span offset-key="56e80c43def54b0b992f80e69801f7d8:0">The </span>`setTimeout`<span offset-key="56e80c43def54b0b992f80e69801f7d8:2"> method returns a number representing the unique ID associated with that timeout. The ID number can be passed to </span>`clearTimeout`<span offset-key="56e80c43def54b0b992f80e69801f7d8:4"> to cancel the callback from running.</span></span>
+  <span key="56e80c43def54b0b992f80e69801f7d8"><span offset-key="56e80c43def54b0b992f80e69801f7d8:0">The </span>`setTimeout`<span offset-key="56e80c43def54b0b992f80e69801f7d8:2"> method returns a number representing the unique ID associated with that timeout. The ID number can be passed to </span>`clearTimeout`<span offset-key="56e80c43def54b0b992f80e69801f7d8:4"> to cancel the callback from running.</span></span>
 
 <span key="b1b46cecdc134d4bb8a7bae74d1dbda7">**4. Is JavaScript single-threaded or multi-threaded?**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="ae6812203d0545a6bbb3d95816af006f"><span offset-key="ae6812203d0545a6bbb3d95816af006f:0">Single-threaded.</span></span>
+  <span key="ae6812203d0545a6bbb3d95816af006f"><span offset-key="ae6812203d0545a6bbb3d95816af006f:0">Single-threaded.</span></span>
 
 <span key="8b7c0acbb488483a91d3c0f3e7ef2262">**5. What is the difference between single-threaded and multi-threaded execution?**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="a3c2285bb1a54173b82548932d3a301c"><span offset-key="a3c2285bb1a54173b82548932d3a301c:0">Single-threaded execution means that only one command can be processed at a time. In multi-threaded execution, more than one command can be processed at a time.</span></span>
+  <span key="a3c2285bb1a54173b82548932d3a301c"><span offset-key="a3c2285bb1a54173b82548932d3a301c:0">Single-threaded execution means that only one command can be processed at a time. In multi-threaded execution, more than one command can be processed at a time.</span></span>
 
 <span key="e6f0642f7cf04c8a8adebd13ae603932">**6. What are the two main data structures that comprise JavaScript's event loop?**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="1e71f77ce15249069a9b4c00bdf557f5"><span offset-key="1e71f77ce15249069a9b4c00bdf557f5:0">The call stack and event queue.</span></span>
+  <span key="1e71f77ce15249069a9b4c00bdf557f5"><span offset-key="1e71f77ce15249069a9b4c00bdf557f5:0">The call stack and event queue.</span></span>
 
 <span key="001604831a1d45539145a60effb7f078">**7. When a function is called, what occurs on the call stack?**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="3cba355004684138bfa2170711429e9e"><span offset-key="3cba355004684138bfa2170711429e9e:0">A new stack frame that corresponds to that function call is pushed to the top of the stack.</span></span>
+  <span key="3cba355004684138bfa2170711429e9e"><span offset-key="3cba355004684138bfa2170711429e9e:0">A new stack frame that corresponds to that function call is pushed to the top of the stack.</span></span>
 
 <span key="56e24829715643f382a9adc9080ec237">**8. When a function returns, what occurs on the call stack?**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="7d8aa5063b294df5a6c18ba345d95995"><span offset-key="7d8aa5063b294df5a6c18ba345d95995:0">The stack frame on top will be popped from the stack.</span></span>
+  <span key="7d8aa5063b294df5a6c18ba345d95995"><span offset-key="7d8aa5063b294df5a6c18ba345d95995:0">The stack frame on top will be popped from the stack.</span></span>
 
 <span key="d9f22a8a766d44b3994e26b3e6d5afd4">**9. In the JavaScript event loop, what is the message queue used for?**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="3aab43883f1040949d2b24bc86a61521"><span offset-key="3aab43883f1040949d2b24bc86a61521:0">The message queue is used to track events that have occured but cannot be processed yet because the stack is already busy processing other commands. Once the stack is available, the "message" or event handler that is at the front of the queue will be moved to the stack for evaluation.</span></span>
+  <span key="3aab43883f1040949d2b24bc86a61521"><span offset-key="3aab43883f1040949d2b24bc86a61521:0">The message queue is used to track events that have occured but cannot be processed yet because the stack is already busy processing other commands. Once the stack is available, the "message" or event handler that is at the front of the queue will be moved to the stack for evaluation.</span></span>
 
 <span key="c2c5a1dc48d94f64910378f3bd31baf5">**10. When an event triggers, what occurs in the JavaScript runtime's message queue?**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="ba0281c5214d4a8c826d21533a4755b7"><span offset-key="ba0281c5214d4a8c826d21533a4755b7:0">A new message that corresponds to that event is enqueued (added to the back of the queue).</span></span>
+  <span key="ba0281c5214d4a8c826d21533a4755b7"><span offset-key="ba0281c5214d4a8c826d21533a4755b7:0">A new message that corresponds to that event is enqueued (added to the back of the queue).</span></span>
 
 <span key="3974f851ce204dd59fcdc38a1d39e07c">**11. In what order will the following code print to the console?**</span>
 
@@ -787,25 +787,25 @@ Copied!
 
 Copied!
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="68a6f1c0abc045479d4938e1342a33f9"><span offset-key="68a6f1c0abc045479d4938e1342a33f9:0">first third second</span></span>
+  <span key="68a6f1c0abc045479d4938e1342a33f9"><span offset-key="68a6f1c0abc045479d4938e1342a33f9:0">first third second</span></span>
 
 <span key="2f4e50358f7a472893805e68063174fd">**12. What must occur for items to be dequeued (removed) from the JavaScript runtime's message queue?**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="f89bc3df10554e489213afe574826061"><span offset-key="f89bc3df10554e489213afe574826061:0">The call stack must become empty. This happens when current task is finished executing.</span></span>
+  <span key="f89bc3df10554e489213afe574826061"><span offset-key="f89bc3df10554e489213afe574826061:0">The call stack must become empty. This happens when current task is finished executing.</span></span>
 
 <span key="46447f2573154009826891587142fd5d">**13. What is the difference between synchronous and asynchronous code?**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="cd557d187901425392da4cdeb8784462"><span offset-key="cd557d187901425392da4cdeb8784462:0">In synchronous code, the commands execute one after the other in order. This means that completion of a "slow" function will block execution of further functions. In asynchronous code, the commands are not guaranteed to occur one after the other; an asynchronous function will not block execution of further functions.</span></span>
+  <span key="cd557d187901425392da4cdeb8784462"><span offset-key="cd557d187901425392da4cdeb8784462:0">In synchronous code, the commands execute one after the other in order. This means that completion of a "slow" function will block execution of further functions. In asynchronous code, the commands are not guaranteed to occur one after the other; an asynchronous function will not block execution of further functions.</span></span>
 
 <span key="679ecc11f06747baa67d697d00e9a2b1"><span offset-key="679ecc11f06747baa67d697d00e9a2b1:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="dc3c4f9989ae4585a9e6919569011c9e"><span offset-key="dc3c4f9989ae4585a9e6919569011c9e:0">Fundamentals of Testing in Javascript</span></span>
 
@@ -813,31 +813,31 @@ Copied!
 
 <span key="8007024606d947199767f799aee90121">**Table of Contents**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="f0f9695ae1cd4803aba27988fa47026e"><span offset-key="f0f9695ae1cd4803aba27988fa47026e:0">1. Throw an Error with a Simple Test in JavaScript</span></span>
+  <span key="f0f9695ae1cd4803aba27988fa47026e"><span offset-key="f0f9695ae1cd4803aba27988fa47026e:0">1. Throw an Error with a Simple Test in JavaScript</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="8cfcff461ec3407d95c2a6ec5827f9cb"><span offset-key="8cfcff461ec3407d95c2a6ec5827f9cb:0">2. Abstract Test Assertions into a JavaScript Assertion Library</span></span>
+  <span key="8cfcff461ec3407d95c2a6ec5827f9cb"><span offset-key="8cfcff461ec3407d95c2a6ec5827f9cb:0">2. Abstract Test Assertions into a JavaScript Assertion Library</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="67f9eb5522804f49ab9913d358568a21"><span offset-key="67f9eb5522804f49ab9913d358568a21:0">3. Encapsulate and Isolate Tests by building a JavaScript Testing Framework</span></span>
+  <span key="67f9eb5522804f49ab9913d358568a21"><span offset-key="67f9eb5522804f49ab9913d358568a21:0">3. Encapsulate and Isolate Tests by building a JavaScript Testing Framework</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="4bfd51d9ed72499f8b7cf3120ce2f59c"><span offset-key="4bfd51d9ed72499f8b7cf3120ce2f59c:0">4. Support Async Tests with JavaScripts Promises through async await</span></span>
+  <span key="4bfd51d9ed72499f8b7cf3120ce2f59c"><span offset-key="4bfd51d9ed72499f8b7cf3120ce2f59c:0">4. Support Async Tests with JavaScripts Promises through async await</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="fd0767916b5f49aa810d7cbf4a30fbee"><span offset-key="fd0767916b5f49aa810d7cbf4a30fbee:0">5. Provide Testing Helper Functions as Globals in JavaScript</span></span>
+  <span key="fd0767916b5f49aa810d7cbf4a30fbee"><span offset-key="fd0767916b5f49aa810d7cbf4a30fbee:0">5. Provide Testing Helper Functions as Globals in JavaScript</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="fecd0f33cce34d3c9951551cee7d491d"><span offset-key="fecd0f33cce34d3c9951551cee7d491d:0">6. Verify Custom JavaScript Tests with Jest</span></span>
+  <span key="fecd0f33cce34d3c9951551cee7d491d"><span offset-key="fecd0f33cce34d3c9951551cee7d491d:0">6. Verify Custom JavaScript Tests with Jest</span></span>
 
-## 
+##
 
 <span key="9a52b8bb475e45518ee51ca3d57c47ac"><span offset-key="9a52b8bb475e45518ee51ca3d57c47ac:0">1. Throw an Error with a Simple Test in JavaScript</span></span>
 
@@ -853,7 +853,7 @@ Copied!
 
 <span key="a188464d7d0b4cf299192a4f72ab2aec"><span offset-key="a188464d7d0b4cf299192a4f72ab2aec:0">Throwing an error when a condition fails is the most fundamental aspect of a test.</span></span>
 
-## 
+##
 
 <span key="5a9429487b11449495fadee2475f9408"><span offset-key="5a9429487b11449495fadee2475f9408:0">2. Abstract Test Assertions into a JavaScript Assertion Library</span></span>
 
@@ -869,7 +869,7 @@ Copied!
 
 <span key="ddcf914a3eb747aeb20e4531a3da50d0"><span offset-key="ddcf914a3eb747aeb20e4531a3da50d0:0">An assertion library can be as simple as a function which takes a result and returns an object containing a number of different assertions which allows the user to determine how they want to evaluate that result against an expected value.</span></span>
 
-## 
+##
 
 <span key="920dfe5afc514df0896b797e902402bc"><span offset-key="920dfe5afc514df0896b797e902402bc:0">3. Encapsulate and Isolate Tests by building a JavaScript Testing Framework</span></span>
 
@@ -887,7 +887,7 @@ Copied!
 
 <span key="fe38d48840f147edb27a21ab801e26bb"><span offset-key="fe38d48840f147edb27a21ab801e26bb:0">This can be fixed by creating a function which takes a title, allowing us to name tests, and a callback function which will be responsible for running the actual tests, and making use of a try-catch block so as to prevent thrown errors from stopping further execution.</span></span>
 
-## 
+##
 
 <span key="05c3ab0daac9482c95be4b5616813916"><span offset-key="05c3ab0daac9482c95be4b5616813916:0">4. Support Async Tests with JavaScripts Promises through async await</span></span>
 
@@ -903,7 +903,7 @@ Copied!
 
 <span key="ecad0def6e184a6fbe766b313ec8704c"><span offset-key="ecad0def6e184a6fbe766b313ec8704c:0">In order to allow async tests to be run, we need our </span>`test`<span offset-key="ecad0def6e184a6fbe766b313ec8704c:2"> function to be </span>`async`<span offset-key="ecad0def6e184a6fbe766b313ec8704c:4">, and we need to prepend the callack invocation with </span>`await`<span offset-key="ecad0def6e184a6fbe766b313ec8704c:6">.</span></span>
 
-## 
+##
 
 <span key="10396aa0958c48fc8e5fd5eba4d84d03"><span offset-key="10396aa0958c48fc8e5fd5eba4d84d03:0">5. Provide Testing Helper Functions as Globals in JavaScript</span></span>
 
@@ -923,7 +923,7 @@ Copied!
 
 <span key="4240d93339574888b5a29be938af98f9"><span offset-key="4240d93339574888b5a29be938af98f9:0">The </span>`--require ./[file].js`<span offset-key="4240d93339574888b5a29be938af98f9:2"> flag allows files to be required before executing scripts with the </span>`node`<span offset-key="4240d93339574888b5a29be938af98f9:4"> command</span></span>
 
-## 
+##
 
 <span key="5e8f83d745f5488ebed6f690d796247e"><span offset-key="5e8f83d745f5488ebed6f690d796247e:0">6. Verify Custom JavaScript Tests with Jest</span></span>
 
@@ -949,7 +949,7 @@ Copied!
 
 <span key="770af0550a0c419594249968e420bd68"><span offset-key="770af0550a0c419594249968e420bd68:0"><span slate-zero-width="z">​</span></span></span><span key="7916bdd1054945b6901327e4b0f7d3c6"><span offset-key="7916bdd1054945b6901327e4b0f7d3c6:0"><span slate-zero-width="z">​</span></span></span>
 
-<span key="ad3235b899a549e387409ef7585d1861">*The cycle, test fail, test pass, refactor*</span>
+<span key="ad3235b899a549e387409ef7585d1861">_The cycle, test fail, test pass, refactor_</span>
 
 <span key="21ec4b11d692474da3484a4102459173"><span offset-key="21ec4b11d692474da3484a4102459173:0">The tests that we will write for TDD are unit tests.</span></span>
 
@@ -1139,79 +1139,79 @@ Copied!
 
 <span key="9f9615ff08894783bd966614fceccb68"><span offset-key="9f9615ff08894783bd966614fceccb68:0"><span slate-zero-width="n">​</span></span></span>
 
-### 
+###
 
 <span key="1539d2bc7b6d4dca8c01d76cb577582c"><span offset-key="1539d2bc7b6d4dca8c01d76cb577582c:0">JavaScript Unit Testing & TDD</span></span>
 
-### 
+###
 
 <span key="9437e51a4f5b4d54b3b40c1e785fff79"><span offset-key="9437e51a4f5b4d54b3b40c1e785fff79:0">All about Testing</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="180938880e8248f593a9246f24068b09">*The general idea across all testing frameworks is to allow developers to write code that would specify the behavior of a function or module or class.*</span>
+  <span key="180938880e8248f593a9246f24068b09">_The general idea across all testing frameworks is to allow developers to write code that would specify the behavior of a function or module or class._</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="81f2402283ce46e8b08e62dd6c52cb3e"><span offset-key="81f2402283ce46e8b08e62dd6c52cb3e:0">Testing one function at a time is vulnerable to false negatives and false positives.</span></span>
+  <span key="81f2402283ce46e8b08e62dd6c52cb3e"><span offset-key="81f2402283ce46e8b08e62dd6c52cb3e:0">Testing one function at a time is vulnerable to false negatives and false positives.</span></span>
 
-### 
+###
 
 <span key="538c2b042a5e4c4a85919a1071e20c25"><span offset-key="538c2b042a5e4c4a85919a1071e20c25:0">Why do we test?</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="f36b114014e043e480dfa16b94853186"><span offset-key="f36b114014e043e480dfa16b94853186:0">To make sure everything works.</span></span>
+  <span key="f36b114014e043e480dfa16b94853186"><span offset-key="f36b114014e043e480dfa16b94853186:0">To make sure everything works.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="e8779a1fff3d4daaa21210fb27d5c2f0"><span offset-key="e8779a1fff3d4daaa21210fb27d5c2f0:0">Increase flexibility & reduce fear of code.</span></span>
+  <span key="e8779a1fff3d4daaa21210fb27d5c2f0"><span offset-key="e8779a1fff3d4daaa21210fb27d5c2f0:0">Increase flexibility & reduce fear of code.</span></span>
 
 <span key="e22d82cc5bf84746b11c829ae85e7b92"><span offset-key="e22d82cc5bf84746b11c829ae85e7b92:0">A</span>**utomated Tests**<span offset-key="e22d82cc5bf84746b11c829ae85e7b92:2"> are known as </span>**Specs**<span offset-key="e22d82cc5bf84746b11c829ae85e7b92:4">, they:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="8fe29d91e9d144f9adee109b7470b0b5"><span offset-key="8fe29d91e9d144f9adee109b7470b0b5:0">Make collaboration easier.</span></span>
+  <span key="8fe29d91e9d144f9adee109b7470b0b5"><span offset-key="8fe29d91e9d144f9adee109b7470b0b5:0">Make collaboration easier.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="5bb3866ee1704bb7b66d6ba94fa3578a"><span offset-key="5bb3866ee1704bb7b66d6ba94fa3578a:0">Produce Documentation.</span></span>
+  <span key="5bb3866ee1704bb7b66d6ba94fa3578a"><span offset-key="5bb3866ee1704bb7b66d6ba94fa3578a:0">Produce Documentation.</span></span>
 
-### 
+###
 
 <span key="8efb327de397478fa97bef3dc3ff9e7f"><span offset-key="8efb327de397478fa97bef3dc3ff9e7f:0">How We Test</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="8fe065810ae54150837498e3614ad7a7">**Testing Framework**<span offset-key="8fe065810ae54150837498e3614ad7a7:1"> : Runs the tests and presents them to a user.</span></span>
+  <span key="8fe065810ae54150837498e3614ad7a7">**Testing Framework**<span offset-key="8fe065810ae54150837498e3614ad7a7:1"> : Runs the tests and presents them to a user.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="01c954bf6d9c4f63b648b3dd4b743cc4">**Assertion Libraries**<span offset-key="01c954bf6d9c4f63b648b3dd4b743cc4:1"> : Backbone of written tests, the code that we use to write our tests.</span></span>
+  <span key="01c954bf6d9c4f63b648b3dd4b743cc4">**Assertion Libraries**<span offset-key="01c954bf6d9c4f63b648b3dd4b743cc4:1"> : Backbone of written tests, the code that we use to write our tests.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="7ce53e14625f4bb388a73782162a72f5">**Mocha**<span offset-key="7ce53e14625f4bb388a73782162a72f5:1"> : JS testing framework which is highly flexible; supports a variety of assertion libraries.</span></span>
+  <span key="7ce53e14625f4bb388a73782162a72f5">**Mocha**<span offset-key="7ce53e14625f4bb388a73782162a72f5:1"> : JS testing framework which is highly flexible; supports a variety of assertion libraries.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="f17d18a4d62e4d7fbbe3e27f6a9767eb">**Domain Specific Language**<span offset-key="f17d18a4d62e4d7fbbe3e27f6a9767eb:1"> : Refers to a computer language specialized for a particular purpose</span></span>
+  <span key="f17d18a4d62e4d7fbbe3e27f6a9767eb">**Domain Specific Language**<span offset-key="f17d18a4d62e4d7fbbe3e27f6a9767eb:1"> : Refers to a computer language specialized for a particular purpose</span></span>
 
-### 
+###
 
 <span key="cca7a1c8d4384a67a26292917b63d420"><span offset-key="cca7a1c8d4384a67a26292917b63d420:0">What do we Test?</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="9bc65f9dfc4b47f382d090a8c7d6f969"><span offset-key="9bc65f9dfc4b47f382d090a8c7d6f969:0">The public interface:</span></span>
+  <span key="9bc65f9dfc4b47f382d090a8c7d6f969"><span offset-key="9bc65f9dfc4b47f382d090a8c7d6f969:0">The public interface:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="b521e9ad13e645c283f71be898827791"><span offset-key="b521e9ad13e645c283f71be898827791:0">Ask yourself, “What is the public interface of the module or class I’m writing?”</span></span>
+  <span key="b521e9ad13e645c283f71be898827791"><span offset-key="b521e9ad13e645c283f71be898827791:0">Ask yourself, “What is the public interface of the module or class I’m writing?”</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="23b247be6ed640408d2827493147c72d"><span offset-key="23b247be6ed640408d2827493147c72d:0">When in doubt, make sure that you at least have the most important and/or complex parts of that interface working as intended.</span></span>
+  <span key="23b247be6ed640408d2827493147c72d"><span offset-key="23b247be6ed640408d2827493147c72d:0">When in doubt, make sure that you at least have the most important and/or complex parts of that interface working as intended.</span></span>
 
 <span key="c887e42c47df4ecaa0e01810f1afab2f"><span offset-key="c887e42c47df4ecaa0e01810f1afab2f:0"><span slate-zero-width="z">​</span></span></span><span slate-void="true" key="bf659e0cc70a424fbf7a2c13508ff769"></span>
 
@@ -1223,51 +1223,51 @@ Copied!
 
 <span key="22f8a9bd244c472a91885d46d703990e"><span offset-key="22f8a9bd244c472a91885d46d703990e:0">\*The Testing Pyramid\*</span></span>
 
-### 
+###
 
 <span key="cd942593e6844458a2d4b2e9ae95cf01"><span offset-key="cd942593e6844458a2d4b2e9ae95cf01:0">Unit Tests : The smallest unit of testing.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="d4596463059b4390a7cc96367c30fa50"><span offset-key="d4596463059b4390a7cc96367c30fa50:0">Used to test smallest pieces in isolation before putting everything together.</span></span>
+  <span key="d4596463059b4390a7cc96367c30fa50"><span offset-key="d4596463059b4390a7cc96367c30fa50:0">Used to test smallest pieces in isolation before putting everything together.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="9f93c636574b48d8aff79e87abde490d"><span offset-key="9f93c636574b48d8aff79e87abde490d:0">Tests ONE THING.</span></span>
+  <span key="9f93c636574b48d8aff79e87abde490d"><span offset-key="9f93c636574b48d8aff79e87abde490d:0">Tests ONE THING.</span></span>
 
-### 
+###
 
 <span key="6fce8a7f4693426bb529232e3f9e81f4"><span offset-key="6fce8a7f4693426bb529232e3f9e81f4:0">Integration Tests : Test the interactions between two pieces of your application.</span></span>
 
-### 
+###
 
 <span key="ecf17306bdbd44dca9b567e54b24208e"><span offset-key="ecf17306bdbd44dca9b567e54b24208e:0">End to End : Closest automated tests come to testing the actual user experience of your application.</span></span>
 
 <span key="c03a4d0a03c74e8197f3d2f1cd793bb4">**Reading Tests**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="c7067be1cba84966bd9aabf4042a2ae6"><span offset-key="c7067be1cba84966bd9aabf4042a2ae6:0">Most important thing about a test is that it is </span>**readable**<span offset-key="c7067be1cba84966bd9aabf4042a2ae6:2"> and </span>**understandable.**</span>
+  <span key="c7067be1cba84966bd9aabf4042a2ae6"><span offset-key="c7067be1cba84966bd9aabf4042a2ae6:0">Most important thing about a test is that it is </span>**readable**<span offset-key="c7067be1cba84966bd9aabf4042a2ae6:2"> and </span>**understandable.**</span>
 
-    <span key="ef485edd806e4e878dbfc00c2d1579d9"><span offset-key="ef485edd806e4e878dbfc00c2d1579d9:0">describe("avgValue()", function () { it("should return the average of an array of numbers", function () { assert.equal(avgValue(\[10, 20\]), 15); }); });</span></span>
+  <span key="ef485edd806e4e878dbfc00c2d1579d9"><span offset-key="ef485edd806e4e878dbfc00c2d1579d9:0">describe("avgValue()", function () { it("should return the average of an array of numbers", function () { assert.equal(avgValue(\[10, 20\]), 15); }); });</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="e6c68d1f62504f8da0ceead5ea1d85b0"><span offset-key="e6c68d1f62504f8da0ceead5ea1d85b0:0">avgValue() => The function we will be testing.</span></span>
+  <span key="e6c68d1f62504f8da0ceead5ea1d85b0"><span offset-key="e6c68d1f62504f8da0ceead5ea1d85b0:0">avgValue() => The function we will be testing.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="6281447b583a45e5b01238eb75cf6a39"><span offset-key="6281447b583a45e5b01238eb75cf6a39:0">it(“string”) => describes the desired output.</span></span>
+  <span key="6281447b583a45e5b01238eb75cf6a39"><span offset-key="6281447b583a45e5b01238eb75cf6a39:0">it(“string”) => describes the desired output.</span></span>
 
-### 
+###
 
 <span key="81afc3f6c6a44c06ac53d9c1d2d3eca1"><span offset-key="81afc3f6c6a44c06ac53d9c1d2d3eca1:0">Test-Driven Development</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="25dec64c93134cfdb6b9389c819e8c8a"><span offset-key="25dec64c93134cfdb6b9389c819e8c8a:0">TDD is a quick repetitive cycle that revolves around first determining what a piece of code should do and writing tests for that behavior </span>*before actually writing any code*<span offset-key="25dec64c93134cfdb6b9389c819e8c8a:2">.</span></span>
+  <span key="25dec64c93134cfdb6b9389c819e8c8a"><span offset-key="25dec64c93134cfdb6b9389c819e8c8a:0">TDD is a quick repetitive cycle that revolves around first determining what a piece of code should do and writing tests for that behavior </span>_before actually writing any code_<span offset-key="25dec64c93134cfdb6b9389c819e8c8a:2">.</span></span>
 
-### 
+###
 
 <span key="2f10ffe69e0e4400b94b6c9cf84a0b02"><span offset-key="2f10ffe69e0e4400b94b6c9cf84a0b02:0">A simple example just to give an idea of what test code looks like… note that it reads more like spoken english than normal code…</span></span>
 
@@ -1277,7 +1277,7 @@ Copied!
 
 <span key="a7fd530f8a6f4a039e2b913354053b1a"><span offset-key="a7fd530f8a6f4a039e2b913354053b1a:0">Exported from </span></span><a href="https://medium.com" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="0f086bc1451a4169aae89875e18654c3" data-rnw-int-class="nearest_260-2678_262-2679-240__"><span data-key="0a56073381f64778a0679fce060eb49e"><span data-offset-key="0a56073381f64778a0679fce060eb49e:0">Medium</span></span></span></a><span key="ca71cd493d064e09968c69c0b1c5fe76"><span offset-key="ca71cd493d064e09968c69c0b1c5fe76:0"> on August 31, 2021.</span></span>
 
-## 
+##
 
 <span key="16175b6e9c1f420e90ae32c96929cc73"><span offset-key="16175b6e9c1f420e90ae32c96929cc73:0">Wait. What?</span></span>
 
@@ -1373,27 +1373,27 @@ Copied!
 
 <span key="b5c209fa0e2f4da1ad79660796ae2640"><span offset-key="b5c209fa0e2f4da1ad79660796ae2640:0">We don't use TDD as a way to deliver all of our software, --- sometimes other tools and techniques come more in hand for other scenarios --- but we like to practice with it to become better software professionals.</span></span>
 
-# 
+#
 
 <span key="dc89925a619843a58493e7291d4bc879"><span offset-key="dc89925a619843a58493e7291d4bc879:0">list of errors:</span></span>
 
 <span key="a4d895b2f4954073802037617d59e321"><span offset-key="a4d895b2f4954073802037617d59e321:0">List of possible JS errors</span></span>
 
-# 
+#
 
 <span key="fd60b91c44d446fc817905b3b74c9514"><span offset-key="fd60b91c44d446fc817905b3b74c9514:0">\[Types of error\]</span></span>
 
 <span key="1aa2c5f1ba3049269b6ecae4619b59ed"><span offset-key="1aa2c5f1ba3049269b6ecae4619b59ed:0">Generally speaking, when you do something wrong in code, there are two main types of error that you'll come across:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="c472bb9cc52c4f208ebb16751a2e7cd6">**Syntax errors**<span offset-key="c472bb9cc52c4f208ebb16751a2e7cd6:1">: These are spelling errors in your code that actually cause the program not to run at all, or stop working part way through --- you will usually be provided with some error messages too. These are usually okay to fix, as long as you are familiar with the right tools and know what the error messages mean!</span></span>
+  <span key="c472bb9cc52c4f208ebb16751a2e7cd6">**Syntax errors**<span offset-key="c472bb9cc52c4f208ebb16751a2e7cd6:1">: These are spelling errors in your code that actually cause the program not to run at all, or stop working part way through --- you will usually be provided with some error messages too. These are usually okay to fix, as long as you are familiar with the right tools and know what the error messages mean!</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="0a3f0e9f518f431d9f44e229efee7367">**Logic errors**<span offset-key="0a3f0e9f518f431d9f44e229efee7367:1">: These are errors where the syntax is actually correct but the code is not what you intended it to be, meaning that program runs successfully but gives incorrect results. These are often harder to fix than syntax errors, as there usually isn't an error message to direct you to the source of the error.</span></span>
+  <span key="0a3f0e9f518f431d9f44e229efee7367">**Logic errors**<span offset-key="0a3f0e9f518f431d9f44e229efee7367:1">: These are errors where the syntax is actually correct but the code is not what you intended it to be, meaning that program runs successfully but gives incorrect results. These are often harder to fix than syntax errors, as there usually isn't an error message to direct you to the source of the error.</span></span>
 
-<span key="ea06f49e9bff444fb5ab268b8ccbfa9a"><span offset-key="ea06f49e9bff444fb5ab268b8ccbfa9a:0">Okay, so it's not quite </span>*that*<span offset-key="ea06f49e9bff444fb5ab268b8ccbfa9a:2"> simple --- there are some other differentiators as you drill down deeper. But the above classifications will do at this early stage in your career. We'll look at both of these types going forward.</span></span>
+<span key="ea06f49e9bff444fb5ab268b8ccbfa9a"><span offset-key="ea06f49e9bff444fb5ab268b8ccbfa9a:0">Okay, so it's not quite </span>_that_<span offset-key="ea06f49e9bff444fb5ab268b8ccbfa9a:2"> simple --- there are some other differentiators as you drill down deeper. But the above classifications will do at this early stage in your career. We'll look at both of these types going forward.</span></span>
 
 <span key="36f51f1163f3461da12f02ae99e8b3d5"><span offset-key="36f51f1163f3461da12f02ae99e8b3d5:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -1401,7 +1401,7 @@ Copied!
 
 <span key="8aa6f51e79524ba9a24da8653470e46f"><span offset-key="8aa6f51e79524ba9a24da8653470e46f:0">split</span></span>
 
-# 
+#
 
 <span key="f65787da7f144f0abbc55f94decee018"><span offset-key="f65787da7f144f0abbc55f94decee018:0">\[An erroneous example\]</span></span>
 
@@ -1433,11 +1433,11 @@ Copied!
 
 <span key="14ac28904c114daa935be67207d1bf12"><span offset-key="14ac28904c114daa935be67207d1bf12:0">split</span></span>
 
-# 
+#
 
 <span key="27beb18bd0cf4c0eb8822fc788f921e2"><span offset-key="27beb18bd0cf4c0eb8822fc788f921e2:0">\[Fixing syntax errors\]</span></span>
 
-<span key="72aed2bb8d6f4b818a06835c8f33a9e9"><span offset-key="72aed2bb8d6f4b818a06835c8f33a9e9:0">Earlier on in the course we got you to type some simple JavaScript commands into the \[developer tools JavaScript console\]docs/Learn/Common\_questions/What\_are\_browser\_developer\_tools) (if you can't remember how to open this in your browser, follow the previous link to find out how). What's even more useful is that the console gives you error messages whenever a syntax error exists inside the JavaScript being fed into the browser's JavaScript engine. Now let's go hunting.</span></span>
+<span key="72aed2bb8d6f4b818a06835c8f33a9e9"><span offset-key="72aed2bb8d6f4b818a06835c8f33a9e9:0">Earlier on in the course we got you to type some simple JavaScript commands into the \[developer tools JavaScript console\]docs/Learn/Common_questions/What_are_browser_developer_tools) (if you can't remember how to open this in your browser, follow the previous link to find out how). What's even more useful is that the console gives you error messages whenever a syntax error exists inside the JavaScript being fed into the browser's JavaScript engine. Now let's go hunting.</span></span>
 
 1.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">1.</span>
     <span key="09df5b85b9664d1e844531fff142b84c"><span offset-key="09df5b85b9664d1e844531fff142b84c:0">Go to the tab that you've got </span>`number-game-errors.html`<span offset-key="09df5b85b9664d1e844531fff142b84c:2"> open in, and open your JavaScript console. You should see an error message along the following lines:</span></span><span slate-void="true" key="11fa08b196c24799bd08b67dface55a5"></span>
@@ -1448,25 +1448,25 @@ Copied!
 2.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">2.</span>
     <span key="d7e2b38943a948f7a012e7c6b68eb72a"><span offset-key="d7e2b38943a948f7a012e7c6b68eb72a:0">This is a pretty easy error to track down, and the browser gives you several useful bits of information to help you out (the screenshot above is from Firefox, but other browsers provide similar information). From left to right, we've got:</span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-        <span key="d8c4fcd1fa54408c8b2fa64a5ded39c6"><span offset-key="d8c4fcd1fa54408c8b2fa64a5ded39c6:0">A red "x" to indicate that this is an error.</span></span>
+      <span key="d8c4fcd1fa54408c8b2fa64a5ded39c6"><span offset-key="d8c4fcd1fa54408c8b2fa64a5ded39c6:0">A red "x" to indicate that this is an error.</span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-        <span key="2be3cf509211414e837038759cad514a"><span offset-key="2be3cf509211414e837038759cad514a:0">An error message to indicate what's gone wrong: "TypeError: guessSubmit.addeventListener is not a function"</span></span>
+      <span key="2be3cf509211414e837038759cad514a"><span offset-key="2be3cf509211414e837038759cad514a:0">An error message to indicate what's gone wrong: "TypeError: guessSubmit.addeventListener is not a function"</span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-        <span key="ddbf44f81c5147a5beb67b1c96436062"><span offset-key="ddbf44f81c5147a5beb67b1c96436062:0">A "Learn More" link that links through to an MDN page that explains what this error means in greater detail.</span></span>
+      <span key="ddbf44f81c5147a5beb67b1c96436062"><span offset-key="ddbf44f81c5147a5beb67b1c96436062:0">A "Learn More" link that links through to an MDN page that explains what this error means in greater detail.</span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-        <span key="9ba7732716104d09a67277e39a030053"><span offset-key="9ba7732716104d09a67277e39a030053:0">The name of the JavaScript file, which links through to the Debugger tab of the developer tools. If you follow this link, you'll see the exact line where the error is highlighted.</span></span>
+      <span key="9ba7732716104d09a67277e39a030053"><span offset-key="9ba7732716104d09a67277e39a030053:0">The name of the JavaScript file, which links through to the Debugger tab of the developer tools. If you follow this link, you'll see the exact line where the error is highlighted.</span></span>
 
-    -   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+    - <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-        <span key="81903a3a50fe4d9dad0351b1d3ca8201"><span offset-key="81903a3a50fe4d9dad0351b1d3ca8201:0">The line number where the error is, and the character number in that line where the error is first seen. In this case, we've got line 86, character number 3.</span></span>
+      <span key="81903a3a50fe4d9dad0351b1d3ca8201"><span offset-key="81903a3a50fe4d9dad0351b1d3ca8201:0">The line number where the error is, and the character number in that line where the error is first seen. In this case, we've got line 86, character number 3.</span></span>
 
 3.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">3.</span>
     <span key="683a491e734f4934a85f1d362c5ec2a6"><span offset-key="683a491e734f4934a85f1d362c5ec2a6:0">If we look at line 86 in our code editor, we'll find this line:</span></span>
@@ -1484,12 +1484,12 @@ Copied!
     Copied!
 
 4.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">4.</span>
-    <span key="677f1a87ad814f61b839cb3d5b036379"><span offset-key="677f1a87ad814f61b839cb3d5b036379:0">The error message says "guessSubmit.addeventListener is not a function", which means that the function we're calling is not recognized by the JavaScript interpreter. Often, this error message actually means that we've spelled something wrong. If you are not sure of the correct spelling of a piece of syntax, it is often good to look up the feature on MDN. The best way to do this currently is to search for "mdn </span>*name-of-feature*<span offset-key="677f1a87ad814f61b839cb3d5b036379:2">" with your favorite search engine. Here's a shortcut to save you some time in this instance: \[</span>`addEventListener()`<span offset-key="677f1a87ad814f61b839cb3d5b036379:4">\]docs/Web/API/EventTarget/addEventListener).</span></span>
+    <span key="677f1a87ad814f61b839cb3d5b036379"><span offset-key="677f1a87ad814f61b839cb3d5b036379:0">The error message says "guessSubmit.addeventListener is not a function", which means that the function we're calling is not recognized by the JavaScript interpreter. Often, this error message actually means that we've spelled something wrong. If you are not sure of the correct spelling of a piece of syntax, it is often good to look up the feature on MDN. The best way to do this currently is to search for "mdn </span>_name-of-feature_<span offset-key="677f1a87ad814f61b839cb3d5b036379:2">" with your favorite search engine. Here's a shortcut to save you some time in this instance: \[</span>`addEventListener()`<span offset-key="677f1a87ad814f61b839cb3d5b036379:4">\]docs/Web/API/EventTarget/addEventListener).</span></span>
 
 5.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">5.</span>
     <span key="04bab71f139d4a64b85751c412dc6808"><span offset-key="04bab71f139d4a64b85751c412dc6808:0">So, looking at this page, the error appears to be that we've spelled the function name wrong! Remember that JavaScript is case sensitive, so any slight difference in spelling or casing will cause an error. Changing </span>`addeventListener`<span offset-key="04bab71f139d4a64b85751c412dc6808:2"> to </span>`addEventListener`<span offset-key="04bab71f139d4a64b85751c412dc6808:4"> should fix this. Do this now.</span></span>
 
-<span key="92132745c41f4b13ab9bc1a7cc57d960">**Note:**<span offset-key="92132745c41f4b13ab9bc1a7cc57d960:1"> See our \[TypeError: "x" is not a function\]Reference/Errors/Not\_a\_function) reference page for more details about this error.</span></span>
+<span key="92132745c41f4b13ab9bc1a7cc57d960">**Note:**<span offset-key="92132745c41f4b13ab9bc1a7cc57d960:1"> See our \[TypeError: "x" is not a function\]Reference/Errors/Not_a_function) reference page for more details about this error.</span></span>
 
 <span key="996ad6302bce451fad937bc7a5696915"><span offset-key="996ad6302bce451fad937bc7a5696915:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -1497,7 +1497,7 @@ Copied!
 
 <span key="7af9568967f54c04b93e294afcc86175"><span offset-key="7af9568967f54c04b93e294afcc86175:0">split</span></span>
 
-# 
+#
 
 <span key="877a5777c6294315a2e25e8ddddbf19a"><span offset-key="877a5777c6294315a2e25e8ddddbf19a:0">\[Syntax errors round two\]</span></span>
 
@@ -1515,7 +1515,7 @@ Copied!
 
     <span key="6e4b7de13b0943e9b9a25b8669e70d36">**Note:**<span offset-key="6e4b7de13b0943e9b9a25b8669e70d36:1"> \[</span>`Null`<span offset-key="6e4b7de13b0943e9b9a25b8669e70d36:3">\]docs/Glossary/Null) is a special value that means "nothing", or "no value". So </span>`lowOrHi`<span offset-key="6e4b7de13b0943e9b9a25b8669e70d36:5"> has been declared and initialised, but not with any meaningful value --- it has no type or value.</span></span>
 
-    <span key="8078bc185f964f06bc6ff2b985e556a1">**Note:**<span offset-key="8078bc185f964f06bc6ff2b985e556a1:1"> This error didn't come up as soon as the page was loaded because this error occurred inside a function (inside the </span>`checkGuess() { ... }`<span offset-key="8078bc185f964f06bc6ff2b985e556a1:3"> block). As you'll learn in more detail in our later \[functions article\]docs/Learn/JavaScript/Building\_blocks/Functions), code inside functions runs in a separate scope than code outside functions. In this case, the code was not run and the error was not thrown until the </span>`checkGuess()`<span offset-key="8078bc185f964f06bc6ff2b985e556a1:5"> function was run by line 86.</span></span>
+    <span key="8078bc185f964f06bc6ff2b985e556a1">**Note:**<span offset-key="8078bc185f964f06bc6ff2b985e556a1:1"> This error didn't come up as soon as the page was loaded because this error occurred inside a function (inside the </span>`checkGuess() { ... }`<span offset-key="8078bc185f964f06bc6ff2b985e556a1:3"> block). As you'll learn in more detail in our later \[functions article\]docs/Learn/JavaScript/Building_blocks/Functions), code inside functions runs in a separate scope than code outside functions. In this case, the code was not run and the error was not thrown until the </span>`checkGuess()`<span offset-key="8078bc185f964f06bc6ff2b985e556a1:5"> function was run by line 86.</span></span>
 
 4.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">4.</span>
     <span key="15b8935c725445b19d36cdc900eff317"><span offset-key="15b8935c725445b19d36cdc900eff317:0">Have a look at line 78, and you'll see the following code:</span></span>
@@ -1576,9 +1576,9 @@ Copied!
 10. <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">10.</span>
     <span key="ca69fb3acab147ec939d5a7fa146d93f"><span offset-key="ca69fb3acab147ec939d5a7fa146d93f:0">Try saving and refreshing again, and your </span>`console.log()`<span offset-key="ca69fb3acab147ec939d5a7fa146d93f:2"> statement should return the </span>`<p>`<span offset-key="ca69fb3acab147ec939d5a7fa146d93f:4"> element we want. Phew! Another error fixed! You can delete your </span>`console.log()`<span offset-key="ca69fb3acab147ec939d5a7fa146d93f:6"> line now, or keep it to reference later on --- your choice.</span></span>
 
-<span key="78569f11b20144b59238786f17f831f2">**Note:**<span offset-key="78569f11b20144b59238786f17f831f2:1"> See our \[TypeError: "x" is (not) "y"\]Reference/Errors/Unexpected\_type) reference page for more details about this error.</span></span>
+<span key="78569f11b20144b59238786f17f831f2">**Note:**<span offset-key="78569f11b20144b59238786f17f831f2:1"> See our \[TypeError: "x" is (not) "y"\]Reference/Errors/Unexpected_type) reference page for more details about this error.</span></span>
 
-## 
+##
 
 <span key="9d0dc68703334ea59eb44d008d20a3dc"><span offset-key="9d0dc68703334ea59eb44d008d20a3dc:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -1590,19 +1590,19 @@ Copied!
 
 <span key="8e3865ad36614ce9b1a1b8430af4ab6c"><span offset-key="8e3865ad36614ce9b1a1b8430af4ab6c:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="e24ada0da11849ecbb58d4a48ab4f05d"><span offset-key="e24ada0da11849ecbb58d4a48ab4f05d:0">Error</span></span>
 
 <span key="dd7557a0fed14352bf7b137ffe5316ac">`Error`<span offset-key="dd7557a0fed14352bf7b137ffe5316ac:1"> objects are thrown when runtime errors occur. The </span>`Error`<span offset-key="dd7557a0fed14352bf7b137ffe5316ac:3"> object can also be used as a base object for user-defined exceptions. See below for standard built-in error types.</span></span>
 
-## 
+##
 
 <span key="193beb15ac644527a6853c4ff6311ea9"><span offset-key="193beb15ac644527a6853c4ff6311ea9:0"><span slate-zero-width="z">​</span></span></span><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error#description" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="16ba9722176a4793912648c729325531" data-rnw-int-class="nearest_260-2678_262-2679-240__"><span data-key="360370e849c04864ba2fe75da06301a1"><span data-offset-key="360370e849c04864ba2fe75da06301a1:0">Description</span></span></span></a><span key="ea4221508d1d4e49b4c6ccdcc922a74d"><span offset-key="ea4221508d1d4e49b4c6ccdcc922a74d:0"><span slate-zero-width="z">​</span></span></span>
 
 <span key="92f92bedc2ff42f0a0747ed5d581e448"><span offset-key="92f92bedc2ff42f0a0747ed5d581e448:0">Runtime errors result in new </span>`Error`<span offset-key="92f92bedc2ff42f0a0747ed5d581e448:2"> objects being created and thrown.</span></span>
 
-### 
+###
 
 <span key="809e7d50bd674045b7e374404f35f549"><span offset-key="809e7d50bd674045b7e374404f35f549:0"><span slate-zero-width="z">​</span></span></span><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error#error_types" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="39ab66b4786249288ef1055b2919d861" data-rnw-int-class="nearest_260-2678_262-2679-240__"><span data-key="631507647d2d40c4b1d630d3defa65a2"><span data-offset-key="631507647d2d40c4b1d630d3defa65a2:0">Error types</span></span></span></a><span key="27bf1d4f7c484208a20f2a5b2245c127"><span offset-key="27bf1d4f7c484208a20f2a5b2245c127:0"><span slate-zero-width="z">​</span></span></span>
 
@@ -1640,7 +1640,7 @@ Copied!
 
 <span key="1c0cfb48036648e381e56870c1d75657"><span offset-key="1c0cfb48036648e381e56870c1d75657:0">Creates an instance representing an error that occurs when an internal error in the JavaScript engine is thrown. E.g. "too much recursion".</span></span>
 
-## 
+##
 
 <span key="2c2322ca8bd5455e811487d83015479b"><span offset-key="2c2322ca8bd5455e811487d83015479b:0"><span slate-zero-width="z">​</span></span></span><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error#constructor" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="8cbdc74d765c4d8c874186d59a19ff3d" data-rnw-int-class="nearest_260-2678_262-2679-240__"><span data-key="1a44f8a4461142d9b6ec1365d19f2b41"><span data-offset-key="1a44f8a4461142d9b6ec1365d19f2b41:0">Constructor</span></span></span></a><span key="c5d5a361fa55418db3b19ce2ab96f6e5"><span offset-key="c5d5a361fa55418db3b19ce2ab96f6e5:0"><span slate-zero-width="z">​</span></span></span>
 
@@ -1648,7 +1648,7 @@ Copied!
 
 <span key="96ec9d4c2d7843039dd9ca430ce3357f"><span offset-key="96ec9d4c2d7843039dd9ca430ce3357f:0">Creates a new </span>`Error`<span offset-key="96ec9d4c2d7843039dd9ca430ce3357f:2"> object.</span></span>
 
-## 
+##
 
 <span key="be0790e65371480590b0ec99827030f4"><span offset-key="be0790e65371480590b0ec99827030f4:0"><span slate-zero-width="z">​</span></span></span><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error#static_methods" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f10a42619dae461c9056702880331aa8" data-rnw-int-class="nearest_260-2678_262-2679-240__"><span data-key="a22c20b9bcac4b169473dfb621e2adc4"><span data-offset-key="a22c20b9bcac4b169473dfb621e2adc4:0">Static methods</span></span></span></a><span key="bdb3029e23424930b84340d845c4d255"><span offset-key="bdb3029e23424930b84340d845c4d255:0"><span slate-zero-width="z">​</span></span></span>
 
@@ -1656,7 +1656,7 @@ Copied!
 
 <span key="279f0cb76fa846ac8323daabb892d20b"><span offset-key="279f0cb76fa846ac8323daabb892d20b:0">A non-standard </span>**V8**<span offset-key="279f0cb76fa846ac8323daabb892d20b:2"> function that creates the </span></span><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error/Stack" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="f1f20f3ccdce4f989cfa6b1be07a17e5" data-rnw-int-class="nearest_260-2678_262-2679-240__"><span data-key="09a2c1f263bf42ddbcf48f34749d0039"><code class="r-1vckr1u r-z2wwpe r-uibjmv r-m2pi6t r-1hvjb8t" data-slate-leaf="true" data-offset-key="09a2c1f263bf42ddbcf48f34749d0039:0">stack</code></span></span></a><span key="0c403c826565480fae2ced6f0f35ba35"><span offset-key="0c403c826565480fae2ced6f0f35ba35:0"> property on an Error instance.</span></span>
 
-## 
+##
 
 <span key="02682fe829dd477d94ae7aff5be551c4"><span offset-key="02682fe829dd477d94ae7aff5be551c4:0"><span slate-zero-width="z">​</span></span></span><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error#instance_properties" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="bcb4a70c38764c0aaab472f3b561ce80" data-rnw-int-class="nearest_260-2678_262-2679-240__"><span data-key="cf3665656c1e4d588c51405b006fcf8f"><span data-offset-key="cf3665656c1e4d588c51405b006fcf8f:0">Instance properties</span></span></span></a><span key="4fd9d14b598246a8870f22646f5016e6"><span offset-key="4fd9d14b598246a8870f22646f5016e6:0"><span slate-zero-width="z">​</span></span></span>
 
@@ -1696,7 +1696,7 @@ Copied!
 
 <span key="ab1b24a319174ad8b05527ddb7b69ae3"><span offset-key="ab1b24a319174ad8b05527ddb7b69ae3:0">split</span></span>
 
-# 
+#
 
 <span key="16f3b8fd8718406bb74afd1ce6728cc0"><span offset-key="16f3b8fd8718406bb74afd1ce6728cc0:0">\[Syntax errors round three\]</span></span>
 
@@ -1715,7 +1715,7 @@ Copied!
 
 <span key="ff807ac39e034ea790071f713fa342b7"><span offset-key="ff807ac39e034ea790071f713fa342b7:0">split</span></span>
 
-# 
+#
 
 <span key="7948228c0c2b42dfa4dd61c864fc375f"><span offset-key="7948228c0c2b42dfa4dd61c864fc375f:0">\[A logic error\]</span></span>
 
@@ -1767,7 +1767,7 @@ Copied!
 4.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">4.</span>
     <span key="e9dd424cd9e9425b883e710c67468e58"><span offset-key="e9dd424cd9e9425b883e710c67468e58:0">Save and refresh, then play a few games --- you'll see that </span>`randomNumber`<span offset-key="e9dd424cd9e9425b883e710c67468e58:2"> is equal to 1 at each point where it is logged to the console.</span></span>
 
-## 
+##
 
 <span key="253deeacb0524774b471f90c56f9267c"><span offset-key="253deeacb0524774b471f90c56f9267c:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -1777,7 +1777,7 @@ Copied!
 
 <span key="d0f944d9404f4bc5aa6358fd79357b36"><span offset-key="d0f944d9404f4bc5aa6358fd79357b36:0">split</span></span>
 
-# 
+#
 
 <span key="40fcce41a4294eeebfe82cf201f9515e"><span offset-key="40fcce41a4294eeebfe82cf201f9515e:0">\[Working through the logic\]</span></span>
 
@@ -1829,13 +1829,13 @@ Copied!
 
 <span key="99f33e616ba74a2ebc05495af9fabeba"><span offset-key="99f33e616ba74a2ebc05495af9fabeba:0">split</span></span>
 
-# 
+#
 
 <span key="9862ac38c6e141eb89a40412173d4d96"><span offset-key="9862ac38c6e141eb89a40412173d4d96:0">\[Other common errors\]</span></span>
 
 <span key="bacf1cf9c6a747509afbea0fa33ac0b9"><span offset-key="bacf1cf9c6a747509afbea0fa33ac0b9:0">There are other common errors you'll come across in your code. This section highlights most of them.</span></span>
 
-## 
+##
 
 <span key="4b83af7112bf4a23a2de673defab7b62"><span offset-key="4b83af7112bf4a23a2de673defab7b62:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -1845,7 +1845,7 @@ Copied!
 
 <span key="0bcd56b12aa84c569dc6ff00440496b8"><span offset-key="0bcd56b12aa84c569dc6ff00440496b8:0">split</span></span>
 
-# 
+#
 
 <span key="10a433d0ef1d4582b52de30d244a4e92"><span offset-key="10a433d0ef1d4582b52de30d244a4e92:0">\[SyntaxError: missing ; before statement\]</span></span>
 
@@ -1871,9 +1871,9 @@ Copied!
 
 <span key="9985d1b7b82948d18bbcd1a552333bd2"><span offset-key="9985d1b7b82948d18bbcd1a552333bd2:0">It throws this error because it thinks you are trying to do something different. You should make sure that you don't mix up the assignment operator (</span>`=`<span offset-key="9985d1b7b82948d18bbcd1a552333bd2:2">) --- which sets a variable to be equal to a value --- with the strict equality operator (</span>`===`<span offset-key="9985d1b7b82948d18bbcd1a552333bd2:4">), which tests whether one value is equal to another, and returns a </span>`true`<span offset-key="9985d1b7b82948d18bbcd1a552333bd2:6">/</span>`false`<span offset-key="9985d1b7b82948d18bbcd1a552333bd2:8"> result.</span></span>
 
-<span key="f05b97ebddaa4bf1b54f7d9eb87ffc34">**Note:**<span offset-key="f05b97ebddaa4bf1b54f7d9eb87ffc34:1"> See our \[SyntaxError: missing ; before statement\]Reference/Errors/Missing\_semicolon\_before\_statement) reference page for more details about this error.</span></span>
+<span key="f05b97ebddaa4bf1b54f7d9eb87ffc34">**Note:**<span offset-key="f05b97ebddaa4bf1b54f7d9eb87ffc34:1"> See our \[SyntaxError: missing ; before statement\]Reference/Errors/Missing_semicolon_before_statement) reference page for more details about this error.</span></span>
 
-## 
+##
 
 <span key="f2ea49e288d04d9c87a7e3aa208e36ec"><span offset-key="f2ea49e288d04d9c87a7e3aa208e36ec:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -1883,7 +1883,7 @@ Copied!
 
 <span key="b76d8e5ee90e4ef9bcfcd7093e82b2b1"><span offset-key="b76d8e5ee90e4ef9bcfcd7093e82b2b1:0">split</span></span>
 
-# 
+#
 
 <span key="a3c3b7a29529400592f7fc0b75cd6685"><span offset-key="a3c3b7a29529400592f7fc0b75cd6685:0">\[The program always says you've won, regardless of the guess you enter\]</span></span>
 
@@ -1909,7 +1909,7 @@ Copied!
 
 <span key="51d63bbdd88a451d8dc6d10d1ea31e1e"><span offset-key="51d63bbdd88a451d8dc6d10d1ea31e1e:0">the test would always return </span>`true`<span offset-key="51d63bbdd88a451d8dc6d10d1ea31e1e:2">, causing the program to report that the game has been won. Be careful!</span></span>
 
-## 
+##
 
 <span key="2c790d1e0d2a4203990f4e600d9e22fc"><span offset-key="2c790d1e0d2a4203990f4e600d9e22fc:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -1919,7 +1919,7 @@ Copied!
 
 <span key="86c37d90bd294cfd89526d461dada8c0"><span offset-key="86c37d90bd294cfd89526d461dada8c0:0">split</span></span>
 
-# 
+#
 
 <span key="1f45249a43f8463d970118da72552c4e"><span offset-key="1f45249a43f8463d970118da72552c4e:0">\[SyntaxError: missing\]</span></span>
 
@@ -1927,7 +1927,7 @@ Copied!
 
 <span key="f4dc80890505459c826e24b61648942b">**Note:**<span offset-key="f4dc80890505459c826e24b61648942b:1"> See our \[SyntaxError: missing \] reference page for more details about this error.</span></span>
 
-## 
+##
 
 <span key="5367c46be6ba4b66b36fcd7217849735"><span offset-key="5367c46be6ba4b66b36fcd7217849735:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -1937,7 +1937,7 @@ Copied!
 
 <span key="74ca133741fc4c69ab9ff890a3a33ed1"><span offset-key="74ca133741fc4c69ab9ff890a3a33ed1:0">split</span></span>
 
-# 
+#
 
 <span key="f9af91ea83dc43cd83d089691a669b8f"><span offset-key="f9af91ea83dc43cd83d089691a669b8f:0">\[SyntaxError:\]</span></span>
 
@@ -1963,7 +1963,7 @@ Copied!
 
 <span key="606c8e3d5bdc4b2dbf22ce7633644e46"><span offset-key="606c8e3d5bdc4b2dbf22ce7633644e46:0">This has caused the browser to think that we are trying to pass the contents of the function into the function as an argument. Be careful with those parentheses!</span></span>
 
-## 
+##
 
 <span key="fbfacfc64db34f71a43adfe000db423a"><span offset-key="fbfacfc64db34f71a43adfe000db423a:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -1973,13 +1973,13 @@ Copied!
 
 <span key="2abc805648f94c6f9a024f008ac4ef06"><span offset-key="2abc805648f94c6f9a024f008ac4ef06:0">split</span></span>
 
-# 
+#
 
-<span key="a8378e42740d426e943bba0b0d6d6be7"><span offset-key="a8378e42740d426e943bba0b0d6d6be7:0">\[SyntaxError: missing } after function body\](What\_went\_wrong#syntaxerror\_missing\_after\_function\_body SyntaxError: missing } after function body")</span></span>
+<span key="a8378e42740d426e943bba0b0d6d6be7"><span offset-key="a8378e42740d426e943bba0b0d6d6be7:0">\[SyntaxError: missing } after function body\](What_went_wrong#syntaxerror_missing_after_function_body SyntaxError: missing } after function body")</span></span>
 
 <span key="6ad7cfc163fd4e84b0163d3dae20f092"><span offset-key="6ad7cfc163fd4e84b0163d3dae20f092:0">This is easy --- it generally means that you've missed one of your curly braces from a function or conditional structure. We got this error by deleting one of the closing curly braces near the bottom of the </span>`checkGuess()`<span offset-key="6ad7cfc163fd4e84b0163d3dae20f092:2"> function.</span></span>
 
-## 
+##
 
 <span key="f3f18b3d9812470183812b34c9b388ed"><span offset-key="f3f18b3d9812470183812b34c9b388ed:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -1989,19 +1989,19 @@ Copied!
 
 <span key="b2a128f97ec24838b3e9f5eee7f07803"><span offset-key="b2a128f97ec24838b3e9f5eee7f07803:0">split</span></span>
 
-# 
+#
 
 <span key="bd89bf92c9c74ae5b22d515561724f10"><span offset-key="bd89bf92c9c74ae5b22d515561724f10:0">\[SyntaxError:</span></span>
 
-<span key="ef518df147834f14a664411ed17a14e7"><span offset-key="ef518df147834f14a664411ed17a14e7:0">These errors generally mean that you've left off a string value's opening or closing quote mark. In the first error above, </span>*string*<span offset-key="ef518df147834f14a664411ed17a14e7:2"> would be replaced with the unexpected character(s) that the browser found instead of a quote mark at the start of a string. The second error means that the string has not been ended with a quote mark.</span></span>
+<span key="ef518df147834f14a664411ed17a14e7"><span offset-key="ef518df147834f14a664411ed17a14e7:0">These errors generally mean that you've left off a string value's opening or closing quote mark. In the first error above, </span>_string_<span offset-key="ef518df147834f14a664411ed17a14e7:2"> would be replaced with the unexpected character(s) that the browser found instead of a quote mark at the start of a string. The second error means that the string has not been ended with a quote mark.</span></span>
 
 <span key="9722984633b64733a428f2a615da8ec7"><span offset-key="9722984633b64733a428f2a615da8ec7:0">For all of these errors, think about how we tackled the examples we looked at in the walkthrough. When an error arises, look at the line number you are given, go to that line and see if you can spot what's wrong. Bear in mind that the error is not necessarily going to be on that line, and also that the error might not be caused by the exact same problem we cited above!</span></span>
 
-<span key="9fe2990ab2a74099a469d9d7ad21bbf4">**Note:**<span offset-key="9fe2990ab2a74099a469d9d7ad21bbf4:1"> See our \[SyntaxError: Unexpected token\]Reference/Errors/Unexpected\_token) and \[SyntaxError: unterminated string literal\]Reference/Errors/Unterminated\_string\_literal) reference pages for more details about these errors.</span></span>
+<span key="9fe2990ab2a74099a469d9d7ad21bbf4">**Note:**<span offset-key="9fe2990ab2a74099a469d9d7ad21bbf4:1"> See our \[SyntaxError: Unexpected token\]Reference/Errors/Unexpected_token) and \[SyntaxError: unterminated string literal\]Reference/Errors/Unterminated_string_literal) reference pages for more details about these errors.</span></span>
 
 <span key="e7b450db5a564c61a63003e5593277e7"><span offset-key="e7b450db5a564c61a63003e5593277e7:0">Error</span>`objects are thrown when runtime errors occur. The`<span offset-key="e7b450db5a564c61a63003e5593277e7:2">Error\` object can also be used as a base object for user-defined exceptions. See below for standard built-in error types.</span></span>
 
-# 
+#
 
 <span key="70f665616fa94b01aaacce96015c77e9"><span offset-key="70f665616fa94b01aaacce96015c77e9:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -2011,13 +2011,13 @@ Copied!
 
 <span key="28d82dbcf5524897b13117a3113b50e2"><span offset-key="28d82dbcf5524897b13117a3113b50e2:0">split</span></span>
 
-# 
+#
 
 <span key="266e565f39ff49b2b4c45b1e80939f6d"><span offset-key="266e565f39ff49b2b4c45b1e80939f6d:0">\[Description\]/error#description Description")</span></span>
 
 <span key="abd3bca16e404a1098af604469738dc6"><span offset-key="abd3bca16e404a1098af604469738dc6:0">Runtime errors result in new </span>`Error`<span offset-key="abd3bca16e404a1098af604469738dc6:2"> objects being created and thrown.</span></span>
 
-## 
+##
 
 <span key="82c7d5f07c1d4bc58ea8879b308ee363"><span offset-key="82c7d5f07c1d4bc58ea8879b308ee363:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -2027,11 +2027,11 @@ Copied!
 
 <span key="128d19bddf3a4fd9a6b094dae5f4329f"><span offset-key="128d19bddf3a4fd9a6b094dae5f4329f:0">split</span></span>
 
-# 
+#
 
-<span key="6f37576d207141fca70e98deae14793e"><span offset-key="6f37576d207141fca70e98deae14793e:0">\[Error types\]/error#error\_types Error types")</span></span>
+<span key="6f37576d207141fca70e98deae14793e"><span offset-key="6f37576d207141fca70e98deae14793e:0">\[Error types\]/error#error_types Error types")</span></span>
 
-<span key="600b11f968c84288afbf12c82997134e"><span offset-key="600b11f968c84288afbf12c82997134e:0">Besides the generic </span>`Error`<span offset-key="600b11f968c84288afbf12c82997134e:2"> constructor, there are other core error constructors in JavaScript. For client-side exceptions, see \[Exception handling statements\]Guide/Control\_flow\_and\_error\_handling#exception\_handling\_statements).</span></span>
+<span key="600b11f968c84288afbf12c82997134e"><span offset-key="600b11f968c84288afbf12c82997134e:0">Besides the generic </span>`Error`<span offset-key="600b11f968c84288afbf12c82997134e:2"> constructor, there are other core error constructors in JavaScript. For client-side exceptions, see \[Exception handling statements\]Guide/Control_flow_and_error_handling#exception_handling_statements).</span></span>
 
 <span key="03bdc57d416a4512ba69bafc297ffa7c"><span offset-key="03bdc57d416a4512ba69bafc297ffa7c:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -2039,7 +2039,7 @@ Copied!
 
 <span key="e3d3d2fdd4b84edd8ad64dc0b68472b1"><span offset-key="e3d3d2fdd4b84edd8ad64dc0b68472b1:0">split</span></span>
 
-# 
+#
 
 <span key="fdf459a5fcb049cbbd09c46b7b24afe8"><span offset-key="fdf459a5fcb049cbbd09c46b7b24afe8:0">\[</span>`EvalError`<span offset-key="fdf459a5fcb049cbbd09c46b7b24afe8:2">\]/EvalError)</span></span>
 
@@ -2051,7 +2051,7 @@ Copied!
 
 <span key="4e1fbbcea49046fbb4abae87b15ce02a"><span offset-key="4e1fbbcea49046fbb4abae87b15ce02a:0">split</span></span>
 
-# 
+#
 
 <span key="f1ce37df10e4475fae28bffba7010f5b"><span offset-key="f1ce37df10e4475fae28bffba7010f5b:0">\[</span>`RangeError`<span offset-key="f1ce37df10e4475fae28bffba7010f5b:2">\]/RangeError)</span></span>
 
@@ -2063,7 +2063,7 @@ Copied!
 
 <span key="e8448595199d488184e0ef80a0f869b4"><span offset-key="e8448595199d488184e0ef80a0f869b4:0">split</span></span>
 
-# 
+#
 
 <span key="df6d724b2c2b4a7aaf528c464697813f"><span offset-key="df6d724b2c2b4a7aaf528c464697813f:0">\[</span>`ReferenceError`<span offset-key="df6d724b2c2b4a7aaf528c464697813f:2">\]/ReferenceError)</span></span>
 
@@ -2075,7 +2075,7 @@ Copied!
 
 <span key="f9b22806d6da44acb2765f012b54e2c4"><span offset-key="f9b22806d6da44acb2765f012b54e2c4:0">split</span></span>
 
-# 
+#
 
 <span key="4c0fe1cc9f424fa086b5d5f3ff2e5496"><span offset-key="4c0fe1cc9f424fa086b5d5f3ff2e5496:0">\[</span>`SyntaxError`<span offset-key="4c0fe1cc9f424fa086b5d5f3ff2e5496:2">\]/SyntaxError)</span></span>
 
@@ -2087,7 +2087,7 @@ Copied!
 
 <span key="0e4cdc9d096946ca9dadf6da3b5147a3"><span offset-key="0e4cdc9d096946ca9dadf6da3b5147a3:0">split</span></span>
 
-# 
+#
 
 <span key="d0d08c71895c4a63979d06ddafd3f71d"><span offset-key="d0d08c71895c4a63979d06ddafd3f71d:0">\[</span>`TypeError`<span offset-key="d0d08c71895c4a63979d06ddafd3f71d:2">\]/TypeError)</span></span>
 
@@ -2099,7 +2099,7 @@ Copied!
 
 <span key="24ebadc71e83461d8116800125f71295"><span offset-key="24ebadc71e83461d8116800125f71295:0">split</span></span>
 
-# 
+#
 
 <span key="61af6a111ae243cfb18998c3097a7ebc"><span offset-key="61af6a111ae243cfb18998c3097a7ebc:0">\[</span>`URIError`<span offset-key="61af6a111ae243cfb18998c3097a7ebc:2">\]/URIError)</span></span>
 
@@ -2111,7 +2111,7 @@ Copied!
 
 <span key="f2767e3818bd4e61b3e77967a23b6307"><span offset-key="f2767e3818bd4e61b3e77967a23b6307:0">split</span></span>
 
-# 
+#
 
 <span key="f4cc72c32e534165a1f31e6872f77bac"><span offset-key="f4cc72c32e534165a1f31e6872f77bac:0">\[</span>`AggregateError`<span offset-key="f4cc72c32e534165a1f31e6872f77bac:2">\]/AggregateError)</span></span>
 
@@ -2123,13 +2123,13 @@ Copied!
 
 <span key="c1a55a77257d4312bac7091cf6d8e66d"><span offset-key="c1a55a77257d4312bac7091cf6d8e66d:0">split</span></span>
 
-# 
+#
 
 <span key="33fa2d3409f4487293a472afc206169b"><span offset-key="33fa2d3409f4487293a472afc206169b:0">\[</span>`InternalError`<span offset-key="33fa2d3409f4487293a472afc206169b:2">\]/InternalError)</span></span>
 
 <span key="83c635945a034540937f17b641ace11c"><span offset-key="83c635945a034540937f17b641ace11c:0">Creates an instance representing an error that occurs when an internal error in the JavaScript engine is thrown. E.g. "too much recursion".</span></span>
 
-# 
+#
 
 <span key="9e36a11c4e2649c0becfec09b8988a04"><span offset-key="9e36a11c4e2649c0becfec09b8988a04:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -2139,7 +2139,7 @@ Copied!
 
 <span key="a711cbd25dbc4c069ccad20a267c50bb"><span offset-key="a711cbd25dbc4c069ccad20a267c50bb:0">split</span></span>
 
-# 
+#
 
 <span key="47c66971c3c24e15af2b21b33151dfa7"><span offset-key="47c66971c3c24e15af2b21b33151dfa7:0">\[Constructor\]/error#constructor Constructor")</span></span>
 
@@ -2149,13 +2149,13 @@ Copied!
 
 <span key="66dcc780a6f045889d351e72ddd2b7d7"><span offset-key="66dcc780a6f045889d351e72ddd2b7d7:0">split</span></span>
 
-# 
+#
 
 <span key="33bf467ccb694ce2919d59484aec4ccd"><span offset-key="33bf467ccb694ce2919d59484aec4ccd:0">\[</span>`Error()`<span offset-key="33bf467ccb694ce2919d59484aec4ccd:2">\]/Error/Error)</span></span>
 
 <span key="be421f3764e04c9c85b1918f11220246"><span offset-key="be421f3764e04c9c85b1918f11220246:0">Creates a new </span>`Error`<span offset-key="be421f3764e04c9c85b1918f11220246:2"> object.</span></span>
 
-# 
+#
 
 <span key="200a044e539843b38496b29c2e4dbc38"><span offset-key="200a044e539843b38496b29c2e4dbc38:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -2165,11 +2165,11 @@ Copied!
 
 <span key="50435d9c2991499f85ec2477b15b0a30"><span offset-key="50435d9c2991499f85ec2477b15b0a30:0">split</span></span>
 
-# 
+#
 
-<span key="a5512eb87f2d4aaf9e9fcf452001a5de"><span offset-key="a5512eb87f2d4aaf9e9fcf452001a5de:0">\[Static methods\]/error#static\_methods Static methods")</span></span>
+<span key="a5512eb87f2d4aaf9e9fcf452001a5de"><span offset-key="a5512eb87f2d4aaf9e9fcf452001a5de:0">\[Static methods\]/error#static_methods Static methods")</span></span>
 
-# 
+#
 
 <span key="e14730e230674741ab9d19084cc4b357"><span offset-key="e14730e230674741ab9d19084cc4b357:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -2179,11 +2179,11 @@ Copied!
 
 <span key="d5cfc17314c842c4b733fe8d74de2dc0"><span offset-key="d5cfc17314c842c4b733fe8d74de2dc0:0">split</span></span>
 
-# 
+#
 
-<span key="7ca80a02532940d3a682a0ede6da473e"><span offset-key="7ca80a02532940d3a682a0ede6da473e:0">\[Instance properties\]/error#instance\_properties Instance properties")</span></span>
+<span key="7ca80a02532940d3a682a0ede6da473e"><span offset-key="7ca80a02532940d3a682a0ede6da473e:0">\[Instance properties\]/error#instance_properties Instance properties")</span></span>
 
-# 
+#
 
 <span key="9b6908dd4f06441b985d42066e859808"><span offset-key="9b6908dd4f06441b985d42066e859808:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -2193,11 +2193,11 @@ Copied!
 
 <span key="9d65cf5e954e421a8dcbd4456b93bf0f"><span offset-key="9d65cf5e954e421a8dcbd4456b93bf0f:0">split</span></span>
 
-# 
+#
 
-<span key="08ecf412fa0a4345bec23132ec39b8a5"><span offset-key="08ecf412fa0a4345bec23132ec39b8a5:0">\[Instance methods\]/error#instance\_methods Instance methods")</span></span>
+<span key="08ecf412fa0a4345bec23132ec39b8a5"><span offset-key="08ecf412fa0a4345bec23132ec39b8a5:0">\[Instance methods\]/error#instance_methods Instance methods")</span></span>
 
-# 
+#
 
 <span key="e1390556fdc24d5a811ffdeb2a482dae"><span offset-key="e1390556fdc24d5a811ffdeb2a482dae:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -2207,11 +2207,11 @@ Copied!
 
 <span key="0e73ebf2038f4061a95fc2eb63685ffe"><span offset-key="0e73ebf2038f4061a95fc2eb63685ffe:0">split</span></span>
 
-# 
+#
 
 <span key="79133b3279be46298d500fb54316976e"><span offset-key="79133b3279be46298d500fb54316976e:0">\[Examples\]/error#examples Examples")</span></span>
 
-## 
+##
 
 <span key="13d8696268364169bfb8dbce40a41f85"><span offset-key="13d8696268364169bfb8dbce40a41f85:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -2221,7 +2221,7 @@ Copied!
 
 <span key="c99a8b745b074b8cb26f14a524830df1"><span offset-key="c99a8b745b074b8cb26f14a524830df1:0">split</span></span>
 
-# 
+#
 
 <span key="ee817565d6ce4c4c95f57617d6b4230d"><span offset-key="ee817565d6ce4c4c95f57617d6b4230d:0">\[Throwing a generic error\]</span></span>
 
@@ -2251,7 +2251,7 @@ Copied!
 
 Copied!
 
-## 
+##
 
 <span key="621f0461aa0648cb969b0a52ff5feca9"><span offset-key="621f0461aa0648cb969b0a52ff5feca9:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -2261,7 +2261,7 @@ Copied!
 
 <span key="1668d1ac2ec1419cad4c25b65c8c89c4"><span offset-key="1668d1ac2ec1419cad4c25b65c8c89c4:0">split</span></span>
 
-# 
+#
 
 <span key="505c8f1917f74cfc907b95310fa17249"><span offset-key="505c8f1917f74cfc907b95310fa17249:0">\[Handling a specific error type\]</span></span>
 
@@ -2331,7 +2331,7 @@ Copied!
 
 Copied!
 
-## 
+##
 
 <span key="979c673ab3e546b491151aba41767feb"><span offset-key="979c673ab3e546b491151aba41767feb:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -2341,7 +2341,7 @@ Copied!
 
 <span key="70e9d7d83001429fb6f3ce96a80efce3"><span offset-key="70e9d7d83001429fb6f3ce96a80efce3:0">split</span></span>
 
-# 
+#
 
 <span key="7520e276406a4d2bbaba69a973648fff"><span offset-key="7520e276406a4d2bbaba69a973648fff:0">\[Differentiate between similar errors\]</span></span>
 
@@ -2455,7 +2455,7 @@ Copied!
 
 Copied!
 
-<span key="13c2dc9ff6ef41c787efaf0a18c23588"><span offset-key="13c2dc9ff6ef41c787efaf0a18c23588:0">You can also use the </span>`cause`<span offset-key="13c2dc9ff6ef41c787efaf0a18c23588:2"> property in \[custom error types\]/error#custom\_error\_types), provided the subclasses' constructor passes the </span>`options`<span offset-key="13c2dc9ff6ef41c787efaf0a18c23588:4"> parameter when calling </span>`super()`<span offset-key="13c2dc9ff6ef41c787efaf0a18c23588:6">:</span></span>
+<span key="13c2dc9ff6ef41c787efaf0a18c23588"><span offset-key="13c2dc9ff6ef41c787efaf0a18c23588:0">You can also use the </span>`cause`<span offset-key="13c2dc9ff6ef41c787efaf0a18c23588:2"> property in \[custom error types\]/error#custom_error_types), provided the subclasses' constructor passes the </span>`options`<span offset-key="13c2dc9ff6ef41c787efaf0a18c23588:4"> parameter when calling </span>`super()`<span offset-key="13c2dc9ff6ef41c787efaf0a18c23588:6">:</span></span>
 
 1
 
@@ -2485,7 +2485,7 @@ Copied!
 
 Copied!
 
-## 
+##
 
 <span key="9930012304134571ad5af64ac774449b"><span offset-key="9930012304134571ad5af64ac774449b:0"><span slate-zero-width="n">​</span></span></span>
 
@@ -2495,7 +2495,7 @@ Copied!
 
 <span key="3fa9bc96af5a480a99a0133ab3170b3b"><span offset-key="3fa9bc96af5a480a99a0133ab3170b3b:0">split</span></span>
 
-# 
+#
 
 <span key="8fbd758fce74440bb481a6ed3ed7869a"><span offset-key="8fbd758fce74440bb481a6ed3ed7869a:0">\[Custom Error Types\]</span></span>
 
@@ -2513,7 +2513,7 @@ Copied!
 
 <span key="a60302f17f454776b911f841282b4368"><span offset-key="a60302f17f454776b911f841282b4368:0">split</span></span>
 
-# 
+#
 
 <span key="415b8102b24e463fba0a78e089e30e79"><span offset-key="415b8102b24e463fba0a78e089e30e79:0">ES6 Custom Error Class</span></span>
 
@@ -2625,7 +2625,7 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span key="33dd094fe8ce4d2ebe1ad16be77a4194"><span offset-key="33dd094fe8ce4d2ebe1ad16be77a4194:0">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</span></span>
 
@@ -2801,41 +2801,41 @@ Copied!
 
 <span key="3efabadab2874214b8f06f228281e6cb"><span offset-key="3efabadab2874214b8f06f228281e6cb:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="a7523c4528cc45e4acd70b9f65c32254"><span offset-key="a7523c4528cc45e4acd70b9f65c32254:0">Challenge:</span></span>
 
 <span key="d62c3606dc2f4751b8db8dd85972c73a"><span offset-key="d62c3606dc2f4751b8db8dd85972c73a:0">There is a made up API URL (</span>`http://great.jokes/christmas`<span offset-key="d62c3606dc2f4751b8db8dd85972c73a:2">) that you can call to a get list of Christmas jokes in JSON format.</span></span>
 
-## 
+##
 
 <span key="79fcf2af5f654102a48ba70a2a0e1920"><span offset-key="79fcf2af5f654102a48ba70a2a0e1920:0">Your challenge</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="ccd07397d3524acc8c78ab2f0a7e6a47"><span offset-key="ccd07397d3524acc8c78ab2f0a7e6a47:0">Write an async function which takes an </span>`apiUrl`<span offset-key="ccd07397d3524acc8c78ab2f0a7e6a47:2"> and </span>`jokeId`<span offset-key="ccd07397d3524acc8c78ab2f0a7e6a47:4"> which returns a promise.</span></span>
+  <span key="ccd07397d3524acc8c78ab2f0a7e6a47"><span offset-key="ccd07397d3524acc8c78ab2f0a7e6a47:0">Write an async function which takes an </span>`apiUrl`<span offset-key="ccd07397d3524acc8c78ab2f0a7e6a47:2"> and </span>`jokeId`<span offset-key="ccd07397d3524acc8c78ab2f0a7e6a47:4"> which returns a promise.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="c38e8302badf4c9398f0cf1094e2a942"><span offset-key="c38e8302badf4c9398f0cf1094e2a942:0">The data will need to be filtered to get the specified joke by </span>`id`<span offset-key="c38e8302badf4c9398f0cf1094e2a942:2">.</span></span>
+  <span key="c38e8302badf4c9398f0cf1094e2a942"><span offset-key="c38e8302badf4c9398f0cf1094e2a942:0">The data will need to be filtered to get the specified joke by </span>`id`<span offset-key="c38e8302badf4c9398f0cf1094e2a942:2">.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="175ee7a1b0964288bd3514cb43ff8723"><span offset-key="175ee7a1b0964288bd3514cb43ff8723:0">When you got the joke it should be accessible through a simple API of </span>`saySetup`<span offset-key="175ee7a1b0964288bd3514cb43ff8723:2"> and </span>`sayPunchLine`<span offset-key="175ee7a1b0964288bd3514cb43ff8723:4"> methods.</span></span>
+  <span key="175ee7a1b0964288bd3514cb43ff8723"><span offset-key="175ee7a1b0964288bd3514cb43ff8723:0">When you got the joke it should be accessible through a simple API of </span>`saySetup`<span offset-key="175ee7a1b0964288bd3514cb43ff8723:2"> and </span>`sayPunchLine`<span offset-key="175ee7a1b0964288bd3514cb43ff8723:4"> methods.</span></span>
 
 <span key="c1f8a7c7eac7450992fd41916ecd6758"><span offset-key="c1f8a7c7eac7450992fd41916ecd6758:0">Handle error cases</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="d707e45243554a6ca7be7ea544f950ff"><span offset-key="d707e45243554a6ca7be7ea544f950ff:0">If a joke can't be found throw an error message in this format </span>`new Error('No jokes found id: {jokeId}')`<span offset-key="d707e45243554a6ca7be7ea544f950ff:2">.</span></span>
+  <span key="d707e45243554a6ca7be7ea544f950ff"><span offset-key="d707e45243554a6ca7be7ea544f950ff:0">If a joke can't be found throw an error message in this format </span>`new Error('No jokes found id: {jokeId}')`<span offset-key="d707e45243554a6ca7be7ea544f950ff:2">.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="ab5500b27b3e46cbab13c0a2cfa1c60e"><span offset-key="ab5500b27b3e46cbab13c0a2cfa1c60e:0">Getting jokes from a another API URL may return a different data shape, throw this error message </span>`new Error('No jokes at url: {url}')`<span offset-key="ab5500b27b3e46cbab13c0a2cfa1c60e:2"> for an unexpected shape.</span></span>
+  <span key="ab5500b27b3e46cbab13c0a2cfa1c60e"><span offset-key="ab5500b27b3e46cbab13c0a2cfa1c60e:0">Getting jokes from a another API URL may return a different data shape, throw this error message </span>`new Error('No jokes at url: {url}')`<span offset-key="ab5500b27b3e46cbab13c0a2cfa1c60e:2"> for an unexpected shape.</span></span>
 
-<span key="18058c684ba34a178856541bb9c3f970">*Throw error in a promise style*</span>
+<span key="18058c684ba34a178856541bb9c3f970">_Throw error in a promise style_</span>
 
-## 
+##
 
 <span key="839d9b12dd5141a2bf03ea54a5b94a87"><span offset-key="839d9b12dd5141a2bf03ea54a5b94a87:0">Info</span></span>
 
@@ -2899,45 +2899,45 @@ Copied!
 
 <span key="417674e6e9c640258176c76f23fb7cd5"><span offset-key="417674e6e9c640258176c76f23fb7cd5:0">Safari is a notable exception. There is no stack property, but the throw keyword sets sourceURL and line properties of the object that is being thrown. Those things are guaranteed to be correct.</span></span>
 
-# 
+#
 
 <span key="44649ddf234b4b2ba1ff63bd16c81f72"><span offset-key="44649ddf234b4b2ba1ff63bd16c81f72:0">Static Analysis Testing JavaScript Applications</span></span>
 
 <span key="0908d003b5434e8ab17f1b62a0cbe281">**Table of Contents**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="c679b8b2e80d4425b1d98ac4bd6a0a71"><span offset-key="c679b8b2e80d4425b1d98ac4bd6a0a71:0">1. Lint JavaScript by configuring and running ESLint</span></span>
+  <span key="c679b8b2e80d4425b1d98ac4bd6a0a71"><span offset-key="c679b8b2e80d4425b1d98ac4bd6a0a71:0">1. Lint JavaScript by configuring and running ESLint</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="a6f1548d1a064dc68995b03aa428bf2c"><span offset-key="a6f1548d1a064dc68995b03aa428bf2c:0">2. Format Code by installing and running Prettier</span></span>
+  <span key="a6f1548d1a064dc68995b03aa428bf2c"><span offset-key="a6f1548d1a064dc68995b03aa428bf2c:0">2. Format Code by installing and running Prettier</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="4822899bf3664ba3babdcf08c6f12462"><span offset-key="4822899bf3664ba3babdcf08c6f12462:0">3. Configure Prettier</span></span>
+  <span key="4822899bf3664ba3babdcf08c6f12462"><span offset-key="4822899bf3664ba3babdcf08c6f12462:0">3. Configure Prettier</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="dc9b77b775c04bde9acac161610d453b"><span offset-key="dc9b77b775c04bde9acac161610d453b:0">4. Disable Unnecessary ESLint Stylistic Rules with eslint-config-prettier</span></span>
+  <span key="dc9b77b775c04bde9acac161610d453b"><span offset-key="dc9b77b775c04bde9acac161610d453b:0">4. Disable Unnecessary ESLint Stylistic Rules with eslint-config-prettier</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="bec1c8fa892c466d9ebfb33802d7051e"><span offset-key="bec1c8fa892c466d9ebfb33802d7051e:0">5. Validate all files are formatted when linting</span></span>
+  <span key="bec1c8fa892c466d9ebfb33802d7051e"><span offset-key="bec1c8fa892c466d9ebfb33802d7051e:0">5. Validate all files are formatted when linting</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="23297868a3af4ea288f57dcead1de54f"><span offset-key="23297868a3af4ea288f57dcead1de54f:0">6. Avoid Common Errors with Flow Type Definitions</span></span>
+  <span key="23297868a3af4ea288f57dcead1de54f"><span offset-key="23297868a3af4ea288f57dcead1de54f:0">6. Avoid Common Errors with Flow Type Definitions</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="0fc7f23210dc4124a369589da022cca8"><span offset-key="0fc7f23210dc4124a369589da022cca8:0">7. Validate Code in a pre-commit git Hook with husky</span></span>
+  <span key="0fc7f23210dc4124a369589da022cca8"><span offset-key="0fc7f23210dc4124a369589da022cca8:0">7. Validate Code in a pre-commit git Hook with husky</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="347b68c7a66b4632a4f1924fa0b47001"><span offset-key="347b68c7a66b4632a4f1924fa0b47001:0">8. Auto-format all files and validate relevant files in a precommit script with </span>`lint-staged`</span>
+  <span key="347b68c7a66b4632a4f1924fa0b47001"><span offset-key="347b68c7a66b4632a4f1924fa0b47001:0">8. Auto-format all files and validate relevant files in a precommit script with </span>`lint-staged`</span>
 
-## 
+##
 
 <span key="4a9281224f804d9cbd4dbcaec8fcb1f6"><span offset-key="4a9281224f804d9cbd4dbcaec8fcb1f6:0">1. Lint JavaScript by configuring and running ESLint</span></span>
 
@@ -2959,7 +2959,7 @@ Copied!
 
 <span key="6f9b4171d2ee4d6f81ada70d8ffcc01d"><span offset-key="6f9b4171d2ee4d6f81ada70d8ffcc01d:0">The </span>`env`<span offset-key="6f9b4171d2ee4d6f81ada70d8ffcc01d:2"> property can be used to set the environment against which files should be evaluated.</span></span>
 
-## 
+##
 
 <span key="54d9cdbae521418196162d834381700b"><span offset-key="54d9cdbae521418196162d834381700b:0">2. Format Code by installing and running Prettier</span></span>
 
@@ -2975,13 +2975,13 @@ Copied!
 
 <span key="91a8157d545842d1942b3fab8430f96c">`prettier`<span offset-key="91a8157d545842d1942b3fab8430f96c:1"> can be used to format markdown and graphql, too.</span></span>
 
-## 
+##
 
 <span key="9d5c590d1b5f4a1c8e00f0b8bd429575"><span offset-key="9d5c590d1b5f4a1c8e00f0b8bd429575:0">3. Configure Prettier</span></span>
 
 <span key="23c3a7b865ea40fb89a8c208242cd22e">`prettier`<span offset-key="23c3a7b865ea40fb89a8c208242cd22e:1"> allows for a </span>`.prettierignore`<span offset-key="23c3a7b865ea40fb89a8c208242cd22e:3"> to ignore formatting of generated files</span></span>
 
-## 
+##
 
 <span key="e2bcd36d2842466baf316c7290aedf19"><span offset-key="e2bcd36d2842466baf316c7290aedf19:0">4. Disable Unnecessary ESLint Stylistic Rules with eslint-config-prettier</span></span>
 
@@ -2989,7 +2989,7 @@ Copied!
 
 <span key="9a2002d3ebbb48609898347badd25ced">`rules`<span offset-key="9a2002d3ebbb48609898347badd25ced:1"> in the the eslint config take precedence over any extensions.</span></span>
 
-## 
+##
 
 <span key="6d02b4165d6249aaa9b4c6b85f931ea9"><span offset-key="6d02b4165d6249aaa9b4c6b85f931ea9:0">5. Validate all files are formatted when linting</span></span>
 
@@ -3053,51 +3053,51 @@ Copied!
 
 Copied!
 
-## 
+##
 
 <span key="b5656b7fb5b547e09fa54b8f0e27ccd6"><span offset-key="b5656b7fb5b547e09fa54b8f0e27ccd6:0">6. Avoid Common Errors with Flow Type Definitions</span></span>
 
 <span key="d6702acbad94492fafe595f8a2e42ac0"><span offset-key="d6702acbad94492fafe595f8a2e42ac0:0">Use </span>`@flow`<span offset-key="d6702acbad94492fafe595f8a2e42ac0:2"> at the top of files that you want to use </span>`flow`<span offset-key="d6702acbad94492fafe595f8a2e42ac0:4"> to make type strict after installing </span>`flow-bin`<span offset-key="d6702acbad94492fafe595f8a2e42ac0:6"> as a dev dependency.</span></span>
 
-## 
+##
 
 <span key="af02065391b54df0aad23d3a631ce40d"><span offset-key="af02065391b54df0aad23d3a631ce40d:0">7. Validate Code in a pre-commit git Hook with husky</span></span>
 
 <span key="ee3f55ebbfc74317abd4de705a1a0f0f">`husky`<span offset-key="ee3f55ebbfc74317abd4de705a1a0f0f:1"> works in a similar way to </span>`ghooks`<span offset-key="ee3f55ebbfc74317abd4de705a1a0f0f:3">, except that you add npm scripts to run pre and post-hooks.</span></span>
 
-## 
+##
 
 <span key="10e9d974295144b3a4043733d6fbe124"><span offset-key="10e9d974295144b3a4043733d6fbe124:0">8. Auto-format all files and validate relevant files in a precommit script with </span>`lint-staged`</span>
 
 <span key="eb899be3663642b8b8610bb9890261eb">`lint-staged`<span offset-key="eb899be3663642b8b8610bb9890261eb:1"> not only allows linters to be run on precommit, but allows one to define commands to be run should linting pass, allowing for repo owners to have autoformatting run and changed files staged without relying on collaborators to have autoformatters enabled.</span></span>
 
-# 
+#
 
 <span key="01d72ecb658546ad9c12d913b77881b0"><span offset-key="01d72ecb658546ad9c12d913b77881b0:0">JavaScript Mocking Fundamentals</span></span>
 
 <span key="5f677f727e08495aadc206cd52ee3ce2">**Table of Contents**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="fdf0cc1c780f4c3b86088f3d279b5107"><span offset-key="fdf0cc1c780f4c3b86088f3d279b5107:0">1. Override Object Properties to Mock with Monkey-patching in JavaScript</span></span>
+  <span key="fdf0cc1c780f4c3b86088f3d279b5107"><span offset-key="fdf0cc1c780f4c3b86088f3d279b5107:0">1. Override Object Properties to Mock with Monkey-patching in JavaScript</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="01edb08bf3b94174bfdecf63934525aa"><span offset-key="01edb08bf3b94174bfdecf63934525aa:0">2. Ensure Functions are Called Correctly with JavaScript Mocks</span></span>
+  <span key="01edb08bf3b94174bfdecf63934525aa"><span offset-key="01edb08bf3b94174bfdecf63934525aa:0">2. Ensure Functions are Called Correctly with JavaScript Mocks</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="cc559f439ea0498486fab904db94d6a4"><span offset-key="cc559f439ea0498486fab904db94d6a4:0">3. Restore the Original Implementation of a Mocked JavaScript Function with jest.spyOn</span></span>
+  <span key="cc559f439ea0498486fab904db94d6a4"><span offset-key="cc559f439ea0498486fab904db94d6a4:0">3. Restore the Original Implementation of a Mocked JavaScript Function with jest.spyOn</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="30b01979e9e34b4db0390a12c77e781c"><span offset-key="30b01979e9e34b4db0390a12c77e781c:0">4. Mock a JavaScript module in a test</span></span>
+  <span key="30b01979e9e34b4db0390a12c77e781c"><span offset-key="30b01979e9e34b4db0390a12c77e781c:0">4. Mock a JavaScript module in a test</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="6378c5c8f86c4ab196b2c02f71fef324"><span offset-key="6378c5c8f86c4ab196b2c02f71fef324:0">5. Make a shared JavaScript mock module</span></span>
+  <span key="6378c5c8f86c4ab196b2c02f71fef324"><span offset-key="6378c5c8f86c4ab196b2c02f71fef324:0">5. Make a shared JavaScript mock module</span></span>
 
-## 
+##
 
 <span key="395bb6d9d6654cbca9cb12d64699140d"><span offset-key="395bb6d9d6654cbca9cb12d64699140d:0">1. Override Object Properties to Mock with Monkey-patching in JavaScript</span></span>
 
@@ -3135,7 +3135,7 @@ Copied!
 
 <span key="9da575c23a844062a9defd6f787148d0"><span offset-key="9da575c23a844062a9defd6f787148d0:0">After mocking, one should always clean up so that subsequent tests are not affected by the mock.</span></span>
 
-## 
+##
 
 <span key="861f49ab5ceb4a069db7089e1dc4df94"><span offset-key="861f49ab5ceb4a069db7089e1dc4df94:0">2. Ensure Functions are Called Correctly with JavaScript Mocks</span></span>
 
@@ -3177,7 +3177,7 @@ Copied!
 
 <span key="54287d3a36dd4b64849b68e48f6cb50f"><span offset-key="54287d3a36dd4b64849b68e48f6cb50f:0">Jest allows one to inspect a mocked function using </span>`toHaveBeenCalledWith`<span offset-key="54287d3a36dd4b64849b68e48f6cb50f:2">, </span>`toHaveBeenNthCalledWith`<span offset-key="54287d3a36dd4b64849b68e48f6cb50f:4">, or to inspect </span>`mockFn.mock.calls`<span offset-key="54287d3a36dd4b64849b68e48f6cb50f:6"> to inspect how the function was used for all calls.</span></span>
 
-## 
+##
 
 <span key="dedc41345f89411bb2847fadbaa54a65"><span offset-key="dedc41345f89411bb2847fadbaa54a65:0">3. Restore the Original Implementation of a Mocked JavaScript Function with jest.spyOn</span></span>
 
@@ -3222,7 +3222,7 @@ Copied!
 3.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">3.</span>
     <span key="7bbcdf3ccafb4799a38f0253af4b8e79"><span offset-key="7bbcdf3ccafb4799a38f0253af4b8e79:0">Once done testing the implementation, use </span>`myObject.myObjectFn.mockRestore()`<span offset-key="7bbcdf3ccafb4799a38f0253af4b8e79:2"> to replace the mock implementation with the original so that other tests are not affected. </span>`.mockRestore()`<span offset-key="7bbcdf3ccafb4799a38f0253af4b8e79:4"> restores the mock implementation to its pre-mocked definition</span></span>
 
-## 
+##
 
 <span key="fbe3325c0ff24242ba21768d43e3eacc"><span offset-key="fbe3325c0ff24242ba21768d43e3eacc:0">4. Mock a JavaScript module in a test</span></span>
 
@@ -3270,7 +3270,7 @@ Copied!
 
 <span key="bffa43568c4644cba154b8a74d4d6156"><span offset-key="bffa43568c4644cba154b8a74d4d6156:0">We use the </span>`exports`<span offset-key="bffa43568c4644cba154b8a74d4d6156:2"> property to create the mock implementation of the module</span></span>
 
-## 
+##
 
 <span key="ef8a4978c6234a4ebb77085b501482b5"><span offset-key="ef8a4978c6234a4ebb77085b501482b5:0">5. Make a shared JavaScript mock module</span></span>
 
@@ -3418,23 +3418,23 @@ Copied!
 
 <span key="463869a6962046a48113fc5e586f0f98"><span offset-key="463869a6962046a48113fc5e586f0f98:0">By default git diff compares the cwd to the last commit. If we append --staged we can compare the staging area instead of the cwd. There are many other ways to use git diff to compare as well!</span></span>
 
-# 
+#
 
 <span key="5e9e3e47bcf241218530042afdb1439c"><span offset-key="5e9e3e47bcf241218530042afdb1439c:0">See differences between the 'feature'</span></span>
 
-# 
+#
 
 <span key="3717bd00cf0e4aabb7442e9dfd815b32"><span offset-key="3717bd00cf0e4aabb7442e9dfd815b32:0">branch and the 'master' branch.</span></span>
 
 > <span key="65d16a37831f4bc6a904e6f35a8d76e8"><span offset-key="65d16a37831f4bc6a904e6f35a8d76e8:0">git diff master feature</span></span>
 
-# 
+#
 
 <span key="fe1cdc395a834e68b4733d4f00896cfc"><span offset-key="fe1cdc395a834e68b4733d4f00896cfc:0">Compare two different commits</span></span>
 
 > <span key="a97871e7304045e8a87628c74befe0aa"><span offset-key="a97871e7304045e8a87628c74befe0aa:0">git diff 1fc345a 2e3dff</span></span>
 
-# 
+#
 
 <span key="462d11eaf7b34dbfbb333873108353b3"><span offset-key="462d11eaf7b34dbfbb333873108353b3:0">Compare a specific file across separate commits</span></span>
 
@@ -3442,37 +3442,37 @@ Copied!
 
 <span key="f61927c5387a4159855aa8a61c9da728"><span offset-key="f61927c5387a4159855aa8a61c9da728:0">Using Git Checkout is entirely non-destructive. Git checkout has a few special characters and reserved references.</span></span>
 
-# 
+#
 
 <span key="e4167d66493540c190b27c0bc0e9838e"><span offset-key="e4167d66493540c190b27c0bc0e9838e:0">You can checkout a branch name.</span></span>
 
-# 
+#
 
 <span key="fda2261f23b847f1bad2d3f3da466868"><span offset-key="fda2261f23b847f1bad2d3f3da466868:0">You'll be using this particular branch a lot!</span></span>
 
 > <span key="f1068e6e41964582877693938c115cd5"><span offset-key="f1068e6e41964582877693938c115cd5:0">git checkout master</span></span>
 
-# 
+#
 
 <span key="de4e16522dfb41c49222100d2af80e2c"><span offset-key="de4e16522dfb41c49222100d2af80e2c:0">You can also use commit hashes directly</span></span>
 
 > <span key="a6f5259c1f5c4ef8ac972b0c915ba92a"><span offset-key="a6f5259c1f5c4ef8ac972b0c915ba92a:0">git checkout 7d3e2f1</span></span>
 
-# 
+#
 
 <span key="70675d09696b4ad390237998294c2372"><span offset-key="70675d09696b4ad390237998294c2372:0">Using a hyphen instead of a hash will take</span></span>
 
-# 
+#
 
 <span key="ac3e5fd74b3e477cad766edc421c9a3f"><span offset-key="ac3e5fd74b3e477cad766edc421c9a3f:0">you to the last branch you checked out</span></span>
 
 > <span key="49d997d1911149e58066d863a39b983f"><span offset-key="49d997d1911149e58066d863a39b983f:0">git checkout -</span></span>
 
-# 
+#
 
 <span key="2d9f4256dec644fab530b1e2a255683f"><span offset-key="2d9f4256dec644fab530b1e2a255683f:0">You can use "HEAD~N" to move N commits prior</span></span>
 
-# 
+#
 
 <span key="64a866520a6e4b749d915191589f7b30"><span offset-key="64a866520a6e4b749d915191589f7b30:0">to the current HEAD</span></span>
 
@@ -3492,7 +3492,7 @@ Copied!
 
 <span key="d3bafcd92c2c4228980dbd5d2b6d48a7"><span offset-key="d3bafcd92c2c4228980dbd5d2b6d48a7:0"><span slate-zero-width="n">​</span></span></span>
 
-## 
+##
 
 <span key="26f365dd02cf4aa4a034622af1acbb0b"><span offset-key="26f365dd02cf4aa4a034622af1acbb0b:0">--</span></span>
 
@@ -3574,9 +3574,9 @@ Copied!
 
 <span key="5d9bb60c385047138baeb0c733c3c46a"><span offset-key="5d9bb60c385047138baeb0c733c3c46a:0">As an example, let's take a look at the stack trace that is returned from the following (incredibly simplistic) code:</span></span>
 
-<span key="03eff6b4301f453e9e0190be97074c0b"><span offset-key="03eff6b4301f453e9e0190be97074c0b:0">function do\_the\_thing() { throw new Error("a thing happened!"); } do\_the\_thing(); When do\_the\_thing() is executed, an exception is immediately thrown. This results in the following stack trace:</span></span>
+<span key="03eff6b4301f453e9e0190be97074c0b"><span offset-key="03eff6b4301f453e9e0190be97074c0b:0">function do_the_thing() { throw new Error("a thing happened!"); } do_the_thing(); When do_the_thing() is executed, an exception is immediately thrown. This results in the following stack trace:</span></span>
 
-<span key="fb7500a78fa3474dae9fd4ffc7a2cba6"><span offset-key="fb7500a78fa3474dae9fd4ffc7a2cba6:0">Error: a thing happened! Stack trace: <a href="/cdn-cgi/l/email-protection" class="__cf_email__">[email protected]</a> eval code:2:9 @debugger eval code:1:7 As you can see, rather than simply returning the exception message, reading the stack trace in reverse order shows that the exception was thrown on line 1 at column 7, but was triggered by a call to do\_the\_thing() on line 2 at column 9. For more complicated stack traces, this can be invaluable as it gives us a lot of post-mortem information.</span></span>
+<span key="fb7500a78fa3474dae9fd4ffc7a2cba6"><span offset-key="fb7500a78fa3474dae9fd4ffc7a2cba6:0">Error: a thing happened! Stack trace: <a href="/cdn-cgi/l/email-protection" class="__cf_email__">[email protected]</a> eval code:2:9 @debugger eval code:1:7 As you can see, rather than simply returning the exception message, reading the stack trace in reverse order shows that the exception was thrown on line 1 at column 7, but was triggered by a call to do_the_thing() on line 2 at column 9. For more complicated stack traces, this can be invaluable as it gives us a lot of post-mortem information.</span></span>
 
 <span key="c53d03565e5343e292f6638ee4e865a3"><span offset-key="c53d03565e5343e292f6638ee4e865a3:0">A Brief Introduction to The Debugger While diagnosing bugs via log files works in some cases, sometimes a little more power is required. Thankfully, in most browsers it is possible to pause running scripts and step through them in order to identify issues as they happen. While doing this, it is possible to view and edit variables and properties, which gives you total control over the state of any running script in order to identify what is happening, where, and why.</span></span>
 
@@ -3794,7 +3794,7 @@ Instance properties
 
 <a href="/my-docs/v/embeds/#syntaxerror-missing-after-function-bodywhat_went_wrongsyntaxerror_missing_after_function_body-syntax" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
-\[SyntaxError: missing } after function body\](What\_went\_wrong#syntaxerror\_missing\_after\_function\_body SyntaxError: missing } after function body")
+\[SyntaxError: missing } after function body\](What_went_wrong#syntaxerror_missing_after_function_body SyntaxError: missing } after function body")
 
 <a href="/my-docs/v/embeds/#7" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
@@ -3812,7 +3812,7 @@ Instance properties
 
 <a href="/my-docs/v/embeds/#error-typeserrorerror_types-error-types" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
-\[Error types\]/error#error\_types Error types")
+\[Error types\]/error#error_types Error types")
 
 <a href="/my-docs/v/embeds/#evalerrorevalerror" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
@@ -3860,19 +3860,19 @@ Instance properties
 
 <a href="/my-docs/v/embeds/#static-methodserrorstatic_methods-static-methods" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
-\[Static methods\]/error#static\_methods Static methods")
+\[Static methods\]/error#static_methods Static methods")
 
 <a href="/my-docs/v/embeds/#12" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 <a href="/my-docs/v/embeds/#instance-propertieserrorinstance_properties-instance-properties" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
-\[Instance properties\]/error#instance\_properties Instance properties")
+\[Instance properties\]/error#instance_properties Instance properties")
 
 <a href="/my-docs/v/embeds/#13" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
 <a href="/my-docs/v/embeds/#instance-methodserrorinstance_methods-instance-methods" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
-\[Instance methods\]/error#instance\_methods Instance methods")
+\[Instance methods\]/error#instance_methods Instance methods")
 
 <a href="/my-docs/v/embeds/#14" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 

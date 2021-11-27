@@ -294,7 +294,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -316,7 +316,7 @@ Netlify
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc4LTM5NDdfIiBjbGFzcz0ici1oN2dkb2Igci0xMHB0dW43IHItMXZ6aTh4aSIgc3R5bGU9IndpZHRoOjE2cHgiPjxwYXRoIGQ9Ik05IDE4bDYtNi02LTYiPjwvcGF0aD48L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -358,7 +358,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -466,7 +466,7 @@ Use testing library to evaluate any framework...
 
 <span key="f5c60214cc0b460f8a24f49b98293d76"><span offset-key="f5c60214cc0b460f8a24f49b98293d76:0">means family... and family means no one gets left behind or forgotten...</span></span>
 
-# 
+#
 
 <span key="657a075369ea40edb2c6d3991c295605"><span offset-key="657a075369ea40edb2c6d3991c295605:0">Fundamentals of Testing in Javascript</span></span>
 
@@ -474,31 +474,31 @@ Use testing library to evaluate any framework...
 
 <span key="2dfa907d4b0d4c6e963746971b8972c4">**Table of Contents**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="ff322b22e2c0408cbf2984a93fe470fa"><span offset-key="ff322b22e2c0408cbf2984a93fe470fa:0">1. Throw an Error with a Simple Test in JavaScript</span></span>
+  <span key="ff322b22e2c0408cbf2984a93fe470fa"><span offset-key="ff322b22e2c0408cbf2984a93fe470fa:0">1. Throw an Error with a Simple Test in JavaScript</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="77625ca74d0c43ab88955b1757c624dd"><span offset-key="77625ca74d0c43ab88955b1757c624dd:0">2. Abstract Test Assertions into a JavaScript Assertion Library</span></span>
+  <span key="77625ca74d0c43ab88955b1757c624dd"><span offset-key="77625ca74d0c43ab88955b1757c624dd:0">2. Abstract Test Assertions into a JavaScript Assertion Library</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="1339f3b49c94457ebb815a45e606a51a"><span offset-key="1339f3b49c94457ebb815a45e606a51a:0">3. Encapsulate and Isolate Tests by building a JavaScript Testing Framework</span></span>
+  <span key="1339f3b49c94457ebb815a45e606a51a"><span offset-key="1339f3b49c94457ebb815a45e606a51a:0">3. Encapsulate and Isolate Tests by building a JavaScript Testing Framework</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="40d59f2bbfcb469f9b097897b9d7f621"><span offset-key="40d59f2bbfcb469f9b097897b9d7f621:0">4. Support Async Tests with JavaScripts Promises through async await</span></span>
+  <span key="40d59f2bbfcb469f9b097897b9d7f621"><span offset-key="40d59f2bbfcb469f9b097897b9d7f621:0">4. Support Async Tests with JavaScripts Promises through async await</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="cc7428c2eb864e9bb88a6e85c84ad9c9"><span offset-key="cc7428c2eb864e9bb88a6e85c84ad9c9:0">5. Provide Testing Helper Functions as Globals in JavaScript</span></span>
+  <span key="cc7428c2eb864e9bb88a6e85c84ad9c9"><span offset-key="cc7428c2eb864e9bb88a6e85c84ad9c9:0">5. Provide Testing Helper Functions as Globals in JavaScript</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9ImhlaWdodDoxMnB4O3ZlcnRpY2FsLWFsaWduOm1pZGRsZTt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm" />
 
-    <span key="028c5c4e9dca4f08a1b74770f7993067"><span offset-key="028c5c4e9dca4f08a1b74770f7993067:0">6. Verify Custom JavaScript Tests with Jest</span></span>
+  <span key="028c5c4e9dca4f08a1b74770f7993067"><span offset-key="028c5c4e9dca4f08a1b74770f7993067:0">6. Verify Custom JavaScript Tests with Jest</span></span>
 
-## 
+##
 
 <span key="4b6a22ade3fc478088a3db67f25d9ba3"><span offset-key="4b6a22ade3fc478088a3db67f25d9ba3:0">1. Throw an Error with a Simple Test in JavaScript</span></span>
 
@@ -514,7 +514,7 @@ Copied!
 
 <span key="dfc026f573b54d8d93c7742b15117507"><span offset-key="dfc026f573b54d8d93c7742b15117507:0">Throwing an error when a condition fails is the most fundamental aspect of a test.</span></span>
 
-## 
+##
 
 <span key="46fa5845cd364edb8cd6ccde27d84c5c"><span offset-key="46fa5845cd364edb8cd6ccde27d84c5c:0">2. Abstract Test Assertions into a JavaScript Assertion Library</span></span>
 
@@ -530,7 +530,7 @@ Copied!
 
 <span key="ef1dc42460fc4ca8a7a08cf6fd98bdba"><span offset-key="ef1dc42460fc4ca8a7a08cf6fd98bdba:0">An assertion library can be as simple as a function which takes a result and returns an object containing a number of different assertions which allows the user to determine how they want to evaluate that result against an expected value.</span></span>
 
-## 
+##
 
 <span key="b7888e35269d49c88d185048d9cdff8b"><span offset-key="b7888e35269d49c88d185048d9cdff8b:0">3. Encapsulate and Isolate Tests by building a JavaScript Testing Framework</span></span>
 
@@ -548,7 +548,7 @@ Copied!
 
 <span key="d4dc378acea247e4a1c969c9989d5347"><span offset-key="d4dc378acea247e4a1c969c9989d5347:0">This can be fixed by creating a function which takes a title, allowing us to name tests, and a callback function which will be responsible for running the actual tests, and making use of a try-catch block so as to prevent thrown errors from stopping further execution.</span></span>
 
-## 
+##
 
 <span key="80b18bbfdb2d4626bfb492af5d4ee0ca"><span offset-key="80b18bbfdb2d4626bfb492af5d4ee0ca:0">4. Support Async Tests with JavaScripts Promises through async await</span></span>
 
@@ -564,7 +564,7 @@ Copied!
 
 <span key="291562f685ce4816b20e266ff6dd2ca8"><span offset-key="291562f685ce4816b20e266ff6dd2ca8:0">In order to allow async tests to be run, we need our </span>`test`<span offset-key="291562f685ce4816b20e266ff6dd2ca8:2"> function to be </span>`async`<span offset-key="291562f685ce4816b20e266ff6dd2ca8:4">, and we need to prepend the callack invocation with </span>`await`<span offset-key="291562f685ce4816b20e266ff6dd2ca8:6">.</span></span>
 
-## 
+##
 
 <span key="dbf52314b35a47ce95aecad35a29ee56"><span offset-key="dbf52314b35a47ce95aecad35a29ee56:0">5. Provide Testing Helper Functions as Globals in JavaScript</span></span>
 
@@ -584,7 +584,7 @@ Copied!
 
 <span key="494b096aa63c45adbe5200f2c3423260"><span offset-key="494b096aa63c45adbe5200f2c3423260:0">The </span>`--require ./[file].js`<span offset-key="494b096aa63c45adbe5200f2c3423260:2"> flag allows files to be required before executing scripts with the </span>`node`<span offset-key="494b096aa63c45adbe5200f2c3423260:4"> command</span></span>
 
-## 
+##
 
 <span key="b1fac4e2f8c94a6981491da7f6dbd3d8"><span offset-key="b1fac4e2f8c94a6981491da7f6dbd3d8:0">6. Verify Custom JavaScript Tests with Jest</span></span>
 
@@ -604,33 +604,33 @@ Copied!
 
 <img src="https://i.imgur.com/fDXeVIn.png" class="css-9pa8cd" draggable="false" />
 
-# 
+#
 
 <span key="e588e2fd768f4fb3a6f571e58944f33b"><span offset-key="e588e2fd768f4fb3a6f571e58944f33b:0">JavaScript Mocking Fundamentals</span></span>
 
 <span key="abec5e7cdd60492cbeb754d636977104">**Table of Contents**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="aa347c0248b1429992eae78d3e695553"><span offset-key="aa347c0248b1429992eae78d3e695553:0">1. Override Object Properties to Mock with Monkey-patching in JavaScript</span></span>
+  <span key="aa347c0248b1429992eae78d3e695553"><span offset-key="aa347c0248b1429992eae78d3e695553:0">1. Override Object Properties to Mock with Monkey-patching in JavaScript</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="f5ad986f5a994456896e2cb863fb0f30"><span offset-key="f5ad986f5a994456896e2cb863fb0f30:0">2. Ensure Functions are Called Correctly with JavaScript Mocks</span></span>
+  <span key="f5ad986f5a994456896e2cb863fb0f30"><span offset-key="f5ad986f5a994456896e2cb863fb0f30:0">2. Ensure Functions are Called Correctly with JavaScript Mocks</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="7c4f183a18964828bb3059f4bb1f10cb"><span offset-key="7c4f183a18964828bb3059f4bb1f10cb:0">3. Restore the Original Implementation of a Mocked JavaScript Function with jest.spyOn</span></span>
+  <span key="7c4f183a18964828bb3059f4bb1f10cb"><span offset-key="7c4f183a18964828bb3059f4bb1f10cb:0">3. Restore the Original Implementation of a Mocked JavaScript Function with jest.spyOn</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="b0202cfe5f9048df9c51f8e21bdf007d"><span offset-key="b0202cfe5f9048df9c51f8e21bdf007d:0">4. Mock a JavaScript module in a test</span></span>
+  <span key="b0202cfe5f9048df9c51f8e21bdf007d"><span offset-key="b0202cfe5f9048df9c51f8e21bdf007d:0">4. Mock a JavaScript module in a test</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6MTJweDt3aWR0aDoxMnB4Ij48cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+PC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="1586766a27774ef8ae3256355978c888"><span offset-key="1586766a27774ef8ae3256355978c888:0">5. Make a shared JavaScript mock module</span></span>
+  <span key="1586766a27774ef8ae3256355978c888"><span offset-key="1586766a27774ef8ae3256355978c888:0">5. Make a shared JavaScript mock module</span></span>
 
-## 
+##
 
 <span key="a62611b5d6884f15bb2e453133e4d6f3"><span offset-key="a62611b5d6884f15bb2e453133e4d6f3:0">1. Override Object Properties to Mock with Monkey-patching in JavaScript</span></span>
 
@@ -660,7 +660,7 @@ Copied!
 
 <span key="0cda62a1207d4f5393a4f0bdf5f9dc95"><span offset-key="0cda62a1207d4f5393a4f0bdf5f9dc95:0">After mocking, one should always clean up so that subsequent tests are not affected by the mock.</span></span>
 
-## 
+##
 
 <span key="c50be6a4b3d6487e852dae6d7723f82e"><span offset-key="c50be6a4b3d6487e852dae6d7723f82e:0">2. Ensure Functions are Called Correctly with JavaScript Mocks</span></span>
 
@@ -694,7 +694,7 @@ Copied!
 
 <span key="ac8daa316e694a1681cfc89668450d62"><span offset-key="ac8daa316e694a1681cfc89668450d62:0">Jest allows one to inspect a mocked function using </span>`toHaveBeenCalledWith`<span offset-key="ac8daa316e694a1681cfc89668450d62:2">, </span>`toHaveBeenNthCalledWith`<span offset-key="ac8daa316e694a1681cfc89668450d62:4">, or to inspect </span>`mockFn.mock.calls`<span offset-key="ac8daa316e694a1681cfc89668450d62:6"> to inspect how the function was used for all calls.</span></span>
 
-## 
+##
 
 <span key="8835b24d3d4049ef81ecc2cf12019955"><span offset-key="8835b24d3d4049ef81ecc2cf12019955:0">3. Restore the Original Implementation of a Mocked JavaScript Function with jest.spyOn</span></span>
 
@@ -731,7 +731,7 @@ Copied!
 3.  <span class="r-1awozwy r-1nf4jbm r-6koalj r-18u37iz r-gg6oyi r-ubezar r-16dba41 r-135wba7 r-1m04atk r-1pyaxff" contenteditable="false" style="height:24px">3.</span>
     <span key="0378e30899c3474cbf455fa6d73db25e"><span offset-key="0378e30899c3474cbf455fa6d73db25e:0">Once done testing the implementation, use </span>`myObject.myObjectFn.mockRestore()`<span offset-key="0378e30899c3474cbf455fa6d73db25e:2"> to replace the mock implementation with the original so that other tests are not affected. </span>`.mockRestore()`<span offset-key="0378e30899c3474cbf455fa6d73db25e:4"> restores the mock implementation to its pre-mocked definition</span></span>
 
-## 
+##
 
 <span key="a55d465e7f804cc0b9e0df5397ee7625"><span offset-key="a55d465e7f804cc0b9e0df5397ee7625:0">4. Mock a JavaScript module in a test</span></span>
 
@@ -771,7 +771,7 @@ Copied!
 
 <span key="0376d212b792431490348520a368f111"><span offset-key="0376d212b792431490348520a368f111:0">We use the </span>`exports`<span offset-key="0376d212b792431490348520a368f111:2"> property to create the mock implementation of the module</span></span>
 
-## 
+##
 
 <span key="1e5a8dfd5c23405c9e20d9b6cfcb6b37"><span offset-key="1e5a8dfd5c23405c9e20d9b6cfcb6b37:0">5. Make a shared JavaScript mock module</span></span>
 

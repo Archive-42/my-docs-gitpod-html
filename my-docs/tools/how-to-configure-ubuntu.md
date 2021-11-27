@@ -294,7 +294,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -316,7 +316,7 @@ Netlify
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc4LTI4MDZfIiBjbGFzcz0ici1oN2dkb2Igci0xMHB0dW43IHItMXZ6aTh4aSIgc3R5bGU9IndpZHRoOiAxNnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -358,7 +358,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -531,7 +531,7 @@ How To Configure Ubuntu
 
 <span key="e331041f54d847448be3ace4757e9cb7"><span offset-key="e331041f54d847448be3ace4757e9cb7:0"><span slate-zero-width="z">​</span></span></span>
 
-## 
+##
 
 <span key="18dc152265c1481f8611a59a7a938e81">**Let's move on to the installation.**</span>
 
@@ -895,7 +895,7 @@ Copied!
 
 <img src="https://hackernoon.com/emojis/thumbs-down.png" class="css-9pa8cd" draggable="false" />
 
-## 
+##
 
 <span key="d0f11b11cec743768f0e51837979440b">**Xorg and Xserver.**</span>
 
@@ -953,7 +953,7 @@ Copied!
 
 <span key="3b05eedec7fd478dbf09d158052dcf1d"><span offset-key="3b05eedec7fd478dbf09d158052dcf1d:0"><span slate-zero-width="z">​</span></span></span>
 
-## 
+##
 
 <span key="746d45d022d84d27859d8f433ab60108">**Installing X-Server (Xorg)**</span>
 
@@ -973,7 +973,7 @@ Copied!
 
 <img src="https://hackernoon.com/emojis/thumbs-down.png" class="css-9pa8cd" draggable="false" />
 
-## 
+##
 
 <span key="e1cdf54026c44304b7684cf42b035f48">**Choosing a Graphical Environment**</span>
 
@@ -1049,7 +1049,7 @@ Copied!
 
 <span key="48726a63d3c744b4ba1823784ba21d75"><span offset-key="48726a63d3c744b4ba1823784ba21d75:0"><span slate-zero-width="z">​</span></span></span>
 
-<span key="665a06ed615e48c3a53eb7072841505f">*For now, I'll choose the i3 as an example.*</span><span slate-void="true" key="274aadff01b54083a935b5c0367b92b5"></span>
+<span key="665a06ed615e48c3a53eb7072841505f">_For now, I'll choose the i3 as an example._</span><span slate-void="true" key="274aadff01b54083a935b5c0367b92b5"></span>
 
 <img src="https://hackernoon.com/emojis/heart.png" class="css-9pa8cd" draggable="false" />
 
@@ -1067,7 +1067,7 @@ Copied!
 
 <span key="29dedae7b5ed420683af7089574cba24"><span offset-key="29dedae7b5ed420683af7089574cba24:0"><span slate-zero-width="z">​</span></span></span>
 
-## 
+##
 
 <span key="2d66f2a1f3714f978c7cb68198c7b138">**Installing i3 and the Terminator Terminal Emulator:**</span>
 
@@ -1157,21 +1157,21 @@ Copied!
 
 <img src="https://hackernoon.com/emojis/thumbs-down.png" class="css-9pa8cd" draggable="false" />
 
-## 
+##
 
 <span key="d324ef8edafe44dba9404a9163abe36a">**Additional View Improvement Programs:**</span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="3a792dda573240b990c1549f5e825f01">***Conky***<span offset-key="3a792dda573240b990c1549f5e825f01:1"> is a desktop add-on that allows you to dynamically display various system metrics. It has a very fine configuration and various themes.</span></span>
+  <span key="3a792dda573240b990c1549f5e825f01">**_Conky_**<span offset-key="3a792dda573240b990c1549f5e825f01:1"> is a desktop add-on that allows you to dynamically display various system metrics. It has a very fine configuration and various themes.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="afe547f54fa14dc7950a4b29bab82cb3">***Feh***<span offset-key="afe547f54fa14dc7950a4b29bab82cb3:1"> is a console utility for viewing images, can also be used as an image installer on the desktop.</span></span>
+  <span key="afe547f54fa14dc7950a4b29bab82cb3">**_Feh_**<span offset-key="afe547f54fa14dc7950a4b29bab82cb3:1"> is a console utility for viewing images, can also be used as an image installer on the desktop.</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSByLTF2emk4eGkiIHN0eWxlPSJoZWlnaHQ6IDEycHg7IHdpZHRoOiAxMnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTAgOGMwLTIuMiAxLjgtNCA0LTRzNCAxLjggNCA0LTEuOCA0LTQgNC00LTEuOC00LTR6IiBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+" class="r-1nf4jbm r-1vzi8xi" />
 
-    <span key="0722f2940b0e4da7b2893a7b1b580550">***Compton***<span offset-key="0722f2940b0e4da7b2893a7b1b580550:1"> is a lightweight compositing manager for the X graphics server based on xcompmgr-dana that allows you to add different animations and transparency to different windows.</span></span>
+  <span key="0722f2940b0e4da7b2893a7b1b580550">**_Compton_**<span offset-key="0722f2940b0e4da7b2893a7b1b580550:1"> is a lightweight compositing manager for the X graphics server based on xcompmgr-dana that allows you to add different animations and transparency to different windows.</span></span>
 
 <span key="dcb3ae5a87e24a938967e685fef6d12c"><span offset-key="dcb3ae5a87e24a938967e685fef6d12c:0">How it looks after the actions are taken:</span></span><span slate-void="true" key="d401c252de264d989b27562363b2f236"></span>
 
@@ -1213,7 +1213,7 @@ Copied!
 
 <span key="f6e53c962b544695a02f20a6a8d7c46b"><span offset-key="f6e53c962b544695a02f20a6a8d7c46b:0"><span slate-zero-width="z">​</span></span></span>
 
-## 
+##
 
 <span key="15a40e5f3d94435d8dc2552458064d94">**Command to Set Desktop Wallpaper:**</span>
 

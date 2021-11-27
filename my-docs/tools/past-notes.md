@@ -298,7 +298,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -320,7 +320,7 @@ Netlify
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc4LTEzOTM0XyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZD0iTTkgMThsNi02LTYtNiI+PC9wYXRoPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -362,7 +362,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -427,27 +427,27 @@ Powered By <span class="css-901oao css-16my406 r-b88u0q">GitBook</span>
 
 Past Notes
 
-# 
+#
 
 <span key="d70dacfa803a4d26b2ba178d39e2ef9b"><span offset-key="d70dacfa803a4d26b2ba178d39e2ef9b:0">All:</span></span>
 
-# 
+#
 
 <span key="e50f8cf4a54045d9b73c6f877e04454f"><span offset-key="e50f8cf4a54045d9b73c6f877e04454f:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="9363cc5ea2bf429e94426865eb0f6202"><span offset-key="9363cc5ea2bf429e94426865eb0f6202:0">W8:</span></span>
 
 <span key="79b6537ebd944a48a7ba512fe6134975"><span offset-key="79b6537ebd944a48a7ba512fe6134975:0">w9:</span></span>
 
-# 
+#
 
 <span key="9382e4e625a54b20b9ca6d5ede72e722"><span offset-key="9382e4e625a54b20b9ca6d5ede72e722:0">W10:</span></span>
 
 <span key="a1ff9e1dde1f4c53bc706a3df785b1de"><span offset-key="a1ff9e1dde1f4c53bc706a3df785b1de:0">📗</span></span>
 
-# 
+#
 
 <span key="bb8e8b1765f14a209f4a5d1a021ba92b"><span offset-key="bb8e8b1765f14a209f4a5d1a021ba92b:0">GS Interview Questions:</span></span>
 
@@ -1421,11 +1421,11 @@ Past Notes
 
 243
 
-<span key="3a725b3d0c184b2d830837db2c80a61a"><span offset-key="3a725b3d0c184b2d830837db2c80a61a:0"> </span><span class="r-y7gyvo" slate-leaf="true" offset-key="3a725b3d0c184b2d830837db2c80a61a:1">let</span><span offset-key="3a725b3d0c184b2d830837db2c80a61a:2"> smallest </span><span class="r-11faab8" slate-leaf="true" offset-key="3a725b3d0c184b2d830837db2c80a61a:3">=</span><span offset-key="3a725b3d0c184b2d830837db2c80a61a:4"> Number</span><span class="r-dyg9za" slate-leaf="true" offset-key="3a725b3d0c184b2d830837db2c80a61a:5">.</span><span slate-leaf="true" offset-key="3a725b3d0c184b2d830837db2c80a61a:6">POSITIVE\_INFINITY</span><span class="r-dyg9za" slate-leaf="true" offset-key="3a725b3d0c184b2d830837db2c80a61a:7">;</span></span>
+<span key="3a725b3d0c184b2d830837db2c80a61a"><span offset-key="3a725b3d0c184b2d830837db2c80a61a:0"> </span><span class="r-y7gyvo" slate-leaf="true" offset-key="3a725b3d0c184b2d830837db2c80a61a:1">let</span><span offset-key="3a725b3d0c184b2d830837db2c80a61a:2"> smallest </span><span class="r-11faab8" slate-leaf="true" offset-key="3a725b3d0c184b2d830837db2c80a61a:3">=</span><span offset-key="3a725b3d0c184b2d830837db2c80a61a:4"> Number</span><span class="r-dyg9za" slate-leaf="true" offset-key="3a725b3d0c184b2d830837db2c80a61a:5">.</span><span slate-leaf="true" offset-key="3a725b3d0c184b2d830837db2c80a61a:6">POSITIVE_INFINITY</span><span class="r-dyg9za" slate-leaf="true" offset-key="3a725b3d0c184b2d830837db2c80a61a:7">;</span></span>
 
 244
 
-<span key="eea0449a87be488fa242c7402a8f6e99"><span offset-key="eea0449a87be488fa242c7402a8f6e99:0"> </span><span class="r-y7gyvo" slate-leaf="true" offset-key="eea0449a87be488fa242c7402a8f6e99:1">let</span><span offset-key="eea0449a87be488fa242c7402a8f6e99:2"> secondSmallest </span><span class="r-11faab8" slate-leaf="true" offset-key="eea0449a87be488fa242c7402a8f6e99:3">=</span><span offset-key="eea0449a87be488fa242c7402a8f6e99:4"> Number</span><span class="r-dyg9za" slate-leaf="true" offset-key="eea0449a87be488fa242c7402a8f6e99:5">.</span><span slate-leaf="true" offset-key="eea0449a87be488fa242c7402a8f6e99:6">POSITIVE\_INFINITY</span><span class="r-dyg9za" slate-leaf="true" offset-key="eea0449a87be488fa242c7402a8f6e99:7">;</span></span>
+<span key="eea0449a87be488fa242c7402a8f6e99"><span offset-key="eea0449a87be488fa242c7402a8f6e99:0"> </span><span class="r-y7gyvo" slate-leaf="true" offset-key="eea0449a87be488fa242c7402a8f6e99:1">let</span><span offset-key="eea0449a87be488fa242c7402a8f6e99:2"> secondSmallest </span><span class="r-11faab8" slate-leaf="true" offset-key="eea0449a87be488fa242c7402a8f6e99:3">=</span><span offset-key="eea0449a87be488fa242c7402a8f6e99:4"> Number</span><span class="r-dyg9za" slate-leaf="true" offset-key="eea0449a87be488fa242c7402a8f6e99:5">.</span><span slate-leaf="true" offset-key="eea0449a87be488fa242c7402a8f6e99:6">POSITIVE_INFINITY</span><span class="r-dyg9za" slate-leaf="true" offset-key="eea0449a87be488fa242c7402a8f6e99:7">;</span></span>
 
 245
 

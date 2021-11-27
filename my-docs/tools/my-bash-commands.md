@@ -294,7 +294,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -316,7 +316,7 @@ Netlify
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc4LTQ3MDNfIiBjbGFzcz0ici1oN2dkb2Igci0xMHB0dW43IHItMXZ6aTh4aSIgc3R5bGU9IndpZHRoOiAxNnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -358,7 +358,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -423,19 +423,19 @@ Powered By <span class="css-901oao css-16my406 r-b88u0q">GitBook</span>
 
 My Bash Commands
 
-# 
+#
 
 <span key="3a16b0f28450497688ddb7c670e15861"><span offset-key="3a16b0f28450497688ddb7c670e15861:0">Resources:</span></span>
 
--   <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
+- <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgOCAxNiIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgY2xhc3M9InItMW5mNGpibSIgc3R5bGU9IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4OwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMCA4YzAtMi4yIDEuOC00IDQtNHM0IDEuOCA0IDQtMS44IDQtNCA0LTQtMS44LTQtNHoiIGZpbGw9ImN1cnJlbnRDb2xvciIgZmlsbC1ydWxlPSJldmVub2RkIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3N2Zz4=" class="r-1nf4jbm" />
 
-    <span key="c09901e9a7ac4f2b87d4cb45bfc211c7"><span offset-key="c09901e9a7ac4f2b87d4cb45bfc211c7:0"><span slate-zero-width="z">​</span></span></span><a href="https://gist.github.com/bgoonz/df74dfa73bb5edd239ac738a14104eee" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="305253b67be7448a8d604ff99107c062" data-rnw-int-class="nearest_260-4699_262-4700-240__"><span data-key="87ccb90a01934adf93911767be67cc89"><span data-offset-key="87ccb90a01934adf93911767be67cc89:0">holy grail</span></span></span></a><span key="22ad3702160b48d7a5bd28d5be9c064b"><span offset-key="22ad3702160b48d7a5bd28d5be9c064b:0"><span slate-zero-width="z">​</span></span></span>
+  <span key="c09901e9a7ac4f2b87d4cb45bfc211c7"><span offset-key="c09901e9a7ac4f2b87d4cb45bfc211c7:0"><span slate-zero-width="z">​</span></span></span><a href="https://gist.github.com/bgoonz/df74dfa73bb5edd239ac738a14104eee" class="css-4rbku5 css-1dbjc4n r-1loqt21 r-1471scf r-1otgn73 r-1i6wzkk r-lrvibr"><span data-key="305253b67be7448a8d604ff99107c062" data-rnw-int-class="nearest_260-4699_262-4700-240__"><span data-key="87ccb90a01934adf93911767be67cc89"><span data-offset-key="87ccb90a01934adf93911767be67cc89:0">holy grail</span></span></span></a><span key="22ad3702160b48d7a5bd28d5be9c064b"><span offset-key="22ad3702160b48d7a5bd28d5be9c064b:0"><span slate-zero-width="z">​</span></span></span>
 
-# 
+#
 
 <span key="89476ffa39ba4b8fb8ce9b2e89d59be2"><span offset-key="89476ffa39ba4b8fb8ce9b2e89d59be2:0">1. Remove spaces from file and folder names and then remove numbers from files and folder names....</span></span>
 
-### 
+###
 
 <span key="982bd45e9556488f8e1ec0233b261332"><span offset-key="982bd45e9556488f8e1ec0233b261332:0">Description: need to : </span>`sudo apt install rename`</span>
 
@@ -491,7 +491,7 @@ Copied!
 
 Copied!
 
-### 
+###
 
 <span key="c2bc677be97d4eda9313c10b05f03aa6"><span offset-key="c2bc677be97d4eda9313c10b05f03aa6:0">Description: combine the contents of every file in the contaning directory.</span></span>
 
@@ -509,7 +509,7 @@ Copied!
 
 3
 
-<span key="54751c4ecb294646a6822534877d1dec"><span class="r-y7gyvo" slate-leaf="true" offset-key="54751c4ecb294646a6822534877d1dec:0">let</span><span offset-key="54751c4ecb294646a6822534877d1dec:1"> cat </span><span class="r-11faab8" slate-leaf="true" offset-key="54751c4ecb294646a6822534877d1dec:2">=</span><span offset-key="54751c4ecb294646a6822534877d1dec:3"> </span><span slate-leaf="true" offset-key="54751c4ecb294646a6822534877d1dec:4">require</span><span class="r-dyg9za" slate-leaf="true" offset-key="54751c4ecb294646a6822534877d1dec:5">(</span><span class="r-qtrn9a" slate-leaf="true" offset-key="54751c4ecb294646a6822534877d1dec:6">'child\_process'</span><span class="r-dyg9za" slate-leaf="true" offset-key="54751c4ecb294646a6822534877d1dec:7">)</span></span>
+<span key="54751c4ecb294646a6822534877d1dec"><span class="r-y7gyvo" slate-leaf="true" offset-key="54751c4ecb294646a6822534877d1dec:0">let</span><span offset-key="54751c4ecb294646a6822534877d1dec:1"> cat </span><span class="r-11faab8" slate-leaf="true" offset-key="54751c4ecb294646a6822534877d1dec:2">=</span><span offset-key="54751c4ecb294646a6822534877d1dec:3"> </span><span slate-leaf="true" offset-key="54751c4ecb294646a6822534877d1dec:4">require</span><span class="r-dyg9za" slate-leaf="true" offset-key="54751c4ecb294646a6822534877d1dec:5">(</span><span class="r-qtrn9a" slate-leaf="true" offset-key="54751c4ecb294646a6822534877d1dec:6">'child_process'</span><span class="r-dyg9za" slate-leaf="true" offset-key="54751c4ecb294646a6822534877d1dec:7">)</span></span>
 
 4
 
@@ -537,11 +537,11 @@ Copied!
 
 <span key="ac6ed9f30c564dd2a13e6a54d96ebbea"><span offset-key="ac6ed9f30c564dd2a13e6a54d96ebbea:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="da4fa068047d4a01a7f638cf6341bc23"><span offset-key="da4fa068047d4a01a7f638cf6341bc23:0">2. Download Website Using Wget:</span></span>
 
-### 
+###
 
 <span key="da19c14fbf19441eaa93a320158c8e1e"><span offset-key="da19c14fbf19441eaa93a320158c8e1e:0">Description:</span></span>
 
@@ -559,11 +559,11 @@ Copied!
 
 <span key="d834b31e51474f52b261ddea7eca763b"><span offset-key="d834b31e51474f52b261ddea7eca763b:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="177fe567c0dd487896eaea49786052b6"><span offset-key="177fe567c0dd487896eaea49786052b6:0">3. Clean Out Messy Git Repo:</span></span>
 
-### 
+###
 
 <span key="04dae4cb68a14fb9b4250ec04863750b"><span offset-key="04dae4cb68a14fb9b4250ec04863750b:0">Description: recursively removes git related folders as well as internal use files / attributions in addition to empty folders</span></span>
 
@@ -601,7 +601,7 @@ Copied!
 
 8
 
-<span key="ec98ee46a2754f0fb30b41f721b3ddab"><span offset-key="ec98ee46a2754f0fb30b41f721b3ddab:0">find . \\( -name "\*SECURITY.txt" -o -name "\*RELEASE.txt" -o -name "\*CHANGELOG.txt" -o -name "\*LICENSE.txt" -o -name "\*CONTRIBUTING.txt" -name "\*HISTORY.md" -o -name "\*LICENSE" -o -name "\*SECURITY.md" -o -name "\*RELEASE.md" -o -name "\*CHANGELOG.md" -o -name "\*LICENSE.md" -o -name "\*CODE\_OF\_CONDUCT.md" -o -name "\*CONTRIBUTING.md" \\) -exec rm -rf -- {} +</span></span>
+<span key="ec98ee46a2754f0fb30b41f721b3ddab"><span offset-key="ec98ee46a2754f0fb30b41f721b3ddab:0">find . \\( -name "\*SECURITY.txt" -o -name "\*RELEASE.txt" -o -name "\*CHANGELOG.txt" -o -name "\*LICENSE.txt" -o -name "\*CONTRIBUTING.txt" -name "\*HISTORY.md" -o -name "\*LICENSE" -o -name "\*SECURITY.md" -o -name "\*RELEASE.md" -o -name "\*CHANGELOG.md" -o -name "\*LICENSE.md" -o -name "\*CODE_OF_CONDUCT.md" -o -name "\*CONTRIBUTING.md" \\) -exec rm -rf -- {} +</span></span>
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3OC00NzAzXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
@@ -609,11 +609,11 @@ Copied!
 
 <span key="c3bab27b887f489a8251100ee1935366"><span offset-key="c3bab27b887f489a8251100ee1935366:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="0412b1b9ad0e46c1b25b49eaf0dd578d"><span offset-key="0412b1b9ad0e46c1b25b49eaf0dd578d:0">4. clone all of a user's git repositories</span></span>
 
-### 
+###
 
 <span key="9cf62c57684149639bcbb42bfc422994"><span offset-key="9cf62c57684149639bcbb42bfc422994:0">Description: clone all of a user or organization's git repositories.</span></span>
 
@@ -621,7 +621,7 @@ Copied!
 
 <span key="25eb5f96bda54f85bbfb00156bef804e">**code:**</span>
 
-# 
+#
 
 <span key="759010c4a0ed476e9a600b035a791f56"><span offset-key="759010c4a0ed476e9a600b035a791f56:0">Generalized:</span></span>
 
@@ -643,7 +643,7 @@ Copied!
 
 5
 
-<span key="81daf8814d5d4f87a1fe8b795154aca9"><span offset-key="81daf8814d5d4f87a1fe8b795154aca9:0"> grep -e 'git\_url\*' |</span></span>
+<span key="81daf8814d5d4f87a1fe8b795154aca9"><span offset-key="81daf8814d5d4f87a1fe8b795154aca9:0"> grep -e 'git_url\*' |</span></span>
 
 6
 
@@ -657,7 +657,7 @@ Copied!
 
 Copied!
 
-# 
+#
 
 <span key="74c78fc776144635ba93144bae662120"><span offset-key="74c78fc776144635ba93144bae662120:0">Clone all Git User</span></span>
 
@@ -667,11 +667,11 @@ Copied!
 
 2
 
-<span key="fd471f327db1401cadbb05e51f90dd09"><span slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:0">curl</span><span offset-key="fd471f327db1401cadbb05e51f90dd09:1"> </span><span class="r-qtrn9a" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:2">"https://api.github.com/</span><span class="r-qtrn9a" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:3">$CNTX</span><span class="r-qtrn9a" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:4">/</span><span class="r-qtrn9a" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:5">$NAME</span><span class="r-qtrn9a" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:6">/repos?page=</span><span class="r-qtrn9a" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:7">$PAGE</span><span class="r-qtrn9a" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:8">&per\_page=200"</span><span offset-key="fd471f327db1401cadbb05e51f90dd09:9">?branch</span><span class="r-11faab8" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:10">=</span><span offset-key="fd471f327db1401cadbb05e51f90dd09:11">master </span><span class="r-11faab8" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:12">|</span></span>
+<span key="fd471f327db1401cadbb05e51f90dd09"><span slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:0">curl</span><span offset-key="fd471f327db1401cadbb05e51f90dd09:1"> </span><span class="r-qtrn9a" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:2">"https://api.github.com/</span><span class="r-qtrn9a" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:3">$CNTX</span><span class="r-qtrn9a" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:4">/</span><span class="r-qtrn9a" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:5">$NAME</span><span class="r-qtrn9a" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:6">/repos?page=</span><span class="r-qtrn9a" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:7">$PAGE</span><span class="r-qtrn9a" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:8">&per_page=200"</span><span offset-key="fd471f327db1401cadbb05e51f90dd09:9">?branch</span><span class="r-11faab8" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:10">=</span><span offset-key="fd471f327db1401cadbb05e51f90dd09:11">master </span><span class="r-11faab8" slate-leaf="true" offset-key="fd471f327db1401cadbb05e51f90dd09:12">|</span></span>
 
 3
 
-<span key="19ccf759df8946a5824184c35bc62d71"><span offset-key="19ccf759df8946a5824184c35bc62d71:0"> </span><span slate-leaf="true" offset-key="19ccf759df8946a5824184c35bc62d71:1">grep</span><span offset-key="19ccf759df8946a5824184c35bc62d71:2"> -e </span><span class="r-qtrn9a" slate-leaf="true" offset-key="19ccf759df8946a5824184c35bc62d71:3">'git\_url\*'</span><span offset-key="19ccf759df8946a5824184c35bc62d71:4"> </span><span class="r-11faab8" slate-leaf="true" offset-key="19ccf759df8946a5824184c35bc62d71:5">|</span></span>
+<span key="19ccf759df8946a5824184c35bc62d71"><span offset-key="19ccf759df8946a5824184c35bc62d71:0"> </span><span slate-leaf="true" offset-key="19ccf759df8946a5824184c35bc62d71:1">grep</span><span offset-key="19ccf759df8946a5824184c35bc62d71:2"> -e </span><span class="r-qtrn9a" slate-leaf="true" offset-key="19ccf759df8946a5824184c35bc62d71:3">'git_url\*'</span><span offset-key="19ccf759df8946a5824184c35bc62d71:4"> </span><span class="r-11faab8" slate-leaf="true" offset-key="19ccf759df8946a5824184c35bc62d71:5">|</span></span>
 
 4
 
@@ -685,7 +685,7 @@ Copied!
 
 Copied!
 
-# 
+#
 
 <span key="545dfa77b82e4d62bcad51951778f743"><span offset-key="545dfa77b82e4d62bcad51951778f743:0">Clone all Git Organization:</span></span>
 
@@ -699,7 +699,7 @@ Copied!
 
 3
 
-<span key="f0456498ea0b4d07be4696c9b24cd844"><span offset-key="f0456498ea0b4d07be4696c9b24cd844:0"> grep -e 'git\_url\*' |</span></span>
+<span key="f0456498ea0b4d07be4696c9b24cd844"><span offset-key="f0456498ea0b4d07be4696c9b24cd844:0"> grep -e 'git_url\*' |</span></span>
 
 4
 
@@ -715,11 +715,11 @@ Copied!
 
 <span key="a7def6a0a5a946ed94bbe34eb34504f8"><span offset-key="a7def6a0a5a946ed94bbe34eb34504f8:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="38e6c130f6cb4d2593bda4f8a137323f"><span offset-key="38e6c130f6cb4d2593bda4f8a137323f:0">5. Git Workflow</span></span>
 
-### 
+###
 
 <span key="7a2e22fe33614b4598646732938382a8"><span offset-key="7a2e22fe33614b4598646732938382a8:0">Description:</span></span>
 
@@ -831,11 +831,11 @@ Copied!
 
 <span key="3b9daa0f6d0d4516a496828309fedcac"><span offset-key="3b9daa0f6d0d4516a496828309fedcac:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="0553b9c2ddfd4b7dab7e22b13d92c449"><span offset-key="0553b9c2ddfd4b7dab7e22b13d92c449:0">6. Recursive Unzip In Place</span></span>
 
-### 
+###
 
 <span key="c13e246eeee14a11afa4222c2d9e37c4"><span offset-key="c13e246eeee14a11afa4222c2d9e37c4:0">Description: recursively unzips folders and then deletes the zip file by the same name.</span></span>
 
@@ -869,11 +869,11 @@ Copied!
 
 <span key="8e344563f23a4cab9dda6965d43fdd06"><span offset-key="8e344563f23a4cab9dda6965d43fdd06:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="e45391522e934c04bf6eb6dd11be583b"><span offset-key="e45391522e934c04bf6eb6dd11be583b:0">7. git pull keeping local changes:</span></span>
 
-### 
+###
 
 <span key="e73438564c684f05b263bac23a4ce853"><span offset-key="e73438564c684f05b263bac23a4ce853:0">Description:</span></span>
 
@@ -903,11 +903,11 @@ Copied!
 
 <span key="7cfbb7e303614e1f9aa77d51e18dd6df"><span offset-key="7cfbb7e303614e1f9aa77d51e18dd6df:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="c64d3d00da624a3a90f5e266752d1725"><span offset-key="c64d3d00da624a3a90f5e266752d1725:0">8. Prettier Code Formatter:</span></span>
 
-### 
+###
 
 <span key="777dc560f1d94d6abb2c08fdf1a9585e"><span offset-key="777dc560f1d94d6abb2c08fdf1a9585e:0">Description:</span></span>
 
@@ -937,11 +937,11 @@ Copied!
 
 <span key="e846dae83c3a4417812ce28f61abb561"><span offset-key="e846dae83c3a4417812ce28f61abb561:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="ef0f85b0b6bc4cb480b9abad26352872"><span offset-key="ef0f85b0b6bc4cb480b9abad26352872:0">9. Pandoc</span></span>
 
-### 
+###
 
 <span key="65fa3b110c3a40e798f20a2d8e4fe13e"><span offset-key="65fa3b110c3a40e798f20a2d8e4fe13e:0">Description:</span></span>
 
@@ -967,7 +967,7 @@ Copied!
 
 5
 
-<span key="8f5f4443dc7341cdb1b6920f0dd5bdef"><span offset-key="8f5f4443dc7341cdb1b6920f0dd5bdef:0">find ./ -iname "\*.html" -type f -exec sh -c 'pandoc --wrap=none --from html --to markdown\_strict "${0}" -o "${0%.html}.md"' {} \\;</span></span>
+<span key="8f5f4443dc7341cdb1b6920f0dd5bdef"><span offset-key="8f5f4443dc7341cdb1b6920f0dd5bdef:0">find ./ -iname "\*.html" -type f -exec sh -c 'pandoc --wrap=none --from html --to markdown_strict "${0}" -o "${0%.html}.md"' {} \\;</span></span>
 
 6
 
@@ -991,11 +991,11 @@ Copied!
 
 <span key="09c8edebd0474a1a822da38d6ff054aa"><span offset-key="09c8edebd0474a1a822da38d6ff054aa:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="5d77bb99dfff4312b34ebb1e6756c052"><span offset-key="5d77bb99dfff4312b34ebb1e6756c052:0">10. Gitpod Installs</span></span>
 
-### 
+###
 
 <span key="cb0b245a0a464fbfac71646bf5915582"><span offset-key="cb0b245a0a464fbfac71646bf5915582:0">Description:</span></span>
 
@@ -1061,11 +1061,11 @@ Copied!
 
 <span key="f50ad1d3dfff49ab996c1e59ef3ba6bb"><span offset-key="f50ad1d3dfff49ab996c1e59ef3ba6bb:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="60df76b208db43b79eb21701ad0fd957"><span offset-key="60df76b208db43b79eb21701ad0fd957:0">11. Repo Utils Package:</span></span>
 
-### 
+###
 
 <span key="770c520462fd4747a7c62f6cebdf83d8"><span offset-key="770c520462fd4747a7c62f6cebdf83d8:0">Description: my standard repo utis package</span></span>
 
@@ -1083,11 +1083,11 @@ Copied!
 
 <span key="9d00f29d182b4d16884a64524161da5e"><span offset-key="9d00f29d182b4d16884a64524161da5e:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="e4256cf5bdde4296bac3ad5f1f2818fb"><span offset-key="e4256cf5bdde4296bac3ad5f1f2818fb:0">12. Unix Tree Package Usage:</span></span>
 
-### 
+###
 
 <span key="db2b9d416aae4ab0a6e98110f8902004"><span offset-key="db2b9d416aae4ab0a6e98110f8902004:0">Description:</span></span>
 
@@ -1097,7 +1097,7 @@ Copied!
 
 1
 
-<span key="082bbe3d8af44426a62751fba607e8e1"><span offset-key="082bbe3d8af44426a62751fba607e8e1:0">tree -d -I 'node\_modules'</span></span>
+<span key="082bbe3d8af44426a62751fba607e8e1"><span offset-key="082bbe3d8af44426a62751fba607e8e1:0">tree -d -I 'node_modules'</span></span>
 
 2
 
@@ -1105,7 +1105,7 @@ Copied!
 
 3
 
-<span key="736da19295a34b74bf3f85dacf80b217"><span offset-key="736da19295a34b74bf3f85dacf80b217:0">tree -I 'node\_modules'</span></span>
+<span key="736da19295a34b74bf3f85dacf80b217"><span offset-key="736da19295a34b74bf3f85dacf80b217:0">tree -I 'node_modules'</span></span>
 
 4
 
@@ -1113,7 +1113,7 @@ Copied!
 
 5
 
-<span key="a0c48b03669345d9a2bf4645f64eab5a"><span offset-key="a0c48b03669345d9a2bf4645f64eab5a:0">tree -f -I 'node\_modules' &gt;TREE.md</span></span>
+<span key="a0c48b03669345d9a2bf4645f64eab5a"><span offset-key="a0c48b03669345d9a2bf4645f64eab5a:0">tree -f -I 'node_modules' &gt;TREE.md</span></span>
 
 6
 
@@ -1129,7 +1129,7 @@ Copied!
 
 9
 
-<span key="d9e5712f40e24b4ab425b435c6616521"><span offset-key="d9e5712f40e24b4ab425b435c6616521:0">tree -f -I 'node\_modules' &gt;listing-path.md</span></span>
+<span key="d9e5712f40e24b4ab425b435c6616521"><span offset-key="d9e5712f40e24b4ab425b435c6616521:0">tree -f -I 'node_modules' &gt;listing-path.md</span></span>
 
 10
 
@@ -1141,7 +1141,7 @@ Copied!
 
 12
 
-<span key="23e8d99df28f4f3a9970ec2b6b5a1672"><span offset-key="23e8d99df28f4f3a9970ec2b6b5a1672:0">tree -f -I 'node\_modules' -d &gt;TREE.md</span></span>
+<span key="23e8d99df28f4f3a9970ec2b6b5a1672"><span offset-key="23e8d99df28f4f3a9970ec2b6b5a1672:0">tree -f -I 'node_modules' -d &gt;TREE.md</span></span>
 
 13
 
@@ -1157,11 +1157,11 @@ Copied!
 
 <span key="dcfc3a12ff834579b72cceb9482e4761"><span offset-key="dcfc3a12ff834579b72cceb9482e4761:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="da79bfded0764568ba42344597e8d269"><span offset-key="da79bfded0764568ba42344597e8d269:0">13. Find & Replace string in file & folder names recursively..</span></span>
 
-### 
+###
 
 <span key="253abdc795dd42d8b719d597576fbe04"><span offset-key="253abdc795dd42d8b719d597576fbe04:0">Description:</span></span>
 
@@ -1263,11 +1263,11 @@ Copied!
 
 <span key="69268681688941e882b2f21c66a90c1c"><span offset-key="69268681688941e882b2f21c66a90c1c:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="61572b41477c4f17a737582129a9f7be"><span offset-key="61572b41477c4f17a737582129a9f7be:0">14. Remove double extensions :</span></span>
 
-### 
+###
 
 <span key="3f700831b11c4595853a1dc15af3b43e"><span offset-key="3f700831b11c4595853a1dc15af3b43e:0">Description:</span></span>
 
@@ -1385,11 +1385,11 @@ Copied!
 
 <span key="346ed1ab86134f32b766d6241763270e"><span offset-key="346ed1ab86134f32b766d6241763270e:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="42df95bc4887447e9fe2a3ee3fe8126d"><span offset-key="42df95bc4887447e9fe2a3ee3fe8126d:0">15. Truncate folder names down to 12 characters:</span></span>
 
-### 
+###
 
 <span key="12472ecd3214498a8be64dd0dc14a79a"><span offset-key="12472ecd3214498a8be64dd0dc14a79a:0">Description:</span></span>
 
@@ -1407,11 +1407,11 @@ Copied!
 
 <span key="53d6df8f18374039b78a70921c2d2aa6"><span offset-key="53d6df8f18374039b78a70921c2d2aa6:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="2b3279dc8319424dbb94b49359e5c9ca"><span offset-key="2b3279dc8319424dbb94b49359e5c9ca:0">16.Appendir.js</span></span>
 
-### 
+###
 
 <span key="938100c1337047559eca53e028adfd04"><span offset-key="938100c1337047559eca53e028adfd04:0">Description: combine the contents of every file in the contaning directory.</span></span>
 
@@ -1429,7 +1429,7 @@ Copied!
 
 3
 
-<span key="c64eadd21ee742f6bc40d2761f8a0d4f"><span offset-key="c64eadd21ee742f6bc40d2761f8a0d4f:0">let cat = require('child\_process')</span></span>
+<span key="c64eadd21ee742f6bc40d2761f8a0d4f"><span offset-key="c64eadd21ee742f6bc40d2761f8a0d4f:0">let cat = require('child_process')</span></span>
 
 4
 
@@ -1457,13 +1457,13 @@ Copied!
 
 <span key="85c2969270e244d289569c140c2e5026"><span offset-key="85c2969270e244d289569c140c2e5026:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="7367b40460de4abfa7b84f7e1f73c70e"><span offset-key="7367b40460de4abfa7b84f7e1f73c70e:0">17. Replace space in filename with underscore</span></span>
 
-### 
+###
 
-<span key="152da20f538c4cb1bd880eea16498d6f"><span offset-key="152da20f538c4cb1bd880eea16498d6f:0">Description: followed by replace </span>`'#' with                                             '_'`<span offset-key="152da20f538c4cb1bd880eea16498d6f:2"> in directory name</span></span>
+<span key="152da20f538c4cb1bd880eea16498d6f"><span offset-key="152da20f538c4cb1bd880eea16498d6f:0">Description: followed by replace </span>`'#' with '_'`<span offset-key="152da20f538c4cb1bd880eea16498d6f:2"> in directory name</span></span>
 
 > <span key="a6e45377759545d196452ae452502a2d"><span offset-key="a6e45377759545d196452ae452502a2d:0">Notes: Can be re-purposed to find and replace any set of strings in file or folder names.</span></span>
 
@@ -1487,11 +1487,11 @@ Copied!
 
 <span key="b08d9ee68c0d4ff386eac06aed0b2db2"><span offset-key="b08d9ee68c0d4ff386eac06aed0b2db2:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="332e2cae87c84f078304f25b3e3bcb76"><span offset-key="332e2cae87c84f078304f25b3e3bcb76:0">18. Filter & delete files by name and extension</span></span>
 
-### 
+###
 
 <span key="a320c5fa0af7463bb2727b9b38f5aa04"><span offset-key="a320c5fa0af7463bb2727b9b38f5aa04:0">Description:</span></span>
 
@@ -1557,11 +1557,11 @@ Copied!
 
 <span key="cf2e43688613450e92225ad5dbad7b6a"><span offset-key="cf2e43688613450e92225ad5dbad7b6a:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="da937e90439445caac00056185f6db4b"><span offset-key="da937e90439445caac00056185f6db4b:0">19. Remove lines containing string:</span></span>
 
-### 
+###
 
 <span key="fb1aadd6dfb5427285f20ba6b3bbc7e2"><span offset-key="fb1aadd6dfb5427285f20ba6b3bbc7e2:0">Description:</span></span>
 
@@ -1627,11 +1627,11 @@ Copied!
 
 <span key="70595796c27e4bb5b0ce5c8d2e2952d6"><span offset-key="70595796c27e4bb5b0ce5c8d2e2952d6:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="16b9921bc4fb43b9bd919e9fbd67d46b"><span offset-key="16b9921bc4fb43b9bd919e9fbd67d46b:0">20. Remove duplicate lines from a text file</span></span>
 
-### 
+###
 
 <span key="f530b342520443bc88993ee7e91971fb"><span offset-key="f530b342520443bc88993ee7e91971fb:0">Description:</span></span>
 
@@ -1655,11 +1655,11 @@ Copied!
 
 <span key="c5e4c41b3749496cb70a11dfd9bf7655"><span offset-key="c5e4c41b3749496cb70a11dfd9bf7655:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="da9874cd65534131ae0ab6157d900d37"><span offset-key="da9874cd65534131ae0ab6157d900d37:0">21. Remove lines containing string:</span></span>
 
-### 
+###
 
 <span key="b38b5311f33b453a92e9ff7647d69390"><span offset-key="b38b5311f33b453a92e9ff7647d69390:0">Description:</span></span>
 
@@ -1705,7 +1705,7 @@ Copied!
 
 10
 
-<span key="510d4078f3d3430b9ed66af767ca5f08"><span offset-key="510d4078f3d3430b9ed66af767ca5f08:0">title: add\_days</span></span>
+<span key="510d4078f3d3430b9ed66af767ca5f08"><span offset-key="510d4078f3d3430b9ed66af767ca5f08:0">title: add_days</span></span>
 
 11
 
@@ -1765,7 +1765,7 @@ Copied!
 
 25
 
-<span key="070db724b7644b6babf0f3344bae5f28"><span offset-key="070db724b7644b6babf0f3344bae5f28:0">sudo sed -i '/node\_modules/d' ./index.html</span></span>
+<span key="070db724b7644b6babf0f3344bae5f28"><span offset-key="070db724b7644b6babf0f3344bae5f28:0">sudo sed -i '/node_modules/d' ./index.html</span></span>
 
 26
 
@@ -1785,11 +1785,11 @@ Copied!
 
 <span key="a164a2e19cd2408ea7cda20003f01ca1"><span offset-key="a164a2e19cd2408ea7cda20003f01ca1:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
-<span key="7c6617c2cfc145aa892d5fbeba3ca335"><span offset-key="7c6617c2cfc145aa892d5fbeba3ca335:0">22. Zip directory excluding .git and node\_modules all the way down (Linux)</span></span>
+<span key="7c6617c2cfc145aa892d5fbeba3ca335"><span offset-key="7c6617c2cfc145aa892d5fbeba3ca335:0">22. Zip directory excluding .git and node_modules all the way down (Linux)</span></span>
 
-### 
+###
 
 <span key="984b9d7ef82140138b61b9483f937b40"><span offset-key="984b9d7ef82140138b61b9483f937b40:0">Description:</span></span>
 
@@ -1811,7 +1811,7 @@ Copied!
 
 4
 
-<span key="2a95d8798a214e4b9e9b79ace91ffdcf"><span offset-key="2a95d8798a214e4b9e9b79ace91ffdcf:0">zip -r $1.$TSTAMP.zip $1 -x "\*\*.git/\*" -x "\*\*node\_modules/\*" \`shift; echo <a href="/cdn-cgi/l/email-protection" class="__cf_email__">[email protected]</a>;\`</span></span>
+<span key="2a95d8798a214e4b9e9b79ace91ffdcf"><span offset-key="2a95d8798a214e4b9e9b79ace91ffdcf:0">zip -r $1.$TSTAMP.zip $1 -x "\*\*.git/\*" -x "\*\*node_modules/\*" \`shift; echo <a href="/cdn-cgi/l/email-protection" class="__cf_email__">[email protected]</a>;\`</span></span>
 
 5
 
@@ -1855,11 +1855,11 @@ Copied!
 
 <span key="5144a79195f547c6a6c6c59f7669692e"><span offset-key="5144a79195f547c6a6c6c59f7669692e:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="8eb42b6fb33b4e29a04df6c910f7d6a5"><span offset-key="8eb42b6fb33b4e29a04df6c910f7d6a5:0">23. Delete files containing a certain string:</span></span>
 
-### 
+###
 
 <span key="ae58b835cd74468bbeb28d99416322f7"><span offset-key="ae58b835cd74468bbeb28d99416322f7:0">Description:</span></span>
 
@@ -1885,11 +1885,11 @@ Copied!
 
 <span key="5f7f8627c39949888de873794168a88b"><span offset-key="5f7f8627c39949888de873794168a88b:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="f7bc1ab963f144e39d154a0574d5d0f1"><span offset-key="f7bc1ab963f144e39d154a0574d5d0f1:0">24.</span></span>
 
-### 
+###
 
 <span key="7707fedc727845249176008f63491a13"><span offset-key="7707fedc727845249176008f63491a13:0">Description:</span></span>
 
@@ -2283,11 +2283,11 @@ Copied!
 
 <span key="19aa1899cc1040b89af0a2d6c3ab4cc4"><span offset-key="19aa1899cc1040b89af0a2d6c3ab4cc4:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="5974e88c6b214f3a803289507d6c566f"><span offset-key="5974e88c6b214f3a803289507d6c566f:0">25. Index of Iframes</span></span>
 
-### 
+###
 
 <span key="d64dd49b8ffb43a2927cdfd57e1d08ce"><span offset-key="d64dd49b8ffb43a2927cdfd57e1d08ce:0">Description: Creates an index.html file that contains all the files in the working directory or any of it's sub folders as iframes instead of anchor tags.</span></span>
 
@@ -2693,11 +2693,11 @@ Copied!
 
 <span key="af42b0e114ec4f1f946d579dd50e505e"><span offset-key="af42b0e114ec4f1f946d579dd50e505e:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="27719d23824343a293cd7203dea9bbb2"><span offset-key="27719d23824343a293cd7203dea9bbb2:0">26. Filter Corrupted Git Repo For Troublesome File:</span></span>
 
-### 
+###
 
 <span key="a997f1e9aeb54de189c59aa41232ddc6"><span offset-key="a997f1e9aeb54de189c59aa41232ddc6:0">Description:</span></span>
 
@@ -2715,11 +2715,11 @@ Copied!
 
 <span key="977f9450455b4db49887b710945025cb"><span offset-key="977f9450455b4db49887b710945025cb:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="8c34b672f1654f61aaace8351fb5f44c"><span offset-key="8c34b672f1654f61aaace8351fb5f44c:0">27. OVERWRITE LOCAL CHANGES:</span></span>
 
-### 
+###
 
 <span key="33bed4fd9a974afa8359a14e3d567a9a"><span offset-key="33bed4fd9a974afa8359a14e3d567a9a:0">Description:</span></span>
 
@@ -2767,7 +2767,7 @@ Copied!
 
 10
 
-<span key="ddbbc2db404b4293b44b6c91def8f285"><span offset-key="ddbbc2db404b4293b44b6c91def8f285:0">git reset --hard origin/&lt;branch\_name></span></span>
+<span key="ddbbc2db404b4293b44b6c91def8f285"><span offset-key="ddbbc2db404b4293b44b6c91def8f285:0">git reset --hard origin/&lt;branch_name></span></span>
 
 11
 
@@ -2799,17 +2799,17 @@ Copied!
 
 <span key="b981c8e822bd4f75b6f082642270bbb5"><span offset-key="b981c8e822bd4f75b6f082642270bbb5:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="3ec7da36695945709d54d0f7e68f1707"><span offset-key="3ec7da36695945709d54d0f7e68f1707:0">28. Remove Submodules:</span></span>
 
-### 
+###
 
 <span key="2a62e1d76373458faa5cca69a90c9d60"><span offset-key="2a62e1d76373458faa5cca69a90c9d60:0">Description: To remove a submodule you need to:</span></span>
 
 > <span key="14cd192658ed4aef8626ba8648f47d81"><span offset-key="14cd192658ed4aef8626ba8648f47d81:0">Notes:</span></span>
 
-> <span key="7f792d98939144ff8530ad69b5215920"><span offset-key="7f792d98939144ff8530ad69b5215920:0">Delete the relevant section from the .gitmodules file. Stage the .gitmodules changes git add .gitmodules Delete the relevant section from .git/config. Run git rm --cached path\_to\_submodule (no trailing slash). Run rm -rf .git/modules/path\_to\_submodule (no trailing slash). Commit git commit -m "Removed submodule " Delete the now untracked submodule files rm -rf path\_to\_submodule</span></span>
+> <span key="7f792d98939144ff8530ad69b5215920"><span offset-key="7f792d98939144ff8530ad69b5215920:0">Delete the relevant section from the .gitmodules file. Stage the .gitmodules changes git add .gitmodules Delete the relevant section from .git/config. Run git rm --cached path_to_submodule (no trailing slash). Run rm -rf .git/modules/path_to_submodule (no trailing slash). Commit git commit -m "Removed submodule " Delete the now untracked submodule files rm -rf path_to_submodule</span></span>
 
 <span key="915693b4eb57447eb91159bb256b4483">**code:**</span>
 
@@ -2823,11 +2823,11 @@ Copied!
 
 <span key="e08910b79c47445581bcd32ad50046ba"><span offset-key="e08910b79c47445581bcd32ad50046ba:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="35f91ac5b45a44f3be570f9c625d789b"><span offset-key="35f91ac5b45a44f3be570f9c625d789b:0">29. GET GISTS</span></span>
 
-### 
+###
 
 <span key="f2a354bf149a4e0db384e9d24ad13484"><span offset-key="f2a354bf149a4e0db384e9d24ad13484:0">Description:</span></span>
 
@@ -2853,7 +2853,7 @@ Copied!
 
 5
 
-<span key="5a9dad145742489d912f31a5f5eae0e8"><span offset-key="5a9dad145742489d912f31a5f5eae0e8:0">wget -q -O - https://api.github.com/users/bgoonz/gists | grep raw\_url | awk -F\\" '{print $4}' | xargs -n3 wget</span></span>
+<span key="5a9dad145742489d912f31a5f5eae0e8"><span offset-key="5a9dad145742489d912f31a5f5eae0e8:0">wget -q -O - https://api.github.com/users/bgoonz/gists | grep raw_url | awk -F\\" '{print $4}' | xargs -n3 wget</span></span>
 
 6
 
@@ -2865,7 +2865,7 @@ Copied!
 
 8
 
-<span key="b72bf5c016304f88b327c275f833c038"><span offset-key="b72bf5c016304f88b327c275f833c038:0">wget -q -O - https://api.github.com/users/amitness/gists | grep raw\_url | awk -F\\" '{print $4}' | xargs -n3 wget</span></span>
+<span key="b72bf5c016304f88b327c275f833c038"><span offset-key="b72bf5c016304f88b327c275f833c038:0">wget -q -O - https://api.github.com/users/amitness/gists | grep raw_url | awk -F\\" '{print $4}' | xargs -n3 wget</span></span>
 
 9
 
@@ -2877,7 +2877,7 @@ Copied!
 
 11
 
-<span key="60601653b85b4d88b7a3cdcc4be20c65"><span offset-key="60601653b85b4d88b7a3cdcc4be20c65:0">wget -q -O - https://api.github.com/users/drodsou/gists | grep raw\_url | awk -F\\" '{print $4}' | xargs -n1 wget</span></span>
+<span key="60601653b85b4d88b7a3cdcc4be20c65"><span offset-key="60601653b85b4d88b7a3cdcc4be20c65:0">wget -q -O - https://api.github.com/users/drodsou/gists | grep raw_url | awk -F\\" '{print $4}' | xargs -n1 wget</span></span>
 
 12
 
@@ -2885,7 +2885,7 @@ Copied!
 
 13
 
-<span key="b1d241d44c02472896442550c8700c8d"><span offset-key="b1d241d44c02472896442550c8700c8d:0">wget -q -O - https://api.github.com/users/thomasmb/gists | grep raw\_url | awk -F\\" '{print $4}' | xargs -n1 wget</span></span>
+<span key="b1d241d44c02472896442550c8700c8d"><span offset-key="b1d241d44c02472896442550c8700c8d:0">wget -q -O - https://api.github.com/users/thomasmb/gists | grep raw_url | awk -F\\" '{print $4}' | xargs -n1 wget</span></span>
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHByZXNlcnZlYXNwZWN0cmF0aW89InhNaWRZTWlkIG1lZXQiIGRhdGEtcm53LWludC1jbGFzcz0ibmVhcmVzdF9fXzU3OC00NzAzXyIgY2xhc3M9InItaDdnZG9iIHItMTBwdHVuNyByLTF2emk4eGkiIHN0eWxlPSJ3aWR0aDogMTZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0wIC41QS41LjUgMCAwMS41IDBoMTBhLjUuNSAwIDAxLjUuNVY0aC0xVjFIMXY5aDN2MUguNWEuNS41IDAgMDEtLjUtLjVWLjV6IiBmaWxsPSJjdXJyZW50Q29sb3IiPjwvcGF0aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZD0iTTUgNS41YS41LjUgMCAwMS41LS41aDEwYS41LjUgMCAwMS41LjV2MTBhLjUuNSAwIDAxLS41LjVoLTEwYS41LjUgMCAwMS0uNS0uNXYtMTB6TTYgNnY5aDlWNkg2eiIgZmlsbD0iY3VycmVudENvbG9yIj48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-h7gdob r-10ptun7 r-1vzi8xi" />
 
@@ -2893,11 +2893,11 @@ Copied!
 
 <span key="043d661a518a45ae8820c72cb7bb3433"><span offset-key="043d661a518a45ae8820c72cb7bb3433:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="0afef534807746f09df763f5ab5ce2fc"><span offset-key="0afef534807746f09df763f5ab5ce2fc:0">30. Remove Remote OriginL</span></span>
 
-### 
+###
 
 <span key="45161bc9e2044876927b8cff33d22786"><span offset-key="45161bc9e2044876927b8cff33d22786:0">Description:</span></span>
 
@@ -2915,11 +2915,11 @@ Copied!
 
 <span key="65bef92d67524328ae2cbdffb87185f2"><span offset-key="65bef92d67524328ae2cbdffb87185f2:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="68fc52908400408392e65b23caa1e7e5"><span offset-key="68fc52908400408392e65b23caa1e7e5:0">31. just clone .git folder:</span></span>
 
-### 
+###
 
 <span key="6350ee8b532d48559bbf9f9802bb48c7"><span offset-key="6350ee8b532d48559bbf9f9802bb48c7:0">Description:</span></span>
 
@@ -2941,11 +2941,11 @@ Copied!
 
 <span key="6acdf830cbc94aada6e7a33ed6c0350c"><span offset-key="6acdf830cbc94aada6e7a33ed6c0350c:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="eb2ca742585b49219cef073b23bfe14b"><span offset-key="eb2ca742585b49219cef073b23bfe14b:0">32. Undo recent pull request:</span></span>
 
-### 
+###
 
 <span key="191258c853394b47acd60f783e4913ac"><span offset-key="191258c853394b47acd60f783e4913ac:0">Description:</span></span>
 
@@ -2963,11 +2963,11 @@ Copied!
 
 <span key="0a37d8557bfd462eb1adaf6bafa03f00"><span offset-key="0a37d8557bfd462eb1adaf6bafa03f00:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="72b13dcd0ab34417adfb166d86575f7a"><span offset-key="72b13dcd0ab34417adfb166d86575f7a:0">33. Lebab</span></span>
 
-### 
+###
 
 <span key="00eeb4cd27394f2fa74615d6209262c3"><span offset-key="00eeb4cd27394f2fa74615d6209262c3:0">Description: ES5 --> ES6</span></span>
 
@@ -3161,11 +3161,11 @@ Copied!
 
 <span key="e4818ab91b504e26b33a749ae9c20693"><span offset-key="e4818ab91b504e26b33a749ae9c20693:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="c139bdd7e02a413ab576315769bb9893"><span offset-key="c139bdd7e02a413ab576315769bb9893:0">34. Troubleshoot Ubuntu Input/Output Error</span></span>
 
-### 
+###
 
 <span key="87217342a6534326a64b97e1f5bdfbb8"><span offset-key="87217342a6534326a64b97e1f5bdfbb8:0">Description: Open Powershell as Administrator...</span></span>
 
@@ -3191,11 +3191,11 @@ Copied!
 
 <span key="f73c3eca9f394731b463a6fd475e8c27"><span offset-key="f73c3eca9f394731b463a6fd475e8c27:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="61f41b377be24fbd8b3031577489c488"><span offset-key="61f41b377be24fbd8b3031577489c488:0">35. Export Medium as Markdown</span></span>
 
-### 
+###
 
 <span key="69caf855f62445f5bf7aa59b80f4cc03"><span offset-key="69caf855f62445f5bf7aa59b80f4cc03:0">Description:</span></span>
 
@@ -3225,11 +3225,11 @@ Copied!
 
 <span key="5c7c40338a0a45a48ece92ee9adbb587"><span offset-key="5c7c40338a0a45a48ece92ee9adbb587:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="101dce60c25041dabf986c0b1556c43c"><span offset-key="101dce60c25041dabf986c0b1556c43c:0">36. Delete files in violation of a given size range (100MB for git)</span></span>
 
-### 
+###
 
 <span key="9949e78a0a59452a860b7b72c0adc257"><span offset-key="9949e78a0a59452a860b7b72c0adc257:0">Description:</span></span>
 
@@ -3267,11 +3267,11 @@ Copied!
 
 <span key="e38bb134c16a4aef8a955befed0e1281"><span offset-key="e38bb134c16a4aef8a955befed0e1281:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="5f72001f03184c339b8592ed1d361997"><span offset-key="5f72001f03184c339b8592ed1d361997:0">37. download all links of given file type</span></span>
 
-### 
+###
 
 <span key="14b7517041a94246a02dd063ce56a13f"><span offset-key="14b7517041a94246a02dd063ce56a13f:0">Description:</span></span>
 
@@ -3293,11 +3293,11 @@ Copied!
 
 <span key="a803b55965844fa0adcc2498027d649b"><span offset-key="a803b55965844fa0adcc2498027d649b:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="9831df538a00442981335e22cc943400"><span offset-key="9831df538a00442981335e22cc943400:0">38. Kill all node processes</span></span>
 
-### 
+###
 
 <span key="f13a4021343f44dba005df7c73b9ee40"><span offset-key="f13a4021343f44dba005df7c73b9ee40:0">Description:</span></span>
 
@@ -3315,11 +3315,11 @@ Copied!
 
 <span key="2f7a4319d4e34dca957adac194b8b223"><span offset-key="2f7a4319d4e34dca957adac194b8b223:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="8e2350c976154fc282c8722043bef946"><span offset-key="8e2350c976154fc282c8722043bef946:0">39. Remove string from file names recursively</span></span>
 
-### 
+###
 
 <span key="468c8087d6844818a16eb00bb0752b90"><span offset-key="468c8087d6844818a16eb00bb0752b90:0">Description: In the example below I am using this command to remove the string "-master" from all file names in the working directory and all of it's sub directories.</span></span>
 
@@ -3353,7 +3353,7 @@ Copied!
 
 Copied!
 
-> <span key="f3cf7dcab5cd414f92541407d833578b"><span offset-key="f3cf7dcab5cd414f92541407d833578b:0">Notes: The same could be done for folder names by changing the </span>*-type f*<span offset-key="f3cf7dcab5cd414f92541407d833578b:2"> flag (for file) to a </span>*-type d*<span offset-key="f3cf7dcab5cd414f92541407d833578b:4"> flag (for directory)</span></span>
+> <span key="f3cf7dcab5cd414f92541407d833578b"><span offset-key="f3cf7dcab5cd414f92541407d833578b:0">Notes: The same could be done for folder names by changing the </span>_-type f_<span offset-key="f3cf7dcab5cd414f92541407d833578b:2"> flag (for file) to a </span>_-type d_<span offset-key="f3cf7dcab5cd414f92541407d833578b:4"> flag (for directory)</span></span>
 
 1
 
@@ -3385,11 +3385,11 @@ Copied!
 
 <span key="238b30f002f642b2a130c0110a9c61c8"><span offset-key="238b30f002f642b2a130c0110a9c61c8:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="6e37e98bb543433ab76e60bbda4bc47f"><span offset-key="6e37e98bb543433ab76e60bbda4bc47f:0">40. Remove spaces from file and folder names recursively</span></span>
 
-### 
+###
 
 <span key="f3381a97916642b9a467607fdccf9ac1"><span offset-key="f3381a97916642b9a467607fdccf9ac1:0">Description: replaces spaces in file and folder names with an </span>`_`<span offset-key="f3381a97916642b9a467607fdccf9ac1:2"> underscore</span></span>
 
@@ -3411,11 +3411,11 @@ Copied!
 
 <span key="4197c60d5488451681c2020368ad2617"><span offset-key="4197c60d5488451681c2020368ad2617:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="196c2f0bae144391b8ba7f9a71a79a38"><span offset-key="196c2f0bae144391b8ba7f9a71a79a38:0">41. Zip Each subdirectories in a given directory into their own zip file</span></span>
 
-### 
+###
 
 <span key="caecac6d008e49129eea9c9abc6e036c"><span offset-key="caecac6d008e49129eea9c9abc6e036c:0">Description:</span></span>
 
@@ -3433,11 +3433,11 @@ Copied!
 
 <span key="6196d631bf3d4041a413236b0773d381"><span offset-key="6196d631bf3d4041a413236b0773d381:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="56fad4b9a7a5424db59a34455b568d05"><span offset-key="56fad4b9a7a5424db59a34455b568d05:0">42.</span></span>
 
-### 
+###
 
 <span key="1e15a178366c4cf8b01343fd3f9afca3"><span offset-key="1e15a178366c4cf8b01343fd3f9afca3:0">Description:</span></span>
 
@@ -3455,11 +3455,11 @@ Copied!
 
 <span key="d39376fa38fa4b05a719691b196189ab"><span offset-key="d39376fa38fa4b05a719691b196189ab:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="35ee13d044214075a76c2e01d9c90dc0"><span offset-key="35ee13d044214075a76c2e01d9c90dc0:0">43.</span></span>
 
-### 
+###
 
 <span key="57565efdec334cb0bc0e74cb53244b42"><span offset-key="57565efdec334cb0bc0e74cb53244b42:0">Description:</span></span>
 
@@ -3477,11 +3477,11 @@ Copied!
 
 <span key="bdbc134843f64dffa0561f35c25acdf5"><span offset-key="bdbc134843f64dffa0561f35c25acdf5:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="f230e028c5024ee2af886e535f3ddc90"><span offset-key="f230e028c5024ee2af886e535f3ddc90:0">44.</span></span>
 
-### 
+###
 
 <span key="8cd3333aa81d44309e0f9921f40c11a6"><span offset-key="8cd3333aa81d44309e0f9921f40c11a6:0">Description:</span></span>
 
@@ -3499,11 +3499,11 @@ Copied!
 
 <span key="aad5ce326bd04114bc4b849b5fa19d7b"><span offset-key="aad5ce326bd04114bc4b849b5fa19d7b:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="c67d4c09db7849d497ed534a4a3fb2a1"><span offset-key="c67d4c09db7849d497ed534a4a3fb2a1:0">45.</span></span>
 
-### 
+###
 
 <span key="a692a0b28302478abd368810aef41efa"><span offset-key="a692a0b28302478abd368810aef41efa:0">Description:</span></span>
 
@@ -3521,11 +3521,11 @@ Copied!
 
 <span key="06fff73620ff4d6393cbd619adf35bad"><span offset-key="06fff73620ff4d6393cbd619adf35bad:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="3671f9ac9b394b4fb37f6e4822a70f41"><span offset-key="3671f9ac9b394b4fb37f6e4822a70f41:0">46.</span></span>
 
-### 
+###
 
 <span key="ea50c5971a4a484fb09ecd115c0f1176"><span offset-key="ea50c5971a4a484fb09ecd115c0f1176:0">Description:</span></span>
 
@@ -3543,11 +3543,11 @@ Copied!
 
 <span key="42145979342b4b07a759ec49faffc379"><span offset-key="42145979342b4b07a759ec49faffc379:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="9c959dbfeb574c40a9e34af7c6bdf562"><span offset-key="9c959dbfeb574c40a9e34af7c6bdf562:0">47.</span></span>
 
-### 
+###
 
 <span key="c1a892556f8e4124b38d84bdbe2c9cf7"><span offset-key="c1a892556f8e4124b38d84bdbe2c9cf7:0">Description:</span></span>
 
@@ -3565,11 +3565,11 @@ Copied!
 
 <span key="a72172159f1b4ed88b56d636e565e68f"><span offset-key="a72172159f1b4ed88b56d636e565e68f:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="1775d3f552db42e9846fcb3d383ee1c4"><span offset-key="1775d3f552db42e9846fcb3d383ee1c4:0">48.</span></span>
 
-### 
+###
 
 <span key="9c9ad9da04db44d0ab9cfab6d4060da0"><span offset-key="9c9ad9da04db44d0ab9cfab6d4060da0:0">Description:</span></span>
 
@@ -3587,11 +3587,11 @@ Copied!
 
 <span key="e92143e88d0a42ad83621de9808520c1"><span offset-key="e92143e88d0a42ad83621de9808520c1:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="e9a447f3fb064804be6fd97cee3c3475"><span offset-key="e9a447f3fb064804be6fd97cee3c3475:0">49.</span></span>
 
-### 
+###
 
 <span key="5865f4dc2428494cb7d208574bb7d3fb"><span offset-key="5865f4dc2428494cb7d208574bb7d3fb:0">Description:</span></span>
 
@@ -3609,11 +3609,11 @@ Copied!
 
 <span key="f9c06cd40f7e438db5447992ca1a5896"><span offset-key="f9c06cd40f7e438db5447992ca1a5896:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="2b67e2f48a8747438ca52335132b65b7"><span offset-key="2b67e2f48a8747438ca52335132b65b7:0">50.</span></span>
 
-### 
+###
 
 <span key="aa089aac250d4aa2b5a87f4c5c2fa700"><span offset-key="aa089aac250d4aa2b5a87f4c5c2fa700:0">Description:</span></span>
 
@@ -3631,11 +3631,11 @@ Copied!
 
 <span key="da33d1641ce5480f8426768a6df7fdce"><span offset-key="da33d1641ce5480f8426768a6df7fdce:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="7a833d82741e45bd8b19fabfad5d20b6"><span offset-key="7a833d82741e45bd8b19fabfad5d20b6:0">51.</span></span>
 
-### 
+###
 
 <span key="8af68fc942d24a6a89a74fb35eb25416"><span offset-key="8af68fc942d24a6a89a74fb35eb25416:0">Description:</span></span>
 
@@ -3653,11 +3653,11 @@ Copied!
 
 <span key="44f8357c803c43989795ac854b2acf2d"><span offset-key="44f8357c803c43989795ac854b2acf2d:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="627c453b25b24e8f9af28b6e8303ded3"><span offset-key="627c453b25b24e8f9af28b6e8303ded3:0">52.</span></span>
 
-### 
+###
 
 <span key="4933419bfb974b18a22879b27795822c"><span offset-key="4933419bfb974b18a22879b27795822c:0">Description:</span></span>
 
@@ -3675,11 +3675,11 @@ Copied!
 
 <span key="b141b3704fee424eb9a82f95677a6e76"><span offset-key="b141b3704fee424eb9a82f95677a6e76:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="12ef929d7ce14ea9abbbe5332f5d99d3"><span offset-key="12ef929d7ce14ea9abbbe5332f5d99d3:0">53.</span></span>
 
-### 
+###
 
 <span key="ad7840f0736541788251001ba051fa4d"><span offset-key="ad7840f0736541788251001ba051fa4d:0">Description:</span></span>
 
@@ -3697,11 +3697,11 @@ Copied!
 
 <span key="2cb3d6b7052e46999200273378b82bbd"><span offset-key="2cb3d6b7052e46999200273378b82bbd:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="602a235a31c14bdaa861117c9e5cae79"><span offset-key="602a235a31c14bdaa861117c9e5cae79:0">54.</span></span>
 
-### 
+###
 
 <span key="b0fc435576ac4e529648d526a69b3a5f"><span offset-key="b0fc435576ac4e529648d526a69b3a5f:0">Description:</span></span>
 
@@ -3719,11 +3719,11 @@ Copied!
 
 <span key="ccdccb84b4bf48a38bae43882e774e23"><span offset-key="ccdccb84b4bf48a38bae43882e774e23:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="23bae5733494408ba71cc31c93dd789b"><span offset-key="23bae5733494408ba71cc31c93dd789b:0">55.</span></span>
 
-### 
+###
 
 <span key="527e393af91b4fb88d87a617653378d6"><span offset-key="527e393af91b4fb88d87a617653378d6:0">Description:</span></span>
 
@@ -3741,11 +3741,11 @@ Copied!
 
 <span key="f5f1bc5e3d3d430ea95c7ec417721b79"><span offset-key="f5f1bc5e3d3d430ea95c7ec417721b79:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="23e28bc6310945eaa55cd8c9257e7f4e"><span offset-key="23e28bc6310945eaa55cd8c9257e7f4e:0">56.</span></span>
 
-### 
+###
 
 <span key="f149357d024c4b0b849a171282f0450f"><span offset-key="f149357d024c4b0b849a171282f0450f:0">Description:</span></span>
 
@@ -3763,11 +3763,11 @@ Copied!
 
 <span key="b61980e3848240ba8bb16176ca719693"><span offset-key="b61980e3848240ba8bb16176ca719693:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="326f0d2be82945e6a01420bc34327408"><span offset-key="326f0d2be82945e6a01420bc34327408:0">57.</span></span>
 
-### 
+###
 
 <span key="d4a24ebf6fca45278c91820143c9751c"><span offset-key="d4a24ebf6fca45278c91820143c9751c:0">Description:</span></span>
 
@@ -3785,11 +3785,11 @@ Copied!
 
 <span key="cd01070766c24a5db83110898d5e32c8"><span offset-key="cd01070766c24a5db83110898d5e32c8:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="69035e58a1034b34ab85120b119c6ad5"><span offset-key="69035e58a1034b34ab85120b119c6ad5:0">58.</span></span>
 
-### 
+###
 
 <span key="0dbc26db9866401b9b21437f09ca02c1"><span offset-key="0dbc26db9866401b9b21437f09ca02c1:0">Description:</span></span>
 
@@ -3807,11 +3807,11 @@ Copied!
 
 <span key="b8120fb775244b0c80deaca6b7534721"><span offset-key="b8120fb775244b0c80deaca6b7534721:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="67c3e019f0f34a61892483486d2a29bb"><span offset-key="67c3e019f0f34a61892483486d2a29bb:0">59.</span></span>
 
-### 
+###
 
 <span key="0a6d3e41cbd54c568e141c0549fce1bb"><span offset-key="0a6d3e41cbd54c568e141c0549fce1bb:0">Description:</span></span>
 
@@ -3829,11 +3829,11 @@ Copied!
 
 <span key="2cb73366c1984c73bdb247f1fab941cc"><span offset-key="2cb73366c1984c73bdb247f1fab941cc:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="1c736c10ccd34294816b25b222664286"><span offset-key="1c736c10ccd34294816b25b222664286:0">60.</span></span>
 
-### 
+###
 
 <span key="f4407077b23d4ebaaf4d03ea3399adfc"><span offset-key="f4407077b23d4ebaaf4d03ea3399adfc:0">Description:</span></span>
 
@@ -3851,11 +3851,11 @@ Copied!
 
 <span key="df09eac24c5d4c838aac5996ee724b21"><span offset-key="df09eac24c5d4c838aac5996ee724b21:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="3b241661b3334cbfb28b583061e00c1e"><span offset-key="3b241661b3334cbfb28b583061e00c1e:0">61.</span></span>
 
-### 
+###
 
 <span key="b699c7bf34b644da9fea227027904da8"><span offset-key="b699c7bf34b644da9fea227027904da8:0">Description:</span></span>
 
@@ -3873,11 +3873,11 @@ Copied!
 
 <span key="10e829bf70974198ba9eb215065bdf55"><span offset-key="10e829bf70974198ba9eb215065bdf55:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="5058ba4a0c44405f8fb18190f808f478"><span offset-key="5058ba4a0c44405f8fb18190f808f478:0">62.</span></span>
 
-### 
+###
 
 <span key="11f0d3ff26324121a38d793845b6d2fe"><span offset-key="11f0d3ff26324121a38d793845b6d2fe:0">Description:</span></span>
 
@@ -3895,11 +3895,11 @@ Copied!
 
 <span key="1058176a80f2433eb4d293be636092de"><span offset-key="1058176a80f2433eb4d293be636092de:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="fd1e446ece664fec8b806a68202d6692"><span offset-key="fd1e446ece664fec8b806a68202d6692:0">63.</span></span>
 
-### 
+###
 
 <span key="234a809750894710b09cfab025fa80c7"><span offset-key="234a809750894710b09cfab025fa80c7:0">Description:</span></span>
 
@@ -3917,11 +3917,11 @@ Copied!
 
 <span key="c2d7f9248afd4dc3805e6e80084bd8ea"><span offset-key="c2d7f9248afd4dc3805e6e80084bd8ea:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="c5715454a9bb4c1d8f57d380319002c1"><span offset-key="c5715454a9bb4c1d8f57d380319002c1:0">64.</span></span>
 
-### 
+###
 
 <span key="763c40a18f924013968fcf7a3ffe099e"><span offset-key="763c40a18f924013968fcf7a3ffe099e:0">Description:</span></span>
 
@@ -3939,11 +3939,11 @@ Copied!
 
 <span key="41bd28d82f2944e4ae9aed4cc7fcb1fe"><span offset-key="41bd28d82f2944e4ae9aed4cc7fcb1fe:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="c975861754ac4915827aa94b2e304fb5"><span offset-key="c975861754ac4915827aa94b2e304fb5:0">65.</span></span>
 
-### 
+###
 
 <span key="6f7e65e074da487aa79ec95fda1696f5"><span offset-key="6f7e65e074da487aa79ec95fda1696f5:0">Description:</span></span>
 
@@ -3961,11 +3961,11 @@ Copied!
 
 <span key="5656c3784bb141adbf05e66e4a481f46"><span offset-key="5656c3784bb141adbf05e66e4a481f46:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="c825e1d365d644258995be8aa4408000"><span offset-key="c825e1d365d644258995be8aa4408000:0">66.</span></span>
 
-### 
+###
 
 <span key="c76f87975e244310b0d9eeaa6fd750b3"><span offset-key="c76f87975e244310b0d9eeaa6fd750b3:0">Description:</span></span>
 
@@ -3983,11 +3983,11 @@ Copied!
 
 <span key="049d9691f1f141f7aab6323fa0d45e8a"><span offset-key="049d9691f1f141f7aab6323fa0d45e8a:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="d2196398f8c24ad68d29c9736f72aaa1"><span offset-key="d2196398f8c24ad68d29c9736f72aaa1:0">67.</span></span>
 
-### 
+###
 
 <span key="04407f5058ce49ebaa7c0c44b6f644d4"><span offset-key="04407f5058ce49ebaa7c0c44b6f644d4:0">Description:</span></span>
 
@@ -4005,11 +4005,11 @@ Copied!
 
 <span key="745f98cb703f4522a7a5b7403475e20b"><span offset-key="745f98cb703f4522a7a5b7403475e20b:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="c5e0e628cf104ccfa3d4ed428129f546"><span offset-key="c5e0e628cf104ccfa3d4ed428129f546:0">68.</span></span>
 
-### 
+###
 
 <span key="436abf4e3893412e9c22fd5a3414e31b"><span offset-key="436abf4e3893412e9c22fd5a3414e31b:0">Description:</span></span>
 
@@ -4027,11 +4027,11 @@ Copied!
 
 <span key="2c65f49ac4e94c4ca6fe47def304cf59"><span offset-key="2c65f49ac4e94c4ca6fe47def304cf59:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="173c521422b74c0e8c1c0fa176380b22"><span offset-key="173c521422b74c0e8c1c0fa176380b22:0">69.</span></span>
 
-### 
+###
 
 <span key="bfa09d80ecd7416d8009f38aba378e98"><span offset-key="bfa09d80ecd7416d8009f38aba378e98:0">Description:</span></span>
 
@@ -4049,11 +4049,11 @@ Copied!
 
 <span key="46666f0adb014b7e96b296fb8f25c845"><span offset-key="46666f0adb014b7e96b296fb8f25c845:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="91d93d1ccff04fdb97e4310f4d3092c7"><span offset-key="91d93d1ccff04fdb97e4310f4d3092c7:0">70.</span></span>
 
-### 
+###
 
 <span key="0e1cf84320f9439ea48214bd923d6be1"><span offset-key="0e1cf84320f9439ea48214bd923d6be1:0">Description:</span></span>
 
@@ -4071,11 +4071,11 @@ Copied!
 
 <span key="76977ca007e74c9791d6fd8b55c90982"><span offset-key="76977ca007e74c9791d6fd8b55c90982:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="a4ab7b66928e43279984dae459e514a3"><span offset-key="a4ab7b66928e43279984dae459e514a3:0">71.</span></span>
 
-### 
+###
 
 <span key="1b492c3b407a4cde95809fa9ae51fe95"><span offset-key="1b492c3b407a4cde95809fa9ae51fe95:0">Description:</span></span>
 
@@ -4093,11 +4093,11 @@ Copied!
 
 <span key="c9d9c1b1ce0e424e9e3352909de03193"><span offset-key="c9d9c1b1ce0e424e9e3352909de03193:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="82eb47cc62fe42da8628b0d4348d81ad"><span offset-key="82eb47cc62fe42da8628b0d4348d81ad:0">72.</span></span>
 
-### 
+###
 
 <span key="5a7d4bb97c3647eabb92c35679515616"><span offset-key="5a7d4bb97c3647eabb92c35679515616:0">Description:</span></span>
 
@@ -4115,11 +4115,11 @@ Copied!
 
 <span key="382e060d863a4e20af7c24880f1efdb8"><span offset-key="382e060d863a4e20af7c24880f1efdb8:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="2ec824a90acb410b848c0740e185e435"><span offset-key="2ec824a90acb410b848c0740e185e435:0">73.</span></span>
 
-### 
+###
 
 <span key="f4d2876bf7f64d8ab927736593e37bff"><span offset-key="f4d2876bf7f64d8ab927736593e37bff:0">Description:</span></span>
 
@@ -4137,11 +4137,11 @@ Copied!
 
 <span key="597e8f25603042fc875c685c600b91b7"><span offset-key="597e8f25603042fc875c685c600b91b7:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="57231e1ce0f149eab99f7904f40dfc93"><span offset-key="57231e1ce0f149eab99f7904f40dfc93:0">74.</span></span>
 
-### 
+###
 
 <span key="53a5986166c54c10a905bc2b59e5b177"><span offset-key="53a5986166c54c10a905bc2b59e5b177:0">Description:</span></span>
 
@@ -4159,11 +4159,11 @@ Copied!
 
 <span key="ab088d2c59dc4ae8b77e60864d5cdc42"><span offset-key="ab088d2c59dc4ae8b77e60864d5cdc42:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="eb24639134324457bfa0a414566672eb"><span offset-key="eb24639134324457bfa0a414566672eb:0">75.</span></span>
 
-### 
+###
 
 <span key="c0ddc724cf204f03b8cd72ba0a372f55"><span offset-key="c0ddc724cf204f03b8cd72ba0a372f55:0">Description:</span></span>
 
@@ -4181,11 +4181,11 @@ Copied!
 
 <span key="658e7cfeae664ee4872d2422c98f26a6"><span offset-key="658e7cfeae664ee4872d2422c98f26a6:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="6307ffd2e179494fab079fe3dc01f8d0"><span offset-key="6307ffd2e179494fab079fe3dc01f8d0:0">76.</span></span>
 
-### 
+###
 
 <span key="9a60610cc5d24a77af29f7c65aef9609"><span offset-key="9a60610cc5d24a77af29f7c65aef9609:0">Description:</span></span>
 
@@ -4203,11 +4203,11 @@ Copied!
 
 <span key="4b3ca7fa101c4a0da81aff16ce23be4b"><span offset-key="4b3ca7fa101c4a0da81aff16ce23be4b:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="d29e10644eb540ba9fd9c1e1483d103c"><span offset-key="d29e10644eb540ba9fd9c1e1483d103c:0">77.</span></span>
 
-### 
+###
 
 <span key="854f77264ba648ffa41e3dfa3135f32a"><span offset-key="854f77264ba648ffa41e3dfa3135f32a:0">Description:</span></span>
 
@@ -4225,11 +4225,11 @@ Copied!
 
 <span key="950f613389f24b7ebef97aeeb70bd601"><span offset-key="950f613389f24b7ebef97aeeb70bd601:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="72c00d253cec4ee8b9721390ec569148"><span offset-key="72c00d253cec4ee8b9721390ec569148:0">78.</span></span>
 
-### 
+###
 
 <span key="fdb3f7fbf0a545c3966e39cb1e1227a5"><span offset-key="fdb3f7fbf0a545c3966e39cb1e1227a5:0">Description:</span></span>
 
@@ -4247,11 +4247,11 @@ Copied!
 
 <span key="877efd5302534bf1bf996006d51d551d"><span offset-key="877efd5302534bf1bf996006d51d551d:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="2f65031099fc4ee1a020703226cc745c"><span offset-key="2f65031099fc4ee1a020703226cc745c:0">79.</span></span>
 
-### 
+###
 
 <span key="a7c3e26afa8043d8a37dcd2330612122"><span offset-key="a7c3e26afa8043d8a37dcd2330612122:0">Description:</span></span>
 
@@ -4269,11 +4269,11 @@ Copied!
 
 <span key="73d47d4ee2044b46909ebe8e9d5b1d44"><span offset-key="73d47d4ee2044b46909ebe8e9d5b1d44:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="079466e8b84946edb6f848859f56feb5"><span offset-key="079466e8b84946edb6f848859f56feb5:0">80.</span></span>
 
-### 
+###
 
 <span key="6b19124a1c02460a9b8978562645610a"><span offset-key="6b19124a1c02460a9b8978562645610a:0">Description:</span></span>
 
@@ -4291,11 +4291,11 @@ Copied!
 
 <span key="f71d85960f8b423a9cdc470ed873c39a"><span offset-key="f71d85960f8b423a9cdc470ed873c39a:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="d549d9db1a3545c69b3ac2c8840d3285"><span offset-key="d549d9db1a3545c69b3ac2c8840d3285:0">81.</span></span>
 
-### 
+###
 
 <span key="86c7a10c866a4847b5aa396c838efb56"><span offset-key="86c7a10c866a4847b5aa396c838efb56:0">Description:</span></span>
 
@@ -4313,11 +4313,11 @@ Copied!
 
 <span key="aea5dd4f48704993bbf3fbba54bffafc"><span offset-key="aea5dd4f48704993bbf3fbba54bffafc:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="c58fd64e1dad46e98e17c7bb762bdbd4"><span offset-key="c58fd64e1dad46e98e17c7bb762bdbd4:0">82.</span></span>
 
-### 
+###
 
 <span key="c83cd7ae43ba4d8ebf515c59870ef80c"><span offset-key="c83cd7ae43ba4d8ebf515c59870ef80c:0">Description:</span></span>
 
@@ -4335,11 +4335,11 @@ Copied!
 
 <span key="b28e53c9e4034eba89870b50073d1740"><span offset-key="b28e53c9e4034eba89870b50073d1740:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="6352e7ae0dcd4857a7d7e793d0636e33"><span offset-key="6352e7ae0dcd4857a7d7e793d0636e33:0">83.</span></span>
 
-### 
+###
 
 <span key="480b57f951f5485aa64a7004f9348cf5"><span offset-key="480b57f951f5485aa64a7004f9348cf5:0">Description:</span></span>
 
@@ -4357,11 +4357,11 @@ Copied!
 
 <span key="e68f28038061442bb8eb16f2711ea4ea"><span offset-key="e68f28038061442bb8eb16f2711ea4ea:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="2ce095b6303c4db7aac7d303b94aee29"><span offset-key="2ce095b6303c4db7aac7d303b94aee29:0">84.</span></span>
 
-### 
+###
 
 <span key="4c0e7ec07f1d48ec8dd5e72d8a16da3c"><span offset-key="4c0e7ec07f1d48ec8dd5e72d8a16da3c:0">Description:</span></span>
 
@@ -4379,11 +4379,11 @@ Copied!
 
 <span key="d02ce2df3af848be90e28cb08d91db0d"><span offset-key="d02ce2df3af848be90e28cb08d91db0d:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="640b38d5fbe242d58d8eaa1252a16694"><span offset-key="640b38d5fbe242d58d8eaa1252a16694:0">85.</span></span>
 
-### 
+###
 
 <span key="78d16f25b02340a49e7033f2f95f02cc"><span offset-key="78d16f25b02340a49e7033f2f95f02cc:0">Description:</span></span>
 
@@ -4401,11 +4401,11 @@ Copied!
 
 <span key="191344d9f6da4a41858af80130bc61ae"><span offset-key="191344d9f6da4a41858af80130bc61ae:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="8521d0e0f5664821890b36579cd1a3e3"><span offset-key="8521d0e0f5664821890b36579cd1a3e3:0">86.</span></span>
 
-### 
+###
 
 <span key="a83dff34c0b24bc9ab4317340bfd7071"><span offset-key="a83dff34c0b24bc9ab4317340bfd7071:0">Description:</span></span>
 
@@ -4423,11 +4423,11 @@ Copied!
 
 <span key="9845c0873d134296a78bdeb2809b67c2"><span offset-key="9845c0873d134296a78bdeb2809b67c2:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="8aaab70947604bada4e47a4e7d3291db"><span offset-key="8aaab70947604bada4e47a4e7d3291db:0">87.</span></span>
 
-### 
+###
 
 <span key="95ae771bd2da423282402d1d7195ceb0"><span offset-key="95ae771bd2da423282402d1d7195ceb0:0">Description:</span></span>
 
@@ -4445,11 +4445,11 @@ Copied!
 
 <span key="6489bb07da204462a6363ed443b9f770"><span offset-key="6489bb07da204462a6363ed443b9f770:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="558216be570842afa058824cccf4755d"><span offset-key="558216be570842afa058824cccf4755d:0">88.</span></span>
 
-### 
+###
 
 <span key="85acf8358bab4b0bb7902a16e85b923d"><span offset-key="85acf8358bab4b0bb7902a16e85b923d:0">Description:</span></span>
 
@@ -4467,11 +4467,11 @@ Copied!
 
 <span key="1dbad4ccf6d54c92be5b8b7d228c3e20"><span offset-key="1dbad4ccf6d54c92be5b8b7d228c3e20:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="3f9405dc94364ea587e312e373d2526a"><span offset-key="3f9405dc94364ea587e312e373d2526a:0">89.</span></span>
 
-### 
+###
 
 <span key="18ff423315fc40f4be3a834e862e52eb"><span offset-key="18ff423315fc40f4be3a834e862e52eb:0">Description:</span></span>
 
@@ -4489,11 +4489,11 @@ Copied!
 
 <span key="5386135945b549b3a5262e5569a9c3da"><span offset-key="5386135945b549b3a5262e5569a9c3da:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="84dd5b228f5f493c8ecf6970adfe15d8"><span offset-key="84dd5b228f5f493c8ecf6970adfe15d8:0">90.</span></span>
 
-### 
+###
 
 <span key="eab2175231854e4ea6df1bb5be4794b9"><span offset-key="eab2175231854e4ea6df1bb5be4794b9:0">Description:</span></span>
 
@@ -4511,11 +4511,11 @@ Copied!
 
 <span key="24212e857e8645a2bbec1f7f675fb9a8"><span offset-key="24212e857e8645a2bbec1f7f675fb9a8:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="33fc2f77749a4c0f904a5034ff0e114e"><span offset-key="33fc2f77749a4c0f904a5034ff0e114e:0">91. Unzip PowerShell</span></span>
 
-### 
+###
 
 <span key="a6ea36c2e5e0411b96b478326797fd26"><span offset-key="a6ea36c2e5e0411b96b478326797fd26:0">Description:</span></span>
 
@@ -4605,11 +4605,11 @@ Copied!
 
 <span key="ab682844338b4cf4af1c04a221de1286"><span offset-key="ab682844338b4cf4af1c04a221de1286:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="c91fccd01bc34699bfbf0bd15a5ad37f"><span offset-key="c91fccd01bc34699bfbf0bd15a5ad37f:0">92. return to bash from zsh</span></span>
 
-### 
+###
 
 <span key="3d40625025c64b76a2ff6d8c7eaa5706"><span offset-key="3d40625025c64b76a2ff6d8c7eaa5706:0">Description:</span></span>
 
@@ -4627,11 +4627,11 @@ Copied!
 
 <span key="4a4ae9b96b8f40748f71c56d49724f34"><span offset-key="4a4ae9b96b8f40748f71c56d49724f34:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="bfb657b652ba480e88978dfd09dcc3d7"><span offset-key="bfb657b652ba480e88978dfd09dcc3d7:0">93. Symbolic Link</span></span>
 
-### 
+###
 
 <span key="feb0118f5a684a2689f7511026dd7299"><span offset-key="feb0118f5a684a2689f7511026dd7299:0">Description: to working directory</span></span>
 
@@ -4657,11 +4657,11 @@ Copied!
 
 <span key="1d79d4d9aa90400e8959afed573caaa8"><span offset-key="1d79d4d9aa90400e8959afed573caaa8:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="16d66c8c48d34246a31f3f0732c016ec"><span offset-key="16d66c8c48d34246a31f3f0732c016ec:0">94. auto generate readme</span></span>
 
-### 
+###
 
 <span key="00e2b7937dc14bc3a3d9974b95b48e46"><span offset-key="00e2b7937dc14bc3a3d9974b95b48e46:0">Description: rename existing readme to blueprint.md</span></span>
 
@@ -4679,11 +4679,11 @@ Copied!
 
 <span key="0698067f7ca64b6fb7578c53839105ff"><span offset-key="0698067f7ca64b6fb7578c53839105ff:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="465905dcd4024b82b2bf04eb7bafc52c"><span offset-key="465905dcd4024b82b2bf04eb7bafc52c:0">95. Log into postgres:</span></span>
 
-### 
+###
 
 <span key="905683ba32074ee9af43ca125db6e49f"><span offset-key="905683ba32074ee9af43ca125db6e49f:0">Description:</span></span>
 
@@ -4701,11 +4701,11 @@ Copied!
 
 <span key="dedb9a6186f048c1bee64731cd01f4fb"><span offset-key="dedb9a6186f048c1bee64731cd01f4fb:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="f43f396dab574257a14547b992e270b6"><span offset-key="f43f396dab574257a14547b992e270b6:0">96. URL To Subscribe To YouTube Channel</span></span>
 
-### 
+###
 
 <span key="076c3c4004bc4138a9d7bd26b60e8db9"><span offset-key="076c3c4004bc4138a9d7bd26b60e8db9:0">Description:</span></span>
 
@@ -4723,7 +4723,7 @@ Copied!
 
 <span key="c3b0968da52346d49c850a540eee0a80"><span offset-key="c3b0968da52346d49c850a540eee0a80:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="80220d15b5e54aa8a6ce5cde5596899b"><span offset-key="80220d15b5e54aa8a6ce5cde5596899b:0">97. Embed Repl.it In Medium Post:</span></span>
 
@@ -4771,11 +4771,11 @@ Copied!
 
 <span key="e3536b2be050469cb36205b2b30d539f"><span offset-key="e3536b2be050469cb36205b2b30d539f:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="38c77ec89d224ab7a368b246d8ad1db4"><span offset-key="38c77ec89d224ab7a368b246d8ad1db4:0">98.</span></span>
 
-### 
+###
 
 <span key="5b91d59214644383ab020072056be02e"><span offset-key="5b91d59214644383ab020072056be02e:0">Description:</span></span>
 
@@ -4809,11 +4809,11 @@ Copied!
 
 <span key="e6eb1639235441d0b472a365225ded82"><span offset-key="e6eb1639235441d0b472a365225ded82:0"><span slate-zero-width="n">​</span></span></span>
 
-# 
+#
 
 <span key="f3d2897039ba4f66a218b5b5fb29e828"><span offset-key="f3d2897039ba4f66a218b5b5fb29e828:0">99. Cheat Sheet</span></span>
 
-### 
+###
 
 <span key="09528db0554e4f7bbaf65d32d11c45ed"><span offset-key="09528db0554e4f7bbaf65d32d11c45ed:0">Description:</span></span>
 
@@ -5091,7 +5091,7 @@ Copied!
 
 68
 
-<span key="e5950281947c4d06a434edbab9b8fcba"><span offset-key="e5950281947c4d06a434edbab9b8fcba:0">echo $BASH\_VERSION # displays bash version</span></span>
+<span key="e5950281947c4d06a434edbab9b8fcba"><span offset-key="e5950281947c4d06a434edbab9b8fcba:0">echo $BASH_VERSION # displays bash version</span></span>
 
 69
 
@@ -5187,7 +5187,7 @@ Copied!
 
 92
 
-<span key="21a00b68468a4ff3ab27ee41f94b5e67"><span offset-key="21a00b68468a4ff3ab27ee41f94b5e67:0">any\_command &gt; &lt;filename> # '>' is used to perform redirections, it will set any\_command's stdout to file instead of "real stdout" (generally /dev/stdout)</span></span>
+<span key="21a00b68468a4ff3ab27ee41f94b5e67"><span offset-key="21a00b68468a4ff3ab27ee41f94b5e67:0">any_command &gt; &lt;filename> # '>' is used to perform redirections, it will set any_command's stdout to file instead of "real stdout" (generally /dev/stdout)</span></span>
 
 93
 
@@ -5287,7 +5287,7 @@ Copied!
 
 117
 
-<span key="f310395d83c248e4a42307525ab74323"><span offset-key="f310395d83c248e4a42307525ab74323:0">head -n file\_name | tail +n # Print nth line from file.</span></span>
+<span key="f310395d83c248e4a42307525ab74323"><span offset-key="f310395d83c248e4a42307525ab74323:0">head -n file_name | tail +n # Print nth line from file.</span></span>
 
 118
 
@@ -6343,11 +6343,11 @@ Copied!
 
 381
 
-<span key="c348b79a808048d38222a89083a0f5e7"><span offset-key="c348b79a808048d38222a89083a0f5e7:0">&lt;&- # closes the standard input</span></span>
+<span key="c348b79a808048d38222a89083a0f5e7"><span offset-key="c348b79a808048d38222a89083a0f5e7:0">&lt;<- # closes the standard input</span></span>
 
 382
 
-<span key="305d2de433cd41f8953ad297791ef57e"><span offset-key="305d2de433cd41f8953ad297791ef57e:0">&gt;&- # closes the standard output</span></span>
+<span key="305d2de433cd41f8953ad297791ef57e"><span offset-key="305d2de433cd41f8953ad297791ef57e:0">&gt;>- # closes the standard output</span></span>
 
 383
 
@@ -6355,7 +6355,7 @@ Copied!
 
 384
 
-<span key="5a6ca1d7da584bde8304eded0078371b"><span offset-key="5a6ca1d7da584bde8304eded0078371b:0">n&lt;&- # closes the input from file descripor n</span></span>
+<span key="5a6ca1d7da584bde8304eded0078371b"><span offset-key="5a6ca1d7da584bde8304eded0078371b:0">n&lt;<- # closes the input from file descripor n</span></span>
 
 385
 
@@ -6567,11 +6567,11 @@ Copied!
 
 437
 
-<span key="9bdf2cd9719b4c479cd0885a2b29547e"><span offset-key="9bdf2cd9719b4c479cd0885a2b29547e:0">cd; nano .bash\_profile</span></span>
+<span key="9bdf2cd9719b4c479cd0885a2b29547e"><span offset-key="9bdf2cd9719b4c479cd0885a2b29547e:0">cd; nano .bash_profile</span></span>
 
 438
 
-<span key="b89fbb04ca1c4ef6917e3021e80ed269"><span offset-key="b89fbb04ca1c4ef6917e3021e80ed269:0">&gt; alias gentlenode='ssh <a href="/cdn-cgi/l/email-protection" class="__cf_email__">[email protected]</a> -p 3404' # add your alias in .bash\_profile</span></span>
+<span key="b89fbb04ca1c4ef6917e3021e80ed269"><span offset-key="b89fbb04ca1c4ef6917e3021e80ed269:0">&gt; alias gentlenode='ssh <a href="/cdn-cgi/l/email-protection" class="__cf_email__">[email protected]</a> -p 3404' # add your alias in .bash_profile</span></span>
 
 439
 
@@ -6587,7 +6587,7 @@ Copied!
 
 442
 
-<span key="1b0276dac312465a9dc19a1429a64c23"><span offset-key="1b0276dac312465a9dc19a1429a64c23:0">&gt; shopt -s cdable\_vars</span></span>
+<span key="1b0276dac312465a9dc19a1429a64c23"><span offset-key="1b0276dac312465a9dc19a1429a64c23:0">&gt; shopt -s cdable_vars</span></span>
 
 443
 
@@ -6783,7 +6783,7 @@ Copied!
 
 491
 
-<span key="b838ac1aff7349dc81f2442ec0a64424"><span offset-key="b838ac1aff7349dc81f2442ec0a64424:0">Color\_Off='\\033\[0m' # Text Reset</span></span>
+<span key="b838ac1aff7349dc81f2442ec0a64424"><span offset-key="b838ac1aff7349dc81f2442ec0a64424:0">Color_Off='\\033\[0m' # Text Reset</span></span>
 
 492
 
@@ -6959,35 +6959,35 @@ Copied!
 
 535
 
-<span key="720d203dc2484949a0de9cab68d21687"><span offset-key="720d203dc2484949a0de9cab68d21687:0">On\_Black='\\033\[40m' # Black</span></span>
+<span key="720d203dc2484949a0de9cab68d21687"><span offset-key="720d203dc2484949a0de9cab68d21687:0">On_Black='\\033\[40m' # Black</span></span>
 
 536
 
-<span key="f8d11cb10158480fa54c19b76eac1c00"><span offset-key="f8d11cb10158480fa54c19b76eac1c00:0">On\_Red='\\033\[41m' # Red</span></span>
+<span key="f8d11cb10158480fa54c19b76eac1c00"><span offset-key="f8d11cb10158480fa54c19b76eac1c00:0">On_Red='\\033\[41m' # Red</span></span>
 
 537
 
-<span key="3ab865c96f9b49cba53b4f4b8b983ccb"><span offset-key="3ab865c96f9b49cba53b4f4b8b983ccb:0">On\_Green='\\033\[42m' # Green</span></span>
+<span key="3ab865c96f9b49cba53b4f4b8b983ccb"><span offset-key="3ab865c96f9b49cba53b4f4b8b983ccb:0">On_Green='\\033\[42m' # Green</span></span>
 
 538
 
-<span key="dab28bb63c0d44dfb4116926fc4ac223"><span offset-key="dab28bb63c0d44dfb4116926fc4ac223:0">On\_Yellow='\\033\[43m'# Yellow</span></span>
+<span key="dab28bb63c0d44dfb4116926fc4ac223"><span offset-key="dab28bb63c0d44dfb4116926fc4ac223:0">On_Yellow='\\033\[43m'# Yellow</span></span>
 
 539
 
-<span key="a6cc2ae9b22246a99813b9e1e439a26b"><span offset-key="a6cc2ae9b22246a99813b9e1e439a26b:0">On\_Blue='\\033\[44m' # Blue</span></span>
+<span key="a6cc2ae9b22246a99813b9e1e439a26b"><span offset-key="a6cc2ae9b22246a99813b9e1e439a26b:0">On_Blue='\\033\[44m' # Blue</span></span>
 
 540
 
-<span key="d5f2942d8c3f48868a21ed5b63c08d3e"><span offset-key="d5f2942d8c3f48868a21ed5b63c08d3e:0">On\_Purple='\\033\[45m'# Purple</span></span>
+<span key="d5f2942d8c3f48868a21ed5b63c08d3e"><span offset-key="d5f2942d8c3f48868a21ed5b63c08d3e:0">On_Purple='\\033\[45m'# Purple</span></span>
 
 541
 
-<span key="622e3d3725604872a3d6a63df0884845"><span offset-key="622e3d3725604872a3d6a63df0884845:0">On\_Cyan='\\033\[46m' # Cyan</span></span>
+<span key="622e3d3725604872a3d6a63df0884845"><span offset-key="622e3d3725604872a3d6a63df0884845:0">On_Cyan='\\033\[46m' # Cyan</span></span>
 
 542
 
-<span key="8b8ff352def04f5a80abd49c4e913863"><span offset-key="8b8ff352def04f5a80abd49c4e913863:0">On\_White='\\033\[47m' # White</span></span>
+<span key="8b8ff352def04f5a80abd49c4e913863"><span offset-key="8b8ff352def04f5a80abd49c4e913863:0">On_White='\\033\[47m' # White</span></span>
 
 543
 
@@ -6999,11 +6999,11 @@ Copied!
 
 545
 
-<span key="544b83ec34d548ffaf1c32f4838dabfb"><span offset-key="544b83ec34d548ffaf1c32f4838dabfb:0">echo -e "${Green}This is GREEN text${Color\_Off} and normal text"</span></span>
+<span key="544b83ec34d548ffaf1c32f4838dabfb"><span offset-key="544b83ec34d548ffaf1c32f4838dabfb:0">echo -e "${Green}This is GREEN text${Color_Off} and normal text"</span></span>
 
 546
 
-<span key="0e0e394ed7784bf6aa8b6d65cef8fa33"><span offset-key="0e0e394ed7784bf6aa8b6d65cef8fa33:0">echo -e "${Red}${On\_White}This is Red test on White background${Color\_Off}" </span></span>
+<span key="0e0e394ed7784bf6aa8b6d65cef8fa33"><span offset-key="0e0e394ed7784bf6aa8b6d65cef8fa33:0">echo -e "${Red}${On_White}This is Red test on White background${Color_Off}" </span></span>
 
 547
 
@@ -7147,7 +7147,7 @@ Clone all Git Organization:
 
 <a href="/my-docs/tools/my-bash-commands#22.-zip-directory-excluding-.git-and-node_modules-all-the-way-down-linux" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 
-22\. Zip directory excluding .git and node\_modules all the way down (Linux)
+22\. Zip directory excluding .git and node_modules all the way down (Linux)
 
 <a href="/my-docs/tools/my-bash-commands#23.-delete-files-containing-a-certain-string" class="css-4rbku5 css-1dbjc4n r-855088 r-dwliz8 r-1loqt21 r-18u37iz r-lqms97 r-dnmrzs r-iphfwy r-1guathk r-1h8ys4a r-1otgn73 r-1i6wzkk r-lrvibr r-7xmw5f"></a>
 

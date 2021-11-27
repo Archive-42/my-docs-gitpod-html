@@ -304,7 +304,7 @@ REST-API
 
 Public APIs
 
-WEB\_DEV\_TOOLS
+WEB_DEV_TOOLS
 
 <a href="/my-docs/web_dev_tools/web-dev-tools" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -326,7 +326,7 @@ Netlify
 
 <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Ym94PSIwIDAgMjQgMjQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcHJlc2VydmVhc3BlY3RyYXRpbz0ieE1pZFlNaWQgbWVldCIgZGF0YS1ybnctaW50LWNsYXNzPSJuZWFyZXN0X19fNTc4LTc0MjFfIiBjbGFzcz0ici1oN2dkb2Igci0xMHB0dW43IiBzdHlsZT0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2lkdGg6IDE2cHg7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNOSAxOGw2LTYtNi02Ij48L3BhdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPg==" class="r-h7gdob r-10ptun7" />
 
-DS\_ALGOS\_BRAINTEASERS
+DS_ALGOS_BRAINTEASERS
 
 <a href="/my-docs/ds_algos_brainteasers/ds_algos_brainteasers" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -368,7 +368,7 @@ Data Structures & Interviewing
 
 Data Structures
 
-REACT\_REVISITED
+REACT_REVISITED
 
 <a href="/my-docs/react_revisited/modern-react-with-redux" class="css-4rbku5 css-1dbjc4n r-1awozwy r-42olwf r-rs99b7 r-1loqt21 r-18u37iz r-15ysp7h r-ymttw5 r-1otgn73 r-1i6wzkk r-lrvibr"></a>
 
@@ -451,7 +451,7 @@ bgoonz
 
 <span key="b3ddb70f44704501b293e40eea9a894d"><span offset-key="b3ddb70f44704501b293e40eea9a894d:0">​</span></span>
 
-## 
+##
 
 <span key="11acfe34b9e8408983fd710a2c8d3b9c"><span offset-key="11acfe34b9e8408983fd710a2c8d3b9c:0">get-fetch-dog-spicific-breed</span></span>
 
